@@ -3,6 +3,7 @@ title: A. Sprites and Parallelism
 layout: home
 photo: 
 parent: Chapter 1 - Blocks, Scripts, and Sprites
+has_toc: true
 ---
 
 Just below the stage is the “new sprite” button . Click the button to add a new sprite to the stage. The
