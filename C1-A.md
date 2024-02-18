@@ -5,6 +5,14 @@ photo:
 parent: Chapter 1 - Blocks, Scripts, and Sprites
 has_toc: true
 ---
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 Just below the stage is the “new sprite” button . Click the button to add a new sprite to the stage. The
 new sprite will appear in a random position on the stage, with a random color, but always facing to the right.
