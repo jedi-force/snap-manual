@@ -1,5 +1,5 @@
 ---
-title: D.Predicates and Conditional Evaluation
+title: D. Predicates and Conditional Evaluation
 layout: home
 photo: 
 parent: Chapter 1 - Blocks, Scripts, and Sprites
