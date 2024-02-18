@@ -1,5 +1,5 @@
 ---
-title: Chapter 1 - Blocks, Scripts, and Sprites
+title: Chapter 1 Blocks, Scripts, and Sprites
 ---
 This chapter describes the Snap! features inherited from Scratch; experienced Scratch users can skip to
 Section B.
