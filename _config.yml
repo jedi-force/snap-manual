@@ -1,6 +1,7 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Snap! Reference Manual
+description: reference manual
 theme: just-the-docs
+layout: default
 
 url: https://jedi-force.github.io/snap-manual/
 
