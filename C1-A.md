@@ -28,7 +28,7 @@ photo
 When you press the space key, the sprite should move forever in a circle, because the move and turn blocks are run in parallel. (To stop the program, click the red stop sign at the right end of the tool bar.)
 
 
-## **Costumes and Sounds**
+## Costumes and Sounds
 To change the appearance of a sprite, paint or import a new costume for it. To paint a costume, click on the Costumes tab above the scripting area, and click the paint button . The Paint Editor that appears is
 explained on page 128. There are three ways to import a costume. First select the desired sprite in the sprite corral. Then, one way is to click on the file icon in the tool bar , then choose the “Costumes…”menu item. You will see a list of costumes from the public media library, and can choose one. The second way, for a costume stored on your own computer, is to click on the file icon and choose the “Import…” menu item. You can then select a file in any picture format (PNG, JPEG, etc.) supported by your browser. The third way is quicker if the file you want is visible on the desktop: Just drag the file onto the Snap! window. In any of these cases, the scripting area will be replaced by something like this:
 
@@ -41,7 +41,7 @@ costume.) The Turtle costume is the only one that changes color to match a chang
 
 In addition to its costumes, a sprite can have sounds; the equivalent for sounds of the sprite’s wardrobe is called its jukebox. Sound files can be imported in any format (WAV, OGG, MP3, etc.) supported by your browser. Two blocks accomplish the task of playing sounds. If you would like a script to continue running while the sound is playing, use the block . In contrast, you can use the block to wait for the sound's completion before continuing the rest of the script.
 
-## **Inter-Sprite Communication with Broadcast**
+## Inter-Sprite Communication with Broadcast
 Earlier we saw an example of two sprites moving at the same time. In a more interesting program, though, the sprites on stage will interact to tell a story, play a game, etc. Often one sprite will have to tell another sprite to run a script. Here’s a simple example:
 
 photo
