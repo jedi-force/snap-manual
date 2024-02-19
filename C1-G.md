@@ -67,7 +67,7 @@ Similarly, these hidden predicates can be found by relabeling the relational pre
 
 These blocks support metaprogramming, which means manipulating blocks and scripts as data. This is not the same as manipulating procedures (see Chapter VI. ), which are what the blocks mean; in metaprogramming the actual blocks, what you see on the screen, are the data. This capability is new in version 8.0.
 
-## First class list blocks (see Chapter IV, page 46):
+## First class list blocks (see Chapter IV, page 46)
 
 Numbers from will count up or down.
 
@@ -75,21 +75,21 @@ The script input to for each can refer to an item of the list with the item vari
 
 report the sprite or mouse position as a two-item vector (x,y).
 
-## First class procedure blocks (see Chapter VI, page 65):
+## First class procedure blocks (see Chapter VI, page 65)
 
 photo
 
-## First class continuation blocks (see Chapter X, page 93):
+## First class continuation blocks (see Chapter X, page 93)
 
 photo
 
-## First class sprite, costume, and sound blocks (see Chapter VII, page 73):
+## First class sprite, costume, and sound blocks (see Chapter VII, page 73)
 
 photo
 
 Object is a hyperblock
 
-## Scenes:
+## Scenes
 
 The major new feature of version 7.0 is scenes: A project can include within it sub-projects, called scenes, each with its own stage, sprites, scripts, and so on. This block makes another scene active, replacing the current one. Nothing is automatically shared between scenes: no sprites, no blocks, no
 variables. But the old scene can send a message to the new one, to start it running, with optional payload as in broadcast (page 23).
@@ -100,7 +100,7 @@ photo
 
 if the new scene expects to be started with a green flag signal.
 
-## These aren’t new blocks but they have a new feature:
+## These aren’t new blocks but they have a new feature
 
 These accept two-item (x,y) lists as input, and have extended menus (also including other sprites):
 
