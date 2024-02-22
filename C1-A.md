@@ -22,7 +22,7 @@ Each sprite has its own scripts. To see the scripts for a particular sprite in t
 ![Snap Editor](/snap-manual/assets/images/C1-0.png)
 photo
 
-When you click the green flag, ![Snap Editor](/snap-manual/assets/images/C1-0.png) you should see one sprite rotate while the other moves back and forth. This experiment illustrates the way different scripts can run in parallel. The turning and the moving happen together. Parallelism can be seen with multiple scripts of a single sprite also. Try this example:
+When you click the green flag, ![Snap Editor](/snap-manual/assets/images/list-block.png) you should see one sprite rotate while the other moves back and forth. This experiment illustrates the way different scripts can run in parallel. The turning and the moving happen together. Parallelism can be seen with multiple scripts of a single sprite also. Try this example:
 
 photo
 
