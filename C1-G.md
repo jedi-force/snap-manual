@@ -16,7 +16,11 @@ has_toc: true
 
 This manual doesn’t explain every block in detail. There are many more motion blocks, sound blocks, costume and graphics effects blocks, and so on. You can learn what they all do by experimentation, and also by reading the “help screens” that you can get by right-clicking or control-clicking a block and selecting “help…” from the menu that appears. If you forget what palette (color) a block is, but you remember at least part of its name, type control-F and enter the name in the text block that appears in the palette area. Here are the primitive blocks that don’t exist in Scratch:
 
-reports a new costume consisting of everything that’s drawn on the stage by any sprite. Rightclicking the block in the scripting area gives the option to change it to if vector logging is enabled. See page 116.
+![](image136.png)
+<img src="/snap-manual/assets/images/image136.png"> reports a new costume consisting of everything that’s drawn on the stage by any sprite. Rightclicking the block in the scripting area gives the option to change it to ![](image135.png) <img src="/snap-manual/assets/images/image135.png"> if vector logging is enabled. See page 116.
+
+![](image137.png)
+<img src="/snap-manual/assets/images/image137.png">
 
 Print characters in the given point size on the stage, at the sprite’s position and in its direction. The sprite moves to the end of the text. (That’s not always what you want, but you can save the sprite’s position before using it, and sometimes you need to know how big the text turned out to be, in turtle steps.) If the pen is down, the text will be underlined.
 

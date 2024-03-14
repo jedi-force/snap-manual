@@ -16,8 +16,8 @@ has_toc: true
 
 Just below the stage is the “new sprite” button . Click the button to add a new sprite to the stage. The
 new sprite will appear 
-![Snap Editor](list-block.png)
-<img src="/snap-manual/assets/images/list-block.png">
+![](image5.png)
+<img src="/snap-manual/assets/images/image5.png">
 in a random position on the stage, with a random color, but always facing to the right.
 
 Each sprite has its own scripts. To see the scripts for a particular sprite in the scripting area, click on the picture of that <!--![Snap Editor](/snap-manual/assets/images/list-block.png)--> spr/te in the sprite corral in the bottom right corner of the window. Try putting one of the following scripts in each sprite’s scripting area:
