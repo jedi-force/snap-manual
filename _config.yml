@@ -5,5 +5,7 @@ layout: default
 
 url: https://jedi-force.github.io/snap-manual/
 
+##separate keys/images into base url 
+
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template

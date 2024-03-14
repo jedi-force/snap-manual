@@ -15,13 +15,15 @@ has_toc: true
 </details>
 
 Just below the stage is the “new sprite” button . Click the button to add a new sprite to the stage. The
-new sprite will appear ![Snap Editor](/snap-manual/assets/images/list-block.png) in a random position on the stage, with a random color, but always facing to the right.
+new sprite will appear 
+![Snap Editor](\snap-manual\assets\images\list-block.png)
+in a random position on the stage, with a random color, but always facing to the right.
 
-Each sprite has its own scripts. To see the scripts for a particular sprite in the scripting area, click on the picture of that ![Snap Editor](/snap-manual/assets/images/list-block.png) sprite in the sprite corral in the bottom right corner of the window. Try putting one of the following scripts in each sprite’s scripting area:
+Each sprite has its own scripts. To see the scripts for a particular sprite in the scripting area, click on the picture of that <!--![Snap Editor](/snap-manual/assets/images/list-block.png)--> sprite in the sprite corral in the bottom right corner of the window. Try putting one of the following scripts in each sprite’s scripting area:
 
 photo
 
-When you click the green flag, ![Snap Editor](/snap-manual/assets/images/list-block.png) you should see one sprite rotate while the other moves back and forth. This experiment illustrates the way different scripts can run in parallel. The turning and the moving happen together. Parallelism can be seen with multiple scripts of a single sprite also. Try this example:
+When you click the green flag, <!--![Snap Editor](/snap-manual/assets/images/list-block.png) --> you should see one sprite rotate while the other moves back and forth. This experiment illustrates the way different scripts can run in parallel. The turning and the moving happen together. Parallelism can be seen with multiple scripts of a single sprite also. Try this example:
 
 photo
 
@@ -52,4 +54,6 @@ send the message just to one sprite.) In this program, though, only one sprite h
 
 The stage has its own scripting area. It can be selected by clicking on the Stage icon at the left of the sprite corral. Unlike a sprite, though, the stage can’t move. Instead of costumes, it has backgrounds: pictures that fill the entire stage area. The sprites appear in front of the current background. In a complicated project, it’s often convenient to use a script in the stage’s scripting area as the overall director of the action.
 
-pandoc -f html -t markdown https://jedi-force.github.io/snap-manual/C1.html
+<!-- pandoc -f html -t markdown https://jedi-force.github.io/snap-manual/C1.html
+
+-->

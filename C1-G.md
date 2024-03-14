@@ -59,7 +59,7 @@ case-sensitive comparison, unlike =, which is case-independent
 For lists, reports true only if its two input values are the very same list, so changing an item in one of them is visible in the other. (For =, lists that look the same are the same.) For text strings, uses
 case-sensitive comparison, unlike =, which is case-independent.
 
-These hidden blocks can be found with the relabel option of any dyadic arithmetic block. They’re hidden partly because writing them in Snap! is a good, pretty easy programming exercise. Note: the two inputs to atan2 are Δx and Δy in that order, because we measure angles clockwise from north. Max and min are variadic; by clicking the arrowhead, you can provide additional inputs.
+These hidden blocks can be found with the relabel option of any dyadic arithmetic block. They’re hidden partly because writing them in Snap! is a good, pretty easy programming exercise. Note: the two inputs to atan2 are $Δ$x and $Δ$y in that order, because we measure angles clockwise from north. Max and min are variadic; by clicking the arrowhead, you can provide additional inputs.
 
 Similarly, these hidden predicates can be found by relabeling the relational predicates.
 
