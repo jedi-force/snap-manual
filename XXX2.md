@@ -18,7 +18,7 @@ using the keyboard, the Snap*!* programmer uses the same drag-and-drop
 interface familiar to computer users.
 
 ![](/snap-manual/assets/images/image5.png){width="4.326388888888889in"
-height="2.689583333333333in"}Start Snap*!*[.]{.smallcaps} You should see
+height="2.689583333333333in"} Start Snap*!*[.]{.smallcaps} You should see
 the following arrangement of regions in the window:
 
 (The proportions of these areas may be different, depending on the size
