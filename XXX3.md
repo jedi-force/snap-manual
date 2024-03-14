@@ -18,8 +18,7 @@ sprite in the scripting area, click on the picture of that sprite in the
 *sprite corral* in the bottom right corner of the window. Try putting
 one of the following scripts in each sprite's scripting area:
 
-> ![](/snap-manual/assets/images/image26.png){width="1.5506944444444444in"
-> height="0.99375in"}
+> ![](/snap-manual/assets/images/image26.png){width="1.5506944444444444in" height="0.99375in"} 
 > ![](/snap-manual/assets/images/image27.png){width="1.5416666666666667in"
 > height="1.1666666666666667in"}
 
