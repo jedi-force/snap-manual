@@ -1,11 +1,11 @@
-                ---
-                title: 5 Reporter Blocks and Expressions
+---
+title: 5 Reporter Blocks and Expressions
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 6
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 6
+---
 
 
 ![](/snap-manual/assets/images/image65.png){width="1.47in"

@@ -1,11 +1,11 @@
-                ---
-                title: 20  Functional and Imperative List Programming
+---
+title: 20  Functional and Imperative List Programming
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 21
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 21
+---
 
 
 ![](/snap-manual/assets/images/image543.png){width="2.1041666666666665in"

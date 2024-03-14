@@ -1,11 +1,11 @@
-                ---
-                title: 63 Mirror Sites
+---
+title: 63 Mirror Sites
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 64
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 64
+---
 
 
 If the site snap.berkeley.edu is ever unavailable, you can load Snap*!*

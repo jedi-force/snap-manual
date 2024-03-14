@@ -1,11 +1,11 @@
-                ---
-                title: 62 Preloading a Project when Starting Snap*!*
+---
+title: 62 Preloading a Project when Starting Snap*!*
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 63
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 63
+---
 
 
 There are several ways to include a pointer to a project in the URL when

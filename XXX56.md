@@ -1,11 +1,11 @@
-                ---
-                title: 56 Tool Bar Features
+---
+title: 56 Tool Bar Features
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 57
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 57
+---
 
 
 Holding down the Shift key while clicking on any of the menu buttons

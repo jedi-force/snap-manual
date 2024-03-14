@@ -1,11 +1,11 @@
-                ---
-                title: 47 The World Wide Web
+---
+title: 47 The World Wide Web
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 48
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 48
+---
 
 
 The input to the url block is the URL (Uniform Resource Locator) of a

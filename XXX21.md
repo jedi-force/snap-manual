@@ -1,11 +1,11 @@
-                ---
-                title: 21 ![](/snap-manual/assets/images/image556.png){width="5.864583333333333in" height="1.0715277777777779in"}Higher Order List Operations and Rings
+---
+title: 21 ![](/snap-manual/assets/images/image556.png){width="5.864583333333333in" height="1.0715277777777779in"}Higher Order List Operations and Rings
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 22
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 22
+---
 
 
 There's an even easier way to select the even numbers from a list:

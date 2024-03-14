@@ -1,11 +1,11 @@
-                ---
-                title: 4 Nesting Sprites: Anchors and Parts
+---
+title: 4 Nesting Sprites: Anchors and Parts
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 5
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 5
+---
 
 
 Sometimes it's desirable to make a sort of "super-sprite" composed of

@@ -1,11 +1,11 @@
-                ---
-                title: 28 Writing Higher Order Procedures
+---
+title: 28 Writing Higher Order Procedures
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 29
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 29
+---
 
 
 A *higher order procedure* is one that takes another procedure as an

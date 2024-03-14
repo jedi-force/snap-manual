@@ -1,11 +1,11 @@
-                ---
-                title: 58 The Scripting Area
+---
+title: 58 The Scripting Area
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 59
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 59
+---
 
 
 The scripting area is the middle vertical region of the Snap*!* window,

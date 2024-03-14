@@ -1,11 +1,11 @@
-                ---
-                title: 19 Lists of Lists
+---
+title: 19 Lists of Lists
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 20
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 20
+---
 
 
 ![](/snap-manual/assets/images/image538.png){width="5.888888888888889in"

@@ -29,13 +29,13 @@ def create_new_files(all_lines)
             name = all_lines[i-1]
             num += 1
             chapter_content = <<-TEXT
-                ---
-                title: #{num} #{name}
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: #{num + 1}
-                ---
+---
+title: #{num} #{name}
+layout: home
+has_children: false
+has_toc: true
+nav_order: #{num + 1}
+---
 
                 TEXT
         else

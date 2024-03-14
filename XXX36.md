@@ -1,11 +1,11 @@
-                ---
-                title: 36  Local State in Sprites: Variables and Attributes
+---
+title: 36  Local State in Sprites: Variables and Attributes
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 37
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 37
+---
 
 
 A sprite's memory of its own past history takes two main forms. It has

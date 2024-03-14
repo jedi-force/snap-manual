@@ -1,11 +1,11 @@
-                ---
-                title: 39 ![](/snap-manual/assets/images/image780.png){width="0.7895833333333333in" height="3.4680555555555554in"}List of attributes
+---
+title: 39 ![](/snap-manual/assets/images/image780.png){width="0.7895833333333333in" height="3.4680555555555554in"}List of attributes
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 40
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 40
+---
 
 
 ![](/snap-manual/assets/images/image781.png){width="1.19in"

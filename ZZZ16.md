@@ -1,11 +1,11 @@
-                ---
-                title: 16 Custom blocks and Visible Stepping
+---
+title: 16 Custom blocks and Visible Stepping
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 17
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 17
+---
 
 
 Visible stepping normally treats a call to a custom block as a single

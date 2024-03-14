@@ -1,11 +1,11 @@
-                ---
-                title: 12 If you lose your project, do this first!
+---
+title: 12 If you lose your project, do this first!
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 13
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 13
+---
 
 
 ![](/snap-manual/assets/images/image384.png){width="0.3194444444444444in"

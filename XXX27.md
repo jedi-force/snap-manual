@@ -1,11 +1,11 @@
-                ---
-                title: 27 Call and Run
+---
+title: 27 Call and Run
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 28
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 28
+---
 
 
 ![](/snap-manual/assets/images/image692.png){width="3.6729166666666666in"

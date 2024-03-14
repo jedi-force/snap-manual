@@ -1,11 +1,11 @@
-                ---
-                title: 9 ![](/snap-manual/assets/images/image488.png){width="1.2340277777777777in" height="2.329861111111111in"}Creating a Cloud Account
+---
+title: 9 ![](/snap-manual/assets/images/image488.png){width="1.2340277777777777in" height="2.329861111111111in"}Creating a Cloud Account
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 10
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 10
+---
 
 
 ![](/snap-manual/assets/images/image489.png){width="0.2916666666666667in"

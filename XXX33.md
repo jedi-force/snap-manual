@@ -1,11 +1,11 @@
-                ---
-                title: 33  First Class Sprites
+---
+title: 33  First Class Sprites
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 34
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 34
+---
 
 
 Like Scratch, Snap*!* comes with things that are natural objects: its

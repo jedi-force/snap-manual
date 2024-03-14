@@ -1,11 +1,11 @@
-                ---
-                title: 25 ![](/snap-manual/assets/images/image655.png){width="2.5833333333333335in" height="1.6041666666666667in"}The Snap*!* Input Type Dialog
+---
+title: 25 ![](/snap-manual/assets/images/image655.png){width="2.5833333333333335in" height="1.6041666666666667in"}The Snap*!* Input Type Dialog
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 26
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 26
+---
 
 
 In the Block Editor input name dialog, there is a right-facing arrowhead

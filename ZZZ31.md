@@ -1,11 +1,11 @@
-                ---
-                title: 31 Special Forms
+---
+title: 31 Special Forms
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 32
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 32
+---
 
 
 ![](/snap-manual/assets/images/image736.png){width="2.4993055555555554in"

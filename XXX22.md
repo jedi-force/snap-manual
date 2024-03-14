@@ -1,11 +1,11 @@
-                ---
-                title: 22 Table View vs. List View
+---
+title: 22 Table View vs. List View
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 23
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 23
+---
 
 
 ![](/snap-manual/assets/images/image588.png){width="3.0993055555555555in"

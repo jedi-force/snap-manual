@@ -1,11 +1,11 @@
-                ---
-                title: 13 Private and Public Projects
+---
+title: 13 Private and Public Projects
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 14
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 14
+---
 
 
 By default, a project you save in the cloud is private; only you can see

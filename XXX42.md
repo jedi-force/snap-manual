@@ -1,11 +1,11 @@
-                ---
-                title: 42 Local State with Script Variables
+---
+title: 42 Local State with Script Variables
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 43
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 43
+---
 
 
 ![](/snap-manual/assets/images/image836.png){width="3.473611111111111in"

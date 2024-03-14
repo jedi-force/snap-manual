@@ -1,11 +1,11 @@
-                ---
-                title: 60 Controls on the Stage
+---
+title: 60 Controls on the Stage
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 61
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 61
+---
 
 
 The stage is the area in the top right of the Snap*!* window in which

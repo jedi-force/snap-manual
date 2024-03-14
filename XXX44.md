@@ -1,11 +1,11 @@
-                ---
-                title: 44 Inheritance via Delegation
+---
+title: 44 Inheritance via Delegation
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 45
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 45
+---
 
 
 So, our objects now have local state variables and message passing. What

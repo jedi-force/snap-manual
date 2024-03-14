@@ -1,11 +1,11 @@
-                ---
-                title: 43 Messages and Dispatch Procedures
+---
+title: 43 Messages and Dispatch Procedures
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 44
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 44
+---
 
 
 ![](/snap-manual/assets/images/image853.png){width="4.416666666666667in"

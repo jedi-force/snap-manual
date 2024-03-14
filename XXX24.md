@@ -1,11 +1,11 @@
-                ---
-                title: 24  Scratch's Type Notation
+---
+title: 24  Scratch's Type Notation
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 25
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 25
+---
 
 
 ![](/snap-manual/assets/images/image654.png){width="1.375in"

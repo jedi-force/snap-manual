@@ -1,11 +1,11 @@
-                ---
-                title: 8 Local Storage
+---
+title: 8 Local Storage
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 9
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 9
+---
 
 
 Click on Computer and Snap*!*'s Save Project dialog window will be

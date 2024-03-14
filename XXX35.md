@@ -1,11 +1,11 @@
-                ---
-                title: 35  Sending Messages to Sprites
+---
+title: 35  Sending Messages to Sprites
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 36
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 36
+---
 
 
 The messages that a sprite accepts are the blocks in its palettes,

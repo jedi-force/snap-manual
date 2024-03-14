@@ -1,11 +1,11 @@
-                ---
-                title: 15 Block Libraries
+---
+title: 15 Block Libraries
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 16
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 16
+---
 
 
 When you save a project (see Chapter II above), any custom blocks you've

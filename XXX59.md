@@ -1,11 +1,11 @@
-                ---
-                title: 59 Keyboard Editing
+---
+title: 59 Keyboard Editing
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 60
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 60
+---
 
 
 An ongoing area of research is how to make visual programming languages

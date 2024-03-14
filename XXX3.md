@@ -1,11 +1,11 @@
-                ---
-                title: 3  ![](/snap-manual/assets/images/image25.png){width="0.3402777777777778in" height="0.24305555555555555in"}Sprites and Parallelism
+---
+title: 3  ![](/snap-manual/assets/images/image25.png){width="0.3402777777777778in" height="0.24305555555555555in"}Sprites and Parallelism
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 4
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 4
+---
 
 
 Just below the stage is the "new sprite" button . Click the button to

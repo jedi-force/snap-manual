@@ -1,11 +1,11 @@
-                ---
-                title: 30 Procedures as Data
+---
+title: 30 Procedures as Data
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 31
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 31
+---
 
 
 ![](/snap-manual/assets/images/image734.png){width="5.1875in"

@@ -1,11 +1,11 @@
-                ---
-                title: 34  Permanent and Temporary Clones
+---
+title: 34  Permanent and Temporary Clones
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 35
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 35
+---
 
 
 ![](/snap-manual/assets/images/image748.png){width="1.5138888888888888in"

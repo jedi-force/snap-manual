@@ -1,11 +1,11 @@
-                ---
-                title: 6  Predicates and Conditional Evaluation
+---
+title: 6  Predicates and Conditional Evaluation
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 7
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 7
+---
 
 
 ![](/snap-manual/assets/images/image82.png){width="0.6666666666666666in"

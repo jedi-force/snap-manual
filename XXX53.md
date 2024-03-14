@@ -1,11 +1,11 @@
-                ---
-                title: 53 Writing a block
+---
+title: 53 Writing a block
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 54
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 54
+---
 
 
 ![](/snap-manual/assets/images/image947.png){width="6.071211723534558in"

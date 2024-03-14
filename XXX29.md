@@ -1,11 +1,11 @@
-                ---
-                title: 29 Formal Parameters
+---
+title: 29 Formal Parameters
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 30
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 30
+---
 
 
 ![](/snap-manual/assets/images/image723.png){width="3.5208333333333335in"

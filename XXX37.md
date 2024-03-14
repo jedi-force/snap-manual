@@ -1,11 +1,11 @@
-                ---
-                title: 37  Prototyping: Parents and Children
+---
+title: 37  Prototyping: Parents and Children
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 38
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 38
+---
 
 
 Most current OOP languages use a *class/instance* approach to creating

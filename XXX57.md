@@ -1,11 +1,11 @@
-                ---
-                title: 57  The Palette Area
+---
+title: 57  The Palette Area
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 58
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 58
+---
 
 
 At the top of the palette area are the eight buttons that select which

@@ -1,11 +1,11 @@
-                ---
-                title: 14 Simple Blocks
+---
+title: 14 Simple Blocks
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 15
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 15
+---
 
 
 ![](/snap-manual/assets/images/image495.png){width="7.5in"

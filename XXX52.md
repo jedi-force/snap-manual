@@ -1,11 +1,11 @@
-                ---
-                title: 52 ![](/snap-manual/assets/images/image935.png){width="7.4945702099737534in" height="2.0380686789151357in"}Reading a block
+---
+title: 52 ![](/snap-manual/assets/images/image935.png){width="7.4945702099737534in" height="2.0380686789151357in"}Reading a block
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 53
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 53
+---
 
 
 The definition of block takes a custom block (in a ring, since it's the

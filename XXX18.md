@@ -1,11 +1,11 @@
-                ---
-                title: 18  The list Block
+---
+title: 18  The list Block
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 19
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 19
+---
 
 
 At the heart of providing first class lists is the ability to make an

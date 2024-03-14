@@ -1,11 +1,11 @@
-                ---
-                title: 23  Hyperblocks
+---
+title: 23  Hyperblocks
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 24
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 24
+---
 
 
 A *scalar* is anything other than a list. The name comes from

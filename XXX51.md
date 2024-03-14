@@ -1,11 +1,11 @@
-                ---
-                title: 51 Call/Run w/Continuation
+---
+title: 51 Call/Run w/Continuation
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 52
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 52
+---
 
 
 To use explicit continuation passing style, we had to define special

@@ -1,11 +1,11 @@
-                ---
-                title: 48 Hardware Devices
+---
+title: 48 Hardware Devices
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 49
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 49
+---
 
 
 Another JavaScript security restriction prevents Snap*!* from having

@@ -1,11 +1,11 @@
-                ---
-                title: 61 The Sprite Corral and Sprite Creation Buttons
+---
+title: 61 The Sprite Corral and Sprite Creation Buttons
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 62
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 62
+---
 
 
 ![](/snap-manual/assets/images/image1077.png){width="0.37916666666666665in"

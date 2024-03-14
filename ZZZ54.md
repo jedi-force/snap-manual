@@ -1,11 +1,11 @@
-                ---
-                title: 54 ![](/snap-manual/assets/images/image981.png){width="5.76875in" height="3.879861111111111in"}Macros
+---
+title: 54 ![](/snap-manual/assets/images/image981.png){width="5.76875in" height="3.879861111111111in"}Macros
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 55
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 55
+---
 
 
 Users of languages in the C family have learned to think of macros as

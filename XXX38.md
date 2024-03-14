@@ -1,11 +1,11 @@
-                ---
-                title: 38  Inheritance by Delegation
+---
+title: 38  Inheritance by Delegation
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 39
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 39
+---
 
 
 A clone *inherits* properties of its parent. "Properties" include

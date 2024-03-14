@@ -1,11 +1,11 @@
-                ---
-                title: 45 An Implementation of Prototyping OOP
+---
+title: 45 An Implementation of Prototyping OOP
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 46
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 46
+---
 
 
 In the class/instance system above, it is necessary to design the

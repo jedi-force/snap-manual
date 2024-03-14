@@ -1,11 +1,11 @@
-                ---
-                title: 40 First Class Costumes and Sounds
+---
+title: 40 First Class Costumes and Sounds
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 41
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 41
+---
 
 
 Costumes and sounds don't have methods, as sprites do; you can't ask

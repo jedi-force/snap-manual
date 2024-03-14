@@ -1,11 +1,11 @@
-                ---
-                title: 49 Date and Time
+---
+title: 49 Date and Time
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 50
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 50
+---
 
 
 ![](/snap-manual/assets/images/image872.png){width="5.305555555555555in"

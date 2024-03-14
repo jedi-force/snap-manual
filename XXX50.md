@@ -1,11 +1,11 @@
-                ---
-                title: 50 Continuation Passing Style
+---
+title: 50 Continuation Passing Style
 
-                layout: home
-                has_children: false
-                has_toc: true
-                nav_order: 51
-                ---
+layout: home
+has_children: false
+has_toc: true
+nav_order: 51
+---
 
 
 Like all programming languages, Snap*!* evaluates compositions of nested
