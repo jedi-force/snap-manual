@@ -6,17 +6,17 @@ has_toc: true
 nav_order: 4
 ---
 
-![](./myMediaFolder/media/image2.png){width="1.0in"
+![](/snap-manual/assets/images/image2.png){width="1.0in"
 height="0.5492596237970254in"}
 
 Build Your Own Blocks
 
  {#section .TOCHeading}
 
-![](./myMediaFolder/media/image3.png){width="5.477777777777778in" height="4.501388888888889in"} Table of Contents {#table-of-contents .TOCHeading}
+![](/snap-manual/assets/images/image3.png){width="5.477777777777778in" height="4.501388888888889in"} Table of Contents {#table-of-contents .TOCHeading}
 =================================================================================================================
 
-I. Blocks, Scripts, and Sprites 5
+I\. Blocks, Scripts, and Sprites 5
 
 Hat Blocks and Command Blocks 6
 
@@ -289,7 +289,7 @@ Index ............................................................. 159
 Copyright © 2020 Jens Mönig and Brian Harvey.
 
 ![Macintosh
-HD:Users:bh:Desktop:cc.png](./myMediaFolder/media/image4.png){width="0.6111111111111112in"
+HD:Users:bh:Desktop:cc.png](/snap-manual/assets/images/image4.png){width="0.6111111111111112in"
 height="0.2152777777777778in"} This work is licensed under a [Creative
 Commons Attribution-NonCommercial-ShareAlike 4.0 International
 License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
@@ -374,7 +374,7 @@ http://snap.berkeley.edu/run. The Snap*!* community web site at
 http://snap.berkeley.edu is not part of this manual's scope.
 
 Blocks, Scripts, and Sprites
-============================
+=================
 
 This chapter describes the Snap*!* features inherited from Scratch;
 experienced Scratch users can skip to Section B.
@@ -385,19 +385,19 @@ though, Snap*!* is a *visual* language; instead of writing a program
 using the keyboard, the Snap*!* programmer uses the same drag-and-drop
 interface familiar to computer users.
 
-![](./myMediaFolder/media/image5.png){width="4.326388888888889in"
+![](/snap-manual/assets/images/image5.png){width="4.326388888888889in"
 height="2.689583333333333in"}Start Snap*!*[.]{.smallcaps} You should see
 the following arrangement of regions in the window:
 
 (The proportions of these areas may be different, depending on the size
 and shape of your browser window.)
 
-![](./myMediaFolder/media/image6.png){width="1.4791666666666667in"
+![](/snap-manual/assets/images/image6.png){width="1.4791666666666667in"
 height="1.3541666666666667in"}A Snap*!* program consists of one or more
 *scripts,* each of which is made of *blocks.* Here's a typical script:
 
-![](./myMediaFolder/media/image7.png){width="2.2465277777777777in"
-height="1.4694444444444446in"}![](./myMediaFolder/media/image8.png){width="2.2083333333333335in"
+![](/snap-manual/assets/images/image7.png){width="2.2465277777777777in"
+height="1.4694444444444446in"}![](/snap-manual/assets/images/image8.png){width="2.2083333333333335in"
 height="1.1388888888888888in"}The five blocks that make up this script
 have three different colors, corresponding to three of the eight
 *palettes* in which blocks can be found. The palette area at the left
@@ -426,7 +426,7 @@ only if the user clicks on the script itself. A script can't have more
 than one hat block, and the hat block can be used only at the top of the
 script; its distinctive shape is meant to remind you of that.[^1]
 
-![](./myMediaFolder/media/image9.png){width="1.1666666666666667in"
+![](/snap-manual/assets/images/image9.png){width="1.1666666666666667in"
 height="0.25in"}The other blocks in our example script are *command*
 blocks. Each command block corresponds to an action that Snap*!* already
 knows how to carry out. For example, the block tells the sprite (the
@@ -440,7 +440,7 @@ Lego™ brick; a script is a stack of blocks. (The word "block" denotes
 both the graphical shape on the screen and the procedure, the action,
 that the block carries out.)
 
-![](./myMediaFolder/media/image10.png){width="1.0972222222222223in"
+![](/snap-manual/assets/images/image10.png){width="1.0972222222222223in"
 height="0.3541666666666667in"}The number 10 in the move block above is
 called an *input* to the block. By clicking on the white oval, you can
 type any number in place of the 10. The sample script on the previous
@@ -456,22 +456,22 @@ block in the sample script, are *C‑shaped.* Most C-shaped blocks are
 found in the Control palette. The slot inside the C shape is a special
 kind of input slot that accepts a *script* as the input.
 
-![](./myMediaFolder/media/image6.png){width="1.4791666666666667in"
+![](/snap-manual/assets/images/image6.png){width="1.4791666666666667in"
 height="1.3541666666666667in"}
 
-![](./myMediaFolder/media/image11.png){width="1.40625in"
+![](/snap-manual/assets/images/image11.png){width="1.40625in"
 height="0.4895833333333333in"}In the sample script
 
-![](./myMediaFolder/media/image12.png){width="5.697916666666667in"
+![](/snap-manual/assets/images/image12.png){width="5.697916666666667in"
 height="1.445138888888889in"}C-shaped blocks can be put in a script in
 two ways. If you see a white line and let go, the block will be inserted
 into the script like any command block:
 
-![](./myMediaFolder/media/image16.png){width="5.501388888888889in"
+![](/snap-manual/assets/images/image16.png){width="5.501388888888889in"
 height="1.2777777777777777in"}But if you see an orange halo and let go,
 the block will *wrap* around the haloed blocks:
 
-![](./myMediaFolder/media/image20.png){width="5.800694444444445in"
+![](/snap-manual/assets/images/image20.png){width="5.800694444444445in"
 height="1.2916666666666667in"}The halo will always extend from the
 cursor position to the bottom of the script:
 
@@ -479,13 +479,13 @@ If you want only some of those blocks, after wrapping you can grab the
 first block you don't want wrapped, pull it down, and snap it under the
 C-shaped block.
 
-![](./myMediaFolder/media/image24.png){width="2.311111111111111in"
+![](/snap-manual/assets/images/image24.png){width="2.311111111111111in"
 height="1.3666666666666667in"}For "E-shaped" blocks with more than one
 C-shaped slot, only the first slot will wrap around existing blocks in a
 script, and only if that C-shaped slot is empty before wrapping. (You
 can fill the other slots by dragging blocks into the desired slot.)
 
- ![](./myMediaFolder/media/image25.png){width="0.3402777777777778in" height="0.24305555555555555in"}Sprites and Parallelism
+ ![](/snap-manual/assets/images/image25.png){width="0.3402777777777778in" height="0.24305555555555555in"}Sprites and Parallelism
 --------------------------------------------------------------------------------------------------------------------------
 
 Just below the stage is the "new sprite" button . Click the button to
@@ -498,9 +498,9 @@ sprite in the scripting area, click on the picture of that sprite in the
 *sprite corral* in the bottom right corner of the window. Try putting
 one of the following scripts in each sprite's scripting area:
 
-> ![](./myMediaFolder/media/image26.png){width="1.5506944444444444in"
+> ![](/snap-manual/assets/images/image26.png){width="1.5506944444444444in"
 > height="0.99375in"}
-> ![](./myMediaFolder/media/image27.png){width="1.5416666666666667in"
+> ![](/snap-manual/assets/images/image27.png){width="1.5416666666666667in"
 > height="1.1666666666666667in"}
 
 When you click the green flag, you should see one sprite rotate while
@@ -509,9 +509,9 @@ different scripts can run in parallel. The turning and the moving happen
 together. Parallelism can be seen with multiple scripts of a single
 sprite also. Try this example:
 
-> ![](./myMediaFolder/media/image28.png){width="1.7291666666666667in"
+> ![](/snap-manual/assets/images/image28.png){width="1.7291666666666667in"
 > height="0.875in"}
-> ![](./myMediaFolder/media/image29.png){width="1.7291666666666667in"
+> ![](/snap-manual/assets/images/image29.png){width="1.7291666666666667in"
 > height="0.8958333333333334in"}
 
 When you press the space key, the sprite should move forever in a
@@ -520,9 +520,9 @@ the program, click the red stop sign at the right end of the tool bar.)
 
 ### Costumes and Sounds
 
-![](./myMediaFolder/media/image30.png){width="0.3194444444444444in"
-height="0.2152777777777778in"}![](./myMediaFolder/media/image31.png){width="1.7666666666666666in"
-height="1.875in"}![](./myMediaFolder/media/image32.png){width="0.2916666666666667in"
+![](/snap-manual/assets/images/image30.png){width="0.3194444444444444in"
+height="0.2152777777777778in"}![](/snap-manual/assets/images/image31.png){width="1.7666666666666666in"
+height="1.875in"}![](/snap-manual/assets/images/image32.png){width="0.2916666666666667in"
 height="0.16666666666666666in"}To change the appearance of a sprite,
 paint or import a new *costume* for it. To paint a costume, click on the
 Costumes tab above the scripting area, and click the paint button . The
@@ -554,10 +554,10 @@ costume.) The Turtle costume is the only one that changes color to match
 a change in the sprite's pen color. Protip: switches to the *previous*
 costume, wrapping like next costume.
 
-![](./myMediaFolder/media/image33.png){width="1.8055555555555556in"
-height="0.2777777777777778in"}![](./myMediaFolder/media/image34.png){width="2.9493055555555556in"
-height="0.2604166666666667in"}![](./myMediaFolder/media/image38.png){width="1.8958333333333333in"
-height="0.2604166666666667in"}![](./myMediaFolder/media/image39.png){width="1.2395833333333333in"
+![](/snap-manual/assets/images/image33.png){width="1.8055555555555556in"
+height="0.2777777777777778in"}![](/snap-manual/assets/images/image34.png){width="2.9493055555555556in"
+height="0.2604166666666667in"}![](/snap-manual/assets/images/image38.png){width="1.8958333333333333in"
+height="0.2604166666666667in"}![](/snap-manual/assets/images/image39.png){width="1.2395833333333333in"
 height="0.2604166666666667in"}In addition to its costumes, a sprite can
 have *sounds;* the equivalent for sounds of the sprite's wardrobe is
 called its *jukebox.* Sound files can be imported in any format (WAV,
@@ -574,18 +574,18 @@ more interesting program, though, the sprites on stage will *interact*
 to tell a story, play a game, etc. Often one sprite will have to tell
 another sprite to run a script. Here's a simple example:
 
-![](./myMediaFolder/media/image40.png){width="1.71875in"
-height="0.24938648293963256in"}![](./myMediaFolder/media/image41.png){width="0.5694444444444444in"
+![](/snap-manual/assets/images/image40.png){width="1.71875in"
+height="0.24938648293963256in"}![](/snap-manual/assets/images/image41.png){width="0.5694444444444444in"
 height="1.1111111111111112in"}
-![](./myMediaFolder/media/image42.png){width="2.78417760279965in"
+![](/snap-manual/assets/images/image42.png){width="2.78417760279965in"
 height="1.5104166666666667in"}
-![](./myMediaFolder/media/image43.png){width="1.2430555555555556in"
+![](/snap-manual/assets/images/image43.png){width="1.2430555555555556in"
 height="0.8611111111111112in"}
-![](./myMediaFolder/media/image44.png){width="1.5208333333333333in"
+![](/snap-manual/assets/images/image44.png){width="1.5208333333333333in"
 height="0.6041666666666666in"}
 
-![](./myMediaFolder/media/image45.png){width="1.7895833333333333in"
-height="0.2in"}![](./myMediaFolder/media/image46.png){width="1.8in"
+![](/snap-manual/assets/images/image45.png){width="1.7895833333333333in"
+height="0.2in"}![](/snap-manual/assets/images/image46.png){width="1.8in"
 height="0.19166666666666668in"}In the block, the word "bark" is just an
 arbitrary name I made up. When you click on the downward arrowhead in
 that input slot, one of the choices (the only choice, the first time) is
@@ -632,13 +632,13 @@ display (not the sprite corral icon!) of the desired *anchor* sprite.
 The precise place where you let go of the mouse button will be the
 attachment point of the part on the anchor.
 
-![](./myMediaFolder/media/image47.png){width="1.6305555555555555in"
+![](/snap-manual/assets/images/image47.png){width="1.6305555555555555in"
 height="0.9652777777777778in"}Sprite nesting is shown in the sprite
 corral icons of both anchors and parts:
 
-![](./myMediaFolder/media/image48.png){width="4.875694444444444in"
-height="0.9472222222222222in"}![](./myMediaFolder/media/image56.png){width="1.4444444444444444in"
-height="1.5625in"}![](./myMediaFolder/media/image57.png){width="5.405555555555556in"
+![](/snap-manual/assets/images/image48.png){width="4.875694444444444in"
+height="0.9472222222222222in"}![](/snap-manual/assets/images/image56.png){width="1.4444444444444444in"
+height="1.5625in"}![](/snap-manual/assets/images/image57.png){width="5.405555555555556in"
 height="0.8333333333333334in"}In this illustration, it is desired to
 animate Alonzo's arm. (The arm has been colored green in this picture to
 make the relationship of the two sprites clearer, but in a real project
@@ -663,8 +663,8 @@ the arm synchronous (left) and dangling (right).*
 Reporter Blocks and Expressions
 -------------------------------
 
-![](./myMediaFolder/media/image65.png){width="1.47in"
-height="0.52in"}![](./myMediaFolder/media/image66.png){width="0.7291666666666666in"
+![](/snap-manual/assets/images/image65.png){width="1.47in"
+height="0.52in"}![](/snap-manual/assets/images/image66.png){width="0.7291666666666666in"
 height="0.15625in"}So far, we've used two kinds of blocks: hat blocks
 and command blocks. Another kind is the *reporter* block, which has an
 oval shape: . It's called a "reporter" because when it's run, instead of
@@ -673,20 +673,20 @@ to another block. If you drag a reporter into the scripting area by
 itself and click on it, the value it reports will appear in a speech
 balloon next to the block:
 
-![](./myMediaFolder/media/image67.png){width="5.312752624671916in"
+![](/snap-manual/assets/images/image67.png){width="5.312752624671916in"
 height="0.9583333333333334in"}When you drag a reporter block over
 another block's input slot, a white "halo" appears around that input
 slot, analogous to the white line that appears when snapping command
 blocks together:
 
-![](./myMediaFolder/media/image71.png){width="2.111111111111111in"
+![](/snap-manual/assets/images/image71.png){width="2.111111111111111in"
 height="0.6180555555555556in"}Don't drop the input over a *red* halo:
 
 That's used for a purpose explained on page 68.
 
 Here's a simple script that uses a reporter block:
 
-![](./myMediaFolder/media/image72.png){width="5.319444444444445in"
+![](/snap-manual/assets/images/image72.png){width="5.319444444444445in"
 height="1.3645833333333333in"}Here the x position reporter provides the
 first input to the say block. (The sprite's X position is its horizontal
 position, how far left (negative values) or right (positive values) it
@@ -696,7 +696,7 @@ center.)
 
 You can do arithmetic using reporters in the Operators palette:
 
-![](./myMediaFolder/media/image76.png){width="6.263888888888889in"
+![](/snap-manual/assets/images/image76.png){width="6.263888888888889in"
 height="1.4479166666666667in"}The round block rounds 35.3905... to 35,
 and the + block adds 100 to that. (By the way, the round block is in the
 Operators palette, just like +, but in this script it's a lighter color
@@ -704,10 +704,10 @@ with black lettering because Snap*!* alternates light and dark versions
 of the palette colors when a block is nested inside another block from
 the same palette:
 
-![](./myMediaFolder/media/image80.png){width="4.854166666666667in"
+![](/snap-manual/assets/images/image80.png){width="4.854166666666667in"
 height="1.90625in"}
 
-![](./myMediaFolder/media/image81.png){width="1.9166666666666667in"
+![](/snap-manual/assets/images/image81.png){width="1.9166666666666667in"
 height="0.23958333333333334in"}This aid to readability is called *zebra
 coloring.*) A reporter block with its inputs, maybe including other
 reporter blocks, such as , is called an *expression.*
@@ -715,31 +715,31 @@ reporter blocks, such as , is called an *expression.*
  Predicates and Conditional Evaluation
 -------------------------------------
 
-![](./myMediaFolder/media/image82.png){width="0.6666666666666666in"
-height="0.1875in"}![](./myMediaFolder/media/image83.png){width="1.2083333333333333in"
+![](/snap-manual/assets/images/image82.png){width="0.6666666666666666in"
+height="0.1875in"}![](/snap-manual/assets/images/image83.png){width="1.2083333333333333in"
 height="0.1875in"}Most reporters report either a number, like , or a
 text string, like . A *predicate* is a special kind of reporter that
 always reports true or false. Predicates have a hexagonal shape:
 
-![](./myMediaFolder/media/image84.png){width="1.9479166666666667in"
-height="0.2604166666666667in"}![](./myMediaFolder/media/image85.png){width="1.0729166666666667in"
+![](/snap-manual/assets/images/image84.png){width="1.9479166666666667in"
+height="0.2604166666666667in"}![](/snap-manual/assets/images/image85.png){width="1.0729166666666667in"
 height="0.15625in"}The special shape is a reminder that predicates don't
 generally make sense in an input slot of blocks that are expecting a
 number or text. You wouldn't say , although (as you can see from the
 picture) Snap*!* lets you do it if you really want. Instead, you
 normally use predicates in special hexagonal input slots like this one:
 
-![](./myMediaFolder/media/image86.png){width="0.6666666666666666in"
+![](/snap-manual/assets/images/image86.png){width="0.6666666666666666in"
 height="0.5694444444444444in"}The C-shaped if block runs its input
 script if (and only if) the expression in its hexagonal input reports
 true.
 
-![](./myMediaFolder/media/image87.png){width="1.59375in"
+![](/snap-manual/assets/images/image87.png){width="1.59375in"
 height="0.6145833333333334in"}A really useful block in animations runs
 its input script *repeatedly* until a predicate is satisfied:
 
-![](./myMediaFolder/media/image88.png){width="2.2819444444444446in"
-height="1.46875in"}![](./myMediaFolder/media/image89.png){width="2.2916666666666665in"
+![](/snap-manual/assets/images/image88.png){width="2.2819444444444446in"
+height="1.46875in"}![](/snap-manual/assets/images/image89.png){width="2.2916666666666665in"
 height="0.84375in"}If, while working on a project, you want to omit
 temporarily some commands in a script, but you don't want to forget
 where they belong, you can say
@@ -748,7 +748,7 @@ Sometimes you want to take the same action whether some condition is
 true or false, but with a different input value. For this purpose you
 can use the *reporter* if block:
 
-![](./myMediaFolder/media/image90.png){width="4.208333333333333in"
+![](/snap-manual/assets/images/image90.png){width="4.208333333333333in"
 height="0.3854166666666667in"}The technical term for a true or false
 value is a "Boolean" value; it has a capital B because it's named after
 a person, George Boole, who developed the mathematical theory of Boolean
@@ -763,8 +763,8 @@ values and those that don't. Commands, Reporters, and Predicates are all
 procedures. The words "a Procedure type" are shorthand for "Command
 type, Reporter type, or Predicate type."
 
-![](./myMediaFolder/media/image91.png){width="1.375in"
-height="0.24305555555555555in"}![](./myMediaFolder/media/image92.png){width="1.375in"
+![](/snap-manual/assets/images/image91.png){width="1.375in"
+height="0.24305555555555555in"}![](/snap-manual/assets/images/image92.png){width="1.375in"
 height="0.24305555555555555in"}If you want to put a *constant* Boolean
 value in a hexagonal slot instead of a predicate-based expression, hover
 the mouse over the block and click on the control that appears:
@@ -772,10 +772,10 @@ the mouse over the block and click on the control that appears:
 Variables
 ---------
 
-![](./myMediaFolder/media/image93.png){width="1.5833333333333333in"
+![](/snap-manual/assets/images/image93.png){width="1.5833333333333333in"
 height="1.4166666666666667in"}Try this script:
 
-![](./myMediaFolder/media/image94.png){width="1.8854166666666667in"
+![](/snap-manual/assets/images/image94.png){width="1.8854166666666667in"
 height="1.4375in"}The input to the move block is an orange oval. To get
 it there, drag the orange oval that's part of the for block:
 
@@ -792,7 +792,7 @@ segment, and that's why the picture you see is a kind of spiral. (If you
 try again with a turn of 90 degrees instead of 92, you'll see why this
 picture is called a "squiral.")
 
-![](./myMediaFolder/media/image95.png){width="3.1875in"
+![](/snap-manual/assets/images/image95.png){width="3.1875in"
 height="1.5in"}The variable i is created by the for block, and it can
 only be used in the script inside the block's C-slot. (By the way, if
 you don't like the name i, you can change it by clicking on the orange
@@ -811,8 +811,8 @@ You can create variables "by hand" that aren't limited to being used
 within a single block. At the top of the Variables palette, click the
 "Make a variable" button:
 
-![](./myMediaFolder/media/image96.png){width="3.1875in"
-height="1.84375in"}![](./myMediaFolder/media/image97.png){width="2.0520833333333335in"
+![](/snap-manual/assets/images/image96.png){width="3.1875in"
+height="1.84375in"}![](/snap-manual/assets/images/image97.png){width="2.0520833333333335in"
 height="2.2708333333333335in"}This will bring up a dialog window in
 which you can give your variable a name:
 
@@ -826,11 +826,11 @@ corral), and the different sprites will do slightly different things
 when running that script because each has a different value for that
 variable name.
 
-![](./myMediaFolder/media/image98.png){width="1.6583333333333334in"
+![](/snap-manual/assets/images/image98.png){width="1.6583333333333334in"
 height="2.2916666666666665in"}If you give your variable the name "name"
 then the Variables palette will look like this:
 
-![](./myMediaFolder/media/image99.png){width="1.0416666666666667in"
+![](/snap-manual/assets/images/image99.png){width="1.0416666666666667in"
 height="0.40625in"}There's now a "Delete a variable" button, and there's
 an orange oval with the variable name in it, just like the orange oval
 in the for block. You can drag the variable into any script in the
@@ -840,7 +840,7 @@ it's checked, you'll also see a *variable watcher* on the stage:
 When you give the variable a value, the orange box in its watcher will
 display the value.
 
-![](./myMediaFolder/media/image100.png){width="1.9270833333333333in"
+![](/snap-manual/assets/images/image100.png){width="1.9270833333333333in"
 height="0.4791666666666667in"}How *do* you give it a value? You use the
 set block:
 
@@ -852,13 +852,13 @@ If you do choose "For this sprite only" when creating a variable, its
 block in the palette looks like this:
 
 ![Macintosh
-HD:Users:bh:Desktop:local-var.png](./myMediaFolder/media/image101.png){width="0.6583333333333333in"
+HD:Users:bh:Desktop:local-var.png](/snap-manual/assets/images/image101.png){width="0.6583333333333333in"
 height="0.14166666666666666in"} The *location*-pin icon is a bit of a
 pun on a sprite-*local* variable. It's shown only in the palette.
 
 ### Script Variables
 
-![](./myMediaFolder/media/image102.png){width="5.503472222222222in"
+![](/snap-manual/assets/images/image102.png){width="5.503472222222222in"
 height="2.3125in"}In the name example above, our project is going to
 carry on an interaction with the user, and we want to remember their
 name throughout the project. That's a good example of a situation in
@@ -873,7 +873,7 @@ variables block without dragging to change its name. You can also make
 more than one temporary variable by clicking on the right arrow at the
 end of the block to add another variable oval:
 
-### ![](./myMediaFolder/media/image106.png){width="2.0833333333333335in" height="0.3020833333333333in"}Renaming variables
+### ![](/snap-manual/assets/images/image106.png){width="2.0833333333333335in" height="0.3020833333333333in"}Renaming variables
 
 There are several reasons why you might want to change the name of a
 variable:
@@ -894,15 +894,15 @@ instance separately to decide which ones to rename. Both of these
 operations are possible by right-clicking or control-clicking on a
 variable oval.
 
-![](./myMediaFolder/media/image107.png){width="1.613888888888889in"
-height="1.507638888888889in"}![](./myMediaFolder/media/image108.png){width="2.826388888888889in"
-height="1.2569444444444444in"}![](./myMediaFolder/media/image109.png){width="1.3819444444444444in"
+![](/snap-manual/assets/images/image107.png){width="1.613888888888889in"
+height="1.507638888888889in"}![](/snap-manual/assets/images/image108.png){width="2.826388888888889in"
+height="1.2569444444444444in"}![](/snap-manual/assets/images/image109.png){width="1.3819444444444444in"
 height="0.7430555555555556in"}If you right-click on an orange oval in a
 context in which the variable is *used,* then you are able to rename
 just that one orange oval:
 
-![](./myMediaFolder/media/image110.png){width="1.7083333333333333in"
-height="0.8333333333333334in"}![](./myMediaFolder/media/image111.png){width="1.4930555555555556in"
+![](/snap-manual/assets/images/image110.png){width="1.7083333333333333in"
+height="0.8333333333333334in"}![](/snap-manual/assets/images/image111.png){width="1.4930555555555556in"
 height="0.7430555555555556in"}If you right-click on the place where the
 variable is *defined* (a script variables block, the orange oval for a
 global variable in the Variables palette, or an orange oval that's built
@@ -910,15 +910,15 @@ into a block such as the "i" in for), then you are given two renaming
 options, "rename" and "rename all." If you choose "rename," then the
 name is changed only in that one orange oval, as in the previous case:
 
-![](./myMediaFolder/media/image112.png){width="1.4930555555555556in"
-height="0.7430555555555556in"}![](./myMediaFolder/media/image113.png){width="1.7083333333333333in"
+![](/snap-manual/assets/images/image112.png){width="1.4930555555555556in"
+height="0.7430555555555556in"}![](/snap-manual/assets/images/image113.png){width="1.7083333333333333in"
 height="0.8333333333333334in"}But if you choose "rename all," then the
 name will be changed throughout the scope of the variable (the script
 for a script variable, or everywhere for a global variable):
 
 ### Transient variables
 
-![](./myMediaFolder/media/image114.png){width="1.2916666666666667in"
+![](/snap-manual/assets/images/image114.png){width="1.2916666666666667in"
 height="1.0555555555555556in"}So far we've talked about variables with
 numeric values, or with short text strings such as someone's name. But
 there's no limit to the amount of information you can put in a variable;
@@ -951,8 +951,8 @@ that you can examine the values of variables.
 
 ### The pause button
 
-![](./myMediaFolder/media/image115.png){width="0.2916666666666667in"
-height="0.16666666666666666in"}![](./myMediaFolder/media/image116.png){width="0.2916666666666667in"
+![](/snap-manual/assets/images/image115.png){width="0.2916666666666667in"
+height="0.16666666666666666in"}![](/snap-manual/assets/images/image116.png){width="0.2916666666666667in"
 height="0.16666666666666666in"}The simplest way to pause a program is
 manually, by clicking the pause button in the top right corner of the
 window. While the program is paused, you can run other scripts by
@@ -964,7 +964,7 @@ and clicking it again resumes the paused scripts.
 
 ### Breakpoints: the pause all block
 
-![](./myMediaFolder/media/image117.png){width="0.8194444444444444in"
+![](/snap-manual/assets/images/image117.png){width="0.8194444444444444in"
 height="0.2152777777777778in"}The pause button is great if your program
 seems to be in an infinite loop, but more often you'll want to set a
 *breakpoint,* a particular point in a script at which you want to pause.
@@ -974,7 +974,7 @@ getting an error message in a particular block, you could use pause all
 just before that block to look at the values of variables just before
 the error happens.
 
-![](./myMediaFolder/media/image118.png){width="1.8833333333333333in"
+![](/snap-manual/assets/images/image118.png){width="1.8833333333333333in"
 height="0.9111111111111111in"}The pause all block turns bright cyan
 while paused. Also, during the pause, you can right-click on a running
 script and the menu that appears will give you the option to show
@@ -988,7 +988,7 @@ breakpoint block that lets you set a *conditional* breakpoint, and
 automatically display the relevant variables before pausing. Here's a
 sample use of it:
 
-![](./myMediaFolder/media/image119.png){width="1.1944444444444444in"
+![](/snap-manual/assets/images/image119.png){width="1.1944444444444444in"
 height="1.3333333333333333in"}(In this contrived example, variable zot
 comes from outside the script but is relevant to its behavior.) When you
 continue (with the pause button), the temporary variable watchers are
@@ -998,9 +998,9 @@ all inside an if.[^2]
 
 ### Visible stepping
 
-![](./myMediaFolder/media/image121.png){width="0.2916666666666667in"
-height="0.16666666666666666in"}![](./myMediaFolder/media/image122.png){width="0.5456342957130359in"
-height="0.1527777777777778in"}![](./myMediaFolder/media/image123.png){width="0.2916666666666667in"
+![](/snap-manual/assets/images/image121.png){width="0.2916666666666667in"
+height="0.16666666666666666in"}![](/snap-manual/assets/images/image122.png){width="0.5456342957130359in"
+height="0.1527777777777778in"}![](/snap-manual/assets/images/image123.png){width="0.2916666666666667in"
 height="0.16666666666666666in"}Sometimes you're not exactly sure where
 the error is, or you don't understand how the program got there. To
 understand better, you'd like to watch the program as it runs, at human
@@ -1010,14 +1010,14 @@ script is paused. The button will light up ( ) and a speed control
 slider will appear in the toolbar. When you start or continue the
 script, its blocks and input slots will light up cyan one at a time:
 
-![](./myMediaFolder/media/image124.png){width="7.498611111111111in"
+![](/snap-manual/assets/images/image124.png){width="7.498611111111111in"
 height="1.15in"}In this simple example, the inputs to the blocks are
 constant values, but if an input were a more complicated expression
 involving several reporter blocks, each of those would light up as they
 are called. Note that the input to a block is evaluated before the block
 itself is called, so, for example, the 100 lights up before the move.
 
-![](./myMediaFolder/media/image134.png){width="0.2916666666666667in"
+![](/snap-manual/assets/images/image134.png){width="0.2916666666666667in"
 height="0.16666666666666666in"}The speed of stepping is controlled by
 the slider. If you move the slider all the way to the left, the speed is
 zero, the pause button turns into a step button , and the script takes a
@@ -1050,14 +1050,14 @@ block that appears in the palette area.
 
 Here are the primitive blocks that don't exist in Scratch:
 
-![](./myMediaFolder/media/image135.png){width="1.25in"
-height="0.22916666666666666in"}![](./myMediaFolder/media/image136.png){width="1.0520833333333333in"
+![](/snap-manual/assets/images/image135.png){width="1.25in"
+height="0.22916666666666666in"}![](/snap-manual/assets/images/image136.png){width="1.0520833333333333in"
 height="0.22916666666666666in"} reports a new costume consisting of
 everything that's drawn on the stage by any sprite. Right-clicking the
 block in the scripting area gives the option to change it to if vector
 logging is enabled. See page 116.
 
-![](./myMediaFolder/media/image137.png){width="2.0833333333333335in"
+![](/snap-manual/assets/images/image137.png){width="2.0833333333333335in"
 height="0.375in"}Print characters in the given point size on the stage,
 at the sprite's position and in its direction. The sprite moves to the
 end of the text. (That's not always what you want, but you can save the
@@ -1065,49 +1065,49 @@ sprite's position before using it, and sometimes you need to know how
 big the text turned out to be, in turtle steps.) If the pen is down, the
 text will be underlined.
 
-![](./myMediaFolder/media/image138.png){width="1.2006944444444445in"
+![](/snap-manual/assets/images/image138.png){width="1.2006944444444445in"
 height="0.5138888888888888in"}Takes a sprite as input. Like stamp except
 that the costume is stamped onto the selected sprite instead of onto the
 stage. (Does nothing if the current sprite doesn't overlap the chosen
 sprite.)
 
-![](./myMediaFolder/media/image139.png){width="1.1916666666666667in"
+![](/snap-manual/assets/images/image139.png){width="1.1916666666666667in"
 height="0.3388888888888889in"}Takes a sprite as input. Erases from that
 sprite's costume the area that overlaps with the current sprite's
 costume. (Does not affect the costume in the chosen sprite's wardrobe,
 only the copy currently visible.)
 
-![](./myMediaFolder/media/image140.png){width="0.5298611111111111in"
-height="0.5in"}![](./myMediaFolder/media/image141.png){width="0.9895833333333334in"
+![](/snap-manual/assets/images/image140.png){width="0.5298611111111111in"
+height="0.5in"}![](/snap-manual/assets/images/image141.png){width="0.9895833333333334in"
 height="0.25972222222222224in"}![Icon Description automatically
-generated](./myMediaFolder/media/image142.png){width="1.3298611111111112in"
+generated](/snap-manual/assets/images/image142.png){width="1.3298611111111112in"
 height="0.42986111111111114in"} See page 6. See page 17.
 
-![](./myMediaFolder/media/image143.png){width="1.71in"
+![](/snap-manual/assets/images/image143.png){width="1.71in"
 height="0.23in"}Reporter version of the if/else primitive command block.
 Only one of the two branches is evaluated, depending on the value of the
 first input.
 
-![](./myMediaFolder/media/image144.png){width="1.83in"
+![](/snap-manual/assets/images/image144.png){width="1.83in"
 height="0.61in"}Looping block like repeat but with an index variable.
 
-![](./myMediaFolder/media/image145.png){width="1.3798611111111112in"
+![](/snap-manual/assets/images/image145.png){width="1.3798611111111112in"
 height="0.28958333333333336in"}Declare local variables in a script.
 
-![](./myMediaFolder/media/image146.png){width="0.86in"
-height="0.19in"}![](./myMediaFolder/media/image147.png){width="0.72in"
-height="0.2in"}![](./myMediaFolder/media/image148.png){width="1.17in"
+![](/snap-manual/assets/images/image146.png){width="0.86in"
+height="0.19in"}![](/snap-manual/assets/images/image147.png){width="0.72in"
+height="0.2in"}![](/snap-manual/assets/images/image148.png){width="1.17in"
 height="0.18in"} See page 91.
 
-![](./myMediaFolder/media/image149.png){width="2.738611111111111in"
+![](/snap-manual/assets/images/image149.png){width="2.738611111111111in"
 height="0.2116819772528434in"}Constant true or false value. See page 12.
 
-![](./myMediaFolder/media/image153.png){width="2.13in" height="0.18in"}
+![](/snap-manual/assets/images/image153.png){width="2.13in" height="0.18in"}
 Create a primitive using JavaScript. (This block is disabled by default;
 the user must check "Javascript extensions" in the setting menu *each
 time* a project is loaded.)
 
-![](./myMediaFolder/media/image154.png){width="1.6305555555555555in"
+![](/snap-manual/assets/images/image154.png){width="1.6305555555555555in"
 height="1.5756944444444445in"}The at block lets you examine the screen
 pixel directly behind the rotation center of a sprite, the mouse, or an
 arbitrary (x,y) coordinate pair dropped onto the second menu slot. The
@@ -1117,15 +1117,15 @@ reports a list of all sprites, including this one, any point of which
 overlaps this sprite's rotation center (behind or in front). This is a
 hyperblock with respect to its second input.
 
-![](./myMediaFolder/media/image158.png){width="1.6862992125984253in"
-height="1.852853237095363in"}![](./myMediaFolder/media/image162.png){width="2.4458333333333333in"
-height="1.3263888888888888in"}![](./myMediaFolder/media/image163.png){width="2.3555555555555556in"
+![](/snap-manual/assets/images/image158.png){width="1.6862992125984253in"
+height="1.852853237095363in"}![](/snap-manual/assets/images/image162.png){width="2.4458333333333333in"
+height="1.3263888888888888in"}![](/snap-manual/assets/images/image163.png){width="2.3555555555555556in"
 height="0.3888888888888889in"} Checks the data type of a value.
 
-![](./myMediaFolder/media/image164.png){width="3.398297244094488in"
+![](/snap-manual/assets/images/image164.png){width="3.398297244094488in"
 height="1.065152012248469in"}
 
-![](./myMediaFolder/media/image166.png){width="2.504166666666667in"
+![](/snap-manual/assets/images/image166.png){width="2.504166666666667in"
 height="2.23125in"}Turn the text into a list, using the second input as
 the delimiter between items. The default delimiter, indicated by the
 brown dot in the input slot, is a single space character. "Letter" puts
@@ -1137,14 +1137,14 @@ return (0xd). "Csv" and "json" split formatted text into lists of lists;
 see page 54. "Blocks" takes a script as the first input, reporting a
 list structure representing the structure of the script. See Chapter XI.
 
-![](./myMediaFolder/media/image170.png){width="1.479861111111111in"
+![](/snap-manual/assets/images/image170.png){width="1.479861111111111in"
 height="0.18958333333333333in"}For lists, reports true only if its two
 input values are the very same list, so changing an item in one of them
 is visible in the other. (For =, lists that look the same are the same.)
 For text strings, uses case-sensitive comparison, unlike =, which is
 case-independent.
 
-![](./myMediaFolder/media/image171.png){width="2.867929790026247in"
+![](/snap-manual/assets/images/image171.png){width="2.867929790026247in"
 height="0.18958333333333333in"}These *hidden* blocks can be found with
 the relabel option of any dyadic arithmetic block. They're hidden partly
 because writing them in Snap*!* is a good, pretty easy programming
@@ -1154,16 +1154,16 @@ because we measure angles clockwise from north. Max and min are
 inputs.
 
 ![Logo Description automatically generated with medium
-confidence](./myMediaFolder/media/image177.png){width="0.63in"
+confidence](/snap-manual/assets/images/image177.png){width="0.63in"
 height="0.19in"} ![A picture containing text, monitor, screenshot
 Description automatically
-generated](./myMediaFolder/media/image178.png){width="0.63in"
+generated](/snap-manual/assets/images/image178.png){width="0.63in"
 height="0.19in"} ![Logo Description automatically
-generated](./myMediaFolder/media/image179.png){width="0.63in"
+generated](/snap-manual/assets/images/image179.png){width="0.63in"
 height="0.19in"} Similarly, these hidden predicates can be found by
 relabeling the relational predicates.
 
-![](./myMediaFolder/media/image180.png){width="5.449558180227472in"
+![](/snap-manual/assets/images/image180.png){width="5.449558180227472in"
 height="0.6166666666666667in"}**Metaprogramming (see Chapter** **XI. ,
 page** **101)**
 
@@ -1175,33 +1175,33 @@ capability is new in version 8.0.
 
 **First class list blocks (see Chapter IV, page** **46):**
 
-![](./myMediaFolder/media/image190.png){width="7.616666666666666in"
+![](/snap-manual/assets/images/image190.png){width="7.616666666666666in"
 height="2.183333333333333in"}
 
 **\
-**![](./myMediaFolder/media/image224.png){width="0.83in"
-height="0.21in"} ![](./myMediaFolder/media/image225.png){width="1.43in"
+**![](/snap-manual/assets/images/image224.png){width="0.83in"
+height="0.21in"} ![](/snap-manual/assets/images/image225.png){width="1.43in"
 height="0.21in"} **report the sprite or mouse position as a two-item
 vector (x,y).**
 
-![](./myMediaFolder/media/image226.png){width="5.9944444444444445in"
+![](/snap-manual/assets/images/image226.png){width="5.9944444444444445in"
 height="0.325in"}**First class procedure blocks (see Chapter VI, page**
 **65):**
 
-![](./myMediaFolder/media/image240.png){width="5.330555555555556in"
-height="0.3451388888888889in"}![](./myMediaFolder/media/image246.png){width="4.361111111111111in"
+![](/snap-manual/assets/images/image240.png){width="5.330555555555556in"
+height="0.3451388888888889in"}![](/snap-manual/assets/images/image246.png){width="4.361111111111111in"
 height="0.325in"}**First class continuation blocks (see Chapter X,
 page** **93):**
 
 **First class sprite, costume, and sound blocks (see Chapter VII, page**
 **73):**
 
-![](./myMediaFolder/media/image250.png){width="5.88125in"
+![](/snap-manual/assets/images/image250.png){width="5.88125in"
 height="2.1479166666666667in"}
 
 **Scenes:**
 
-![](./myMediaFolder/media/image280.png){width="2.38in"
+![](/snap-manual/assets/images/image280.png){width="2.38in"
 height="1.32in"}The major new feature of version 7.0 is *scenes:* A
 project can include within it sub-projects, called scenes, each with its
 own stage, sprites, scripts, and so on. This block makes another scene
@@ -1211,8 +1211,8 @@ Nothing is automatically shared between scenes: no sprites, no blocks,
 no variables. But the old scene can send a message to the new one, to
 start it running, with optional payload as in broadcast (page 23).
 
-![](./myMediaFolder/media/image281.png){width="2.54in"
-height="0.31in"}![](./myMediaFolder/media/image282.png){width="3.129861111111111in"
+![](/snap-manual/assets/images/image281.png){width="2.54in"
+height="0.31in"}![](/snap-manual/assets/images/image282.png){width="3.129861111111111in"
 height="0.5236111111111111in"}**In particular, you can say**
 
 > **if the new scene expects to be started with a green flag signal.**
@@ -1223,7 +1223,7 @@ These aren't new blocks but they have a new feature:**
 These accept two-item (x,y) lists as input, and have extended menus
 (also including other sprites):
 
-![](./myMediaFolder/media/image286.png){width="7.483252405949257in"
+![](/snap-manual/assets/images/image286.png){width="7.483252405949257in"
 height="1.1298611111111112in"}"Center" means the center of the stage,
 the point at (0,0). "Direction" is in the point in direction sense, the
 direction that would leave this sprite pointing toward another sprite,
@@ -1231,7 +1231,7 @@ the mouse, or the center. "Ray length" is the distance from the center
 of this sprite to the nearest point on the other sprite, in the current
 direction.
 
-![](./myMediaFolder/media/image296.png){width="2.571527777777778in"
+![](/snap-manual/assets/images/image296.png){width="2.571527777777778in"
 height="1.41875in"}The stop block has two extra menu choices. Stop this
 block is used inside the definition of a custom block to stop just this
 invocation of this custom block and continue the script that called it.
@@ -1240,47 +1240,47 @@ game pieces from moving around, but keep running this script to provide
 the user's final score. The last two menu choices add a tab at the
 bottom of the block because the current script can continue after it.
 
-![](./myMediaFolder/media/image300.png){width="2.4125in"
+![](/snap-manual/assets/images/image300.png){width="2.4125in"
 height="1.0659722222222223in"}The new "pen trails" option is true if the
 sprite is touching any drawn or stamped ink on the stage. Also, touching
 will not detect hidden sprites, but a hidden sprite can use it to detect
 visible sprites.
 
-![](./myMediaFolder/media/image304.png){width="1.0597222222222222in"
-height="0.2798611111111111in"}![](./myMediaFolder/media/image305.png){width="2.433333333333333in"
+![](/snap-manual/assets/images/image304.png){width="1.0597222222222222in"
+height="0.2798611111111111in"}![](/snap-manual/assets/images/image305.png){width="2.433333333333333in"
 height="0.3in"}The video block has a snap option that takes a snapshot
 and reports it as a costume. It is hyperized with
-![](./myMediaFolder/media/image306.png){width="1.0520833333333333in"
+![](/snap-manual/assets/images/image306.png){width="1.0520833333333333in"
 height="0.28125in"}respect to its second input.
 
-![](./myMediaFolder/media/image307.png){width="1.4166666666666667in"
+![](/snap-manual/assets/images/image307.png){width="1.4166666666666667in"
 height="3.3319444444444444in"}The "neg" option is a monadic negation
 operator, equivalent to . "lg" is log~2~. "id" is the identity function,
 which reports its input. "sign" reports 1 for positive input, 0 for zero
 input, or -1 for negative input.
 
-![](./myMediaFolder/media/image311.png){width="3.286111111111111in"
+![](/snap-manual/assets/images/image311.png){width="3.286111111111111in"
 height="0.5513888888888889in"}
 
-![](./myMediaFolder/media/image313.png){width="3.7604166666666665in"
+![](/snap-manual/assets/images/image313.png){width="3.7604166666666665in"
 height="1.214646762904637in"}
 
-![](./myMediaFolder/media/image325.png){width="2.213888888888889in"
+![](/snap-manual/assets/images/image325.png){width="2.213888888888889in"
 height="1.6604166666666667in"}Extended mouse interaction events, sensing
 clicking, dragging, hovering, etc. The "stopped" option triggers when
 all scripts are stopped, as with the stop button; it is useful for
 robots whose hardware interface must be told to turn off motors. A when
 I am stopped script can run only for a limited time.
 
-![](./myMediaFolder/media/image329.png){width="2.879861111111111in"
+![](/snap-manual/assets/images/image329.png){width="2.879861111111111in"
 height="1.717186132983377in"}
 
 Extended broadcast: Click the right arrowhead to direct the message to a
 single sprite or the stage. Click again to add any value as a payload to
 the message.
 
-![](./myMediaFolder/media/image341.png){width="3.7784722222222222in"
-height="1.8090277777777777in"}![](./myMediaFolder/media/image351.png){width="1.8194444444444444in"
+![](/snap-manual/assets/images/image341.png){width="3.7784722222222222in"
+height="1.8090277777777777in"}![](/snap-manual/assets/images/image351.png){width="1.8194444444444444in"
 height="0.9597222222222223in"}Extended when I receive: Click the right
 arrowhead to expose a script variable (click on it to change its name,
 like any script variable) that will be set to the data of a matching
@@ -1289,28 +1289,28 @@ variable will be set to the message, if no payload is included with the
 broadcast, or to a two-item list containing the message and the payload.
 
 ![A picture containing text, clipart Description automatically
-generated](./myMediaFolder/media/image355.png){width="1.68in"
+generated](/snap-manual/assets/images/image355.png){width="1.68in"
 height="0.38in"} If the input is set to "any key," then a right
 arrowhead appears:
 
-> ![](./myMediaFolder/media/image356.png){width="2.25in"
-> height="0.41944444444444445in"}![](./myMediaFolder/media/image357.png){width="1.8194444444444444in"
+> ![](/snap-manual/assets/images/image356.png){width="2.25in"
+> height="0.41944444444444445in"}![](/snap-manual/assets/images/image357.png){width="1.8194444444444444in"
 > height="0.3798611111111111in"}and if you click it, a script variable
 > key is created whose value is the key that was pressed. (If the key is
 > one that' represented in the input menu by a word or phrase, e.g.,
 > "enter" or "up arrow," then the value of key will be that word or
 > phrase, *except for* the space character, which is represented as
 > itself in key.)\
-> ![](./myMediaFolder/media/image358.png){width="3.0924245406824147in"
+> ![](/snap-manual/assets/images/image358.png){width="3.0924245406824147in"
 > height="0.6895833333333333in"}
 
-![](./myMediaFolder/media/image362.png){width="5.95in"
-height="0.8798611111111111in"}![](./myMediaFolder/media/image366.png){width="5.569444444444445in"
-height="1.1in"}![](./myMediaFolder/media/image370.png){width="6.3694444444444445in"
+![](/snap-manual/assets/images/image362.png){width="5.95in"
+height="0.8798611111111111in"}![](/snap-manual/assets/images/image366.png){width="5.569444444444445in"
+height="1.1in"}![](/snap-manual/assets/images/image370.png){width="6.3694444444444445in"
 height="2.9086690726159232in"}
 
-![](./myMediaFolder/media/image376.png){width="1.455618985126859in"
-height="2.327904636920385in"}![](./myMediaFolder/media/image380.png){width="5.874242125984252in"
+![](/snap-manual/assets/images/image376.png){width="1.455618985126859in"
+height="2.327904636920385in"}![](/snap-manual/assets/images/image380.png){width="5.874242125984252in"
 height="1.0097222222222222in"}These ask features and more in the Menus
 library.
 
@@ -1325,8 +1325,8 @@ right input is a script.
  Libraries
 ---------
 
-![](./myMediaFolder/media/image384.png){width="0.3194444444444444in"
-height="0.18055555555555555in"}![](./myMediaFolder/media/image385.png){width="7.401388888888889in"
+![](/snap-manual/assets/images/image384.png){width="0.3194444444444444in"
+height="0.18055555555555555in"}![](/snap-manual/assets/images/image385.png){width="7.401388888888889in"
 height="3.238888888888889in"}There are several collections of useful
 procedures that aren't Snap*!* primitives, but are provided as
 libraries. To include a library in your project, choose the Libraries...
@@ -1340,7 +1340,7 @@ needs.
 The libraries and their contents may change, but as of this writing the
 list library has these blocks:
 
-![](./myMediaFolder/media/image387.png){width="1.8486111111111112in"
+![](/snap-manual/assets/images/image387.png){width="1.8486111111111112in"
 height="2.4923611111111112in"} (The lightning bolt before the name in
 several of these blocks means that they use compiled HOFs or JavaScript
 primitives to achieve optimal speed. They are officially considered
@@ -1369,7 +1369,7 @@ reports a compact representation of the list as a text string.
 
 The iteration, composition library has these blocks:
 
-![](./myMediaFolder/media/image388.png){width="1.6888888888888889in"
+![](/snap-manual/assets/images/image388.png){width="1.6888888888888889in"
 height="4.75in"}Catch and throw provide a nonlocal exit facility. You
 can drag the tag from a catch block to a throw inside its C-slot, and
 the throw will then jump directly out to the matching catch without
@@ -1390,8 +1390,8 @@ on that value, *f*(*f*(*f*(*f*...(*x*)))).
 The compose block takes two functions and reports the function
 *f*(*g*(*x*)).
 
-![](./myMediaFolder/media/image389.png){width="1.0444444444444445in"
-height="0.16111111111111112in"}![](./myMediaFolder/media/image390.png){width="3.1527777777777777in"
+![](/snap-manual/assets/images/image389.png){width="1.0444444444444445in"
+height="0.16111111111111112in"}![](/snap-manual/assets/images/image390.png){width="3.1527777777777777in"
 height="0.2986111111111111in"}The first three repeat blocks are variants
 of the primitive repeat until block, giving all four combinations of
 whether the first test happens before or after the first repetition, and
@@ -1402,15 +1402,15 @@ are variations on for: the first allows an explicit step instead of
 using ±1, and the second allows any values, not just numbers; inside the
 script you say
 
-![](./myMediaFolder/media/image391.png){width="3.4409722222222223in"
-height="1.3611111111111112in"}![](./myMediaFolder/media/image392.png){width="3.709722222222222in"
+![](/snap-manual/assets/images/image391.png){width="3.4409722222222223in"
+height="1.3611111111111112in"}![](/snap-manual/assets/images/image392.png){width="3.709722222222222in"
 height="1.1715277777777777in"}replacing the grey block in the picture
 with an expression to give the next desired value for the loop index.
 Pipe allows reordering a nested composition with a left-to-right one:
 
 The stream library has these blocks:
 
-![](./myMediaFolder/media/image393.png){width="3.161111111111111in"
+![](/snap-manual/assets/images/image393.png){width="3.161111111111111in"
 height="2.1534722222222222in"}*Streams* are a special kind of list whose
 items are not computed until they are needed. This makes certain
 computations more efficient, and also allows the creation of lists with
@@ -1427,7 +1427,7 @@ infinite stream of numbers.
 
 The word and sentence library has these blocks:
 
-![](./myMediaFolder/media/image394.png){width="1.679861111111111in"
+![](/snap-manual/assets/images/image394.png){width="1.679861111111111in"
 height="3.6430555555555557in"}This library has the goal of recreating
 the Logo approach to handling text: A text isn't best viewed as a string
 of characters, but rather as a *sentence*, made of *words,* each of
@@ -1482,7 +1482,7 @@ the structure, as in Lisp/Scheme.
 
 The pixels library has one block:
 
-![](./myMediaFolder/media/image395.png){width="0.7791666666666667in"
+![](/snap-manual/assets/images/image395.png){width="0.7791666666666667in"
 height="0.6298611111111111in"}Costumes are first class data in Snap*!*.
 Most of the processing of costume data is done by primitive blocks in
 the Looks category. (See page 79.) This library provides snap, which
@@ -1491,7 +1491,7 @@ costume.
 
 The bar charts library has these blocks:
 
-![](./myMediaFolder/media/image396.png){width="3.4305555555555554in"
+![](/snap-manual/assets/images/image396.png){width="3.4305555555555554in"
 height="1.9166666666666667in"}Bar chart takes a table (typically from a
 CSV data set) as input and reports a summary of the table grouped by the
 field in the specified column number. The remaining three inputs are
@@ -1518,7 +1518,7 @@ Analysis\" library instead.
 
 The multi-branched conditional library has these blocks:
 
-![](./myMediaFolder/media/image397.png){width="1.85in"
+![](/snap-manual/assets/images/image397.png){width="1.85in"
 height="2.479861111111111in"}The catch and throw blocks duplicate ones
 in the iteration library, and are included because they are used to
 implement the others. The cases block sets up a multi-branch
@@ -1536,7 +1536,7 @@ no other branches are tested.
 
 The variadic library has these blocks:
 
-![](./myMediaFolder/media/image398.png){width="1.1965277777777779in"
+![](/snap-manual/assets/images/image398.png){width="1.1965277777777779in"
 height="0.4166666666666667in"}These are versions of the associative
 operators and, and or that take any number of inputs instead of exactly
 two inputs. As with any variadic input, you can also drop a list of
@@ -1545,7 +1545,7 @@ As of version 8.0, the arithmetic operators sum, product, minimum, and
 maximum are no longer included, because the primitive operators +. ×,
 min, and max are themselves variadic.
 
-![](./myMediaFolder/media/image399.png){width="7.277083333333334in"
+![](/snap-manual/assets/images/image399.png){width="7.277083333333334in"
 height="1.1027777777777779in"}The colors and crayons library has these
 blocks:
 
@@ -1559,15 +1559,15 @@ color scale (as in the old days, but better) based on fair hues and
 including shades (darker colors) and grayscale. Another linear scale is
 a curated set of 100 "crayons," explained further on the next page.
 
-![](./myMediaFolder/media/image409.png){width="3.0590277777777777in"
-height="2.283333333333333in"}![](./myMediaFolder/media/image413.png){width="1.1333333333333333in"
-height="0.23333333333333334in"}![](./myMediaFolder/media/image414.png){width="0.95in"
+![](/snap-manual/assets/images/image409.png){width="3.0590277777777777in"
+height="2.283333333333333in"}![](/snap-manual/assets/images/image413.png){width="1.1333333333333333in"
+height="0.23333333333333334in"}![](/snap-manual/assets/images/image414.png){width="0.95in"
 height="0.225in"}Colors are created by the block (for direct user
 selection), the color from block to specify a color numerically, or by ,
 which reports the color currently in use by the pen. The from color
 block reports names or numbers associated with a color:
 
-![](./myMediaFolder/media/image415.png){width="4.833333333333333in"
+![](/snap-manual/assets/images/image415.png){width="4.833333333333333in"
 height="0.4305555555555556in"}Colors can be created from other colors:
 
 The three blocks with pen in their names are improved versions of
@@ -1577,53 +1577,53 @@ color from block, but in fact set pen benefits from knowing how the pen
 color was set in its previous invocation, so it's implemented separately
 from color from. Details in Appendix A.
 
-![](./myMediaFolder/media/image416.png){width="7.5in"
+![](/snap-manual/assets/images/image416.png){width="7.5in"
 height="0.25in"}The recommended way to choose a color is from one of two
 linear scales: the continuous *color numbers* and the discrete
 *crayons:*
 
-![](./myMediaFolder/media/image417.png){width="7.5in" height="0.25in"}
+![](/snap-manual/assets/images/image417.png){width="7.5in" height="0.25in"}
 
-![](./myMediaFolder/media/image418.png){width="4.0in"
+![](/snap-manual/assets/images/image418.png){width="4.0in"
 height="0.20833333333333334in"}Color numbers are based on *fair hues,* a
 modification of the spectrum (rainbow) hue scale that devotes less space
 to green and more to orange and yellow, as well as promoting brown to a
 real color. Here is the normal hue scale, for reference:
 
-![](./myMediaFolder/media/image419.png){width="4.0in"
+![](/snap-manual/assets/images/image419.png){width="4.0in"
 height="0.20833333333333334in"}Here is the fair hue scale:
 
-![](./myMediaFolder/media/image416.png){width="5.0in"
+![](/snap-manual/assets/images/image416.png){width="5.0in"
 height="0.20833333333333334in"}Here is the color number scale:
 
 (The picture is wider so that pure spectral colors line up with the fair
 hue scale.)
 
-![](./myMediaFolder/media/image417.png){width="5.0in"
+![](/snap-manual/assets/images/image417.png){width="5.0in"
 height="0.20833333333333334in"}And here are the 100 crayons:
 
 The color from block, for example, provides different pulldown menus
 depending on which scale you choose:
 
-![](./myMediaFolder/media/image420.png){width="2.4166666666666665in"
-height="0.34444444444444444in"}![](./myMediaFolder/media/image421.png){width="7.070138888888889in"
+![](/snap-manual/assets/images/image420.png){width="2.4166666666666665in"
+height="0.34444444444444444in"}![](/snap-manual/assets/images/image421.png){width="7.070138888888889in"
 height="2.8673611111111112in"}You can also type the crayon name: There
 are many scales:
 
-![](./myMediaFolder/media/image427.png){width="4.291666666666667in"
+![](/snap-manual/assets/images/image427.png){width="4.291666666666667in"
 height="1.9097222222222223in"}
 
-![](./myMediaFolder/media/image428.png){width="6.1506944444444445in"
+![](/snap-manual/assets/images/image428.png){width="6.1506944444444445in"
 height="0.5347222222222222in"} The white slot at the end of some of the
 blocks has two purposes. It can be used to add a transparency to a color
 (0=opaque, 100=transparent):
 
-![](./myMediaFolder/media/image432.png){width="7.029861111111111in"
+![](/snap-manual/assets/images/image432.png){width="7.029861111111111in"
 height="0.4305555555555556in"}or it can be expanded to enter three or
 four numbers for a vector directly into the block, so these are
 equivalent:
 
-![](./myMediaFolder/media/image436.png){width="7.493055555555555in"
+![](/snap-manual/assets/images/image436.png){width="7.493055555555555in"
 height="0.4305555555555556in"}But note that a transparency number in a
 four-number RGBA vector is on the scale 255=opaque, 0=transparent, so
 the following are *not* equivalent:
@@ -1631,11 +1631,11 @@ the following are *not* equivalent:
 Set pen crayon to provides the equivalent of a box of 100 crayons. They
 are divided into color groups, so the menu in the set pen crayon to
 input slot has submenus. The colors are chosen so that starting
-![](./myMediaFolder/media/image440.png){width="4.365277777777778in"
+![](/snap-manual/assets/images/image440.png){width="4.365277777777778in"
 height="0.5152777777777777in"}from crayon 0, change pen crayon by 10
 rotates through an interesting, basic set of ten colors:
 
-![](./myMediaFolder/media/image441.png){width="4.355555555555555in"
+![](/snap-manual/assets/images/image441.png){width="4.355555555555555in"
 height="0.28194444444444444in"}Using change pen crayon by 5 instead
 gives ten more colors, for a total of 20:
 
@@ -1649,14 +1649,14 @@ stage background color. White is crayon 14.) Note that crayon 43 is
 
 See Appendix A (page 139) for more information.
 
-![](./myMediaFolder/media/image442.png){width="1.51in"
+![](/snap-manual/assets/images/image442.png){width="1.51in"
 height="0.9in"}The **crayon library** has only the crayon features,
 without the rest of the colors package.
 
 The catch errors library has these blocks:
 
-![](./myMediaFolder/media/image443.png){width="0.4305555555555556in"
-height="0.1527777777777778in"}![](./myMediaFolder/media/image444.png){width="3.0416666666666665in"
+![](/snap-manual/assets/images/image443.png){width="0.4305555555555556in"
+height="0.1527777777777778in"}![](/snap-manual/assets/images/image444.png){width="3.0416666666666665in"
 height="1.3958333333333333in"}The safely try block allows you to handle
 errors that happen when your program is run within the program, instead
 of stopping the script with a red halo and an obscure error message. The
@@ -1671,11 +1671,11 @@ reporting is the reporter version of safely try.
 
 The text costumes library has only two blocks:
 
-![](./myMediaFolder/media/image445.png){width="0.5347222222222222in"
-height="0.20833333333333334in"}![](./myMediaFolder/media/image446.png){width="1.92in"
+![](/snap-manual/assets/images/image445.png){width="0.5347222222222222in"
+height="0.20833333333333334in"}![](/snap-manual/assets/images/image446.png){width="1.92in"
 height="0.4507830271216098in"}Costume from text reports a costume that
 can be used with the switch to
-![](./myMediaFolder/media/image447.png){width="3.2597222222222224in"
+![](/snap-manual/assets/images/image447.png){width="3.2597222222222224in"
 height="0.18958333333333333in"}costume block to make a button:
 
 Costume with background reports a costume made from another costume by
@@ -1683,25 +1683,25 @@ coloring its background, taking a color input like the set pen color to
 RGB(A) block and a number of turtle steps of padding around the original
 costume. These two blocks work together to make even better buttons:
 
-![](./myMediaFolder/media/image448.png){width="5.51in" height="0.68in"}
+![](/snap-manual/assets/images/image448.png){width="5.51in" height="0.68in"}
 
 The text to speech library has these blocks:
 
-![](./myMediaFolder/media/image449.png){width="2.275in"
+![](/snap-manual/assets/images/image449.png){width="2.275in"
 height="0.8in"}This library interfaces with a capability in up-to-date
 browsers, so it might not work for you. It works best if the accent
 matches the text!
 
 The parallelization library contains these blocks:
 
-![](./myMediaFolder/media/image450.png){width="1.179861111111111in"
+![](/snap-manual/assets/images/image450.png){width="1.179861111111111in"
 height="1.2597222222222222in"}The two do in parallel blocks take any
 number of scripts as inputs. Those scripts will be run in parallel, like
 ordinary independent scripts in the scripting area. The and wait version
 waits until all of those scripts have finished before continuing the
 script below the block.
 
-![](./myMediaFolder/media/image451.png){width="1.3777777777777778in"
+![](/snap-manual/assets/images/image451.png){width="1.3777777777777778in"
 height="1.4833333333333334in"}The create variables library has these
 blocks:
 
@@ -1714,8 +1714,8 @@ delete them, and find out if they already exist.
 
 The getters and setters library has these blocks:
 
-![](./myMediaFolder/media/image452.png){width="1.875in"
-height="1.05in"}![](./myMediaFolder/media/image453.png){width="0.2916666666666667in"
+![](/snap-manual/assets/images/image452.png){width="1.875in"
+height="1.05in"}![](/snap-manual/assets/images/image453.png){width="0.2916666666666667in"
 height="0.16666666666666666in"}The purpose of this library is to allow
 program access to the settings controlled by user interface elements,
 such as the settings menu. The setting block reports a setting; the set
@@ -1732,7 +1732,7 @@ extensions to use it.
 
 The bignums, rationals, complex \#s library has these blocks:
 
-![](./myMediaFolder/media/image454.png){width="1.875in"
+![](/snap-manual/assets/images/image454.png){width="1.875in"
 height="1.55in"}The USE BIGNUMS block takes a Boolean input, to turn the
 infinite precision feature on or off. When on, all of the arithmetic
 operators are redefined to accept and report integers of any number of
@@ -1742,13 +1742,13 @@ numbers. The Scheme number block has a list of functions applicable to
 Scheme numbers, including subtype predicates such as rational? and
 infinite?, and selectors such as numerator and real-part.
 
-![](./myMediaFolder/media/image455.png){width="4.836805555555555in"
+![](/snap-manual/assets/images/image455.png){width="4.836805555555555in"
 height="0.4166666666666667in"}The ! block computes the factorial
 function, useful to test whether bignums are turned on. Without bignums:
 
 With bignums:
 
-![](./myMediaFolder/media/image459.png){width="7.527083333333334in"
+![](/snap-manual/assets/images/image459.png){width="7.527083333333334in"
 height="0.36041666666666666in"}The 375-digit value of 200! isn't
 readable on this page, but if you right-click on the block and choose
 "result pic," you can open the resulting picture in a browser window and
@@ -1760,7 +1760,7 @@ type.
 
 The strings, multi-line input library provides these blocks:
 
-![](./myMediaFolder/media/image463.png){width="3.9375in"
+![](/snap-manual/assets/images/image463.png){width="3.9375in"
 height="2.0416666666666665in"}All of these could be written in Snap*!*
 itself, but these are implemented using the corresponding JavaScript
 library functions directly, so they run fast. They can be used, for
@@ -1771,12 +1771,12 @@ characters.
 
 The animation library has these blocks:
 
-![](./myMediaFolder/media/image464.png){width="4.0125in"
+![](/snap-manual/assets/images/image464.png){width="4.0125in"
 height="2.33125in"}Despite the name, this isn't only about graphics; you
 can animate the values of a variable, or anything else that's expressed
 numerically.
 
-![](./myMediaFolder/media/image465.png){width="0.9652777777777778in"
+![](/snap-manual/assets/images/image465.png){width="0.9652777777777778in"
 height="0.19444444444444445in"}The central idea of this library is an
 *easing function,* a reporter whose domain and range are real numbers
 between 0 and 1 inclusive. The function represents what fraction of the
@@ -1789,7 +1789,7 @@ and accelerating. (Note that, since it's a requirement that *f*(0)=0 and
 similarly for other categories.) The block reports some of the common
 easing functions.
 
-![](./myMediaFolder/media/image466.png){width="4.631944444444445in"
+![](/snap-manual/assets/images/image466.png){width="4.631944444444445in"
 height="0.6319444444444444in"}The two Motion blocks in this library
 animate a sprite. Glide always animates the sprite's motion. Animate's
 first pulldown menu input allows you to animate horizontal or vertical
@@ -1798,14 +1798,14 @@ animate block in Control lets you animate any numeric quantity with any
 easing function. The getter and setter inputs are best explained by
 example:
 
-![](./myMediaFolder/media/image467.png){width="3.4097222222222223in"
+![](/snap-manual/assets/images/image467.png){width="3.4097222222222223in"
 height="0.2569444444444444in"}is equivalent to
 
 The other blocks in the library are helpers for these four.
 
 The serial ports library contains these blocks:
 
-![](./myMediaFolder/media/image468.png){width="1.7326388888888888in"
+![](/snap-manual/assets/images/image468.png){width="1.7326388888888888in"
 height="1.0347222222222223in"}It is used to allow hardware developers to
 control devices such as robots that are
 
@@ -1813,7 +1813,7 @@ connected to your computer via a serial port.
 
 The frequency distribution analysis library has these blocks:
 
-![](./myMediaFolder/media/image469.png){width="4.027083333333334in"
+![](/snap-manual/assets/images/image469.png){width="4.027083333333334in"
 height="2.3958333333333335in"}
 
 This is a collection of tools for analyzing large data sets and plotting
@@ -1826,7 +1826,7 @@ http://tinyurl.com/jens-data
 
 The audio comp library includes these blocks:
 
-![](./myMediaFolder/media/image470.png){width="3.5416666666666665in"
+![](/snap-manual/assets/images/image470.png){width="3.5416666666666665in"
 height="2.98125in"}This library takes a sound, one that you record or
 one from our collection of sounds, and manipulates it by systematically
 changing the intensity of the samples in the sound and by changing the
@@ -1837,7 +1837,7 @@ sine wave as a list of samples.
 
 The web services library has these blocks:
 
-![](./myMediaFolder/media/image471.png){width="3.4097222222222223in"
+![](/snap-manual/assets/images/image471.png){width="3.4097222222222223in"
 height="1.1041666666666667in"}The first block is a generalization of the
 primitive url block, allowing more control over the various options in
 web requests: GET, POST, PUT, and DELETE, and fine control over the
@@ -1849,14 +1849,14 @@ just a constructor for an abstract data type used with the other blocks
 
 The database library contains these blocks:
 
-![](./myMediaFolder/media/image472.png){width="2.263888888888889in"
+![](/snap-manual/assets/images/image472.png){width="2.263888888888889in"
 height="1.2222222222222223in"}It is used to keep data that persist from
 one Snap*!* session to the next, if you use the same browser and the
 same login.
 
 The world map library has these blocks:
 
-![](./myMediaFolder/media/image473.png){width="2.442361111111111in"
+![](/snap-manual/assets/images/image473.png){width="2.442361111111111in"
 height="3.4027777777777777in"}Using any of the command blocks puts a map
 on the screen, in a layer in front of the stage's background but behind
 the pen trails layer (which is in turn behind all the sprites). The
@@ -1879,15 +1879,15 @@ allows things like satellite pictures.
 
 The APL primitives library contains these blocks:
 
-![](./myMediaFolder/media/image474.png){width="5.733333333333333in"
+![](/snap-manual/assets/images/image474.png){width="5.733333333333333in"
 height="1.1133333333333333in"}
 
-![](./myMediaFolder/media/image475.png){width="6.453333333333333in"
+![](/snap-manual/assets/images/image475.png){width="6.453333333333333in"
 height="2.04in"}
 
 For more information about APL, see Appendix B (page 148).
 
-The ![](./myMediaFolder/media/image476.png){width="1.2in"
+The ![](/snap-manual/assets/images/image476.png){width="1.2in"
 height="0.4895833333333333in"}**list comprehension library** has one
 block, zip. Its first input is a function of two inputs. The two
 Any-type inputs are deep lists (lists of lists of...) interpreted as
@@ -1899,7 +1899,7 @@ of each tree to be vectors (one-dimensional lists), matrices
 dimension for each tree, so the function input might be called with a
 vector from the first tree and an atom from the second tree.
 
-![](./myMediaFolder/media/image477.png){width="0.89in"
+![](/snap-manual/assets/images/image477.png){width="0.89in"
 height="1.51in"}The **bitwise library** provides bitwise logic
 functions; each bit of the reported value is the result of applying the
 corresponding Boolean function to the corresponding bits of the
@@ -1911,19 +1911,19 @@ from the left), and \>\>\> is logical right shift (shifting in zero bits
 from the left). If you don't already know what these mean, find a
 tutorial online.
 
-![](./myMediaFolder/media/image478.png){width="6.528977471566054in"
+![](/snap-manual/assets/images/image478.png){width="6.528977471566054in"
 height="1.6097222222222223in"}
 
 The **MQTT library** supports the Message Queuing Telemetry Transport
 protocol, for connecting with IOT devices. See <https://mqtt.org/> for
 more information.
 
-![](./myMediaFolder/media/image482.png){width="4.986805555555556in"
+![](/snap-manual/assets/images/image482.png){width="4.986805555555556in"
 height="2.8895833333333334in"}The **Signada library** allows you to
 control a microBit or similar device that works with the Signada
 MicroBlocks project.
 
-![](./myMediaFolder/media/image486.png){width="3.39in" height="1.9in"}
+![](/snap-manual/assets/images/image486.png){width="3.39in" height="1.9in"}
 
 The **menus library** provides the ability to display hierarchical menus
 on the stage, using the ask block's ability to take lists as inputs. See
@@ -1936,7 +1936,7 @@ discuss here and are documented separately at
 respectively.
 
 Saving and Loading Projects and Media
-=====================================
+=================
 
 After you've created a project, you'll want to save it, so that you can
 have access to it the next time you use Snap*!*. There are two ways to
@@ -1949,7 +1949,7 @@ while on an airplane or otherwise not on the net. Also, cloud projects
 are limited in size, but you can have all the costumes and sounds you
 like if you save locally. This is why we have multiple ways to save.
 
-![](./myMediaFolder/media/image487.png){width="3.548611111111111in"
+![](/snap-manual/assets/images/image487.png){width="3.548611111111111in"
 height="2.576388888888889in"}In either case, if you choose "Save as..."
 from the File menu. You'll see something like this:
 
@@ -1967,10 +1967,10 @@ project has a name, that name will be the default filename if you don't
 give a different name. Another, equivalent way to save to disk is to
 choose "Export project" from the File menu.
 
-![](./myMediaFolder/media/image488.png){width="1.2340277777777777in" height="2.329861111111111in"}Creating a Cloud Account
+![](/snap-manual/assets/images/image488.png){width="1.2340277777777777in" height="2.329861111111111in"}Creating a Cloud Account
 --------------------------------------------------------------------------------------------------------------------------
 
-![](./myMediaFolder/media/image489.png){width="0.2916666666666667in"
+![](/snap-manual/assets/images/image489.png){width="0.2916666666666667in"
 height="0.16666666666666666in"}The other possibility is to save your
 project "in the cloud," at the Snap*!* web site. In order to do this,
 you need an account with us. Click on the Cloud button ( ) in the Tool
@@ -2018,7 +2018,7 @@ Saving to the Cloud
 Once you've created your account, you can log into it using the
 "Login..." option from the Cloud menu:
 
-![](./myMediaFolder/media/image490.png){width="1.6875in"
+![](/snap-manual/assets/images/image490.png){width="1.6875in"
 height="2.0277777777777777in"}Use the user name and password that you
 set up earlier. If you check the "Stay signed in" box, then you will be
 logged in automatically the next time you run Snap*!* from the same
@@ -2069,7 +2069,7 @@ the Computer and Cloud options.
 If you lose your project, do this first!
 ----------------------------------------
 
-![](./myMediaFolder/media/image384.png){width="0.3194444444444444in"
+![](/snap-manual/assets/images/image384.png){width="0.3194444444444444in"
 height="0.18055555555555555in"}If you are still in **Snap*!*** and
 realize that you've loaded another project without saving the one you
 were working on: ***Don't edit the new project.*** From the File menu
@@ -2094,7 +2094,7 @@ To help you remember to save your projects, when you've edited the
 project and haven't yet saved it, Snap*!* displays a pencil icon to the
 left of the project name on the toolbar at the top of the window:
 
-![](./myMediaFolder/media/image491.png){width="6.29671697287839in"
+![](/snap-manual/assets/images/image491.png){width="6.29671697287839in"
 height="0.5138888888888888in"}
 
 Private and Public Projects
@@ -2121,13 +2121,13 @@ has a partial custom block capability.
 Simple Blocks
 -------------
 
-![](./myMediaFolder/media/image495.png){width="7.5in"
+![](/snap-manual/assets/images/image495.png){width="7.5in"
 height="2.7152777777777777in"}In every palette, at or near the bottom,
 is a button labeled "Make a block." Also, floating near the top of the
 palette is a plus sign. Also, the menu you get by right-clicking on the
 background of the scripting area has a "make a block" option.
 
-![](./myMediaFolder/media/image501.png){width="2.2708333333333335in"
+![](/snap-manual/assets/images/image501.png){width="2.2708333333333335in"
 height="2.3472222222222223in"}Clicking any of these will display a
 dialog window in which you choose the block's name, shape, and
 palette/color. You also decide whether the block will be available to
@@ -2155,16 +2155,16 @@ has a picture of the block you're building. This hat block is called the
 *prototype* of your custom block.[^3] You drag blocks under the hat to
 program your custom block, then click OK:
 
-![](./myMediaFolder/media/image502.png){width="4.210937226596675in"
+![](/snap-manual/assets/images/image502.png){width="4.210937226596675in"
 height="1.3364041994750657in"}
 
-![](./myMediaFolder/media/image503.png){width="4.615555555555556in"
+![](/snap-manual/assets/images/image503.png){width="4.615555555555556in"
 height="3.647777777777778in"}
 
 Your block appears at the bottom of the Motion palette. Here's the block
 and the result of using it:
 
-![](./myMediaFolder/media/image504.png){width="4.242361111111111in"
+![](/snap-manual/assets/images/image504.png){width="4.242361111111111in"
 height="1.4166666666666667in"}
 
 ###  Custom Blocks with Inputs
@@ -2174,10 +2174,10 @@ Control-click or right-click on the block, choose "edit," and the Block
 Editor will open. Notice the plus signs before and after the word square
 in the prototype block. If you hover the mouse over one, it lights up:
 
-![](./myMediaFolder/media/image508.png){width="3.4444444444444446in"
+![](/snap-manual/assets/images/image508.png){width="3.4444444444444446in"
 height="2.7222222222222223in"}
 
-![](./myMediaFolder/media/image509.png){width="2.5833333333333335in"
+![](/snap-manual/assets/images/image509.png){width="2.5833333333333335in"
 height="1.6041666666666667in"}Click on the plus on the right. You will
 then see the "input name" dialog:
 
@@ -2188,14 +2188,14 @@ steps" block. Or you can select a more extensive dialog with a lot of
 options about your input name. But we'll leave that for later. When you
 click OK, the new input appears in the block prototype:
 
-![](./myMediaFolder/media/image510.png){width="1.4791666666666667in"
+![](/snap-manual/assets/images/image510.png){width="1.4791666666666667in"
 height="1.4895833333333333in"}You can now drag the orange variable down
 into the script, then click okay:
 
-![](./myMediaFolder/media/image511.png){width="1.474724409448819in"
+![](/snap-manual/assets/images/image511.png){width="1.474724409448819in"
 height="1.495495406824147in"}
 
-![](./myMediaFolder/media/image512.png){width="0.6979166666666666in"
+![](/snap-manual/assets/images/image512.png){width="0.6979166666666666in"
 height="0.25in"}Your block now appears in the Motion palette with an
 input box: You can draw any size square by entering the length of its
 side in the box and running the block as usual, by clicking it or by
@@ -2203,7 +2203,7 @@ putting it in a script.
 
 ### Editing Block Properties
 
-![](./myMediaFolder/media/image513.png){width="0.9993055555555556in"
+![](/snap-manual/assets/images/image513.png){width="0.9993055555555556in"
 height="0.7604166666666666in"}What if you change your mind about a
 block's color (palette) or shape (command, reporter, predicate)? If you
 click in the hat block at the top that holds the prototype, but not in
@@ -2240,9 +2240,9 @@ same thing as regular clicking, as described earlier.
 Recursion
 ---------
 
-![](./myMediaFolder/media/image514.png){width="2.9652777777777777in"
-height="2.3631944444444444in"}![](./myMediaFolder/media/image515.png){width="1.9583333333333333in"
-height="2.3541666666666665in"}![](./myMediaFolder/media/image516.png){width="1.4236111111111112in"
+![](/snap-manual/assets/images/image514.png){width="2.9652777777777777in"
+height="2.3631944444444444in"}![](/snap-manual/assets/images/image515.png){width="1.9583333333333333in"
+height="2.3541666666666665in"}![](/snap-manual/assets/images/image516.png){width="1.4236111111111112in"
 height="0.9118055555555555in"}Since the new custom block appears in its
 palette as soon as you *start* editing it, you can write recursive
 blocks (blocks that call themselves) by dragging the block into its own
@@ -2267,7 +2267,7 @@ hires Theo to make another tree of size 70, depth 5. Tom in turn hires
 Tammy and Tallulah, and so on. Each little person has his or her own
 local variables size and depth, each with different values.
 
-![](./myMediaFolder/media/image517.png){width="4.8380686789151355in"
+![](/snap-manual/assets/images/image517.png){width="4.8380686789151355in"
 height="1.5833333333333333in"}You can also write recursive reporters,
 like this block to compute the factorial function:
 
@@ -2283,7 +2283,7 @@ early, for command blocks. (By contrast, the stop this script block
 stops not only the current block invocation, but also the entire
 toplevel script that called it.)
 
-![](./myMediaFolder/media/image521.png){width="4.291666666666667in"
+![](/snap-manual/assets/images/image521.png){width="4.291666666666667in"
 height="0.8645833333333334in"}Here's a slightly more compact way to
 write the factorial function:
 
@@ -2305,7 +2305,7 @@ game. Such a collection of blocks is called a *block library.*
 *To create a block library, choose "Export blocks..." from the File
 menu. You then see a window like this:
 
-![](./myMediaFolder/media/image522.png){width="2.0215277777777776in"
+![](/snap-manual/assets/images/image522.png){width="2.0215277777777776in"
 height="2.7222222222222223in"}The window shows all of your global custom
 blocks. You can uncheck some of the checkboxes to select exactly which
 blocks you want to include in your library. (You can right-click or
@@ -2326,7 +2326,7 @@ Visible stepping normally treats a call to a custom block as a single
 step. If you want to see stepping inside a custom block you must take
 these steps *in order:*
 
-1.  ![](./myMediaFolder/media/image123.png){width="0.2916666666666667in"
+1.  ![](/snap-manual/assets/images/image123.png){width="0.2916666666666667in"
     height="0.16666666666666666in"}Turn on Visible Stepping.
 
 2.  Select "Edit" in the context menu(s) of the block(s) you want to
@@ -2373,7 +2373,7 @@ able to use it fully and freely. We believe that this principle avoids
 the need for many special-case tools, which can instead be written by
 Snap*!* users themselves.
 
-![](./myMediaFolder/media/image523.png){width="2.839583333333333in"
+![](/snap-manual/assets/images/image523.png){width="2.839583333333333in"
 height="0.41597222222222224in"}Note that it's a data *type* that's ﬁrst
 class, not an individual value. Don't think, for example, that some
 lists are ﬁrst class, while others aren't. In Snap*!*, lists are ﬁrst
@@ -2386,19 +2386,19 @@ At the heart of providing first class lists is the ability to make an
 "anonymous" list---to make a list without simultaneously giving it a
 name. The list reporter block does that.
 
-![](./myMediaFolder/media/image524.png){width="4.2in"
+![](/snap-manual/assets/images/image524.png){width="4.2in"
 height="1.5694444444444444in"}At the right end of the block are two
 left-and-right arrowheads. Clicking on these changes the number of
 inputs to list, i.e., the number of elements in the list you are
 building. Shift-clicking changes by three at a time.
 
-![](./myMediaFolder/media/image534.png){width="1.5034722222222223in"
-height="1.8125in"}![](./myMediaFolder/media/image535.png){width="2.24375in"
+![](/snap-manual/assets/images/image534.png){width="1.5034722222222223in"
+height="1.8125in"}![](/snap-manual/assets/images/image535.png){width="2.24375in"
 height="0.3215277777777778in"}You can use this block as input to many
 other blocks:
 
-![](./myMediaFolder/media/image536.png){width="3.09375in"
-height="0.7708333333333334in"}![](./myMediaFolder/media/image537.png){width="1.8229166666666667in"
+![](/snap-manual/assets/images/image536.png){width="3.09375in"
+height="0.7708333333333334in"}![](/snap-manual/assets/images/image537.png){width="1.8229166666666667in"
 height="0.2916666666666667in"}Snap*!* does not have a "Make a list"
 button like the one in Scratch. If you want a global "named list," make
 a global variable and use the set block to put a list into the variable.
@@ -2406,7 +2406,7 @@ a global variable and use the set block to put a list into the variable.
 Lists of Lists
 --------------
 
-![](./myMediaFolder/media/image538.png){width="5.888888888888889in"
+![](/snap-manual/assets/images/image538.png){width="5.888888888888889in"
 height="1.0486111111111112in"}Lists can be inserted as elements in
 larger lists. We can easily create ad hoc structures as needed:
 
@@ -2415,7 +2415,7 @@ Loves You" list above. A two-dimensional list is called a *table* and is
 by default shown in *table view.* We'll have more to say about this
 later.
 
-![](./myMediaFolder/media/image539.png){width="7.343055555555556in"
+![](/snap-manual/assets/images/image539.png){width="7.343055555555556in"
 height="2.78125in"}We can also build any classic computer science data
 structure out of lists of lists, by defining *constructors* (blocks to
 make an instance of the structure), *selectors* (blocks to pull out a
@@ -2427,7 +2427,7 @@ shown but the ones for left and right children are analogous.
  Functional and Imperative List Programming
 ------------------------------------------
 
-![](./myMediaFolder/media/image543.png){width="2.1041666666666665in"
+![](/snap-manual/assets/images/image543.png){width="2.1041666666666665in"
 height="1.09375in"} There are two ways to create a list inside a
 program. Scratch users will be familiar with the *imperative*
 programming style, which is based on a set of command blocks that modify
@@ -2437,7 +2437,7 @@ As an example, here are two blocks that take a list of numbers as input,
 and report a new list containing only the even numbers from the original
 list:[^4]
 
-![](./myMediaFolder/media/image551.png){width="5.892361111111111in"
+![](/snap-manual/assets/images/image551.png){width="5.892361111111111in"
 height="2.28125in"}
 
 or
@@ -2447,7 +2447,7 @@ list in it, then go through the items of the input list using the add
 **...** to (result) block to modify the result list, adding one item at
 a time, and finally report the result.
 
-![](./myMediaFolder/media/image195.png){width="1.5625in"
+![](/snap-manual/assets/images/image195.png){width="1.5625in"
 height="0.8104166666666667in"}*Functional* programming is a different
 approach that is becoming important in "real world" programming because
 of parallelism, i.e., the fact that different processors can be
@@ -2467,7 +2467,7 @@ the original list.* A nonempty list is processed by dividing it into its
 first item (item 1 of) and all the rest of the items (all but first of),
 which are handled through a recursive call:
 
-![](./myMediaFolder/media/image555.png){width="4.75in"
+![](/snap-manual/assets/images/image555.png){width="4.75in"
 height="2.240972222222222in"}Snap*!* uses two different internal
 representations of lists, one (dynamic array) for imperative programming
 and the other (linked list) for functional programming. Each
@@ -2480,12 +2480,12 @@ representation.) You don't have to know the details of the internal
 representations, but it's worthwhile to use each list in a consistent
 way.
 
-![](./myMediaFolder/media/image556.png){width="5.864583333333333in" height="1.0715277777777779in"}Higher Order List Operations and Rings
+![](/snap-manual/assets/images/image556.png){width="5.864583333333333in" height="1.0715277777777779in"}Higher Order List Operations and Rings
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 There's an even easier way to select the even numbers from a list:
 
-![](./myMediaFolder/media/image557.png){width="2.375in"
+![](/snap-manual/assets/images/image557.png){width="2.375in"
 height="0.2777777777777778in"}The keep block takes a Predicate
 expression as its first input, and a list as its second input. It
 reports a list containing those elements of the input list for which the
@@ -2497,7 +2497,7 @@ supposed to remind you of the "box" notation for variables in elementary
 school: ☐+3=7.) The grey ring is part of the keep block as it appears in
 the palette:
 
-![](./myMediaFolder/media/image558.png){width="4.1402777777777775in"
+![](/snap-manual/assets/images/image558.png){width="4.1402777777777775in"
 height="0.6354166666666666in"}What the ring means is that this input is
 a block (a predicate block, in this case, because the interior of the
 ring is a hexagon), rather than the value reported by that block. Here's
@@ -2509,12 +2509,12 @@ evaluate the = predicate repeatedly, once for each list item. A block
 that takes another block as input is called a *higher order* block (or
 higher order procedure, or higher order function).
 
-![](./myMediaFolder/media/image562.png){width="2.39in"
-height="0.22in"}![](./myMediaFolder/media/image563.png){width="1.6944444444444444in"
+![](/snap-manual/assets/images/image562.png){width="2.39in"
+height="0.22in"}![](/snap-manual/assets/images/image563.png){width="1.6944444444444444in"
 height="0.9930555555555556in"} Snap*!* provides four higher order
 function blocks for operating on lists:
 
-![](./myMediaFolder/media/image571.emf){width="7.5in"
+![](/snap-manual/assets/images/image571.emf){width="7.5in"
 height="1.7138888888888888in"}You've already seen keep. Find first is
 similar, but it reports just the first item that satisfies the
 predicate, not a list of all the matching items. It's equivalent to but
@@ -2523,10 +2523,10 @@ faster because it
 stops looking as soon as it finds a match. If there are no matching
 items, it returns an empty string.
 
-![](./myMediaFolder/media/image572.png){width="7.589583333333334in"
+![](/snap-manual/assets/images/image572.png){width="7.589583333333334in"
 height="1.0791666666666666in"}
 
-![](./myMediaFolder/media/image574.png){width="7.486111111111111in"
+![](/snap-manual/assets/images/image574.png){width="7.486111111111111in"
 height="1.0020833333333334in"}These examples use small lists, to fit the
 page, but the higher order blocks work for any size list.
 
@@ -2537,11 +2537,11 @@ lists, the result is a new toplevel list whose items are the same
 (uncopied) lists that are items of the toplevel input list). To make a
 deep copy of a list (that is, one in which all the sublists, sublists of
 sublists, etc. are copied), use the list as input to the ![Macintosh
-HD:Users:bh:Desktop:id.png](./myMediaFolder/media/image576.png){width="0.7430555555555556in"
+HD:Users:bh:Desktop:id.png](/snap-manual/assets/images/image576.png){width="0.7430555555555556in"
 height="0.19444444444444445in"} block (one of the variants of the sqrt
 of block). This works because id of is a hyperblock (page 55).
 
-![](./myMediaFolder/media/image313.png){width="5.5800503062117235in"
+![](/snap-manual/assets/images/image313.png){width="5.5800503062117235in"
 height="0.4623108048993876in"}The third higher order block, combine,
 computes a single result from *all* the items of a list, using a
 *two-input* reporter as its second input. In practice, there are only a
@@ -2552,14 +2552,14 @@ them into one word, combine them into a sentence (with spaces between
 items), see if all items of a list of Booleans are true, see if any of
 the items is true, find the smallest, or find the largest.
 
-![](./myMediaFolder/media/image585.png){width="6.279166666666667in"
-height="0.37569444444444444in"}![](./myMediaFolder/media/image586.png){width="3.8680555555555554in"
+![](/snap-manual/assets/images/image585.png){width="6.279166666666667in"
+height="0.37569444444444444in"}![](/snap-manual/assets/images/image586.png){width="3.8680555555555554in"
 height="0.3451388888888889in"}Why + but not −? It only makes sense to
 combine list items using an *associative* function: one that doesn't
 care in what order the items are combined (left to right or right to
 left). (2+3)+4 = 2+(3+4), but (2−3)−4 ≠ 2−(3−4).
 
-![](./myMediaFolder/media/image587.png){width="5.808333333333334in"
+![](/snap-manual/assets/images/image587.png){width="5.808333333333334in"
 height="1.1909722222222223in"}The functions map, keep, and find first
 have an advanced mode with rarely-used features: If their function input
 is given explicit input names (by clicking the arrowhead at the right
@@ -2573,7 +2573,7 @@ more than three input names can be used in this contex
 Table View vs. List View
 ------------------------
 
-![](./myMediaFolder/media/image588.png){width="3.0993055555555555in"
+![](/snap-manual/assets/images/image588.png){width="3.0993055555555555in"
 height="2.513888888888889in"}We mentioned earlier that there are two
 ways of representing lists visually. For one-dimensional lists (lists
 whose items are not themselves lists) the visual differences are small:
@@ -2592,7 +2592,7 @@ slow. As a partial workaround, the list view can only contain 100 items
 at a time; the downward-pointing arrowhead opens a menu in which you can
 choose which 100 to display.
 
-![](./myMediaFolder/media/image592.png){width="1.2555555555555555in"
+![](/snap-manual/assets/images/image592.png){width="1.2555555555555555in"
 height="0.9125in"}
 
 By contrast, because it doesn't allow direct editing, the *table view*
@@ -2611,7 +2611,7 @@ make *another* offstage watcher, which is useful if you want to watch
 two parts of the list at once by having each watcher scrolled to a
 different place.
 
-![](./myMediaFolder/media/image538.png){width="5.888888888888889in"
+![](/snap-manual/assets/images/image538.png){width="5.888888888888889in"
 height="1.0486111111111112in"}Table view is the default if the list has
 more than 100 items, or if any of the first ten items of the list are
 lists, in which case it makes a very different-looking two-dimensional
@@ -2664,17 +2664,17 @@ to say the row first or the column first. ("Cell B4" is the same as
 program, you have to say item 2 of, not item B of. So it's useful to be
 able to find out a column number by hovering over its letter.
 
-![](./myMediaFolder/media/image596.png){width="3.817361111111111in"
+![](/snap-manual/assets/images/image596.png){width="3.817361111111111in"
 height="0.8111111111111111in"}Any value that can appear in a program can
 be displayed in a table cell:
 
-![](./myMediaFolder/media/image597.png){width="4.336805555555555in"
+![](/snap-manual/assets/images/image597.png){width="4.336805555555555in"
 height="2.104861111111111in"}This display shows that the standard cell
 dimensions may not be enough for large value images. By expanding the
 entire speech balloon and then the second column and all the rows, we
 can make the result fit:
 
-![](./myMediaFolder/media/image601.png){width="3.3409722222222222in"
+![](/snap-manual/assets/images/image601.png){width="3.3409722222222222in"
 height="0.5770833333333333in"}But we make an exception for cases in
 which the value in a cell is a list (so that the entire table is
 three-dimensional). Because lists are visually very big, we don't try to
@@ -2686,7 +2686,7 @@ inner sublists: You can switch to list view, or you can double-click on
 a list icon in the table to open a dialog box showing just that
 sub-sub-list in table view.
 
-![](./myMediaFolder/media/image602.png){width="3.3541666666666665in"
+![](/snap-manual/assets/images/image602.png){width="3.3541666666666665in"
 height="0.6944444444444444in"}One last detail: If the first item of a
 list is a list (so table view is used), but a later item *isn't* a list,
 that later item will be displayed on a red background, like an item of a
@@ -2706,7 +2706,7 @@ extension .csv in its filename.
 A CSV file has one line per table row, with the fields separated by
 commas within a row:
 
-![](./myMediaFolder/media/image603.png){width="5.0in"
+![](/snap-manual/assets/images/image603.png){width="5.0in"
 height="2.6743055555555557in"}John,Lennon,rhythm guitar
 
 Paul,McCartney,bass guitar
@@ -2719,7 +2719,7 @@ Here's what the corresponding table looks like:
 
 Here's how to read a spreadsheet into Snap*!*:
 
-![](./myMediaFolder/media/image607.png){width="1.2083333333333333in"
+![](/snap-manual/assets/images/image607.png){width="1.2083333333333333in"
 height="0.2708333333333333in"}1. Make a variable with a watcher on
 stage:
 
@@ -2751,7 +2751,7 @@ lists. If you have a list of lists of lists, Snap*!* will instead export
 your list as a JSON (JavaScript Object Notation) file. I modified my
 list:
 
-![](./myMediaFolder/media/image608.png){width="6.333333333333333in"
+![](/snap-manual/assets/images/image608.png){width="6.333333333333333in"
 height="0.4479166666666667in"}and then exported again, getting this
 file:
 
@@ -2778,16 +2778,16 @@ The major new feature in Snap*!* 6.0 is that the domain and range of
 most scalar function blocks is extended to multi-dimensional lists, with
 the underlying scalar function applied termwise:
 
-![](./myMediaFolder/media/image609.png){width="2.5625in"
+![](/snap-manual/assets/images/image609.png){width="2.5625in"
 height="0.9166666666666666in"}![Macintosh
-HD:Users:bh:Desktop:vector-vector.png](./myMediaFolder/media/image610.png){width="3.3402777777777777in"
+HD:Users:bh:Desktop:vector-vector.png](/snap-manual/assets/images/image610.png){width="3.3402777777777777in"
 height="0.9166666666666666in"}
 
 ![Macintosh
-HD:Users:bh:Desktop:matrix-matrix.png](./myMediaFolder/media/image611.png){width="4.944444444444445in"
+HD:Users:bh:Desktop:matrix-matrix.png](/snap-manual/assets/images/image611.png){width="4.944444444444445in"
 height="0.6944444444444444in"}
 
-![](./myMediaFolder/media/image612.png){width="5.743055555555555in"
+![](/snap-manual/assets/images/image612.png){width="5.743055555555555in"
 height="0.6944444444444444in"}Mathematicians, note in the last example
 above that the result is just a termwise application of the underlying
 function (7×3, 8×5, etc.), *not* matrix multiplication. See Appendix B
@@ -2795,7 +2795,7 @@ for that. For a dyadic (two-input) function, if the lengths don't agree,
 the length of the result (in each dimension) is the length of the
 shorter input:
 
-![](./myMediaFolder/media/image613.png){width="6.791666666666667in"
+![](/snap-manual/assets/images/image613.png){width="6.791666666666667in"
 height="0.8680555555555556in"}However, if the *number of dimensions*
 differs in the two inputs, then the number of dimensions in the result
 agrees with the *higher-*dimensional input; the lower-dimensional one is
@@ -2804,21 +2804,21 @@ used repeatedly in the missing dimension(s):
 (7×6. 8×10, 1×20, *40*×*6, 20*×*10,* etc.). In particular, a *scalar*
 input is paired with every scalar in the other input:
 
-![](./myMediaFolder/media/image614.png){width="7.483333333333333in"
-height="0.63125in"}![](./myMediaFolder/media/image615.png){width="5.506944444444445in"
+![](/snap-manual/assets/images/image614.png){width="7.483333333333333in"
+height="0.63125in"}![](/snap-manual/assets/images/image615.png){width="5.506944444444445in"
 height="1.5180555555555555in"}One important motivation for this feature
 is how it simplifies and speeds up media computation, as in this
 shifting of the Alonzo costume to be bluer:
 
-![](./myMediaFolder/media/image619.png){width="1.6875in"
-height="1.0486111111111112in"}![](./myMediaFolder/media/image620.png){width="5.194444444444445in"
+![](/snap-manual/assets/images/image619.png){width="1.6875in"
+height="1.0486111111111112in"}![](/snap-manual/assets/images/image620.png){width="5.194444444444445in"
 height="1.0486111111111112in"}Each pixel of the result has ¾ of its
 original red and green, and three times its original blue (with its
 transparency unchanged). By putting some sliders on the stage, you can
 play with colors dynamically:
 
-![](./myMediaFolder/media/image621.png){width="1.0298611111111111in"
-height="0.18958333333333333in"}![](./myMediaFolder/media/image193.png){width="0.8895833333333333in"
+![](/snap-manual/assets/images/image621.png){width="1.0298611111111111in"
+height="0.18958333333333333in"}![](/snap-manual/assets/images/image193.png){width="0.8895833333333333in"
 height="0.2in"}There are a few naturally scalar functions that have
 already had specific meanings when applied to lists and therefore are
 not hyperblocks: = and identical to (because they compare entire
@@ -2829,9 +2829,9 @@ first input determines the result), join (because it converts non-scalar
 (because it applies to its input as a whole). Blocks whose inputs are
 "natively" lists, such as and , are never hyperblocks.
 
-![](./myMediaFolder/media/image622.png){width="5.239583333333333in"
-height="1.679861111111111in"}![](./myMediaFolder/media/image203.png){width="5.401514654418198in"
-height="1.227273622047244in"}![](./myMediaFolder/media/image205.png){width="2.0991666666666666in"
+![](/snap-manual/assets/images/image622.png){width="5.239583333333333in"
+height="1.679861111111111in"}![](/snap-manual/assets/images/image203.png){width="5.401514654418198in"
+height="1.227273622047244in"}![](/snap-manual/assets/images/image205.png){width="2.0991666666666666in"
 height="0.2475in"}The reshape block takes a list (of any depth) as its
 first input, and then takes zero or more sizes along the dimensions of
 an array. In the example it will report a table (a matrix) of four rows
@@ -2843,7 +2843,7 @@ If more values are provided than needed, the extras are ignored; this
 isn't an error.
 
 ![Icon Description automatically
-generated](./myMediaFolder/media/image204.png){width="1.34in"
+generated](/snap-manual/assets/images/image204.png){width="1.34in"
 height="0.25in"} The item of block has a special set of rules, designed
 to preserve its pre-hyperblock meaning and also provide a useful
 behavior when given a list as its first (index) input:
@@ -2852,32 +2852,32 @@ behavior when given a list as its first (index) input:
     top-level item of the list input; that item may be a sublist, in
     which case the entire sublist is reported (the original meaning of
     item of):![Macintosh
-    HD:Users:bh:Desktop:item-scalar.png](./myMediaFolder/media/image623.png){width="5.506944444444445in"
+    HD:Users:bh:Desktop:item-scalar.png](/snap-manual/assets/images/image623.png){width="5.506944444444445in"
     height="0.9166666666666666in"}
 
 2.  If the index is a list of numbers (no sublists), then item of
     reports a list of the indicated top-level items (rows, in a matrix;
     a straightforward hyperization): ![Macintosh
-    HD:Users:bh:Desktop:item-vector.png](./myMediaFolder/media/image624.png){width="6.006944444444445in"
+    HD:Users:bh:Desktop:item-vector.png](/snap-manual/assets/images/image624.png){width="6.006944444444445in"
     height="0.8680555555555556in"}
 
 3.  If the index is a list of lists of numbers, then item of reports an
     array of only those scalars whose position in the list input matches
     the index input in all dimensions (changed in Snap*!*
-    6.6!):![](./myMediaFolder/media/image625.png){width="6.006944444444445in"
+    6.6!):![](/snap-manual/assets/images/image625.png){width="6.006944444444445in"
     height="0.6875in"}
 
 4.  If a list of list of numbers includes an empty sublist, then all
     items are chosen along that
-    dimension:![](./myMediaFolder/media/image626.png){width="6.006944444444445in"
+    dimension:![](/snap-manual/assets/images/image626.png){width="6.006944444444445in"
     height="0.6875in"}
 
-![](./myMediaFolder/media/image627.png){width="6.604166666666667in"
+![](/snap-manual/assets/images/image627.png){width="6.604166666666667in"
 height="1.0486111111111112in"}To get a column or columns of a
 spreadsheet, use an empty list in the row selector (changed in Snap*!*
 6.6!):
 
-![](./myMediaFolder/media/image628.png){width="1.5263888888888888in"
+![](/snap-manual/assets/images/image628.png){width="1.5263888888888888in"
 height="1.8583333333333334in"}The length of block is extended to provide
 various ways of looking at the shape and contents of a list. The options
 other than length are mainly useful for *lists of lists,* to any depth.
@@ -2920,7 +2920,7 @@ is for lists of any rank; it reports a text string in which the list
 structure is explicitly represented using square brackets. These are the
 opposites of split by csv and split by json.
 
-![](./myMediaFolder/media/image632.png){width="6.3530304024496935in"
+![](/snap-manual/assets/images/image632.png){width="6.3530304024496935in"
 height="6.733522528433946in"}
 
 The idea of extending the domain and range of scalar functions to
@@ -2941,7 +2941,7 @@ order functions. Some of what's missing is provided in the APL library.
  Scratch's Type Notation
 -----------------------
 
-![](./myMediaFolder/media/image654.png){width="1.375in"
+![](/snap-manual/assets/images/image654.png){width="1.375in"
 height="0.2125in"}Prior to version 3, Scratch block inputs came in two
 types: Text-or-number type and Number type. The former is indicated by a
 rectangular box, the latter by a rounded box: . A third Scratch type,
@@ -2953,7 +2953,7 @@ and Object types. Note that, with the exception of Procedure types, all
 of the input type shapes are just reminders to the user of what the
 block expects; they are not enforced by the language.
 
-![](./myMediaFolder/media/image655.png){width="2.5833333333333335in" height="1.6041666666666667in"}The Snap*!* Input Type Dialog
+![](/snap-manual/assets/images/image655.png){width="2.5833333333333335in" height="1.6041666666666667in"}The Snap*!* Input Type Dialog
 --------------------------------------------------------------------------------------------------------------------------------
 
 In the Block Editor input name dialog, there is a right-facing arrowhead
@@ -2961,8 +2961,8 @@ after the "Input name" option:
 
 Clicking that arrowhead opens the "long" input name dialog:
 
-![](./myMediaFolder/media/image657.png){width="5.170833333333333in"
-height="4.135416666666667in"}![](./myMediaFolder/media/image658.png){width="0.19791666666666666in"
+![](/snap-manual/assets/images/image657.png){width="5.170833333333333in"
+height="4.135416666666667in"}![](/snap-manual/assets/images/image658.png){width="0.19791666666666666in"
 height="0.19791666666666666in"}There are twelve input type shapes, plus
 three mutually exclusive modifiers, listed in addition to the basic
 choice between title text and an input name. The default type, the one
@@ -2971,14 +2971,14 @@ input slot is meant to accept any value of any type. If the size input
 in your block should be an oval-shaped numeric slot rather than a
 generic rectangle, click "Number."
 
-![](./myMediaFolder/media/image659.png){width="6.822222222222222in"
+![](/snap-manual/assets/images/image659.png){width="6.822222222222222in"
 height="2.7569444444444446in"}The arrangement of the input types is
 systematic. As the pictures on this and the next page show, each row of
 types is a category, and parts of each column form a category.
 Understanding the arrangement will make it a little easier to find the
 type you want.
 
-![](./myMediaFolder/media/image658.png){width="0.13194444444444445in"
+![](/snap-manual/assets/images/image658.png){width="0.13194444444444445in"
 height="0.13194444444444445in"}The second row of input types contains
 the ones found in Scratch: Number, Any, and Boolean. (The reason these
 are in the second row rather than the ﬁrst will become clear when we
@@ -3016,17 +3016,17 @@ Section VI.E below. In one handwavy sentence, they combine the *meaning*
 of the procedure types with the *appearance* of the reported value types
 two rows higher. (Of course, this isn't quite right for the C-shaped
 command input type, since commands don't
-![](./myMediaFolder/media/image660.png){width="3.6458333333333335in"
+![](/snap-manual/assets/images/image660.png){width="3.6458333333333335in"
 height="3.113888888888889in"}report values. But you'll see later that
 it's true in spirit.)
 
-### ![](./myMediaFolder/media/image658.png){width="0.13194444444444445in" height="0.13194444444444445in"}Pulldown inputs
+### ![](/snap-manual/assets/images/image658.png){width="0.13194444444444445in" height="0.13194444444444445in"}Pulldown inputs
 
-![](./myMediaFolder/media/image661.png){width="1.6805555555555556in"
+![](/snap-manual/assets/images/image661.png){width="1.6805555555555556in"
 height="0.9409722222222222in"}Certain primitive blocks have *pulldown*
 inputs, either *read-only,* like the input to the touching block:
 
-![](./myMediaFolder/media/image662.png){width="1.9020833333333333in"
+![](/snap-manual/assets/images/image662.png){width="1.9020833333333333in"
 height="1.3229166666666667in"}(indicated by the input slot being the
 same (cyan, in this case) color as the body of the block), or
 *writeable,* like the input to the point in direction block:
@@ -3034,14 +3034,14 @@ same (cyan, in this case) color as the body of the block), or
 (indicated by the white input slot), which means that the user can type
 in an arbitrary input instead of using the pulldown menu.
 
-![](./myMediaFolder/media/image663.png){width="0.8326388888888889in"
-height="0.6527777777777778in"}![](./myMediaFolder/media/image658.png){width="0.13194444444444445in"
+![](/snap-manual/assets/images/image663.png){width="0.8326388888888889in"
+height="0.6527777777777778in"}![](/snap-manual/assets/images/image658.png){width="0.13194444444444445in"
 height="0.13194444444444445in"}Custom blocks can also have such inputs.
 To make a pulldown input, open the long form input dialog, choose a text
 type (Any, Text, or Number) and click the icon in the bottom right
 corner, or control/right-click in the dialog. You will see this menu:
 
-![](./myMediaFolder/media/image664.png){width="3.076388888888889in"
+![](/snap-manual/assets/images/image664.png){width="3.076388888888889in"
 height="1.875in"}Click the read-only checkbox if you want a read-only
 pulldown input. Then from the same menu, choose options... to get this
 dialog box:
@@ -3060,7 +3060,7 @@ horizontal line) in the menu, used to divide long menus into visible
 categories. There should be nothing else on the line. This separator is
 not choosable, so there is no input value corresponding to it.
 
-![](./myMediaFolder/media/image665.png){width="7.5in"
+![](/snap-manual/assets/images/image665.png){width="7.5in"
 height="3.2416666666666667in"}If the line ends with the two characters
 equal sign and open brace ={, then it represents a *submenu.* The text
 before the equal sign is a name for the submenu, and will be displayed
@@ -3083,24 +3083,24 @@ the play note piano keyboard, or the point in direction 360° dial.
 Finally, you can make the input box accept more than one line of text
 (that is, text including a newline character) from the special submenu,
 either "multi-line" for regular
-![](./myMediaFolder/media/image669.png){width="0.6041666666666666in"
+![](/snap-manual/assets/images/image669.png){width="0.6041666666666666in"
 height="0.3194444444444444in"}text or "code" for monospace-font computer
 code.
 
-![](./myMediaFolder/media/image670.png){width="0.13055555555555556in"
-height="0.1375in"}![](./myMediaFolder/media/image671.png){width="1.6805555555555556in"
+![](/snap-manual/assets/images/image670.png){width="0.13055555555555556in"
+height="0.1375in"}![](/snap-manual/assets/images/image671.png){width="1.6805555555555556in"
 height="0.2569444444444444in"}If the input type is something other than
 text, then clicking the button will instead show this menu:
 
-![](./myMediaFolder/media/image672.png){width="7.5in"
+![](/snap-manual/assets/images/image672.png){width="7.5in"
 height="2.6277777777777778in"}As an example, we want to make this block:
 The second input must be a read-only object menu:
 
-![](./myMediaFolder/media/image678.png){width="1.6388888888888888in"
+![](/snap-manual/assets/images/image678.png){width="1.6388888888888888in"
 height="0.5208333333333334in"}
 
-![](./myMediaFolder/media/image679.png){width="1.7638888888888888in"
-height="0.9305555555555556in"}![](./myMediaFolder/media/image680.png){width="3.5694444444444446in"
+![](/snap-manual/assets/images/image679.png){width="1.7638888888888888in"
+height="0.9305555555555556in"}![](/snap-manual/assets/images/image680.png){width="3.5694444444444446in"
 height="1.2944444444444445in"}The "Multiple inputs" option: The list
 block introduced earlier accepts any number of inputs to specify the
 items of the new list. To allow this, Snap*!* introduces the arrowhead
@@ -3123,7 +3123,7 @@ to its user. It appears as an orange variable oval in the block, rather
 than as an input slot. Here's an example; the uparrow (**↑**) in the
 prototype indicates this kind of internal variable name:
 
-![](./myMediaFolder/media/image681.png){width="5.901388888888889in"
+![](/snap-manual/assets/images/image681.png){width="5.901388888888889in"
 height="0.53125in"}
 
 The variable i (in the block on the right above) can be dragged from the
@@ -3145,17 +3145,17 @@ We have mentioned three notations that can appear in an input slot in
 the prototype to remind you of what kind of input this is. Here is the
 complete list of such notations:
 
-![](./myMediaFolder/media/image685.png){width="0.7347222222222223in"
+![](/snap-manual/assets/images/image685.png){width="0.7347222222222223in"
 height="6.118055555555555in"}= default value ... multiple input ↑ upvar
 \# number
 
-![](./myMediaFolder/media/image686.png){width="0.16319444444444445in"
+![](/snap-manual/assets/images/image686.png){width="0.16319444444444445in"
 height="0.13541666666666666in"}λ procedure types ⫶ list ? Boolean object
 ¶ multi-line text
 
 ### Title Text and Symbols
 
-![](./myMediaFolder/media/image687.png){width="1.21875in"
+![](/snap-manual/assets/images/image687.png){width="1.21875in"
 height="0.23472222222222222in"}Some primitive blocks have symbols as
 part of the block name: . Custom blocks can use symbols too. In the
 Block Editor, click the plus sign in the prototype at the point where
@@ -3163,8 +3163,8 @@ you want to insert the symbol. Then click the title text picture below
 the text box that's expecting an input slot name. The dialog will then
 change to look like this:
 
-![](./myMediaFolder/media/image688.png){width="1.2444444444444445in"
-height="0.26666666666666666in"}![](./myMediaFolder/media/image689.png){width="2.0347222222222223in"
+![](/snap-manual/assets/images/image688.png){width="1.2444444444444445in"
+height="0.26666666666666666in"}![](/snap-manual/assets/images/image689.png){width="2.0347222222222223in"
 height="1.2638888888888888in"}The important part to notice is the
 arrowhead that has appeared at the right end of the text box. Click it
 to see the menu shown here at the left.
@@ -3173,11 +3173,11 @@ Choose one of the symbols. The result will have the symbol you want: The
 available symbols are, pretty much, the ones that are used in Snap*!*
 icons.
 
-![](./myMediaFolder/media/image690.png){width="2.0347222222222223in"
+![](/snap-manual/assets/images/image690.png){width="2.0347222222222223in"
 height="1.2638888888888888in"}But I'd like the arrow symbol bigger, and
 yellow, so I edit its name:
 
-![](./myMediaFolder/media/image691.png){width="1.1979166666666667in"
+![](/snap-manual/assets/images/image691.png){width="1.1979166666666667in"
 height="0.2708333333333333in"}This makes the symbol 1.5 times as big as
 the letters in the block text, using a color with red-green-blue values
 of 255-255-150 (each between 0 and 255). Here's the result:
@@ -3190,12 +3190,12 @@ a block with many inputs to control where the text continues on another
 line, instead of letting Snap*!* choose the line break itself.
 
 Procedures as Data
-==================
+=================
 
 Call and Run
 ------------
 
-![](./myMediaFolder/media/image692.png){width="3.6729166666666666in"
+![](/snap-manual/assets/images/image692.png){width="3.6729166666666666in"
 height="1.5833333333333333in"}In the for block example above, the input
 named action has been declared as type "Command (C-shaped)"; that's why
 the finished block is C-shaped. But how does the block actually tell
@@ -3207,7 +3207,7 @@ value is greater than the starting value; if not, the block should
 (depending on the designer's purposes) either not run at all, or change
 the variable by −1 for each repetition instead of by 1.
 
-![](./myMediaFolder/media/image693.png){width="0.5in"
+![](/snap-manual/assets/images/image693.png){width="0.5in"
 height="0.15625in"}The important part of this script is the run block
 near the end. This is a Snap*!* built-in command block that takes a
 Command-type value (a script) as its input, and carries out its
@@ -3219,7 +3219,7 @@ procedure feature; they allow scripts and blocks to be used as data---in
 this example, as an input to a block---and eventually carried out under
 control of the user's program.
 
-![](./myMediaFolder/media/image694.png){width="7.065972222222222in"
+![](/snap-manual/assets/images/image694.png){width="7.065972222222222in"
 height="1.65625in"}Here's another example, this time using a
 Reporter-type input in a map block (see page 50):
 
@@ -3235,7 +3235,7 @@ is of type List.
 
 ### Call/Run with inputs
 
-![](./myMediaFolder/media/image698.png){width="1.8125in"
+![](/snap-manual/assets/images/image698.png){width="1.8125in"
 height="0.20833333333333334in"}The call block (like the run block) has a
 right arrowhead at the end; clicking on it adds the phrase "with inputs"
 and then a slot into which an input can be inserted:
@@ -3245,7 +3245,7 @@ inputs" disappears also. The right arrowhead can be clicked as many
 times as needed for the number of inputs required by the reporter block
 being called.
 
-![](./myMediaFolder/media/image699.png){width="2.7291666666666665in"
+![](/snap-manual/assets/images/image699.png){width="2.7291666666666665in"
 height="0.31805555555555554in"}If the number of inputs given to call
 (not counting the Reporter-type input that comes first) is the same as
 the number of empty input slots, then the empty slots are filled from
@@ -3258,7 +3258,7 @@ slots, then there is no automatic filling of empty slots. (Instead you
 must use explicit parameters in the ring, as discussed in Section C
 below.)
 
-![](./myMediaFolder/media/image700.png){width="6.990277777777778in"
+![](/snap-manual/assets/images/image700.png){width="6.990277777777778in"
 height="0.6979166666666666in"}An even more important thing to notice
 about these examples is the *ring* around the Reporter-type input slots
 in call and map above. This notation indicates that *the block itself,*
@@ -3316,7 +3316,7 @@ automatically ring the input as described above. So the declaration of
 Procedure-type inputs makes the use of your custom higher order block
 much more convenient.
 
-![](./myMediaFolder/media/image708.png){width="2.375in"
+![](/snap-manual/assets/images/image708.png){width="2.375in"
 height="1.3541666666666667in"}Why would you want a block to take a
 procedure as input? This is actually not an obscure thing to do; the
 primitive conditional and looping blocks (the C-shaped ones in the
@@ -3330,7 +3330,7 @@ used is the input named action in the body of the script. The only way
 to make sense of the variable action is to understand that its value is
 a script.
 
-![](./myMediaFolder/media/image509.png){width="2.5833333333333335in"
+![](/snap-manual/assets/images/image509.png){width="2.5833333333333335in"
 height="1.6041666666666667in"}To declare an input to be Procedure-type,
 open the input name dialog as usual, and click on the arrowhead:
 
@@ -3348,12 +3348,12 @@ custom block, it turns into an inline slot, as in the repeater block's
 recursive call above. (Other built-in Reporters can't report scripts, so
 they aren't accepted in a C-shaped slot.)
 
-![](./myMediaFolder/media/image658.png){width="0.19791666666666666in"
-height="0.19791666666666666in"}![](./myMediaFolder/media/image709.png){width="3.6527777777777777in"
+![](/snap-manual/assets/images/image658.png){width="0.19791666666666666in"
+height="0.19791666666666666in"}![](/snap-manual/assets/images/image709.png){width="3.6527777777777777in"
 height="2.75455271216098in"}\
 Why would you ever choose an inline Command slot rather than a C shape?
 Other than the run block
-![](./myMediaFolder/media/image710.png){width="2.1145833333333335in"
+![](/snap-manual/assets/images/image710.png){width="2.1145833333333335in"
 height="0.46875in"}discussed below, the only case I can think of is
 something like the C/C++/Java for loop, which actually has *three*
 command script inputs (and one predicate input), only one of which is
@@ -3372,7 +3372,7 @@ where to use those inputs? If the called procedure (block or script) has
 empty input slots, Snap*!* "does the right thing." This has several
 possible meanings:
 
-![](./myMediaFolder/media/image711.png){width="3.4479166666666665in"
+![](/snap-manual/assets/images/image711.png){width="3.4479166666666665in"
 height="0.34405949256342955in"}1. If the number of empty slots is
 exactly equal to the number of inputs provided, then Snap*!* fills the
 empty slots from left to right:
@@ -3380,7 +3380,7 @@ empty slots from left to right:
 2\. If exactly one input is provided, Snap*!* will fill any number of
 empty slots with it:
 
-![](./myMediaFolder/media/image712.png){width="2.8020833333333335in"
+![](/snap-manual/assets/images/image712.png){width="2.8020833333333335in"
 height="0.30694444444444446in"}
 
 3\. Otherwise, Snap*!* won't fill any slots, because the user's intention
@@ -3404,10 +3404,10 @@ inputs as a list of values in the first place), and then, in the
 recursive call, you drop that input list *onto the arrowheads* that
 indicate a variable-input slot, rather than onto the input slot:
 
-![](./myMediaFolder/media/image658.png){width="0.13194444444444445in"
-height="0.13194444444444445in"}![](./myMediaFolder/media/image713.png){width="2.501388888888889in"
-height="1.9444444444444444in"}![](./myMediaFolder/media/image714.png){width="2.225in"
-height="1.1708333333333334in"}![](./myMediaFolder/media/image715.png){width="2.2756944444444445in"
+![](/snap-manual/assets/images/image658.png){width="0.13194444444444445in"
+height="0.13194444444444445in"}![](/snap-manual/assets/images/image713.png){width="2.501388888888889in"
+height="1.9444444444444444in"}![](/snap-manual/assets/images/image714.png){width="2.225in"
+height="1.1708333333333334in"}![](/snap-manual/assets/images/image715.png){width="2.2756944444444445in"
 height="1.5972222222222223in"}\
 Note that the halo you see while dragging onto the arrowheads is red
 instead of white, and covers the input slot as well as the arrowheads.
@@ -3417,11 +3417,11 @@ invocation only) to remind you that the list represents all of the
 multiple inputs, not just a single input. The items in the list are
 taken *individually* as inputs to the script. Since numbers is a list of
 numbers, each individual item is a number, just what sizes wants. This
-![](./myMediaFolder/media/image716.png){width="6.8125in"
+![](/snap-manual/assets/images/image716.png){width="6.8125in"
 height="1.7104166666666667in"}block will take any number of numbers as
 inputs, and will make the sprite grow and shrink accordingly:
 
-![](./myMediaFolder/media/image722.png){width="2.9583333333333335in"
+![](/snap-manual/assets/images/image722.png){width="2.9583333333333335in"
 height="0.6875in"}The user of this block calls it with any number of
 *individual numbers* as inputs. But inside the definition of the block,
 all of those numbers form *a* *list* that has a single input name,
@@ -3434,7 +3434,7 @@ inputs! So this would be wrong:
 Formal Parameters
 -----------------
 
-![](./myMediaFolder/media/image723.png){width="3.5208333333333335in"
+![](/snap-manual/assets/images/image723.png){width="3.5208333333333335in"
 height="1.0395833333333333in"}The rings around Procedure-type inputs
 have an arrowhead at the right. Clicking the arrowhead allows you to
 give the inputs to a block or script explicit names, instead of using
@@ -3446,7 +3446,7 @@ not to *drag* the oval when clicking; that's how you use the input
 inside the ring. The names of the input variables are called the *formal
 parameters* of the encapsulated procedure.
 
-![](./myMediaFolder/media/image731.png){width="4.322916666666667in"
+![](/snap-manual/assets/images/image731.png){width="4.322916666666667in"
 height="0.45416666666666666in"}Here's a simple but contrived example
 using explicit names to control which input goes where inside the ring:
 
@@ -3455,11 +3455,11 @@ we left all three slots empty, Snap*!* would not fill any of them,
 because the number of inputs provided (2) would not match the number of
 empty slots (3).
 
-![](./myMediaFolder/media/image732.png){width="4.679861111111111in"
+![](/snap-manual/assets/images/image732.png){width="4.679861111111111in"
 height="3.0180555555555557in"}Here is a more realistic, much more
 advanced example:
 
-![](./myMediaFolder/media/image733.png){width="4.347222222222222in"
+![](/snap-manual/assets/images/image733.png){width="4.347222222222222in"
 height="1.4027777777777777in"}
 
 This is the definition of a block that takes any number of lists, and
@@ -3484,7 +3484,7 @@ really remain empty.
 Procedures as Data
 ------------------
 
-![](./myMediaFolder/media/image734.png){width="5.1875in"
+![](/snap-manual/assets/images/image734.png){width="5.1875in"
 height="1.65625in"}Here's an example of a situation in which a procedure
 must be explicitly marked as data by pulling a ring from the Operators
 palette and putting the procedure (block or script) inside it:
@@ -3494,7 +3494,7 @@ inputs of any type, so its input slots are not ringed. We must say
 explicitly that we want the block *itself* as the input, rather than
 whatever value would result from evaluating the block.
 
-![](./myMediaFolder/media/image735.png){width="3.8333333333333335in"
+![](/snap-manual/assets/images/image735.png){width="3.8333333333333335in"
 height="0.84375in"}Besides the list block in the example above, other
 blocks into which you may want to put procedures are set (to set the
 value of a variable to a procedure), say and think (to display a
@@ -3504,16 +3504,16 @@ procedure):
 Special Forms
 -------------
 
-![](./myMediaFolder/media/image736.png){width="2.4993055555555554in"
-height="0.27847222222222223in"}![](./myMediaFolder/media/image737.png){width="2.402083333333333in"
+![](/snap-manual/assets/images/image736.png){width="2.4993055555555554in"
+height="0.27847222222222223in"}![](/snap-manual/assets/images/image737.png){width="2.402083333333333in"
 height="1.4270833333333333in"}The primitive if else block has two
 C-shaped command slots and chooses one or the other depending on a
 Boolean test. Because Scratch doesn't emphasize functional programming,
 it lacks a corresponding reporter block to choose between two
 expressions. Snap*!* has one, but we could write our own:
 
-![](./myMediaFolder/media/image738.png){width="4.291666666666667in"
-height="0.8486111111111111in"}![](./myMediaFolder/media/image739.png){width="3.818985126859143in"
+![](/snap-manual/assets/images/image738.png){width="4.291666666666667in"
+height="0.8486111111111111in"}![](/snap-manual/assets/images/image739.png){width="3.818985126859143in"
 height="0.27433070866141734in"}Our block works for these simple
 examples, but if we try to use it in writing a recursive operator, it'll
 fail:
@@ -3532,9 +3532,9 @@ be of type Reporter rather than type Any. Then, when calling the block,
 those inputs will be enclosed in a ring so that the expressions
 themselves, rather than their values, become the inputs:
 
-![](./myMediaFolder/media/image740.png){width="1.1145833333333333in"
-height="0.6979166666666666in"}![](./myMediaFolder/media/image741.png){width="4.520833333333333in"
-height="1.0229166666666667in"}![](./myMediaFolder/media/image742.png){width="2.6173611111111112in"
+![](/snap-manual/assets/images/image740.png){width="1.1145833333333333in"
+height="0.6979166666666666in"}![](/snap-manual/assets/images/image741.png){width="4.520833333333333in"
+height="1.0229166666666667in"}![](/snap-manual/assets/images/image742.png){width="2.6173611111111112in"
 height="1.5104166666666667in"}
 
 In this version, the program works, with no infinite loop. But we've
@@ -3597,7 +3597,7 @@ fourth row of types in the long form input dialog, with other
 unevaluated types.
 
  Object Oriented Programming with Sprites
-========================================
+=================
 
 Object oriented programming is a style based around the abstraction
 *object:* a collection of *data* and *methods* (procedures, which from
@@ -3649,9 +3649,9 @@ a script, stored in a variable or list, and sent messages individually.
 The children of a sprite can inherit sprite-local variables, methods
 (sprite-local procedures), and other attributes (e.g., x position).
 
-![](./myMediaFolder/media/image743.png){width="0.9652777777777778in"
-height="0.19444444444444445in"}![](./myMediaFolder/media/image744.png){width="1.0833333333333333in"
-height="0.19444444444444445in"}![](./myMediaFolder/media/image745.png){width="0.6666666666666666in"
+![](/snap-manual/assets/images/image743.png){width="0.9652777777777778in"
+height="0.19444444444444445in"}![](/snap-manual/assets/images/image744.png){width="1.0833333333333333in"
+height="0.19444444444444445in"}![](/snap-manual/assets/images/image745.png){width="0.6666666666666666in"
 height="0.19444444444444445in"}The fundamental means by which programs
 get access to sprites is the my reporter block. It has a dropdown-menu
 input slot that, when clicked, gives access to all the sprites, plus the
@@ -3662,8 +3662,8 @@ candidates for having collided with this one, for example. The my block
 has many other options, discussed below. If you know the name of a
 particular sprite, the object reporter will report the sprite itself.
 
-![](./myMediaFolder/media/image746.png){width="3.5520833333333335in"
-height="0.5104166666666666in"}![](./myMediaFolder/media/image747.png){width="2.691434820647419in"
+![](/snap-manual/assets/images/image746.png){width="3.5520833333333335in"
+height="0.5104166666666666in"}![](/snap-manual/assets/images/image747.png){width="2.691434820647419in"
 height="1.25in"}An object or list of objects reported by my or object
 can be used as input to any block that accepts any input type, such as
 set's second input. If you say an object, the resulting speech balloon
@@ -3673,7 +3673,7 @@ background.
  Permanent and Temporary Clones
 ------------------------------
 
-![](./myMediaFolder/media/image748.png){width="1.5138888888888888in"
+![](/snap-manual/assets/images/image748.png){width="1.5138888888888888in"
 height="0.19444444444444445in"}The block is used to create and report an
 instance (a clone) of any sprite. (There is also a command version, for
 historical reasons.) There are two different kinds of situations in
@@ -3706,7 +3706,7 @@ and so on. You want to save all of these dogs in the project. These are
 *permanent* clones. In BYOB 3.1, the predecessor to Snap*!,* all clones
 are permanent.
 
-![](./myMediaFolder/media/image748.png){width="1.5138888888888888in"
+![](/snap-manual/assets/images/image748.png){width="1.5138888888888888in"
 height="0.19444444444444445in"}One advantage of temporary clones is that
 they don't slow down Snap*!* even when you have a lot of them. (If
 you're curious, one reason is that permanent clones appear in the sprite
@@ -3721,7 +3721,7 @@ different characteristics, programmed by hand. But when your project is
 running, it might create 100 rottweilers, and those will be identical
 unless you change them in the program.
 
-![](./myMediaFolder/media/image749.png){width="1.5138888888888888in"
+![](/snap-manual/assets/images/image749.png){width="1.5138888888888888in"
 height="0.2569444444444444in"}You can change a temporary sprite to
 permanent by right-clicking it and choosing "edit." (It's called "edit"
 rather than, say, "permanent" because it also shifts the scripting area
@@ -3738,23 +3738,23 @@ including both all-sprites and this-sprite-only blocks. (For custom
 blocks, the corresponding methods are the scripts as seen in the Block
 Editor.
 
-![](./myMediaFolder/media/image750.png){width="5.702083333333333in"
+![](/snap-manual/assets/images/image750.png){width="5.702083333333333in"
 height="0.3611111111111111in"}The way to send a message to a sprite (or
 the stage) is with the tell block (for command messages) or the ask
 block (for reporter messages).
 
-![](./myMediaFolder/media/image754.png){width="6.236111111111111in"
+![](/snap-manual/assets/images/image754.png){width="6.236111111111111in"
 height="0.8055555555555556in"}A small point to note in the examples
 above: all dropdown menus include an empty entry at the top, which can
 be selected for use in higher order procedures like the for each and map
 examples. Each of the sprites in my neighbors or my other sprites is
 used to fill the blank space in turn.
 
-![](./myMediaFolder/media/image758.png){width="5.164583333333334in"
+![](/snap-manual/assets/images/image758.png){width="5.164583333333334in"
 height="0.2847222222222222in"}By the way, if you want a list of *all*
 the sprites, including this sprite, you can use either of these:
 
-![](./myMediaFolder/media/image762.png){width="3.545138888888889in"
+![](/snap-manual/assets/images/image762.png){width="3.545138888888889in"
 height="0.8263888888888888in"}Tell and ask wait until the other sprite
 has carried out its method before this sprite's script continues. (That
 has to be the case for ask, since we want to do something with the value
@@ -3774,7 +3774,7 @@ it, and now we have the more straightforward primitives.
 
 ### Polymorphism
 
-![](./myMediaFolder/media/image763.png){width="1.6736111111111112in"
+![](/snap-manual/assets/images/image763.png){width="1.6736111111111112in"
 height="1.4020833333333333in"}Suppose you have a Dog sprite with two
 clones CockerSpaniel and PitBull. In the Dog sprite you define this
 method ("For this sprite only" block):
@@ -3786,8 +3786,8 @@ sprite-*loca*l block. Sprite-local variables are similarly marked.
 But you don't define greet as friend or greet as enemy in Dog. Each kind
 of dog has a different behavior. Here's what a CockerSpaniel does:
 
-![](./myMediaFolder/media/image764.png){width="4.052777777777778in"
-height="0.7430555555555556in"}![](./myMediaFolder/media/image764.png){width="4.074305555555555in"
+![](/snap-manual/assets/images/image764.png){width="4.052777777777778in"
+height="0.7430555555555556in"}![](/snap-manual/assets/images/image764.png){width="4.074305555555555in"
 height="0.7013888888888888in"}And here's what a PitBull does:
 
 Greet is defined in the Dog sprite. If Fido is a particular cocker
@@ -3830,7 +3830,7 @@ The block, if any, that examines a variable or attribute is called its
 example above) that modifies a variable or attribute is called a
 *setter.*
 
-![](./myMediaFolder/media/image770.png){width="2.2381944444444444in"
+![](/snap-manual/assets/images/image770.png){width="2.2381944444444444in"
 height="2.084722222222222in"}In Snap*!* we allow virtually all
 attributes to be examined. But instead of adding dozens of reporters, we
 use a more uniform interface for attributes: The my block's menu (in
@@ -3866,7 +3866,7 @@ and visible on the stage; in class/instance OOP the programming process
 begins with an abstract, invisible entity, the class, that must be
 designed before any concrete objects can be made.[^7]
 
-![](./myMediaFolder/media/image748.png){width="7.500694444444444in"
+![](/snap-manual/assets/images/image748.png){width="7.500694444444444in"
 height="1.5743055555555556in"}There are three ways to make a child
 sprite. If you control-click or right-click on a sprite in the "sprite
 corral" at the bottom right corner of the window, you get a menu that
@@ -3921,7 +3921,7 @@ in the parent (and therefore in itself and all its siblings)? Remember
 that in this system any object can tell any other object to do
 something:
 
-![](./myMediaFolder/media/image779.png){width="5.072916666666667in"
+![](/snap-manual/assets/images/image779.png){width="5.072916666666667in"
 height="0.5833333333333334in"}When a sprite gets a message for which it
 doesn't have a corresponding block, the message is *delegated* to that
 sprite's parent. When a sprite does have the corresponding block, then
@@ -3929,11 +3929,11 @@ the message is not delegated. If the script that implements a delegated
 message refers to my (self), it means the child to which the message was
 originally sent, not the parent to which the message was delegated.
 
-![](./myMediaFolder/media/image780.png){width="0.7895833333333333in" height="3.4680555555555554in"}List of attributes
+![](/snap-manual/assets/images/image780.png){width="0.7895833333333333in" height="3.4680555555555554in"}List of attributes
 ---------------------------------------------------------------------------------------------------------------------
 
-![](./myMediaFolder/media/image781.png){width="1.19in"
-height="0.25in"}![](./myMediaFolder/media/image782.png){width="1.1756944444444444in"
+![](/snap-manual/assets/images/image781.png){width="1.19in"
+height="0.25in"}![](/snap-manual/assets/images/image782.png){width="1.1756944444444444in"
 height="6.116666666666666in"}At the right is a picture of the dropdown
 menu of attributes in the my block.
 
@@ -4001,7 +4001,7 @@ on. My \[costumes\] and my \[sounds\] report lists of them.
 
 ### Media Computation with Costumes
 
-![](./myMediaFolder/media/image783.png){width="1.6319444444444444in"
+![](/snap-manual/assets/images/image783.png){width="1.6319444444444444in"
 height="0.1875in"}The components of a costume are its name, width,
 height, and pixels. The block gives access to these components using its
 left menu. From its right menu you can choose the current costume, the
@@ -4034,7 +4034,7 @@ discrete rectangular screen coordinates. Note that the opacity of a
 sprite's ghost effect. (The latter really is a measure of transparency:
 0 means opaque and 100 means invisible.)
 
-![](./myMediaFolder/media/image784.png){width="6.100694444444445in"
+![](/snap-manual/assets/images/image784.png){width="6.100694444444445in"
 height="1.3895833333333334in"}The bitmap is a one-dimensional list of
 pixels, not an array of *height* rows of *width* pixels each. That's why
 the pixel list has to be combined with the dimensions to produce a
@@ -4055,7 +4055,7 @@ red component. Also note that this process works only on bitmap
 costumes; if you call pixels of on a vector costume (one with "svg" in
 the corner of its picture), it will be converted to pixels first.
 
-![](./myMediaFolder/media/image790.png){width="2.2569444444444446in"
+![](/snap-manual/assets/images/image790.png){width="2.2569444444444446in"
 height="0.2847222222222222in"}One important point to see here is that a
 bitmap (list of pixels) is not, by itself, a costume. The new costume
 block creates a costume by combining a bitmap, a width, and a height.
@@ -4065,11 +4065,11 @@ costume. Note that there's no name input; costumes computed in this way
 are all named costume. Note also that the use of switch to costume does
 *not* add the computed costume to the sprite's wardrobe; to do that, say
 
-![](./myMediaFolder/media/image791.png){width="7.508333333333334in"
+![](/snap-manual/assets/images/image791.png){width="7.508333333333334in"
 height="1.2090277777777778in"}Here's a more interesting example of color
 manipulation:
 
-![](./myMediaFolder/media/image797.png){width="4.5625in"
+![](/snap-manual/assets/images/image797.png){width="4.5625in"
 height="0.40694444444444444in"}Each color value is constrained to be 0,
 80, 160, or 240. This gives the picture a more cartoonish look.
 Alternatively, you can do the computation taking advantage of
@@ -4077,8 +4077,8 @@ hyperblocks:
 
 Here's one way to exchange red and green values:
 
-![](./myMediaFolder/media/image798.png){width="7.5in"
-height="0.6555555555555556in"}![](./myMediaFolder/media/image804.png){width="0.9583333333333334in"
+![](/snap-manual/assets/images/image798.png){width="7.5in"
+height="0.6555555555555556in"}![](/snap-manual/assets/images/image804.png){width="0.9583333333333334in"
 height="0.18055555555555555in"}It's the list that determines the
 rearrangement of colors: green➔red, red➔green, and the other two
 unchanged. That list is inside another list because otherwise it would
@@ -4087,8 +4087,8 @@ We use pixels of costume current rather than costume apple because the
 latter is always a red apple, so this little program would get stuck
 turning it green, instead of alternating colors.
 
-![](./myMediaFolder/media/image805.png){width="5.569444444444445in"
-height="0.4236111111111111in"}![](./myMediaFolder/media/image809.png){width="1.7222222222222223in"
+![](/snap-manual/assets/images/image805.png){width="5.569444444444445in"
+height="0.4236111111111111in"}![](/snap-manual/assets/images/image809.png){width="1.7222222222222223in"
 height="0.22916666666666666in"}The stretch block takes a costume as its
 first input, either by selecting a costume from the menu or by dropping
 a costume-valued expression such as onto it. The other two inputs are
@@ -4097,11 +4097,11 @@ make fun house mirror versions of costumes:
 
 The resulting costumes can be used with switch to costume and so on.
 
-![](./myMediaFolder/media/image305.png){width="5.330729440069991in"
+![](/snap-manual/assets/images/image305.png){width="5.330729440069991in"
 height="0.3541666666666667in"}Finally, you can use pictures from your
 computer's camera in your projects using these blocks:
 
-![](./myMediaFolder/media/image813.png){width="1.4722222222222223in"
+![](/snap-manual/assets/images/image813.png){width="1.4722222222222223in"
 height="0.24305555555555555in"}Using the video on block turns on the
 camera and displays what it sees on the stage, regardless of the inputs
 given. The camera remains on until you click the red stop button, your
@@ -4112,23 +4112,23 @@ transparency and not opacity. (Small numbers make the video more
 visible.) By default, the video image is mirrored, like the selfie
 camera on your cell phone: When you raise your left hand, your image
 raises its right hand. You can control this
-![](./myMediaFolder/media/image814.png){width="1.4027777777777777in"
+![](/snap-manual/assets/images/image814.png){width="1.4027777777777777in"
 height="0.24305555555555555in"}mirroring with the block.
 
-![](./myMediaFolder/media/image815.png){width="1.2041666666666666in"
+![](/snap-manual/assets/images/image815.png){width="1.2041666666666666in"
 height="1.6125in"}The video snap on block then takes a still picture
 from the camera, and trims it to fit on the selected sprite. (Video snap
 on stage means to use the entire stage-sized rectangle.) For example,
 here's a camera snapshot trimmed to fit Alonzo:
 
-![](./myMediaFolder/media/image816.png){width="2.670138888888889in"
+![](/snap-manual/assets/images/image816.png){width="2.670138888888889in"
 height="1.2986111111111112in"}The "Video Capture" project in the
 Examples collection repeatedly takes such trimmed snapshots and has the
 Alonzo sprite use the current snapshot as its costume, so it looks like
 this:
 
-![](./myMediaFolder/media/image817.png){width="2.6666666666666665in"
-height="2.0in"}![](./myMediaFolder/media/image818.png){width="3.3333333333333335in"
+![](/snap-manual/assets/images/image817.png){width="2.6666666666666665in"
+height="2.0in"}![](/snap-manual/assets/images/image818.png){width="3.3333333333333335in"
 height="2.5in"}(The picture above was actually taken with transparency
 set to 50, to make the background more visible for printing.) Because
 the sprite is always still in the place where the snapshot was taken,
@@ -4140,11 +4140,11 @@ This time, the sprite's costume was captured at one position, and then
 the sprite is shown at a different position. (You probably wouldn't want
 to do this, but perhaps it's helpful for explanatory purposes.)
 
-![](./myMediaFolder/media/image819.png){width="7.375694444444444in"
+![](/snap-manual/assets/images/image819.png){width="7.375694444444444in"
 height="1.6423611111111112in"}What you *would* want to do is push the
 sprite around the stage:
 
-![](./myMediaFolder/media/image825.png){width="3.0902777777777777in"
+![](/snap-manual/assets/images/image825.png){width="3.0902777777777777in"
 height="1.9236111111111112in"}(Really these should be Jens's picture;
 it's his project. But he's vacationing. ☺) Video motion compares two
 snapshots a moment apart, looking only at the part within the given trim
@@ -4166,8 +4166,8 @@ It starts by recording a brief burst of sound from your microphone. (How
 brief? On my computer, 0.010667 seconds, but you'll see shortly how to
 ﬁnd out or control the sample size on your computer.)
 
-![](./myMediaFolder/media/image826.png){width="1.9652777777777777in"
-height="0.2569444444444444in"}![](./myMediaFolder/media/image827.png){width="5.999305555555556in"
+![](/snap-manual/assets/images/image826.png){width="1.9652777777777777in"
+height="0.2569444444444444in"}![](/snap-manual/assets/images/image827.png){width="5.999305555555556in"
 height="2.620138888888889in"}Just as the *pixel* is the smallest piece
 of a picture, the *sample* is the smallest piece of a sound. It says
 here: that on my computer, 48,000 samples are recorded per second, so
@@ -4218,8 +4218,8 @@ shrill-sounding note. But remember that a complex waveform is the sum of
 multiple sine waves at different frequency. Here's a different
 up-and-down regularity:
 
-![](./myMediaFolder/media/image828.png){width="2.795138888888889in"
-height="1.2222222222222223in"}![](./myMediaFolder/media/image829.png){width="2.7847222222222223in"
+![](/snap-manual/assets/images/image828.png){width="2.795138888888889in"
+height="1.2222222222222223in"}![](/snap-manual/assets/images/image829.png){width="2.7847222222222223in"
 height="1.0486111111111112in"}It's not obvious, but in the left part of
 the graph, the signal is more above the *x* axis than below it. Toward
 the right, it seems to be more below than above the axis. At the very
@@ -4237,7 +4237,7 @@ but is best known for working out the nature of periodic functions as a
 sum of sine waves.) Luckily we don't have to do the math; the microphone
 block will do it for us, if we ask for microphone spectrum:
 
-![](./myMediaFolder/media/image830.png){width="7.493055555555555in"
+![](/snap-manual/assets/images/image830.png){width="7.493055555555555in"
 height="1.4861111111111112in"}These are frequency spectra from (samples
 of) three different songs. The most obvious thing about these graphs is
 that their overall slope is downward; the loudest frequency is the
@@ -4264,7 +4264,7 @@ frequency the frequency in Hz of the main note heard
 
 sample rate the number of samples being collected per second
 
-![](./myMediaFolder/media/image258.png){width="2.9166666666666665in"
+![](/snap-manual/assets/images/image258.png){width="2.9166666666666665in"
 height="0.28125in"}resolution the size of the array in which data are
 collected (typically 512, must be a power of 2)
 
@@ -4274,7 +4274,7 @@ Its first input is a list of samples, and its second input specifies how
 many samples occupy one second.
 
  OOP with Procedures
-===================
+=================
 
 The idea of object oriented programming is often taught in a way that
 makes it seem as if a special object oriented programming language is
@@ -4291,8 +4291,8 @@ implementations of class/instance and prototyping OOP.
 Local State with Script Variables
 ---------------------------------
 
-![](./myMediaFolder/media/image836.png){width="3.473611111111111in"
-height="3.1805555555555554in"}![](./myMediaFolder/media/image852.png){width="2.2395833333333335in"
+![](/snap-manual/assets/images/image836.png){width="3.473611111111111in"
+height="3.1805555555555554in"}![](/snap-manual/assets/images/image852.png){width="2.2395833333333335in"
 height="1.5104166666666667in"}This script implements an object *class*,
 a type of object, namely the counter class. In this ﬁrst simplified
 version there is only one method, so no explicit message passing is
@@ -4323,7 +4323,7 @@ to a particular counter.
 Messages and Dispatch Procedures
 --------------------------------
 
-![](./myMediaFolder/media/image853.png){width="4.416666666666667in"
+![](/snap-manual/assets/images/image853.png){width="4.416666666666667in"
 height="3.1666666666666665in"}In the simplified class above, there is
 only one method, and so there are no messages; you just call the
 instance to carry out its one method. Here is a more refined version
@@ -4342,7 +4342,7 @@ version, calling the instance gives access to a method, which must then
 be called to finish the job. We can provide a block to do both procedure
 calls in one:
 
-![](./myMediaFolder/media/image854.png){width="4.010416666666667in"
+![](/snap-manual/assets/images/image854.png){width="4.010416666666667in"
 height="0.7077198162729659in"}
 
 The ask block has two required inputs: an object and a message. It also
@@ -4356,7 +4356,7 @@ multiple input (in the outer call block). Note also that this is one of
 the rare cases in which we must unringify the inner call block, whose
 *value when called* gives the method.
 
-![](./myMediaFolder/media/image837.png){width="3.9069444444444446in"
+![](/snap-manual/assets/images/image837.png){width="3.9069444444444446in"
 height="1.6125in"}
 
 Inheritance via Delegation
@@ -4368,7 +4368,7 @@ about inheritance? We can provide that capability using the technique of
 the parent class, and simply passes on the messages it doesn't want to
 specialize:
 
-![](./myMediaFolder/media/image857.png){width="3.8125in"
+![](/snap-manual/assets/images/image857.png){width="3.8125in"
 height="3.5833333333333335in"}
 
 This script implements the buzzer class, which is a child of counter.
@@ -4410,20 +4410,20 @@ of the latter contains a *key* and a corresponding *value.* We provide a
 lookup procedure to locate the key-value pair corresponding to a given
 key in a given table.
 
-![](./myMediaFolder/media/image858.png){width="3.2152777777777777in"
+![](/snap-manual/assets/images/image858.png){width="3.2152777777777777in"
 height="2.361111111111111in"}
 
-![](./myMediaFolder/media/image859.png){width="2.625in"
+![](/snap-manual/assets/images/image859.png){width="2.625in"
 height="0.78125in"}
 
-![](./myMediaFolder/media/image860.png){width="5.604166666666667in"
-height="1.15625in"}![](./myMediaFolder/media/image861.png){width="5.604166666666667in"
+![](/snap-manual/assets/images/image860.png){width="5.604166666666667in"
+height="1.15625in"}![](/snap-manual/assets/images/image861.png){width="5.604166666666667in"
 height="1.15625in"}
 
 There are also commands to insert and delete entries:
 
-![](./myMediaFolder/media/image862.png){width="3.71875in"
-height="1.8263888888888888in"}![](./myMediaFolder/media/image863.png){width="3.2291666666666665in"
+![](/snap-manual/assets/images/image862.png){width="3.71875in"
+height="1.8263888888888888in"}![](/snap-manual/assets/images/image863.png){width="3.2291666666666665in"
 height="2.1283136482939633in"}
 
 As in the class/instance version, an object is represented as a dispatch
@@ -4450,13 +4450,13 @@ grandparent, etc.) of the original recipient, and that method refers to
 a variable or method, it will use the child's variable or method if the
 child has its own version.
 
-![](./myMediaFolder/media/image864.png){width="4.375in"
+![](/snap-manual/assets/images/image864.png){width="4.375in"
 height="7.469444444444444in"}The clone of block below takes an object as
 its input and makes a child object. It should be considered as an
 internal part of the implementation; the preferred way to make a child
 of an object is to send that object a clone message.
 
-![](./myMediaFolder/media/image865.png){width="1.5729166666666667in"
+![](/snap-manual/assets/images/image865.png){width="1.5729166666666667in"
 height="0.6875in"}Every object is created with predefined methods for
 set, method, delete-var, delete-method, and clone. It has one predefined
 variable, parent. Objects without a parent are created by calling new
@@ -4467,7 +4467,7 @@ and then call the method. But in this version, we provide the desired
 object as the ﬁrst method input. We provide one procedure for Command
 methods and one for Reporter methods:
 
-![](./myMediaFolder/media/image866.png){width="6.938888888888889in"
+![](/snap-manual/assets/images/image866.png){width="6.938888888888889in"
 height="1.0in"}(Remember that the "Input list:" variant of the run and
 call blocks is made by dragging the input expression over the arrowheads
 rather than over the input slot.)
@@ -4480,14 +4480,14 @@ method always sets counter1's total variable, which therefore keeps
 count of the total number of times that *any* counter is incremented.
 Running this script should \[say\] and (think) the following lists:
 
-![](./myMediaFolder/media/image870.png){width="4.208333333333333in"
+![](/snap-manual/assets/images/image870.png){width="4.208333333333333in"
 height="4.395833333333333in"}\[1 1\] \[2 2\] \[3 3\] \[4 4\] (1 5) (2 6)
 (3 7) \[5 8\] \[6 9\] \[7 10\] \[8 11\]
 
  The Outside World
 =================
 
-![](./myMediaFolder/media/image148.png){width="1.6201388888888888in"
+![](/snap-manual/assets/images/image148.png){width="1.6201388888888888in"
 height="0.25in"}The facilities discussed so far are fine for projects
 that take place entirely on your computer's screen. But you may want to
 write programs that interact with physical devices (sensors or robots)
@@ -4510,7 +4510,7 @@ another URL included in the reported HTML. The Web page is typically a
 very long text string, and so the primitive split block is useful to get
 the text in a manageable form, namely, as a list of lines:
 
-![](./myMediaFolder/media/image871.png){width="6.520833333333333in"
+![](/snap-manual/assets/images/image871.png){width="6.520833333333333in"
 height="4.277777777777778in"}
 
 The second input to split is the character to be used to separate the
@@ -4563,13 +4563,13 @@ to source code repositories. This situation will improve with time.
 Date and Time
 -------------
 
-![](./myMediaFolder/media/image872.png){width="5.305555555555555in"
+![](/snap-manual/assets/images/image872.png){width="5.305555555555555in"
 height="0.3194444444444444in"}The current block in the Sensing palette
 can be used to find out the current date or time. Each call to this
 block reports one component of the date or time, so you will probably
 combine several calls, like this:
 
-![](./myMediaFolder/media/image873.png){width="5.305555555555555in"
+![](/snap-manual/assets/images/image873.png){width="5.305555555555555in"
 height="0.3194444444444444in"}for Americans, or like this:
 
 for Europeans.
@@ -4587,21 +4587,21 @@ interpreter or compiler. Making continuations explicit is an advanced
 but versatile programming technique that allows users to create control
 structures such as nonlocal exit and multithreading.
 
-![](./myMediaFolder/media/image874.png){width="1.40625in"
+![](/snap-manual/assets/images/image874.png){width="1.40625in"
 height="1.5416666666666667in"}In the simplest case, the continuation of
 a command block may just be the part of the script after the block. For
 example, in the script
 
-![](./myMediaFolder/media/image875.png){width="1.59375in"
+![](/snap-manual/assets/images/image875.png){width="1.59375in"
 height="0.7083333333333334in"}the continuation of the move 100 steps
 block is
 
-![](./myMediaFolder/media/image876.png){width="1.4784722222222222in"
+![](/snap-manual/assets/images/image876.png){width="1.4784722222222222in"
 height="0.8020833333333334in"}But some situations are more complicated.
 For example, what is the continuation of move 100 steps in the following
 script?
 
-![](./myMediaFolder/media/image877.png){width="1.6666666666666667in"
+![](/snap-manual/assets/images/image877.png){width="1.6666666666666667in"
 height="1.0729166666666667in"}That's a trick question; the move block is
 run four times, and it has a different continuation each time. The first
 time, its continuation is
@@ -4610,7 +4610,7 @@ Note that there is no repeat 3 block in the actual script, but the
 continuation has to represent the fact that there are three more times
 through the loop to go. The fourth time, the continuation is just
 
-![](./myMediaFolder/media/image878.png){width="1.59375in"
+![](/snap-manual/assets/images/image878.png){width="1.59375in"
 height="0.29791666666666666in"}What counts is not what's physically
 below the block in the script, but what computational work remains to be
 done.
@@ -4621,24 +4621,24 @@ but the actual continuation is made from the evaluator's internal
 bookkeeping of where it's up to in a script. So it's really the original
 script plus some extra information. But the pictures here do correctly
 represent what work the process still has left to do.)\
-![](./myMediaFolder/media/image879.png){width="1.4791666666666667in"
+![](/snap-manual/assets/images/image879.png){width="1.4791666666666667in"
 height="1.25in"}When a block is used inside a custom block, its
 continuation may include parts of more than one script. For example, if
 we make a custom square block
 
 and then use that block in a script:
 
-![](./myMediaFolder/media/image880.png){width="0.7291666666666666in"
+![](/snap-manual/assets/images/image880.png){width="0.7291666666666666in"
 height="0.59375in"}then the continuation of the first use of move 100
 steps is
 
-![](./myMediaFolder/media/image881.png){width="1.6666666666666667in"
+![](/snap-manual/assets/images/image881.png){width="1.6666666666666667in"
 height="1.2604166666666667in"}in which part comes from inside the square
 block and part comes from the call to square. Nevertheless, ordinarily
 when we *display* a continuation we show only the part within the
 current script.
 
-![](./myMediaFolder/media/image882.png){width="2.1875in"
+![](/snap-manual/assets/images/image882.png){width="2.1875in"
 height="0.5729166666666666in"}The continuation of a command block, as
 we've seen, is a simple script with no input slots. But the continuation
 of a *reporter* block has to do something with the value reported by the
@@ -4646,7 +4646,7 @@ block, so it takes that value as input. For example, in the script
 
 the continuation of the 3+4 block is
 
-![](./myMediaFolder/media/image883.png){width="3.5729166666666665in"
+![](/snap-manual/assets/images/image883.png){width="3.5729166666666665in"
 height="0.5729166666666666in"}Of course the name result in that picture
 is arbitrary; any name could be used, or no name at all by using the
 empty-slot notation for input substitution.
@@ -4656,7 +4656,7 @@ Continuation Passing Style
 
 Like all programming languages, Snap*!* evaluates compositions of nested
 reporters from the inside out. For example, in the expression
-![](./myMediaFolder/media/image884.png){width="1.3125in"
+![](/snap-manual/assets/images/image884.png){width="1.3125in"
 height="0.22916666666666666in"}Snap*!* first adds 4 and 5, then
 multiplies 3 by that sum. This often means that the order in which the
 operations are done is backwards from the order in which they appear in
@@ -4667,15 +4667,15 @@ say, "take the sum of four and five, and then take the product of three
 and that sum." This sounds more awkward, but it has the virtue of
 putting the operations in the order in which they're actually performed.
 
-![](./myMediaFolder/media/image885.png){width="3.1875in"
+![](/snap-manual/assets/images/image885.png){width="3.1875in"
 height="0.3541666666666667in"}That may seem like overkill in a simple
 expression, but suppose you're trying to convey the expression
 
 to a friend over the phone. If you say "factorial of three times
 factorial of two plus two plus five" you might mean any of these:
 
-![](./myMediaFolder/media/image886.png){width="3.1875in"
-height="1.71875in"}![](./myMediaFolder/media/image894.png){width="7.490277777777778in"
+![](/snap-manual/assets/images/image886.png){width="3.1875in"
+height="1.71875in"}![](/snap-manual/assets/images/image894.png){width="7.490277777777778in"
 height="3.622916666666667in"}Wouldn't it be better to say, "Add two and
 two, take the factorial of that, add five to that, multiply three by
 that, and take the factorial of the result"? We can do a similar
@@ -4684,15 +4684,15 @@ reporters that take their continuation as an explicit input. In the
 following picture, notice that the new blocks are *commands*, not
 reporters.
 
-![](./myMediaFolder/media/image904.png){width="4.052777777777778in"
+![](/snap-manual/assets/images/image904.png){width="4.052777777777778in"
 height="1.6354166666666667in"}We can check that these blocks give the
 results we want:
 
-![](./myMediaFolder/media/image908.png){width="5.533333333333333in"
+![](/snap-manual/assets/images/image908.png){width="5.533333333333333in"
 height="2.3180555555555555in"}The original expression can now be
 represented as
 
-![](./myMediaFolder/media/image909.png){width="2.1930555555555555in"
+![](/snap-manual/assets/images/image909.png){width="2.1930555555555555in"
 height="1.0527777777777778in"}If you read this top to bottom, don't you
 get "Add two and two, take the factorial of that, add five to that,
 multiply three by that, and take the factorial of the result"? Just what
@@ -4747,8 +4747,8 @@ Here's the classic example. We want to write a recursive block that
 takes a list of numbers as input, and reports the product of all the
 numbers:
 
-![](./myMediaFolder/media/image910.png){width="3.8958333333333335in"
-height="1.9375in"}![](./myMediaFolder/media/image911.png){width="3.8958333333333335in"
+![](/snap-manual/assets/images/image910.png){width="3.8958333333333335in"
+height="1.9375in"}![](/snap-manual/assets/images/image911.png){width="3.8958333333333335in"
 height="1.3416666666666666in"}But we can improve the efficiency of this
 block, in the case of a list that includes a zero; as soon as we see the
 zero, we know that the entire product is zero.
@@ -4758,25 +4758,25 @@ the list 1,2,3,0,4,5. We find the zero on the third recursive call (the
 fourth call altogether), as the first item of the sublist 0,4,5. What is
 the continuation of the report 0 block? It's
 
-![](./myMediaFolder/media/image912.png){width="4.333333333333333in"
+![](/snap-manual/assets/images/image912.png){width="4.333333333333333in"
 height="0.4166666666666667in"}Even though we already know that result is
 zero, we're going to do three unnecessary multiplications while
 unwinding the recursive calls.
 
-![](./myMediaFolder/media/image913.png){width="4.038194444444445in"
-height="1.9256944444444444in"}![](./myMediaFolder/media/image914.png){width="3.9451388888888888in"
+![](/snap-manual/assets/images/image913.png){width="4.038194444444445in"
+height="1.9256944444444444in"}![](/snap-manual/assets/images/image914.png){width="3.9451388888888888in"
 height="1.0979166666666667in"}We can improve upon this by capturing the
 continuation of the top-level call to product:
 
-![](./myMediaFolder/media/image915.png){width="2.7083333333333335in"
+![](/snap-manual/assets/images/image915.png){width="2.7083333333333335in"
 height="0.2916666666666667in"}The
-![](./myMediaFolder/media/image916.png){width="1.59125in"
+![](/snap-manual/assets/images/image916.png){width="1.59125in"
 height="0.18611111111111112in"} block takes as its input a one-input
 script, as shown in the product example. It calls that script with *the
 continuation of the* call-with-continuation *block itself* as its input.
 In this case, that continuation is
 
-![](./myMediaFolder/media/image917.png){width="4.40625in"
+![](/snap-manual/assets/images/image917.png){width="4.40625in"
 height="1.15625in"}reporting to whichever script called product. If the
 input list doesn't include a zero, then nothing is ever done with that
 continuation, and this version works just like the original product. But
@@ -4786,7 +4786,7 @@ input of 0. The continuation immediately reports that 0 to the caller of
 product, *without* unwinding all the recursive calls and without the
 unnecessary multiplications.
 
-![](./myMediaFolder/media/image918.png){width="4.385416666666667in"
+![](/snap-manual/assets/images/image918.png){width="4.385416666666667in"
 height="0.5104166666666666in"}I could have written product a little more
 simply using a Reporter ring instead of a Command ring:
 
@@ -4804,14 +4804,14 @@ w/continuation is an input.
 
 ###  Nonlocal exit
 
-![](./myMediaFolder/media/image919.png){width="6.268055555555556in"
+![](/snap-manual/assets/images/image919.png){width="6.268055555555556in"
 height="1.125in"}Many programming languages have a break command that
 can be used inside a looping construct such as repeat to end the
 repetition early. Using first class continuations, we can generalize
 this mechanism to allow nonlocal exit even within a block called from
 inside a loop, or through several levels of nested loops:
 
-![](./myMediaFolder/media/image923.png){width="1.8541666666666667in"
+![](/snap-manual/assets/images/image923.png){width="1.8541666666666667in"
 height="2.6534722222222222in"}The upvar break has as its value a
 continuation that can be called from anywhere in the program to jump
 immediately to whatever comes after the catch block in its script.
@@ -4823,7 +4823,7 @@ and think "Hmm." If in the run block the variable break is used instead
 of outer, then the script will say 1, 2, 3, and "Hello!" before thinking
 "Hmm."
 
-![](./myMediaFolder/media/image924.png){width="4.354166666666667in"
+![](/snap-manual/assets/images/image924.png){width="4.354166666666667in"
 height="1.4708333333333334in"}There are corresponding catch and throw
 blocks for reporters. The catch block is a reporter that takes an
 expression as input instead of a C-shaped slot. But the throw block is a
@@ -4850,8 +4850,8 @@ command (a *thread* is the technical term for the process of running a
 script), which switches to another script without remembering the old
 one.
 
-![](./myMediaFolder/media/image928.png){width="2.9479166666666665in"
-height="4.254166666666666in"}![](./myMediaFolder/media/image929.png){width="6.5569444444444445in"
+![](/snap-manual/assets/images/image928.png){width="2.9479166666666665in"
+height="4.254166666666666in"}![](/snap-manual/assets/images/image929.png){width="6.5569444444444445in"
 height="2.770138888888889in"}Since this all happens automatically, there
 is generally no need for the user to think about threads. But, just to
 show that this, too, is not magic, here is an implementation of a simple
@@ -4880,7 +4880,7 @@ repetition.
 The scripts and custom blocks that make up a program can be examined or
 created by the program itself.
 
-![](./myMediaFolder/media/image935.png){width="7.4945702099737534in" height="2.0380686789151357in"}Reading a block
+![](/snap-manual/assets/images/image935.png){width="7.4945702099737534in" height="2.0380686789151357in"}Reading a block
 ------------------------------------------------------------------------------------------------------------------
 
 The definition of block takes a custom block (in a ring, since it's the
@@ -4889,14 +4889,14 @@ input and reports the block's definition, i.e., its inputs and body, in
 the form of a ring with named inputs corresponding to the block's input
 names, so that those input names are bound in the body.
 
-![](./myMediaFolder/media/image939.png){width="7.4in"
+![](/snap-manual/assets/images/image939.png){width="7.4in"
 height="2.51in"}The split by blocks block takes any expression or script
 as input (ringed) and reports a list representing a *syntax tree* for
 the script or expression, in which the first item is a block with no
 inputs and the remaining items are the input values, which may
 themselves be syntax trees.
 
-![](./myMediaFolder/media/image943.png){width="7.496969597550306in"
+![](/snap-manual/assets/images/image943.png){width="7.496969597550306in"
 height="2.079861111111111in"}Using split by blocks to select custom
 blocks whose definitions contain another block gives us this debugging
 aid:
@@ -4909,7 +4909,7 @@ custom? of block, which reports True if its input is a custom block.
 Writing a block
 ---------------
 
-![](./myMediaFolder/media/image947.png){width="6.071211723534558in"
+![](/snap-manual/assets/images/image947.png){width="6.071211723534558in"
 height="2.209722222222222in"}The inverse function to split by blocks is
 provided by the join block, which when given a syntax tree as input
 reports the corresponding expression or script.
@@ -4940,10 +4940,10 @@ Note that the underscores are separated from the block text by spaces.
 Note in the case of the for block's label that the upvar (the i) and the
 C-slot both count as inputs. Note also that the label is not meant to be
 a unique symbol that represents only this block. For example,
-![](./myMediaFolder/media/image628.png){width="0.8611111111111112in"
+![](/snap-manual/assets/images/image628.png){width="0.8611111111111112in"
 height="0.19444444444444445in"} and ![A picture containing text, hitting
 Description automatically
-generated](./myMediaFolder/media/image376.png){width="1.15in"
+generated](/snap-manual/assets/images/image376.png){width="1.15in"
 height="0.19in"} both have the label
 
 \_ of \_. The label does not give the input slots names (that's done in
@@ -4959,7 +4959,7 @@ other things to specify about the block, and one purpose of the block
 upvar is to allow that. In the example on the previous page, there are
 four
 
-![](./myMediaFolder/media/image951.png){width="2.83in"
+![](/snap-manual/assets/images/image951.png){width="2.83in"
 height="0.97in"}set \_ of block \_ to \_ blocks, reproduced below for
 your convenience:
 
@@ -4974,7 +4974,7 @@ ones in the is (5) a (number)? block. If there is only one input, you
 can use just the name instead of putting it in a list. An empty or
 missing list item means type Any.
 
-![](./myMediaFolder/media/image952.png){width="4.31in"
+![](/snap-manual/assets/images/image952.png){width="4.31in"
 height="0.83in"}It\'s very important that these set blocks appear in the
 same script as the define that creates the block, because the block
 upvar is local to that script. You can't later say, for example,
@@ -4982,7 +4982,7 @@ upvar is local to that script. You can't later say, for example,
 because the copy of the hexagon block in this instruction counts as
 "using" it.
 
-![](./myMediaFolder/media/image953.png){width="2.6in"
+![](/snap-manual/assets/images/image953.png){width="2.6in"
 height="0.32in"}The of block reporter is useful to copy attributes from
 one block to another, as we copied the definition of square, modified
 it, and used it to define hexagon. Some of the values this block reports
@@ -4996,24 +4996,24 @@ program using this block to another language, the numeric outputs won't
 change, simplifying comparisons in your code. The set block accepts
 these numbers as an alternative to the names.
 
-![](./myMediaFolder/media/image954.png){width="3.379861111111111in"
-height="0.3798611111111111in"}![](./myMediaFolder/media/image955.png){width="1.02in"
+![](/snap-manual/assets/images/image954.png){width="3.379861111111111in"
+height="0.3798611111111111in"}![](/snap-manual/assets/images/image955.png){width="1.02in"
 height="0.25in"}There are a few more attributes of a block, less
 commonly used.
 
-![](./myMediaFolder/media/image956.png){width="3.5194444444444444in"
-height="0.6194444444444445in"}![](./myMediaFolder/media/image957.png){width="1.9314370078740157in"
-height="0.6102252843394576in"}![](./myMediaFolder/media/image961.png){width="3.2909722222222224in"
-height="0.6097222222222223in"}![](./myMediaFolder/media/image962.png){width="2.35in"
-height="2.56in"}![](./myMediaFolder/media/image963.png){width="1.6694444444444445in"
+![](/snap-manual/assets/images/image956.png){width="3.5194444444444444in"
+height="0.6194444444444445in"}![](/snap-manual/assets/images/image957.png){width="1.9314370078740157in"
+height="0.6102252843394576in"}![](/snap-manual/assets/images/image961.png){width="3.2909722222222224in"
+height="0.6097222222222223in"}![](/snap-manual/assets/images/image962.png){width="2.35in"
+height="2.56in"}![](/snap-manual/assets/images/image963.png){width="1.6694444444444445in"
 height="0.25in"}The list input is just like the one for set slots except
 for default values instead of types. Now for a block with a menu input:
 
-![](./myMediaFolder/media/image964.png){width="4.169444444444444in"
+![](/snap-manual/assets/images/image964.png){width="4.169444444444444in"
 height="1.2694444444444444in"}We passed too quickly over how the script
 turned the square block into a hexagon block:
 
-![](./myMediaFolder/media/image965.png){width="6.677272528433946in"
+![](/snap-manual/assets/images/image965.png){width="6.677272528433946in"
 height="3.6666666666666665in"}Those replace item blocks aren't very
 elegant. I had to look at foo by hand to figure out where the numbers I
 wanted to change are. This situation can be improved with a little
@@ -5021,10 +5021,10 @@ programming:
 
 Exercise for the reader: Implement this:![Graphical user interface
 Description automatically
-generated](./myMediaFolder/media/image971.png){width="3.11in"
+generated](/snap-manual/assets/images/image971.png){width="3.11in"
 height="0.57in"}
 
-![](./myMediaFolder/media/image972.png){width="7.501514654418198in"
+![](/snap-manual/assets/images/image972.png){width="7.501514654418198in"
 height="2.109722222222222in"}Returning to the define block, there's
 another reason for the block upvar: It's helpful in defining a recursive
 procedure using define. For a procedure to call itself, it needs a name
@@ -5037,15 +5037,15 @@ in the resulting definition. You could use this script directly in a
 simple case like this, but in a complicated case with a recursive call
 inside a ring inside the one giving the block definition, this script
 always means the innermost ring. But the upvar means the outer
-![](./myMediaFolder/media/image978.png){width="7.5in"
-height="0.5354166666666667in"}![](./myMediaFolder/media/image979.png){width="4.809722222222222in"
-height="0.4in"}![](./myMediaFolder/media/image980.png){width="4.809722222222222in"
+![](/snap-manual/assets/images/image978.png){width="7.5in"
+height="0.5354166666666667in"}![](/snap-manual/assets/images/image979.png){width="4.809722222222222in"
+height="0.4in"}![](/snap-manual/assets/images/image980.png){width="4.809722222222222in"
 height="1.4895833333333333in"}ring:
 
 It's analogous to using explicit formal parameters when you nest calls
 to higher order functions.
 
-![](./myMediaFolder/media/image981.png){width="5.76875in" height="3.879861111111111in"}Macros
+![](/snap-manual/assets/images/image981.png){width="5.76875in" height="3.879861111111111in"}Macros
 ---------------------------------------------------------------------------------------------
 
 Users of languages in the C family have learned to think of macros as
@@ -5089,13 +5089,13 @@ substantial feature of Scheme that we don't yet implement is *hygienic
 macros,* which make it possible to keep the two namespaces separate.
 
 User Interface Elements
-=======================
+=================
 
 In this chapter we describe in detail the various buttons, menus, and
 other clickable elements of the Snap*!* user interface. Here again is
 the map of the Snap*!* window:
 
-![](./myMediaFolder/media/image987.png){width="7.494419291338582in"
+![](/snap-manual/assets/images/image987.png){width="7.494419291338582in"
 height="4.663194444444445in"}
 
 Tool Bar Features
@@ -5112,7 +5112,7 @@ them. But they're not secrets.
 The Snap*!* logo at the left end of the tool bar is clickable. It shows
 a menu of options about Snap*!* itself:
 
-![](./myMediaFolder/media/image988.png){width="2.3292213473315835in"
+![](/snap-manual/assets/images/image988.png){width="2.3292213473315835in"
 height="1.02in"}
 
 The About option displays information about Snap*!* itself, including
@@ -5137,7 +5137,7 @@ accounts is limited to the official version hosted at Berkeley.)
 
 ### The File Menu
 
-![](./myMediaFolder/media/image384.png){width="0.3194444444444444in"
+![](/snap-manual/assets/images/image384.png){width="0.3194444444444444in"
 height="0.18055555555555555in"}The file icon shows a menu mostly about
 saving and loading projects. You may not see all these options, if you
 don't have multiple sprites, scenes, custom blocks, and custom
@@ -5162,7 +5162,7 @@ while others open a new browser window instead of a new project. You'll
 have to experiment. In general, the keyboard shortcuts in Snap*!* are
 the standard ones you expect in other software.
 
-![](./myMediaFolder/media/image989.png){width="2.8895833333333334in"
+![](/snap-manual/assets/images/image989.png){width="2.8895833333333334in"
 height="2.097916666666667in"}The Open... option shows a project open
 dialog box in which you can choose a project to open:
 
@@ -5176,11 +5176,11 @@ from that source; selecting a project by clicking shows its thumbnail (a
 picture of the stage when it was saved) and its project notes at the
 right.
 
-![](./myMediaFolder/media/image990.png){width="2.7243055555555555in"
+![](/snap-manual/assets/images/image990.png){width="2.7243055555555555in"
 height="1.9777777777777779in"}The search bar at the top can be used to
 find a project by name or text in the project notes. So in this example:
 
-![](./myMediaFolder/media/image991.png){width="2.723611111111111in"
+![](/snap-manual/assets/images/image991.png){width="2.723611111111111in"
 height="1.9777777777777779in"}I was looking for my ice cream projects
 and typed "crea" in the search bar, then wondered why "ferris" matched.
 But then when I clicked on ferris I saw this:
@@ -5226,7 +5226,7 @@ you opened another user's shared project or an example project, the
 project will be saved to your own cloud account. You must be logged in
 to save to the cloud.)
 
-![](./myMediaFolder/media/image992.png){width="3.236111111111111in"
+![](/snap-manual/assets/images/image992.png){width="3.236111111111111in"
 height="2.3493055555555555in"}The Save as... menu option opens a dialog
 box in which you can specify where to save the project:
 
@@ -5297,7 +5297,7 @@ categories. It opens a very small, easy-to-miss menu of category names
 just under the file icon in the menu bar. If you remove a category that
 has blocks in it, all those blocks are also removed.
 
-![](./myMediaFolder/media/image993.png){width="1.1666666666666667in"
+![](/snap-manual/assets/images/image993.png){width="1.1666666666666667in"
 height="0.19791666666666666in"}The next group of options concern the
 *scenes* feature, new in Snap*!* 7.0. A scene is a complete project,
 with its own stage, sprites, and code, but several can be merged into
@@ -5311,7 +5311,7 @@ specify that you're importing the project *as a scene* rather than
 replacing the current project.)
 
 The Libraries... option presents a menu of useful, optional block
-libraries:![](./myMediaFolder/media/image385.png){width="7.401388888888889in"
+libraries:![](/snap-manual/assets/images/image385.png){width="7.401388888888889in"
 height="3.238888888888889in"}
 
 When you click on the one-line description of a library, you are shown
@@ -5319,7 +5319,7 @@ the actual blocks in the library and a longer explanation of its
 purpose. You can browse the libraries to find one that will satisfy your
 needs. The libraries are described in detail in Section I.H, page 25.
 
-![](./myMediaFolder/media/image994.png){width="4.28125in"
+![](/snap-manual/assets/images/image994.png){width="4.28125in"
 height="3.2395833333333335in"}The Costumes... option opens a browser
 into the costume library:
 
@@ -5333,7 +5333,7 @@ If you have the stage selected in the sprite corral, rather than a
 sprite, the Costumes... option changes to a Backgrounds... option, with
 different choices in the browser:
 
-![](./myMediaFolder/media/image995.png){width="4.28125in"
+![](/snap-manual/assets/images/image995.png){width="4.28125in"
 height="3.2395833333333335in"}The costume and background libraries
 include both bitmap (go jagged if enlarged) and vector (enlarge
 smoothly) images. Thanks to Scratch 2.0/3.0 for most of these images!
@@ -5342,7 +5342,7 @@ it to bitmap.
 
 The Sounds... option opens the third kind of media browser:
 
-![](./myMediaFolder/media/image996.png){width="4.28125in"
+![](/snap-manual/assets/images/image996.png){width="4.28125in"
 height="3.2395833333333335in"}The Play buttons can be used to preview
 the sounds.
 
@@ -5352,9 +5352,9 @@ a sprite; it allows you to recover a sprite that was deleted by accident
 
 ### The Cloud Menu
 
-![](./myMediaFolder/media/image997.png){width="1.4368055555555554in"
-height="0.7597222222222222in"}![](./myMediaFolder/media/image998.png){width="0.2916666666666667in"
-height="0.16666666666666666in"}![](./myMediaFolder/media/image489.png){width="0.6645833333333333in"
+![](/snap-manual/assets/images/image997.png){width="1.4368055555555554in"
+height="0.7597222222222222in"}![](/snap-manual/assets/images/image998.png){width="0.2916666666666667in"
+height="0.16666666666666666in"}![](/snap-manual/assets/images/image489.png){width="0.6645833333333333in"
 height="0.1673611111111111in"}The cloud icon shows a menu of options
 relating to your Snap*!* cloud account. If you are not logged in, you
 see the outline icon and get this menu:
@@ -5373,10 +5373,10 @@ email from outside the school.) The Open in Community Site option
 appears only if you have a project open; it takes you to the community
 site page about that project.
 
-![](./myMediaFolder/media/image1001.png){width="1.6111111111111112in"
+![](/snap-manual/assets/images/image1001.png){width="1.6111111111111112in"
 height="0.6527777777777778in"}If you are already logged in, you'll see
 the solid icon
-![](./myMediaFolder/media/image1002.png){width="0.2916666666666667in"
+![](/snap-manual/assets/images/image1002.png){width="0.2916666666666667in"
 height="0.16666666666666666in"} and get this menu:
 
 Logout is obvious, but has the additional benefit of showing you who's
@@ -5387,8 +5387,8 @@ is the same as above.
 
 ###  The Settings Menu
 
-![](./myMediaFolder/media/image1003.png){width="1.2479166666666666in"
-height="2.5833333333333335in"}![](./myMediaFolder/media/image1004.png){width="0.2916666666666667in"
+![](/snap-manual/assets/images/image1003.png){width="1.2479166666666666in"
+height="2.5833333333333335in"}![](/snap-manual/assets/images/image1004.png){width="0.2916666666666667in"
 height="0.16666666666666666in"}The settings icon shows a menu of Snap*!*
 options, either for the current project or for you permanently,
 depending on the option:
@@ -5410,7 +5410,7 @@ zoom of 2 is gigantic! Don't even try 10.
 The Fade blocks... option opens a dialog in which you can change the
 appearance of blocks:
 
-![](./myMediaFolder/media/image1005.png){width="7.4847222222222225in"
+![](/snap-manual/assets/images/image1005.png){width="7.4847222222222225in"
 height="2.577777777777778in"}Mostly this is a propaganda aid to use on
 people who think that text languages are somehow better or more grown up
 than block languages, but some people do prefer less saturated block
@@ -5439,8 +5439,8 @@ collect private information about you, or to delete or modify your saved
 projects, you must enable JavaScript *each time* you load a project that
 uses it.
 
-![](./myMediaFolder/media/image1015.png){width="1.1895833333333334in"
-height="0.18958333333333333in"}![](./myMediaFolder/media/image1016.png){width="1.229861111111111in"
+![](/snap-manual/assets/images/image1015.png){width="1.1895833333333334in"
+height="0.18958333333333333in"}![](/snap-manual/assets/images/image1016.png){width="1.229861111111111in"
 height="0.25972222222222224in"}The Extension blocks option adds two
 blocks to the palette:
 
@@ -5449,8 +5449,8 @@ were formerly implemented with the JavaScript function block. This
 allows these libraries to run without requiring the JavaScript
 extensions option. Details are subject to change.
 
-![](./myMediaFolder/media/image1017.png){width="1.104861111111111in"
-height="2.0833333333333335in"}![](./myMediaFolder/media/image1018.png){width="1.6388888888888888in"
+![](/snap-manual/assets/images/image1017.png){width="1.104861111111111in"
+height="2.0833333333333335in"}![](/snap-manual/assets/images/image1018.png){width="1.6388888888888888in"
 height="0.4131944444444444in"}Input sliders provides an alternate way to
 put values in numeric input slots; if you click in such a slot, a slider
 appears that you can control with the mouse:
@@ -5570,7 +5570,7 @@ The feature doesn't know about any particular other language; instead,
 you can provide a translation for each primitive block using these
 special blocks:
 
-![](./myMediaFolder/media/image1019.png){width="3.120644138232721in"
+![](/snap-manual/assets/images/image1019.png){width="3.120644138232721in"
 height="0.5451388888888888in"}
 
 Using these primitive blocks, you can build a block library to translate
@@ -5580,8 +5580,8 @@ the project "Codification" in the Examples project list. Edit the blocks
 map to Smalltalk, map to JavaScript, etc., to see examples of how to
 provide translations for blocks.
 
-![](./myMediaFolder/media/image1021.png){width="2.209722222222222in"
-height="4.969444444444444in"}![](./myMediaFolder/media/image1022.png){width="1.38in"
+![](/snap-manual/assets/images/image1021.png){width="2.209722222222222in"
+height="4.969444444444444in"}![](/snap-manual/assets/images/image1022.png){width="1.38in"
 height="4.79in"}The Single palette option puts all blocks, regardless of
 category, into a single palette. It's intended mainly for use by
 curriculum developers building *Parsons problems:* projects in which
@@ -5591,13 +5591,13 @@ combined with the hiding of almost all primitive blocks. (See page 119.)
 When Single palette is turned on, two additional options (initially on)
 appear in the settings menu; the Show categories option controls the
 appearance of the palette category names such as
-![](./myMediaFolder/media/image1023.png){width="0.36in" height="0.16in"}
+![](/snap-manual/assets/images/image1023.png){width="0.36in" height="0.16in"}
 and ![A picture containing logo Description automatically
-generated](./myMediaFolder/media/image1024.png){width="0.33in"
+generated](/snap-manual/assets/images/image1024.png){width="0.33in"
 height="0.18in"}, while the Show buttons option controls the appearance
-of the ![](./myMediaFolder/media/image1025.png){width="0.61in"
+of the ![](/snap-manual/assets/images/image1025.png){width="0.61in"
 height="0.16in"} and
-![](./myMediaFolder/media/image1026.png){width="0.53in" height="0.16in"}
+![](/snap-manual/assets/images/image1026.png){width="0.53in" height="0.16in"}
 buttons in the palette.
 
 The HSL pen color model option changes the set pen, change pen, and pen
@@ -5615,7 +5615,7 @@ teacher-approved ways. But kids can uncheck the checkbox. ☺︎
 
 ### Visible Stepping Controls
 
-![](./myMediaFolder/media/image121.png){width="0.37916666666666665in"
+![](/snap-manual/assets/images/image121.png){width="0.37916666666666665in"
 height="0.21666666666666667in"}After the menu buttons you'll see the
 project name. After that comes the footprint button used to turn on
 visible stepping and, when it's on, the slider to control the speed of
@@ -5623,10 +5623,10 @@ stepping.
 
 ### Stage Resizing Buttons
 
-![](./myMediaFolder/media/image1027.png){width="0.37916666666666665in"
-height="0.21666666666666667in"}![](./myMediaFolder/media/image1028.png){width="0.37916666666666665in"
-height="0.21666666666666667in"}![](./myMediaFolder/media/image1029.png){width="0.37916666666666665in"
-height="0.21666666666666667in"}![](./myMediaFolder/media/image1030.png){width="0.37916666666666665in"
+![](/snap-manual/assets/images/image1027.png){width="0.37916666666666665in"
+height="0.21666666666666667in"}![](/snap-manual/assets/images/image1028.png){width="0.37916666666666665in"
+height="0.21666666666666667in"}![](/snap-manual/assets/images/image1029.png){width="0.37916666666666665in"
+height="0.21666666666666667in"}![](/snap-manual/assets/images/image1030.png){width="0.37916666666666665in"
 height="0.21666666666666667in"}Still in the tool bar, but above the left
 edge of the stage, are two buttons that change the size of the stage.
 The first is the shrink/grow button. Normally it looks like this:
@@ -5651,7 +5651,7 @@ mode.
 Above the right edge of the stage are three buttons that control the
 running of the project.
 
-![](./myMediaFolder/media/image1031.png){width="0.38in"
+![](/snap-manual/assets/images/image1031.png){width="0.38in"
 height="0.22in"}Technically, the green flag is no more a project control
 than anything else that can trigger a hat block: typing on the keyboard
 or clicking on a sprite. But it's a convention that clicking the flag
@@ -5660,24 +5660,24 @@ convention; some projects have no flag-controlled scripts at all, but
 respond to keyboard controls instead. Clicking the green flag also
 deletes temporary clones.
 
-![](./myMediaFolder/media/image1032.png){width="0.35in"
+![](/snap-manual/assets/images/image1032.png){width="0.35in"
 height="0.2in"}Whenever any script is running (not necessarily in the
 current sprite), the green flag is lit: .
 
-![](./myMediaFolder/media/image1033.png){width="0.35in"
-height="0.2in"}![](./myMediaFolder/media/image1034.png){width="1.3590277777777777in"
+![](/snap-manual/assets/images/image1033.png){width="0.35in"
+height="0.2in"}![](/snap-manual/assets/images/image1034.png){width="1.3590277777777777in"
 height="0.8840277777777777in"}Shift-clicking the button enters Turbo
 mode, and the button then looks like a lightning bolt: . Shift-clicking
 again turns Turbo mode off.
 
-![](./myMediaFolder/media/image1038.png){width="0.37916666666666665in"
+![](/snap-manual/assets/images/image1038.png){width="0.37916666666666665in"
 height="0.21666666666666667in"}Scripts can simulate clicking the green
 flag by broadcasting the special message
-![](./myMediaFolder/media/image1039.png){width="0.3055555555555556in"
+![](/snap-manual/assets/images/image1039.png){width="0.3055555555555556in"
 height="0.3055555555555556in"}.
 
-![](./myMediaFolder/media/image1040.png){width="0.37916666666666665in"
-height="0.21666666666666667in"}![](./myMediaFolder/media/image1041.png){width="0.37916666666666665in"
+![](/snap-manual/assets/images/image1040.png){width="0.37916666666666665in"
+height="0.21666666666666667in"}![](/snap-manual/assets/images/image1041.png){width="0.37916666666666665in"
 height="0.21666666666666667in"}The pause button suspends running all
 scripts. If clicked while scripts are running, the button changes shape
 to become a play button: Clicking it while in this form resumes the
@@ -5687,7 +5687,7 @@ provides the essence of a breakpoint debugging capability. The use of
 the pause button is slightly different in visible stepping mode,
 described in Chapter I.
 
-![](./myMediaFolder/media/image1042.png){width="0.5486111111111112in"
+![](/snap-manual/assets/images/image1042.png){width="0.5486111111111112in"
 height="0.17708333333333334in"}The stop button stops all scripts, like
 the stop all block. It does *not* prevent a script from starting again
 in response to a click or keystroke; the user interface is always
@@ -5705,7 +5705,7 @@ and Other blocks). There are no menus behind these buttons.
 
 ### Buttons in the Palette
 
-![](./myMediaFolder/media/image1043.png){width="0.2604166666666667in"
+![](/snap-manual/assets/images/image1043.png){width="0.2604166666666667in"
 height="0.2604166666666667in"}Under the eight palette selector buttons,
 at the top of the actual palette, are two semi-transparent buttons. The
 first is the *search* button, which is equivalent to typing control-F:
@@ -5714,14 +5714,14 @@ of the title text of the block you're trying to find. To leave this
 search mode, click one of the eight palette selectors, or type the
 Escape key.
 
-![](./myMediaFolder/media/image1044.png){width="0.2604166666666667in"
+![](/snap-manual/assets/images/image1044.png){width="0.2604166666666667in"
 height="0.2604166666666667in"}The other button is equivalent to the
 "Make a block" button, except that the dialog window that it opens has
 the current palette (color) preselected.
 
 ### Context Menus for Palette Blocks
 
-![](./myMediaFolder/media/image1045.png){width="0.8611111111111112in"
+![](/snap-manual/assets/images/image1045.png){width="0.8611111111111112in"
 height="0.45902777777777776in"}Most elements of the Snap*!* display can
 be control-clicked/right-clicked to show a *context menu,* with items
 relevant to that element. If you control-click/right-click a *primitive*
@@ -5730,8 +5730,8 @@ block in the palette, you see this menu:
 The help... option displays a box with documentation about the block.
 Here's an example:
 
-![](./myMediaFolder/media/image1046.png){width="1.6229166666666666in"
-height="0.8888888888888888in"}![](./myMediaFolder/media/image1047.png){width="3.3222222222222224in"
+![](/snap-manual/assets/images/image1046.png){width="1.6229166666666666in"
+height="0.8888888888888888in"}![](/snap-manual/assets/images/image1047.png){width="3.3222222222222224in"
 height="2.4277777777777776in"}If you control-click/right-click a
 *custom* (user-defined) block in the palette, you see this menu:
 
@@ -5739,7 +5739,7 @@ The help... option for a custom block displays the comment, if any,
 attached to the custom block's hat block in the Block Editor. Here is an
 example of a block with a comment and its help display:
 
-![](./myMediaFolder/media/image1048.png){width="6.758333333333334in"
+![](/snap-manual/assets/images/image1048.png){width="6.758333333333334in"
 height="2.451388888888889in"}If the help text includes a URL, it is
 clickable and will open the page in a new tab.
 
@@ -5767,11 +5767,11 @@ custom block.
 
 ### Context Menu for the Palette Background
 
-![](./myMediaFolder/media/image1052.png){width="0.9895833333333334in"
+![](/snap-manual/assets/images/image1052.png){width="0.9895833333333334in"
 height="0.5895833333333333in"}Right-click/control-click on the grey
 *background* of the palette area shows this menu:
 
-![](./myMediaFolder/media/image1053.png){width="1.6in"
+![](/snap-manual/assets/images/image1053.png){width="1.6in"
 height="2.1597222222222223in"}The find blocks... option does the same
 thing as the magnifying-glass button. The hide blocks... option opens a
 dialog box in which you can choose which blocks (custom as well as
@@ -5783,14 +5783,14 @@ snap extensions, lets you add custom *categories* to the palette. It
 opens a small dialog window in which you specify a name *and a color*
 for the new category:
 
-![](./myMediaFolder/media/image1054.png){width="1.429861111111111in"
-height="2.9097222222222223in"}![](./myMediaFolder/media/image1055.png){width="1.53in"
+![](/snap-manual/assets/images/image1054.png){width="1.429861111111111in"
+height="2.9097222222222223in"}![](/snap-manual/assets/images/image1055.png){width="1.53in"
 height="1.13in"}Pick a dark color, because it will be lightened for
 zebra coloring when users nest blocks of the same category. Custom
 categories are shown below the built-in categories in the category
 selector:
 
-![](./myMediaFolder/media/image1056.png){width="1.35in"
+![](/snap-manual/assets/images/image1056.png){width="1.35in"
 height="1.8395833333333333in"}This example comes from Eckart Modrow's
 SciSnap*!* library. Note that the custom category list has its own
 scroll bar, which appears if you have more than six custom categories.
@@ -5812,7 +5812,7 @@ Palette Resizing**
 
 At the right end of the palette area, just to the left of the scripting
 area, is a resizing
-handle![](./myMediaFolder/media/image1057.png){width="1.4166666666666667in"
+handle![](/snap-manual/assets/images/image1057.png){width="1.4166666666666667in"
 height="1.5138888888888888in"} that can be dragged rightward to increase
 the width of the palette area. This is useful if you write custom blocks
 with very long names. You can't reduce the width of the palette below
@@ -5837,7 +5837,7 @@ appearance is different, with some primitives not shown.
 At the top of the scripting area are a picture of the sprite and some
 controls for it:
 
-![](./myMediaFolder/media/image1058.png){width="3.486111111111111in"
+![](/snap-manual/assets/images/image1058.png){width="3.486111111111111in"
 height="1.0416666666666667in"}
 
 Note that the sprite picture reflects its rotation, if any. There are
@@ -5864,7 +5864,7 @@ under the player's control but others are not.
 
 ### Scripting Area Tabs
 
-![](./myMediaFolder/media/image1059.png){width="3.0972222222222223in"
+![](/snap-manual/assets/images/image1059.png){width="3.0972222222222223in"
 height="0.25in"}Just below the sprite controls are three *tabs* that
 determine what is shown in the scripting area:
 
@@ -5886,14 +5886,14 @@ instances of the script are running. Clicking a script with such a halo
 inside a custom block used in the script, then Snap*!* may not respond
 immediately to clicks.)
 
-![](./myMediaFolder/media/image1060.png){width="0.3333333333333333in"
+![](/snap-manual/assets/images/image1060.png){width="0.3333333333333333in"
 height="0.2604166666666667in"}If a script is shown with a *red* halo,
 that means that an error was caught in that script, such as using a list
 where a number was needed, or vice versa. Clicking the script will turn
 off the halo.
 
-![](./myMediaFolder/media/image1061.png){width="0.3125in"
-height="0.23958333333333334in"}![](./myMediaFolder/media/image1062.png){width="0.3333333333333333in"
+![](/snap-manual/assets/images/image1061.png){width="0.3125in"
+height="0.23958333333333334in"}![](/snap-manual/assets/images/image1062.png){width="0.3333333333333333in"
 height="0.2604166666666667in"}If any blocks have been dragged into the
 scripting area, then in its top right corner you'll see an *undo* and/or
 *redo* button that can be used to undo or redo block and script drops.
@@ -5905,8 +5905,8 @@ The third button starts keyboard editing mode (Section D, page 130).
 Control-click/right-clicking a primitive block within a script shows a
 menu like this one:
 
-![](./myMediaFolder/media/image1063.png){width="0.6208333333333333in"
-height="1.0625in"}![](./myMediaFolder/media/image1064.png){width="0.6263888888888889in"
+![](/snap-manual/assets/images/image1063.png){width="0.6208333333333333in"
+height="1.0625in"}![](/snap-manual/assets/images/image1064.png){width="0.6263888888888889in"
 height="1.0902777777777777in"}
 
 command block: reporter block:
@@ -5915,7 +5915,7 @@ The help... option shows the help screen for the block, just as in the
 palette. The other options appear only when a block is
 right-clicked/control-clicked in the scripting area.
 
-![](./myMediaFolder/media/image1065.png){width="1.53in"
+![](/snap-manual/assets/images/image1065.png){width="1.53in"
 height="2.13in"}Not every primitive block has a relabel... option. When
 present, it allows the block to be replaced by another, similar block,
 keeping the input expressions in place. For example, here's what happens
@@ -5930,7 +5930,7 @@ feature to access them.
 Not every reporter has a compile option; it exists only for the higher
 order functions. When selected, a lightning bolt appears before the
 block name:
-![](./myMediaFolder/media/image1066.png){width="1.4027777777777777in"
+![](/snap-manual/assets/images/image1066.png){width="1.4027777777777777in"
 height="0.2013888888888889in"} and Snap*!* tries to compile the function
 inside the ring to JavaScript, so it runs at primitive speed. This works
 only for simple functions (but the higher order function still works
@@ -5992,7 +5992,7 @@ grey ring, meaning that the block(s) inside the ring are themselves
 data, as an input to a higher order procedure, rather than something to
 be evaluated within the script. See Chapter VI, Procedures as Data.
 
-![](./myMediaFolder/media/image1067.png){width="0.9736111111111111in"
+![](/snap-manual/assets/images/image1067.png){width="0.9736111111111111in"
 height="1.2986111111111112in"}Clicking a *custom* block in a script
 gives a similar but different menu:
 
@@ -6002,7 +6002,7 @@ custom block to a primitive block or vice versa. The two options at the
 bottom, for custom blocks only, are the same as in the palette. The
 other options are the same as for primitive commands.
 
-![](./myMediaFolder/media/image1068.png){width="0.88125in"
+![](/snap-manual/assets/images/image1068.png){width="0.88125in"
 height="1.0833333333333333in"}If a reporter block is in the scripting
 area, possibly with inputs included, but not itself serving as input to
 another block, then the menu is a little different again:
@@ -6021,11 +6021,11 @@ message.
 
 **Scripting Area Background Context Menu**
 
-![](./myMediaFolder/media/image1069.png){width="1.2895833333333333in"
+![](/snap-manual/assets/images/image1069.png){width="1.2895833333333333in"
 height="1.2777777777777777in"}Control-click/right-click on the grey
 striped background of the scripting area gives this menu:
 
-![](./myMediaFolder/media/image1062.png){width="0.8416666666666667in"
+![](/snap-manual/assets/images/image1062.png){width="0.8416666666666667in"
 height="0.18819444444444444in"}The undrop option is a sort of "undo"
 feature for the common case of dropping a block somewhere other than
 where you meant it to go. It remembers all the dragging and dropping
@@ -6041,14 +6041,14 @@ The clean up option rearranges the position of scripts so that they are
 in a single column, with the same left margin, and with uniform spacing
 between scripts. This is a good idea if you can't read your own project!
 
-![](./myMediaFolder/media/image1072.png){width="1.3888888888888888in"
+![](/snap-manual/assets/images/image1072.png){width="1.3888888888888888in"
 height="0.7083333333333334in"}The add comment option puts a comment box,
 like the picture to the right, in the scripting area. It's attached to
 the mouse, as with duplicating scripts, so you position the mouse where
 you want the comment and click to release it. You can then edit the text
 in the comment as desired.
 
-![](./myMediaFolder/media/image1073.png){width="1.3888888888888888in"
+![](/snap-manual/assets/images/image1073.png){width="1.3888888888888888in"
 height="0.2361111111111111in"}You can drag the bottom right corner of
 the comment box to resize it. Clicking the arrowhead at the top left
 changes the box to a single-line compact form, , so that you can have a
@@ -6058,8 +6058,8 @@ of them when you want to read it in full.
 If you drag a comment over a block in a script, the comment will be
 attached to the block with a yellow line:
 
-![](./myMediaFolder/media/image1074.png){width="1.4861111111111112in"
-height="0.8472222222222222in"}![](./myMediaFolder/media/image1075.png){width="3.3333333333333335in"
+![](/snap-manual/assets/images/image1074.png){width="1.4861111111111112in"
+height="0.8472222222222222in"}![](/snap-manual/assets/images/image1075.png){width="3.3333333333333335in"
 height="0.9333333333333333in"}Comments have their own context menu, with
 obvious meanings:
 
@@ -6080,12 +6080,12 @@ keep scrolling down the palette if you make a lot of blocks.
 
 ### Controls in the Costumes Tab
 
-![](./myMediaFolder/media/image1076.png){width="1.9631944444444445in"
+![](/snap-manual/assets/images/image1076.png){width="1.9631944444444445in"
 height="2.1319444444444446in"}If you click on the word "Costumes" under
 the sprite controls, you'll see something like this:
 
-![](./myMediaFolder/media/image1077.png){width="0.37916666666666665in"
-height="0.21666666666666667in"}![](./myMediaFolder/media/image1078.png){width="0.2916666666666667in"
+![](/snap-manual/assets/images/image1077.png){width="0.37916666666666665in"
+height="0.21666666666666667in"}![](/snap-manual/assets/images/image1078.png){width="0.2916666666666667in"
 height="0.16666666666666666in"}The Turtle costume is always present in
 every sprite; it is costume number 0. Other costumes can be painted
 within Snap*!* or imported from files or other browser tabs if your
@@ -6100,20 +6100,20 @@ This works only if you give Snap*!* permission to use the camera, and
 maybe only if you opened Snap*!* in secure (HTTPS) mode, and then only
 if your browser loves you.
 
-![](./myMediaFolder/media/image1079.png){width="3.5694444444444446in"
+![](/snap-manual/assets/images/image1079.png){width="3.5694444444444446in"
 height="3.1805555555555554in"} *Brian's bedroom when he's staying at
 Paul's house.*
 
 Control-clicking/right-clicking on the turtle picture gives this menu:
 
-![](./myMediaFolder/media/image1080.png){width="1.0555555555555556in"
+![](/snap-manual/assets/images/image1080.png){width="1.0555555555555556in"
 height="0.9027777777777778in"}In this menu, you choose the turtle's
 *rotation point,* which is also the point from which the turtle draws
 lines. The two pictures below show what the stage looks like after
 drawing a square in each mode; tip (otherwise known as "Jens mode") is
 on the left in the pictures below, middle ("Brian mode") on the right:
 
-![](./myMediaFolder/media/image1081.png){width="3.134027777777778in"
+![](/snap-manual/assets/images/image1081.png){width="3.134027777777778in"
 height="1.1743055555555555in"}As you see, "tip" means the front tip of
 the arrowhead; "middle" is not the middle of the shaded region, but
 actually the middle of the four vertices, the concave one. (If the shape
@@ -6126,7 +6126,7 @@ happen if you ask the turtle to turn 90 degrees from the position shown.
 (It's also the traditional rotation point of the Logo turtle, which
 originated this style of drawing.)
 
-![](./myMediaFolder/media/image1085.png){width="0.9833333333333333in"
+![](/snap-manual/assets/images/image1085.png){width="0.9833333333333333in"
 height="1.3194444444444444in"}Costumes other than the turtle have a
 different context menu:
 
@@ -6143,7 +6143,7 @@ computer, in your usual downloads folder.
 You can drag costumes up and down in the Costumes tab in order to
 renumber them, so that next costume will behave as you prefer.
 
-![](./myMediaFolder/media/image1086.png){width="1.2804921259842519in"
+![](/snap-manual/assets/images/image1086.png){width="1.2804921259842519in"
 height="0.8694444444444445in"}If you drag a *smart picture* of a script
 into the Costumes tab, its icon will display the text "\</\>" in the
 corner to remind you that it includes code:
@@ -6153,7 +6153,7 @@ to the Scripts tab with the script ready to be dropped there.
 
 ### The Paint Editor
 
-![](./myMediaFolder/media/image1088.png){width="3.938888888888889in"
+![](/snap-manual/assets/images/image1088.png){width="3.938888888888889in"
 height="2.577777777777778in"}Here is a picture of a Paint Editor window:
 
 If you've used any painting program, most of this will be familiar to
@@ -6220,10 +6220,10 @@ to wave its arm, so you use two sprites connected together. You want the
 rotation point of the arm sprite to be at the end where it joins the
 body, so it remains attached to the shoulder while waving.)
 
-![](./myMediaFolder/media/image1089.png){width="3.8361111111111112in"
-height="2.548611111111111in"}![](./myMediaFolder/media/image1090.png){width="0.2152777777777778in"
-height="0.2152777777777778in"}![](./myMediaFolder/media/image1091.png){width="0.2152777777777778in"
-height="0.2152777777777778in"}![](./myMediaFolder/media/image1092.png){width="0.2152777777777778in"
+![](/snap-manual/assets/images/image1089.png){width="3.8361111111111112in"
+height="2.548611111111111in"}![](/snap-manual/assets/images/image1090.png){width="0.2152777777777778in"
+height="0.2152777777777778in"}![](/snap-manual/assets/images/image1091.png){width="0.2152777777777778in"
+height="0.2152777777777778in"}![](/snap-manual/assets/images/image1092.png){width="0.2152777777777778in"
 height="0.2152777777777778in"}The vector editor's controls are much like
 those in the bitmap editor. One point of difference is that the bitmap
 editor has two buttons for solid and outline rectangles, and similarly
@@ -6239,7 +6239,7 @@ select all the shapes within that area.
 
 ### Controls in the Sounds Tab
 
-![](./myMediaFolder/media/image1093.png){width="0.35in"
+![](/snap-manual/assets/images/image1093.png){width="0.35in"
 height="0.2in"}There is no Sound Editor in Snap*!*, and also no current
 sound the way there's a current costume for each sprite. (The sprite
 always has an appearance unless hidden, but it doesn't sing unless
@@ -6248,7 +6248,7 @@ delete, and export options, and it has a clickable button labeled Play
 or Stop as appropriate. There is a sound *recorder,* which appears if
 you click the red record button ( ):
 
-![](./myMediaFolder/media/image1094.png){width="2.325in"
+![](/snap-manual/assets/images/image1094.png){width="2.325in"
 height="1.0333333333333334in"}The first, round button starts recording.
 The second, square button stops recording. The third, triangular button
 plays back a recorded sound. If you don't like the result, click the
@@ -6283,7 +6283,7 @@ area.
 When the script editor is running, its position is represented by a
 blinking white bar:
 
-![](./myMediaFolder/media/image1095.png){width="2.2083333333333335in"
+![](/snap-manual/assets/images/image1095.png){width="2.2083333333333335in"
 height="1.59375in"}To leave the keyboard editor, type the escape key, or
 just click on the background of the scripting area.
 
@@ -6304,7 +6304,7 @@ down to another command block, respectively.) Here is a sequence of
 pictures showing the results of repeated right arrow keys starting from
 the position shown above:
 
-![](./myMediaFolder/media/image1096.png){width="7.313888888888889in"
+![](/snap-manual/assets/images/image1096.png){width="7.313888888888889in"
 height="1.2527777777777778in"}You can rearrange scripts within the
 scripting area from the keyboard. Typing shift-arrow keys (left, right,
 up, or down) will move the current script. If you move it onto another
@@ -6353,7 +6353,7 @@ point in the script. In either case, use the up and down arrow keys to
 navigate the menu, use the enter key to accept the highlighted entry, or
 use the escape key to leave the menu without choosing an option.
 
-![](./myMediaFolder/media/image1104.png){width="1.5347222222222223in"
+![](/snap-manual/assets/images/image1104.png){width="1.5347222222222223in"
 height="1.6944444444444444in"}Typing any other character key (not
 special keys on fancy keyboards that do something other than generating
 a character) activates the *block search palette.* This palette, which
@@ -6373,7 +6373,7 @@ block. (When not in the keyboard editor, instead of navigating with the
 arrow keys, you drag the block you want into the script, as you would
 from any other palette.)
 
-![](./myMediaFolder/media/image1105.png){width="2.8333333333333335in"
+![](/snap-manual/assets/images/image1105.png){width="2.8333333333333335in"
 height="0.8409722222222222in"}If you type an arithmetic operator (+-\*/)
 or comparison operator (\<=\>) into the block search text box, you can
 type an arbitrarily complicated expression, and a collection of
@@ -6398,7 +6398,7 @@ sprites move.
 
 ### Sprites
 
-![](./myMediaFolder/media/image1106.png){width="0.6013888888888889in"
+![](/snap-manual/assets/images/image1106.png){width="0.6013888888888889in"
 height="1.0833333333333333in"}Most sprites can be moved by clicking and
 dragging them. (If you have unchecked the draggable checkbox for a
 sprite, then dragging it has no effect.) Control-clicking/right-clicking
@@ -6419,7 +6419,7 @@ It doesn't actually change anything about the sprite, despite the name;
 it's just that making changes in the scripting area will change this
 sprite.
 
-![](./myMediaFolder/media/image1107.png){width="0.6527777777777778in"
+![](/snap-manual/assets/images/image1107.png){width="0.6527777777777778in"
 height="0.8888888888888888in"}The move option shows a "move handle"
 inside the sprite (the diagonal striped square in the middle):
 
@@ -6431,13 +6431,13 @@ part moves the entire nested sprite.
 
 The rotate option displays a rotation menu:
 
-![](./myMediaFolder/media/image1108.png){width="0.9333333333333333in"
+![](/snap-manual/assets/images/image1108.png){width="0.9333333333333333in"
 height="1.5833333333333333in"}You can choose one of the four compass
 directions in the lower part (the same as in the point in direction
 block) or use the mouse to rotate the handle on the dial in 15°
 increments.
 
-![](./myMediaFolder/media/image1109.png){width="0.6527777777777778in"
+![](/snap-manual/assets/images/image1109.png){width="0.6527777777777778in"
 height="0.8472222222222222in"}The pivot option shows a crosshair inside
 the sprite:
 
@@ -6460,14 +6460,14 @@ properties.) You can save this tab into a file on your computer, and
 later import the sprite into another project. (In some browsers, the
 sprite is directly saved into a file.)
 
-### ![](./myMediaFolder/media/image1110.png){width="0.9583333333333334in" height="1.4479166666666667in"}Variable watchers
+### ![](/snap-manual/assets/images/image1110.png){width="0.9583333333333334in" height="1.4479166666666667in"}Variable watchers
 
 Right-clicking on a variable watcher shows this menu:
 
 The first section of the menu lets you choose one of three
 visualizations of the watcher:
 
-![](./myMediaFolder/media/image1111.png){width="2.3159722222222223in"
+![](/snap-manual/assets/images/image1111.png){width="2.3159722222222223in"
 height="0.3263888888888889in"}
 
 The first (normal) visualization is for debugging. The second (large) is
@@ -6509,7 +6509,7 @@ Control-clicking/right-clicking on the stage background (that is,
 anywhere on the stage except on a sprite or watcher) shows the stage's
 own context menu:
 
-![](./myMediaFolder/media/image1117.png){width="0.8215277777777777in"
+![](/snap-manual/assets/images/image1117.png){width="0.8215277777777777in"
 height="0.8472222222222222in"}The stage's edit option selects the stage,
 so the stage's scripts and backgrounds are seen in the scripting area.
 Note that when the stage is selected, some blocks, especially the Motion
@@ -6538,9 +6538,9 @@ color regions made with the fill block.
 The Sprite Corral and Sprite Creation Buttons
 ---------------------------------------------
 
-![](./myMediaFolder/media/image1077.png){width="0.37916666666666665in"
-height="0.20555555555555555in"}![](./myMediaFolder/media/image1118.png){width="0.2916666666666667in"
-height="0.16666666666666666in"}![](./myMediaFolder/media/image1119.png){width="0.2916666666666667in"
+![](/snap-manual/assets/images/image1077.png){width="0.37916666666666665in"
+height="0.20555555555555555in"}![](/snap-manual/assets/images/image1118.png){width="0.2916666666666667in"
+height="0.16666666666666666in"}![](/snap-manual/assets/images/image1119.png){width="0.2916666666666667in"
 height="0.16666666666666666in"}Between the stage and the sprite corral
 at the bottom right of the Snap*!* window is a dark grey bar containing
 three buttons at the left and one at the right. The first three are used
@@ -6555,7 +6555,7 @@ the third button uses your camera, if possible, to make a costume for
 the new sprite.
 
 The trash can button
-![](./myMediaFolder/media/image1120.png){width="0.2916666666666667in"
+![](/snap-manual/assets/images/image1120.png){width="0.2916666666666667in"
 height="0.1736111111111111in"} at the right has two uses. You can drag a
 sprite thumbnail onto it from the sprite corral to delete that sprite,
 or you can click it to undelete a sprite you deleted by accident.
@@ -6571,7 +6571,7 @@ the stage.
 You can right-click/control-click a sprite's thumbnail to get this
 context menu:
 
-![](./myMediaFolder/media/image1121.png){width="0.6770833333333334in"
+![](/snap-manual/assets/images/image1121.png){width="0.6770833333333334in"
 height="1.1090277777777777in"}The show option makes the sprite visible,
 if it was hidden, and also brings it onto the stage, if it had moved
 past the stage boundary. The next three options are the same as in the
@@ -6593,7 +6593,7 @@ being logged, there will also be an svg... option.
 If your project includes scenes, then under the stage icon in the sprite
 corral will be the *scene corral:*
 
-![](./myMediaFolder/media/image1122.png){width="3.3333333333333335in"
+![](/snap-manual/assets/images/image1122.png){width="3.3333333333333335in"
 height="1.7083333333333333in"}Clicking on a scene will select it;
 right-clicking will present a menu in which you can rename, delete, or
 export the scene.
@@ -6683,30 +6683,30 @@ at the following mirror sites:
 -   http://cs10.org/snap
 
  Appendix A. Snap*!* color library {#appendix-a.-snap-color-library .ListParagraph}
-=================================
+=================
 
-![](./myMediaFolder/media/image1123.png){width="5.8in"
+![](/snap-manual/assets/images/image1123.png){width="5.8in"
 height="2.1791666666666667in"}The Colors and Crayons library provides
 several tools for manipulating color. Although its main purpose is
 controlling a sprite's pen color, it also establishes colors as a first
 class data type:
 
-![](./myMediaFolder/media/image1129.png){width="3.1333333333333333in"
+![](/snap-manual/assets/images/image1129.png){width="3.1333333333333333in"
 height="0.5166666666666667in"}For people who just want colors in their
 projects without having to be color experts, we provide two simple
 mechanisms: a *color number* scale with a broad range of continuous
 color variation and a set of 100 *crayons* organized by color family
 (ten reds, ten oranges, etc.) The crayons include the block colors:
 
-![](./myMediaFolder/media/image1130.png){width="7.166666666666667in"
+![](/snap-manual/assets/images/image1130.png){width="7.166666666666667in"
 height="1.1in"}For experts, we provide color selection by RGB, HSL, HSV,
 X11/W3C names, and variants on those scales.
 
 ### Introduction to Color
 
-![](./myMediaFolder/media/image1131.png){width="0.2361111111111111in"
-height="0.2361111111111111in"}![](./myMediaFolder/media/image1132.png){width="0.4444444444444444in"
-height="0.2361111111111111in"}![](./myMediaFolder/media/image1132.png){width="0.2361111111111111in"
+![](/snap-manual/assets/images/image1131.png){width="0.2361111111111111in"
+height="0.2361111111111111in"}![](/snap-manual/assets/images/image1132.png){width="0.4444444444444444in"
+height="0.2361111111111111in"}![](/snap-manual/assets/images/image1132.png){width="0.2361111111111111in"
 height="0.2361111111111111in"}Your computer monitor can display millions
 of colors, but you probably can't distinguish that many. For example,
 here's red 57, green 180, blue 200: And here's red 57, green *182,* blue
@@ -6737,14 +6737,14 @@ Wikipedia.
 
 ### Crayons and Color Numbers
 
-![](./myMediaFolder/media/image1135.png){width="5.995833333333334in"
+![](/snap-manual/assets/images/image1135.png){width="5.995833333333334in"
 height="0.825in"}But if you just want some colors in your project, we
 provide a simple, one-dimensional subset of the available colors. Two
 subsets, actually: *crayons* and *color numbers.* Here's the difference:
 
-![](./myMediaFolder/media/image1138.png){width="0.2361111111111111in"
-height="0.2361111111111111in"}![](./myMediaFolder/media/image1139.png){width="0.2361111111111111in"
-height="0.2361111111111111in"}![](./myMediaFolder/media/image1140.png){width="0.2361111111111111in"
+![](/snap-manual/assets/images/image1138.png){width="0.2361111111111111in"
+height="0.2361111111111111in"}![](/snap-manual/assets/images/image1139.png){width="0.2361111111111111in"
+height="0.2361111111111111in"}![](/snap-manual/assets/images/image1140.png){width="0.2361111111111111in"
 height="0.2361111111111111in"}The first row shows 100 distinct colors.
 They have names; this is pumpkin, and this is denim. You're supposed to
 think of them as a big box of 100 crayons. They're arranged in families:
@@ -6755,20 +6755,20 @@ think "I want this to look like a really old-fashioned photo" and so
 you'd find sepia as crayon number 33. You don't have to memorize the
 numbers! You can find them in a menu with a submenu for each family.
 
-![](./myMediaFolder/media/image1141.png){width="2.1597222222222223in"
-height="0.2569444444444444in"}![](./myMediaFolder/media/image1142.png){width="7.55in"
+![](/snap-manual/assets/images/image1141.png){width="2.1597222222222223in"
+height="0.2569444444444444in"}![](/snap-manual/assets/images/image1142.png){width="7.55in"
 height="2.1527777777777777in"}Or, if you know the crayon name, just .
 
-![](./myMediaFolder/media/image1148.png){width="5.793055555555555in"
+![](/snap-manual/assets/images/image1148.png){width="5.793055555555555in"
 height="0.3in"}The crayon numbers are chosen so that skipping by 10
 gives a sensible box of ten crayons:
 
 Alternatively, skipping by 5 gives a still-sensible set of twenty
 crayons:
 
-![](./myMediaFolder/media/image1149.png){width="5.8in" height="0.3in"}
+![](/snap-manual/assets/images/image1149.png){width="5.8in" height="0.3in"}
 
-![](./myMediaFolder/media/image1150.png){width="6.245138888888889in"
+![](/snap-manual/assets/images/image1150.png){width="6.245138888888889in"
 height="0.25625in"}The set of *color numbers* is arranged so that each
 color number is visually near each of its neighbors. Bright and dark
 colors alternate for each family. Color numbers range from 0 to 99, like
@@ -6794,10 +6794,10 @@ data type.\
 There are three library blocks specifically about controlling the pen.
 They have the same names as three of the primitive Pen blocks:
 
-![](./myMediaFolder/media/image401.png){width="6.066666666666666in"
+![](/snap-manual/assets/images/image401.png){width="6.066666666666666in"
 height="0.30833333333333335in"}
 
-![](./myMediaFolder/media/image1156.png){width="7.4875in"
+![](/snap-manual/assets/images/image1156.png){width="7.4875in"
 height="1.1in"}The first (Pen block-colored) input slot is used to
 select which color scale you want to use. (These blocks also allow
 reading or setting two block properties that are not colors: the pen
@@ -6813,7 +6813,7 @@ of three or four numbers). It adds its numeric or list input to the
 current pen value(s), doing vector (item-by-item) addition for vector
 scales.
 
-![](./myMediaFolder/media/image1162.png){width="7.491666666666666in"
+![](/snap-manual/assets/images/image1162.png){width="7.491666666666666in"
 height="1.1069444444444445in"}The set pen block changes the pen color to
 the value(s) you specify. The meaning of the white input slots depends
 on which attribute of the pen you're setting:
@@ -6823,11 +6823,11 @@ In the last example, the number 37 sets the *transparency,* on the scale
 except for RGB components, which are 0--255.) A transparency value can
 be combined with any of these attribute scales.
 
-![](./myMediaFolder/media/image414.png){width="5.383333333333334in"
+![](/snap-manual/assets/images/image414.png){width="5.383333333333334in"
 height="0.23333333333333334in"}The library also includes two
 constructors and a selector for colors as a data type:
 
-![](./myMediaFolder/media/image402.png){width="1.8055555555555556in"
+![](/snap-manual/assets/images/image402.png){width="1.8055555555555556in"
 height="0.19444444444444445in"}The latter two are inverses of each
 other, translating between colors and their attributes. The color from
 block's attribute menu has fewer choices than the similar set pen block
@@ -6844,7 +6844,7 @@ block:
 
 Finally, the library includes the mix block and a helper:
 
-![](./myMediaFolder/media/image1181.png){width="6.113194444444445in"
+![](/snap-manual/assets/images/image1181.png){width="6.113194444444445in"
 height="0.23333333333333334in"}We'll have more to say about these after
 a detour through color theory.
 
@@ -6860,7 +6860,7 @@ of "hue," which more or less means where a color would appear in a
 rainbow (magenta, near the right, is [a long
 story](https://en.wikipedia.org/wiki/Magenta)):
 
-![](./myMediaFolder/media/image1183.png){width="5.806666666666667in"
+![](/snap-manual/assets/images/image1183.png){width="5.806666666666667in"
 height="0.30666666666666664in"}
 
 These are called "spectral" colors, after the *spectrum* of rainbow
@@ -6883,13 +6883,13 @@ different human cultures give names to different color ranges.
 Nevertheless, in old Scratch projects, you'd say change pen color by 1
 and it'd take forever to reach a color that wasn't green.
 
-![](./myMediaFolder/media/image1184.png){width="5.9944444444444445in"
+![](/snap-manual/assets/images/image1184.png){width="5.9944444444444445in"
 height="0.29930555555555555in"}For color professionals, there are good
 reasons to want to work with the physical rainbow hue layout. But for
 amateurs using a simplified, one-dimensional color model, there's no
 reason not to use a more programmer-friendly hue scale:
 
-![](./myMediaFolder/media/image1185.png){width="1.4597222222222221in"
+![](/snap-manual/assets/images/image1185.png){width="1.4597222222222221in"
 height="1.3583333333333334in"}In this scale, each of the seven rainbow
 colors and brown get an equal share. (Red's looks too small, but that's
 because it's split between the two ends: hue 0 is pure red, brownish
@@ -6901,10 +6901,10 @@ names were different in Isaac Newton's day, and the color he called
 "blue" is more like modern cyan, while his "indigo" is more like modern
 blue. See Wikipedia [Indigo](https://en.wikipedia.org/wiki/Indigo).)
 
-![](./myMediaFolder/media/image1186.png){width="0.2361111111111111in"
-height="0.2361111111111111in"}![](./myMediaFolder/media/image1187.png){width="0.2361111111111111in"
-height="0.2361111111111111in"}![](./myMediaFolder/media/image1188.png){width="0.2361111111111111in"
-height="0.2361111111111111in"}![](./myMediaFolder/media/image1189.png){width="0.2361111111111111in"
+![](/snap-manual/assets/images/image1186.png){width="0.2361111111111111in"
+height="0.2361111111111111in"}![](/snap-manual/assets/images/image1187.png){width="0.2361111111111111in"
+height="0.2361111111111111in"}![](/snap-manual/assets/images/image1188.png){width="0.2361111111111111in"
+height="0.2361111111111111in"}![](/snap-manual/assets/images/image1189.png){width="0.2361111111111111in"
 height="0.2361111111111111in"}Our *color number* scale is based on fair
 hues, adding a range of grays from black (color number 0) to white
 (color number14) and also adding *shades* of the spectral colors. (In
@@ -6916,7 +6916,7 @@ admitted prejudice is supported by an objective fact: Most projects are
 made on a white background, so dark colors stand out better than light
 ones.
 
-![](./myMediaFolder/media/image1190.png){width="5.999305555555556in"
+![](/snap-manual/assets/images/image1190.png){width="5.999305555555556in"
 height="1.507638888888889in"}So, in our color number scale, color
 numbers 0 to 14 are kinds of gray; the remaining color numbers go
 through the fair hues, but alternating full-strength colors with shades.
@@ -6928,7 +6928,7 @@ dimensions are different because it doesn't include the grays at the
 left. Since there are eight color families, the pure, named fair hues
 are at multiples of 100/8=12.5, starting with red=0.)
 
-![](./myMediaFolder/media/image1192.png){width="1.85in"
+![](/snap-manual/assets/images/image1192.png){width="1.85in"
 height="1.0798611111111112in"}White is crayon 14 and color number 14.
 This value was deliberately chosen *not* to be a multiple of 5 so that
 the every-fifth-crayon and every-tenth-crayon selections don't include
@@ -6978,7 +6978,7 @@ the sprite.
 
 ### Perceptual Spaces: HSV and HSL
 
-![](./myMediaFolder/media/image1193.png){width="0.7361111111111112in"
+![](/snap-manual/assets/images/image1193.png){width="0.7361111111111112in"
 height="0.7222222222222222in"}RGB is the right way to think about colors
 if you're building or programming a display monitor; CMYK is the right
 way if you're building or programming a color printer. But neither of
@@ -6992,7 +6992,7 @@ top right corner. Although no other point in the square is pure blue,
 you can tell at a glance that no other spectral color is mixed with the
 blue.
 
-![](./myMediaFolder/media/image1194.png){width="2.691666666666667in"
+![](/snap-manual/assets/images/image1194.png){width="2.691666666666667in"
 height="1.1902777777777778in"}Aside from hue, the other two dimensions
 of a color space have to represent how much white and/or black is mixed
 with the spectral color. (Bear in mind that "mixing black" is a metaphor
@@ -7014,9 +7014,9 @@ the saturation of the sprite's costume. (I speculate that the Scratch
 designers, like me, thought tints were less vivid than shades against a
 white background, so they made it harder to control tinting.)
 
-![](./myMediaFolder/media/image1195.png){width="1.5638888888888889in"
-height="0.29305555555555557in"}![](./myMediaFolder/media/image1196.png){width="1.5555555555555556in"
-height="0.2659722222222222in"}![](./myMediaFolder/media/image1197.png){width="0.7638888888888888in"
+![](/snap-manual/assets/images/image1195.png){width="1.5638888888888889in"
+height="0.29305555555555557in"}![](/snap-manual/assets/images/image1196.png){width="1.5555555555555556in"
+height="0.2659722222222222in"}![](/snap-manual/assets/images/image1197.png){width="0.7638888888888888in"
 height="0.7638888888888888in"}But if you're looking at colors on a
 computer display, HSV isn't really a good match for human perception.
 Intuitively, black and white should be treated symmetrically. This is
@@ -7056,7 +7056,7 @@ standardization committee. I learned all this from [this
 tutorial](http://www.huevaluechroma.com/011.php), which you might find
 more coherent than jumping around Wikipedia if you're interested.
 
-![](./myMediaFolder/media/image1198.png){width="1.64375in"
+![](/snap-manual/assets/images/image1198.png){width="1.64375in"
 height="0.8416666666666667in"}Although traditional Scratch and Snap*!*
 use HSV in programs, they use HSL in the color picker. The horizontal
 axis is hue (fair hue, in this version) and the vertical axis is
@@ -7068,8 +7068,8 @@ saturation (vividness) as the one to keep at 100%. (In this fair-hue
 picker, some colors appear twice: "spectral" (50% lightness) browns as
 shades (≈33% lightness) of red or orange, and shades of those browns.)
 
-![](./myMediaFolder/media/image1199.png){width="0.20277777777777778in"
-height="0.20277777777777778in"}![](./myMediaFolder/media/image1200.png){width="0.18888888888888888in"
+![](/snap-manual/assets/images/image1199.png){width="0.20277777777777778in"
+height="0.20277777777777778in"}![](/snap-manual/assets/images/image1200.png){width="0.18888888888888888in"
 height="0.18888888888888888in"}Software that isn't primarily about
 colors (so, *not* including Photoshop, for example) typically use HSV or
 HSL, with web-based software more likely to use HSV because that's
@@ -7092,7 +7092,7 @@ functions apply to lists? The equivalent to adding numbers is mixing
 colors, but unfortunately there isn't a simple answer to what that
 means.
 
-![](./myMediaFolder/media/image1201.png){width="4.347222222222222in"
+![](/snap-manual/assets/images/image1201.png){width="4.347222222222222in"
 height="0.5625in"}The easiest kind of color mixing to understand is
 *additive* mixing, which is what happens when you shine two colored
 lights onto a (white) wall. It's also what happens in your computer
@@ -7111,7 +7111,7 @@ then *all three* values must be reduced by half, so the result is (255,
 128, 0), which is orange. (Half of 255 is 127.5, but each RGB value must
 be an integer.)
 
-![](./myMediaFolder/media/image1205.png){width="4.492361111111111in"
+![](/snap-manual/assets/images/image1205.png){width="4.492361111111111in"
 height="0.55in"}A different kind of color mixing based on light is done
 when different colored transparent plastic sheets are held in front of a
 white light, as is done in theatrical lighting. In that situation, the
@@ -7140,7 +7140,7 @@ most of the colors other than red, so what's reflected off the surface
 is whatever isn't absorbed by the colors being mixed. But there can be
 an additive component also.
 
-![](./myMediaFolder/media/image1209.gif){width="7.5in"
+![](/snap-manual/assets/images/image1209.gif){width="7.5in"
 height="0.875in"}The proper mathematical abstraction to describe a paint
 is a *reflectance* graph, like this:
 
@@ -7152,7 +7152,7 @@ much more information than three RGB numbers.) To mix two paints
 properly, you multiply the *y* values (as fractions) at each matching
 *x* coordinate of the two graphs.
 
-![](./myMediaFolder/media/image1221.png){width="4.627777777777778in"
+![](/snap-manual/assets/images/image1221.png){width="4.627777777777778in"
 height="0.5763888888888888in"} Having said all that, the mix block takes
 the colors it is given as inputs and converts them into what we hope are
 *typical* paint reflectance spectra that would look like those colors,
@@ -7164,13 +7164,13 @@ depends on their chemical composition and how they're mixed. There are
 three more mixing options, but these three are the ones that correspond
 to real-world color mixing.
 
-![](./myMediaFolder/media/image1225.png){width="4.340277777777778in"
+![](/snap-manual/assets/images/image1225.png){width="4.340277777777778in"
 height="0.6527777777777778in"}The mix block will accept any number of
 colors, and will mix them in equal proportion. If (for any kind of
 mixing) you want more of one color than another, use the color at weight
 block to make a "weighted color":
 
-![](./myMediaFolder/media/image1226.png){width="5.166666666666667in"
+![](/snap-manual/assets/images/image1226.png){width="5.166666666666667in"
 height="0.4305555555555556in"}This mixes four parts red paint to one
 part green paint. All colors in a mixture can be weighted:
 
@@ -7182,8 +7182,8 @@ mistakes are bh's.)
 
 ### tl;dr
 
-![](./myMediaFolder/media/image1227.png){width="1.9326388888888888in"
-height="2.220833333333333in"}![](./myMediaFolder/media/image1231.png){width="2.227777777777778in"
+![](/snap-manual/assets/images/image1227.png){width="1.9326388888888888in"
+height="2.220833333333333in"}![](/snap-manual/assets/images/image1231.png){width="2.227777777777778in"
 height="2.267361111111111in"}For normal people, Snap*!* provides three
 simple, one-dimensional scales: *[crayons]{.underline}* for specific
 interesting colors, *[color numbers]{.underline}* for a continuum of
@@ -7193,12 +7193,12 @@ provides three-dimensional color spaces RGB, HSL, HSV, and fair-hue
 variants of the latter two. We recommend "fair HSL" for zeroing in on a
 desired color.
 
-![](./myMediaFolder/media/image1235.png){width="1.5347222222222223in"
+![](/snap-manual/assets/images/image1235.png){width="1.5347222222222223in"
 height="1.8472222222222223in"}
 
-### ![](./myMediaFolder/media/image1236.png){width="2.2111111111111112in" height="2.267361111111111in"}![](./myMediaFolder/media/image1240.png){width="2.061111111111111in" height="2.2222222222222223in"}![](./myMediaFolder/media/image1244.png){width="1.9152777777777779in" height="2.234722222222222in"} Subappendix: Geeky details on fair hue
+### ![](/snap-manual/assets/images/image1236.png){width="2.2111111111111112in" height="2.267361111111111in"}![](/snap-manual/assets/images/image1240.png){width="2.061111111111111in" height="2.2222222222222223in"}![](/snap-manual/assets/images/image1244.png){width="1.9152777777777779in" height="2.234722222222222in"} Subappendix: Geeky details on fair hue
 
-![](./myMediaFolder/media/image1248.png){width="6.2375in"
+![](/snap-manual/assets/images/image1248.png){width="6.2375in"
 height="2.5in"}The left graph shows that, unsurprisingly, all of the
 brown fair hues make essentially no progress in real hue, with the
 orange-brown section actually a little retrograde, since browns are
@@ -7243,15 +7243,15 @@ recommend HSL to users, because HSV comes to us directly from the
 JavaScript color management implementation.) This is why the set pen
 block includes options for "fair saturation" and so on.
 
-![](./myMediaFolder/media/image1252.png){width="5.9875in"
+![](/snap-manual/assets/images/image1252.png){width="5.9875in"
 height="0.3784722222222222in"}For the extra-geeky, here are the exact
 table lookup points (fair hue, \[0,100\]):
 
 and here are the RGB settings at those points:
 
-### ![](./myMediaFolder/media/image1253.png){width="5.9840277777777775in" height="1.3736111111111111in"} Subappendix: Geeky details on color numbers
+### ![](/snap-manual/assets/images/image1253.png){width="5.9840277777777775in" height="1.3736111111111111in"} Subappendix: Geeky details on color numbers
 
-![](./myMediaFolder/media/image1254.png){width="2.0833333333333335in"
+![](/snap-manual/assets/images/image1254.png){width="2.0833333333333335in"
 height="2.2916666666666665in"}Here is a picture of integer color
 numbers, but remember that color numbers are continuous. (As usual,
 "continuous" values are ultimately converted to integer RGB values, so
@@ -7291,7 +7291,7 @@ In the color number chart, all the dark color numbers look a lot like
 black, but they're quite different. Here are the darkest colors in each
 color number family.
 
-![](./myMediaFolder/media/image1255.png){width="1.3888888888888888in"
+![](/snap-manual/assets/images/image1255.png){width="1.3888888888888888in"
 height="1.3888888888888888in"}Darkest yellow doesn't look entirely
 yellow. You might see it as greenish or brownish. As it turns out, the
 darkest color that really looks yellow is hardly dark at all. This color
@@ -7327,11 +7327,11 @@ color number 87.5 is the darkest one that's still unambiguously purple.
 Here are the reference points for color numbers that are multiples of
 five, except for item 4, which is used for color 14, not color 15:
 
-![](./myMediaFolder/media/image1256.png){width="4.583333333333333in"
+![](/snap-manual/assets/images/image1256.png){width="4.583333333333333in"
 height="1.2777777777777777in"}
 
  Appendix B. APL features {#appendix-b.-apl-features .ListParagraph}
-========================
+=================
 
 The book *A Programming Language* was published by mathematician Kenneth
 E. Iverson in 1962. He wanted a formal language that would look like
@@ -7420,7 +7420,7 @@ later to include APL2 features.
 
 Here are some of the guiding ideas in the design of the APL library:
 
-![](./myMediaFolder/media/image1257.png){width="4.451388888888889in"
+![](/snap-manual/assets/images/image1257.png){width="4.451388888888889in"
 height="0.5208333333333334in"}Goal:  Enable interested **Snap*!*** users
 to learn the feel and style of APL programming. It's really worth the
 effort. For example, we didn't hyperize the = block because Snap*!*
@@ -7435,7 +7435,7 @@ into a simple vector; and **∧**/ means "reduce with and"; "reduce" is
 our combine function. That six-character program is much less effort
 than the equivalent
 
-![](./myMediaFolder/media/image1258.png){width="0.9930555555555556in"
+![](/snap-manual/assets/images/image1258.png){width="0.9930555555555556in"
 height="0.20833333333333334in"}in Snap*!*. Note in passing that if you
 wanted to know *how many* corresponding elements of the two arrays are
 equal, you'd just use +/ instead of **∧**/. Note also that our APLish
@@ -7513,9 +7513,9 @@ other numbers. Snap*!* *arithmetic* functions treat false as 0 and true
 as 1, so our APL library tries to report Snap*!* Boolean values from
 predicate functions.
 
-### ![](./myMediaFolder/media/image1259.png){width="5.733333333333333in" height="1.1066666666666667in"}Scalar functions
+### ![](/snap-manual/assets/images/image1259.png){width="5.733333333333333in" height="1.1066666666666667in"}Scalar functions
 
-![](./myMediaFolder/media/image1260.png){width="2.566666666666667in"
+![](/snap-manual/assets/images/image1260.png){width="2.566666666666667in"
 height="0.21666666666666667in"}These are the scalar functions in the APL
 library. Most of them are straightforward to figure out. The scalar =
 block provides an APL-style version of = (and other exceptions) as a
@@ -7539,8 +7539,8 @@ list in that input slot as an implicit map, as for scalar functions.
 This means you have to learn the rule for each mixed function
 individually.
 
-![](./myMediaFolder/media/image1261.png){width="4.275in"
-height="1.1in"}![](./myMediaFolder/media/image1262.png){width="1.0666666666666667in"
+![](/snap-manual/assets/images/image1261.png){width="4.275in"
+height="1.1in"}![](/snap-manual/assets/images/image1262.png){width="1.0666666666666667in"
 height="0.18333333333333332in"}The shape of function takes any input and
 reports a vector of the maximum size of the structure along each
 dimension. For a vector, it returns a list of length 1 containing the
@@ -7551,8 +7551,8 @@ dimensions, and shape of reports an empty vector.
 
 Equivalent to the dimensions of primitive, as of 6.6.
 
-![](./myMediaFolder/media/image1263.png){width="1.0416666666666667in"
-height="0.18333333333333332in"}![](./myMediaFolder/media/image1264.png){width="2.033333333333333in"
+![](/snap-manual/assets/images/image1263.png){width="1.0416666666666667in"
+height="0.18333333333333332in"}![](/snap-manual/assets/images/image1264.png){width="2.033333333333333in"
 height="0.18333333333333332in"}Rank of isn't an actual APL primitive,
 but the composition ⍴⍴ (shape of shape of a structure), which reports
 the number of dimensions of the structure (the length of its shape
@@ -7560,7 +7560,7 @@ vector), is too useful to omit. (It's very easy to type the same
 character twice on the APL keyboard, but less easy to drag blocks
 together.) Equivalent to the rank of primitive, as of 6.6.
 
-![](./myMediaFolder/media/image1265.png){width="7.325in"
+![](/snap-manual/assets/images/image1265.png){width="7.325in"
 height="0.8333333333333334in"}Reshape takes a shape vector (such as
 shape might report) on the left and any structure on the right. It
 ignores the shape of the right input, stringing the atomic elements into
@@ -7569,7 +7569,7 @@ right, then all of the second row, etc.). (The primitive reshape takes
 the inputs in the other order.) It then reports an array with the shape
 specified by the first input containing the items of the second:
 
-![](./myMediaFolder/media/image1266.png){width="6.575in"
+![](/snap-manual/assets/images/image1266.png){width="6.575in"
 height="1.0416666666666667in"}If the right input has more atomic
 elements than are required by the left-input shape vector, the excess
 are ignored without reporting an error. If the right input has too *few*
@@ -7579,9 +7579,9 @@ atomic right input, which produces an array of any desired shape all of
 whose atomic elements are equal. But other cases are sometimes useful
 too:
 
-![](./myMediaFolder/media/image1267.png){width="5.508333333333334in"
+![](/snap-manual/assets/images/image1267.png){width="5.508333333333334in"
 height="1.25in"}\
-![](./myMediaFolder/media/image1269.png){width="1.4333333333333333in"
+![](/snap-manual/assets/images/image1269.png){width="1.4333333333333333in"
 height="0.18333333333333332in"}Flatten takes an arbitrary structure as
 input and reports a vector of its atomic elements in row-major order.
 Lispians call this flattening the structure, but APLers call it "ravel"
@@ -7593,20 +7593,20 @@ turn it into a one-element vector, but we can't use it that way because
 you can't type a scalar value into the List-type input slot. Equivalent
 to the primitive flatten of block.
 
-![](./myMediaFolder/media/image1270.png){width="3.3618055555555557in"
+![](/snap-manual/assets/images/image1270.png){width="3.3618055555555557in"
 height="0.25in"}
 
-![](./myMediaFolder/media/image1274.png){width="7.204166666666667in"
+![](/snap-manual/assets/images/image1274.png){width="7.204166666666667in"
 height="0.5833333333333334in"}Catenate is like our primitive append,
 with two differences: First, if either input is a scalar, it is treated
 like a one-item vector. Second, if the two inputs are of different rank,
 the catenate function is recursively mapped over the higher-rank input:
 
-![](./myMediaFolder/media/image1275.png){width="0.5333333333333333in"
+![](/snap-manual/assets/images/image1275.png){width="0.5333333333333333in"
 height="0.25in"}Catenate vertically is similar, but it adds new rows
 instead of adding new columns.
 
-![](./myMediaFolder/media/image1276.png){width="6.341666666666667in"
+![](/snap-manual/assets/images/image1276.png){width="6.341666666666667in"
 height="1.0416666666666667in"}Integers (I think that's what it stands
 for, although APLers just say "iota") takes a positive integer input and
 reports a vector of the integers from 1 to the input. This is an example
@@ -7615,7 +7615,7 @@ of its range. The difference between this block and the primitive
 numbers from block is in its treatment of lists as inputs. Numbers from
 is a hyperblock, applying itself to each item of its input list:
 
-![](./myMediaFolder/media/image1277.png){width="6.025in"
+![](/snap-manual/assets/images/image1277.png){width="6.025in"
 height="0.8333333333333334in"}Iota has a special meaning for list
 inputs: The input must be a shape vector; the result is an array with
 that shape in which each item is a list of the indices of the cell along
@@ -7623,10 +7623,10 @@ each dimension. A picture is worth 10^3^ words, but Snap*!* isn't so
 good at displaying arrays with more than two dimensions, so here we
 reduce each cell's index list to a string:
 
-![](./myMediaFolder/media/image1278.png){width="1.475in"
+![](/snap-manual/assets/images/image1278.png){width="1.475in"
 height="0.25in"}
 
-![](./myMediaFolder/media/image1279.png){width="5.95in"
+![](/snap-manual/assets/images/image1279.png){width="5.95in"
 height="1.1in"}Dyadic iota is like the index of primitive except for its
 handling of multi-dimensional arrays. It looks only for atomic elements,
 so a vector in the second input doesn't mean to search for that vector
@@ -7641,21 +7641,21 @@ actually an extension of APL iota, which is more like a hyperized index
 of.) Generalizing, if the rank of the second input is less than the rank
 of the first input by two or more, then iota looks for the entire second
 input in the first input. The reported position is a vector
-![](./myMediaFolder/media/image1280.png){width="5.841666666666667in"
+![](/snap-manual/assets/images/image1280.png){width="5.841666666666667in"
 height="0.35in"}whose length is equal to the difference between the two
 ranks. If the rank of the second input is one less than the rank of the
 first, the reported value is a scalar, the index of the entire second
 input in the first.
 
-![](./myMediaFolder/media/image1281.png){width="5.383333333333334in"
+![](/snap-manual/assets/images/image1281.png){width="5.383333333333334in"
 height="1.1in"}
 
-![](./myMediaFolder/media/image1282.png){width="5.375in"
+![](/snap-manual/assets/images/image1282.png){width="5.375in"
 height="3.2416666666666667in"}Why the strange design decision to report
 length+1 when something isn't found, instead of a more obvious flag
 value such as 0 or false? Here's why:
 
-![](./myMediaFolder/media/image1286.png){width="2.175in"
+![](/snap-manual/assets/images/image1286.png){width="2.175in"
 height="0.225in"}Note that code has 27 items, not 26. The asterisk at
 the end is the ciphertext is the translation of all non-alphabet
 characters (spaces and the apostrophe in "doesn't"). This is a silly
@@ -7665,18 +7665,18 @@ message. And you wouldn't want to make the spaces in the message so
 obvious. But despite being silly, the example shows the benefit of
 reporting length+1 as the position of items not found.
 
-![](./myMediaFolder/media/image1287.png){width="7.485416666666667in"
+![](/snap-manual/assets/images/image1287.png){width="7.485416666666667in"
 height="0.6597222222222222in"}The contained in block is like a hyperized
 contains with the input order reversed. It reports an array of Booleans
 the same shape as the left input. The shape of the right input doesn't
 matter; the block looks only for atomic elements.
 
-![](./myMediaFolder/media/image1288.png){width="2.6645833333333333in"
+![](/snap-manual/assets/images/image1288.png){width="2.6645833333333333in"
 height="0.31666666666666665in"}The blocks grade up and grade down are
 used for sorting data. Given an array as input, it reports a vector of
 the indices in which the items (the rows, if a matrix) should be
 rearranged in order to be sorted. This will be
-![](./myMediaFolder/media/image1292.png){width="7.4944444444444445in"
+![](/snap-manual/assets/images/image1292.png){width="7.4944444444444445in"
 height="1.8069444444444445in"}clearer with an example:
 
 The result from grade up tells us that item 3 of **foo** comes first in
@@ -7695,32 +7695,32 @@ This is the list of employees of a small company. (Taken from *Structure
 and Interpretation of Computer Programs* by Abelson and Sussman.
 Creative Commons licensed.) Each of the smaller lists contains a
 person\'s name, job title, and yearly salary.
-![](./myMediaFolder/media/image1298.png){width="5.483333333333333in"
+![](/snap-manual/assets/images/image1298.png){width="5.483333333333333in"
 height="2.2in"}We would like to sort the employees' names in
 big-to-small order of salary. First we extract column 3 of the database,
 the salaries:
 
-![](./myMediaFolder/media/image1299.png){width="3.5590277777777777in"
+![](/snap-manual/assets/images/image1299.png){width="3.5590277777777777in"
 height="1.976388888888889in"}\
 Then we use grade down to get the reordering indices:
 
-![](./myMediaFolder/media/image1300.png){width="5.333333333333333in"
-height="2.3733333333333335in"}![](./myMediaFolder/media/image1301.png){width="4.978472222222222in"
+![](/snap-manual/assets/images/image1300.png){width="5.333333333333333in"
+height="2.3733333333333335in"}![](/snap-manual/assets/images/image1301.png){width="4.978472222222222in"
 height="2.2333333333333334in"}At this point we *could* use the index
 vector to sort the salaries:
 
-![](./myMediaFolder/media/image1302.png){width="5.593333333333334in"
+![](/snap-manual/assets/images/image1302.png){width="5.593333333333334in"
 height="2.3in"}But what we actually want is a list of *names,* sorted by
 salary:
 
-![](./myMediaFolder/media/image1303.png){width="2.308333333333333in"
-height="0.275in"}![](./myMediaFolder/media/image1304.png){width="2.9166666666666665in"
+![](/snap-manual/assets/images/image1303.png){width="2.308333333333333in"
+height="0.275in"}![](/snap-manual/assets/images/image1304.png){width="2.9166666666666665in"
 height="0.325in"}By taking the index vector from grade down of column 3
 and telling item to apply it to column 1, we get what we set out to
 find. As usual the code is more elegant in APL:
 database\[⍒database\[;3\];1\].
 
-![](./myMediaFolder/media/image1305.png){width="2.9472222222222224in"
+![](/snap-manual/assets/images/image1305.png){width="2.9472222222222224in"
 height="0.22569444444444445in"}In case you've forgotten, or would select
 the third *row* of the database; we need the list 3 in the second input
 slot of the outer list to select by columns rather than by rows.
@@ -7738,7 +7738,7 @@ as the right input, but containing only those rows whose corresponding
 Boolean value is true. The columns version **⌿** is the same but
 selecting columns rather than selecting rows.
 
-![](./myMediaFolder/media/image1309.png){width="6.452083333333333in"
+![](/snap-manual/assets/images/image1309.png){width="6.452083333333333in"
 height="0.25in"}A word about the possibly confusing names of these
 blocks: There are two ways to think about what they do. Take the
 standard / version, to avoid talking about both at once. One way to
@@ -7753,9 +7753,9 @@ last dimension (the columns), while **⌿** is described as operating on
 rows. We were more than a month into this project before I understood
 all this. You get long block names so it won't take you a month!
 
-![](./myMediaFolder/media/image1313.png){width="3.175in"
-height="0.18333333333333332in"}![](./myMediaFolder/media/image1314.png){width="2.9944444444444445in"
-height="0.23333333333333334in"}![](./myMediaFolder/media/image1315.png){width="1.1118055555555555in"
+![](/snap-manual/assets/images/image1313.png){width="3.175in"
+height="0.18333333333333332in"}![](/snap-manual/assets/images/image1314.png){width="2.9944444444444445in"
+height="0.23333333333333334in"}![](/snap-manual/assets/images/image1315.png){width="1.1118055555555555in"
 height="0.23333333333333334in"}Don't confuse this block with the reduce
 block, whose APL symbol is also a slash. In that block, what comes to
 the left of the slash is a dyadic combining function; it's the APL
@@ -7770,7 +7770,7 @@ predicates, can be applied to a list instead of to a scalar. The reason
 both blocks use the / character is that both of them reduce the size of
 the input array, although in different ways.
 
-![](./myMediaFolder/media/image1316.png){width="5.875in"
+![](/snap-manual/assets/images/image1316.png){width="5.875in"
 height="2.9944444444444445in"}The reverse row order, reverse column
 order, and transpose blocks form a group: the group of reflections of a
 matrix. The APL symbols are all a circle with a line through it; the
@@ -7797,11 +7797,11 @@ The APL equivalent of keep is compress, but it's not a higher order
 function. You create a vector of Booleans (0s and 1s, in APL) before
 applying the function to the array you want to compress.
 
-![](./myMediaFolder/media/image1322.png){width="4.258333333333334in"
+![](/snap-manual/assets/images/image1322.png){width="4.258333333333334in"
 height="0.6131944444444445in"}But APL does have a higher order version
 of combine:
 
-![](./myMediaFolder/media/image1326.png){width="6.683333333333334in"
+![](/snap-manual/assets/images/image1326.png){width="6.683333333333334in"
 height="1.0416666666666667in"}The reduce block works just like combine,
 taking a dyadic function and a list. The / version translates each row
 to a single value; the **⌿** version translates each column to a single
@@ -7813,10 +7813,10 @@ vectors or column vectors. And if you think of what these blocks do as
 adding vectors, rather than adding individual numbers, it's clear that
 in
 
-![](./myMediaFolder/media/image1327.png){width="5.833333333333333in"
+![](/snap-manual/assets/images/image1327.png){width="5.833333333333333in"
 height="1.1in"}
 
-![](./myMediaFolder/media/image1328.png){width="4.808333333333334in"
+![](/snap-manual/assets/images/image1328.png){width="4.808333333333334in"
 height="1.1in"}the *vector* (10, 26, 42) is the sum of *column vectors*
 (1, 5, 9)+(2, 6, 10)+(3, 7, 11)+(4, 8, 12). In pre-6.0 Snap*!*, we'd get
 the same result this way:
@@ -7833,15 +7833,15 @@ the third element of the right input. (The APL symbol ◦. is pronounced
 "jot dot.") The way to think about this block is "multiplication table"
 from elementary school:
 
-![](./myMediaFolder/media/image1329.png){width="7.24in" height="1.52in"}
+![](/snap-manual/assets/images/image1329.png){width="7.24in" height="1.52in"}
 
-![](./myMediaFolder/media/image1330.png){width="2.1666666666666665in"
+![](/snap-manual/assets/images/image1330.png){width="2.1666666666666665in"
 height="0.24166666666666667in"}
 
-![](./myMediaFolder/media/image1331.png){width="2.6166666666666667in"
+![](/snap-manual/assets/images/image1331.png){width="2.6166666666666667in"
 height="0.24166666666666667in"}
 
-![](./myMediaFolder/media/image1332.png){width="7.338611111111111in"
+![](/snap-manual/assets/images/image1332.png){width="7.338611111111111in"
 height="1.0069444444444444in"}The inner product block takes two matrices
 and two operations as input. The number of columns in the left matrix
 must equal the number of rows in the right matrix. When the two
@@ -7852,12 +7852,12 @@ But other operations can be used. One common inner product is ∨.∧ ("or
 dot and") applied to Boolean matrices, to find rows and columns that
 have corresponding items in common.
 
-![](./myMediaFolder/media/image1333.png){width="0.9583333333333334in"
+![](/snap-manual/assets/images/image1333.png){width="0.9583333333333334in"
 height="0.18333333333333332in"}The printable block isn't an APL
 function; it's an aid to exploring APL-in-Snap*!*. It transforms arrays
 to a compact representation that still makes the structure clear:
 
-![](./myMediaFolder/media/image1334.png){width="5.997916666666667in"
+![](/snap-manual/assets/images/image1334.png){width="5.997916666666667in"
 height="0.3333333333333333in"}Experts will recognize this as the Lisp
 representation of list structure,
 
@@ -8185,7 +8185,7 @@ Wide Web · 91write block · 18writeable pulldown inputs · 61XX position ·
     hide and show primitives in the palette. The pulldown menu doesn't
     include primitive blocks, but there's a generally useful technique
     to give a block input values it wasn't expecting using run or
-    call:![](./myMediaFolder/media/image120.png){width="3.9375in"
+    call:![](/snap-manual/assets/images/image120.png){width="3.9375in"
     height="0.3888888888888889in"}
 
     In order to use a block as an input this way, you must explicitly
