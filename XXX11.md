@@ -1,0 +1,42 @@
+                ---
+                title: 11 Loading Saved Projects
+
+                layout: home
+                has_children: false
+                has_toc: true
+                nav_order: 12
+                ---
+
+
+Once you've saved a project, you want to be able to load it back into
+Snap*!*. There are two ways to do this:
+
+1\. If you saved the project in your online Snap*!* account, choose the
+"Open..." option from the File menu. Choose the "Cloud" button, then
+select your project from the list in the big text box and click OK, or
+choose the "Computer" button to open an operating system open dialog. (A
+third button, "Examples," lets you choose from example projects that we
+provide. You can see what each of these projects is about by clicking on
+it and reading its project notes.)
+
+2\. If you saved the project as an XML file on your computer, choose
+"Import..." from the File menu. This will give you an ordinary browser
+file-open window, in which you can navigate to the file as you would in
+other software. Alternatively, find the XML file on your desktop, and
+just drag it onto the Snap*!* window.
+
+The second technique above also allows you to import media (costumes and
+sounds) into a project. Just choose "Import..." and then select a
+picture or sound file instead of an XML file.
+
+Snap*!* can also import projects created in BYOB 3.0 or 3.1, or (with
+some effort; see our web site) in Scratch 1.4, 2.0 or 3.0. Almost all
+such projects work correctly in Snap*!*, apart from a small number of
+incompatible blocks.
+
+If you saved projects in an earlier version of Snap*!* using the
+"Browser" option, then a Browser button will be shown in the Open dialog
+to allow you to retrieve those projects. But you can save them only with
+the Computer and Cloud options.
+
+If you lose your project, do this first!
