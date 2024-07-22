@@ -60,14 +60,16 @@ def create_new_files(all_lines)
   chapter_filename = ""
   section_filename = ""
   all_lines.each_with_index do |line, i|
-
+    if i == all_lines.length()
+      break
+    end
     if line.match?(/width="([\d.]+)in"/) || line.match?(/height="([\d.]+)in"/)
       line = convert_image_dimensions(line)
     end
 
     $toc.each_with_index do |section|
       no_hash_section = remove_hashtags(section)
-      if section.match?(/^(\# )/) && line.include?(no_hash_section)
+      if section.match?(/^(\# )/) && line.include?(no_hash_section) && all_lines[i+1].match?("======")
         puts "Line include no hash?: #{line.include?(no_hash_section)}"
         puts line
         puts "\n" 
@@ -133,7 +135,7 @@ TEXT
     end
   
     
-    if line.match?("---------") or line.match?("==============")
+    if line.match?("---------") or line.match?("======")
       puts line
     elsif write_chapter
       chapter_content += line
