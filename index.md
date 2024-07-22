@@ -2,6 +2,8 @@
 title: Home
 layout: home
 nav_order: 1
+has_children: true
+has_toc: true
 ---
 
 # I. Blocks, Scripts, and Sprites 
