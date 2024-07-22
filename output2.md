@@ -133,11 +133,9 @@ sprite in the scripting area, click on the picture of that sprite in the
 *sprite corral* in the bottom right corner of the window. Try putting
 one of the following scripts in each sprite's scripting area:
 
-> ![](image26.png){width="1.5506944444444444in"
-> height="0.99375in"}
+![](image26.png){width="1.5506944444444444in" height="0.99375in"}
 
-> ![](image27.png){width="1.5416666666666667in"
-> height="1.1666666666666667in"}
+![](image27.png){width="1.5416666666666667in" height="1.1666666666666667in"}
 
 
 When you click the green flag, you should see one sprite rotate while
@@ -146,11 +144,9 @@ different scripts can run in parallel. The turning and the moving happen
 together. Parallelism can be seen with multiple scripts of a single
 sprite also. Try this example:
 
-> ![](image28.png){width="1.7291666666666667in"
-> height="0.875in"}
+![](image28.png){width="1.7291666666666667in" height="0.875in"}
 
-> ![](image29.png){width="1.7291666666666667in"
-> height="0.8958333333333334in"}
+![](image29.png){width="1.7291666666666667in" height="0.8958333333333334in"}
 
 
 When you press the space key, the sprite should move forever in a
@@ -934,18 +930,15 @@ generated](image355.png){width="1.68in" height="0.38in"}
  If the input is set to "any key," then a right
 arrowhead appears:
 
-> ![](image356.png){width="2.25in"
-> height="0.41944444444444445in"}
-![](image357.png){width="1.8194444444444444in"
-> height="0.3798611111111111in"}
+![](image356.png){width="2.25in" height="0.41944444444444445in"}
+![](image357.png){width="1.8194444444444444in" height="0.3798611111111111in"}
 and if you click it, a script variable
 > key is created whose value is the key that was pressed. (If the key is
 > one that' represented in the input menu by a word or phrase, e.g.,
 > "enter" or "up arrow," then the value of key will be that word or
 > phrase, *except for* the space character, which is represented as
 > itself in key.)\
-> ![](image358.png){width="3.0924245406824147in"
-> height="0.6895833333333333in"}
+![](image358.png){width="3.0924245406824147in" height="0.6895833333333333in"}
 
 
 ![](image362.png){width="5.95in" height="0.8798611111111111in"}

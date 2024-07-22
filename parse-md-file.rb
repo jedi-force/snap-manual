@@ -45,7 +45,9 @@ end
 
 def remove_hashtags(string)
   # Use gsub to replace hashtags followed by a space with an empty string
-  return string.gsub(/#+\s*/, '')
+  string = string.gsub(/#+\s*/, '')
+  string = string.gsub("\n", '')
+  return string
 end
 
 def create_new_files(all_lines)
@@ -132,10 +134,11 @@ TEXT
     end
   
     
-
-    if write_chapter
+    if line.match?("---------") or line.match?("==============")
+      puts line
+    elsif write_chapter
       chapter_content += line
-    else write_section
+    elsif write_section
       section_content += line
     end
   end
