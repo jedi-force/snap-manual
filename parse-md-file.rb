@@ -47,7 +47,6 @@ def remove_hashtags(string)
   # Use gsub to replace hashtags followed by a space with an empty string
   string = string.gsub(/#+\s*/, '')
   string = string.gsub("\n", '')
-  return string
 end
 
 def create_new_files(all_lines)
@@ -111,12 +110,12 @@ TEXT
         num += 1
         section_content = <<-TEXT
 ---
-title: #{section_num}. #{section_title}
+title: Section #{section_num}. #{section_title}
 layout: home
 has_children: false
 has_toc: true
 nav_order: #{num + 1}
-parent: #{current_chapter_title}
+parent: Chapter #{chapter_num}. #{current_chapter_title}
 ---
 
 TEXT
