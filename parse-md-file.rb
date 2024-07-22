@@ -81,15 +81,15 @@ def create_new_files(all_lines)
         num += 1
         chapter_num += 1
         chapter_content = <<-TEXT
-        ---
-        title: Chapter #{chapter_num}. #{current_chapter_title}
-        layout: home
-        has_children: true
-        has_toc: true
-        nav_order: #{num + 1}
-        ---
+---
+title: Chapter #{chapter_num}. #{current_chapter_title}
+layout: home
+has_children: true
+has_toc: true
+nav_order: #{num + 1}
+---
 
-        TEXT
+TEXT
         puts current_chapter_title
         #File.open($path + chapter_filename, "w") { |f| f.write(chapter_content) }
         break
@@ -108,16 +108,16 @@ def create_new_files(all_lines)
         name = all_lines[i-1].gsub(/!\[.*\]\(.*\)\{.*\}/, '').strip
         num += 1
         section_content = <<-TEXT
-        ---
-        title: #{section_num}. #{section_title}
-        layout: home
-        has_children: false
-        has_toc: true
-        nav_order: #{num + 1}
-        parent: #{current_chapter_title}
-        ---
+---
+title: #{section_num}. #{section_title}
+layout: home
+has_children: false
+has_toc: true
+nav_order: #{num + 1}
+parent: #{current_chapter_title}
+---
 
-        TEXT
+TEXT
         #File.open($path + section_filename, "w") { |f| f.write(section_content) }
         break
 
