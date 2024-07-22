@@ -19,20 +19,16 @@ though, Snap*!* is a *visual* language; instead of writing a program
 using the keyboard, the Snap*!* programmer uses the same drag-and-drop
 interface familiar to computer users.
 
-![](image5.png){width="4.326388888888889in"
-height="2.689583333333333in"}Start Snap*!*[.]{.smallcaps} You should see
+![](image5.png){width="4.326388888888889in" height="2.689583333333333in"}Start Snap*!*[.]{.smallcaps} You should see
 the following arrangement of regions in the window:
 
 (The proportions of these areas may be different, depending on the size
 and shape of your browser window.)
 
-![](image6.png){width="1.4791666666666667in"
-height="1.3541666666666667in"}A Snap*!* program consists of one or more
+![](image6.png){width="1.4791666666666667in" height="1.3541666666666667in"}A Snap*!* program consists of one or more
 *scripts,* each of which is made of *blocks.* Here's a typical script:
 
-![](image7.png){width="2.2465277777777777in"
-height="1.4694444444444446in"}![](image8.png){width="2.2083333333333335in"
-height="1.1388888888888888in"}The five blocks that make up this script
+![](image7.png){width="2.2465277777777777in" height="1.4694444444444446in"}![](image8.png){width="2.2083333333333335in" height="1.1388888888888888in"}The five blocks that make up this script
 have three different colors, corresponding to three of the eight
 *palettes* in which blocks can be found. The palette area at the left
 edge of the window shows one palette at a time, chosen with the eight
@@ -60,8 +56,7 @@ only if the user clicks on the script itself. A script can't have more
 than one hat block, and the hat block can be used only at the top of the
 script; its distinctive shape is meant to remind you of that.[^1]
 
-![](image9.png){width="1.1666666666666667in"
-height="0.25in"}The other blocks in our example script are *command*
+![](image9.png){width="1.1666666666666667in" height="0.25in"}The other blocks in our example script are *command*
 blocks. Each command block corresponds to an action that Snap*!* already
 knows how to carry out. For example, the block tells the sprite (the
 arrowhead shape on the *stage* at the right end of the window) to move
@@ -74,8 +69,7 @@ Lego™ brick; a script is a stack of blocks. (The word "block" denotes
 both the graphical shape on the screen and the procedure, the action,
 that the block carries out.)
 
-![](image10.png){width="1.0972222222222223in"
-height="0.3541666666666667in"}The number 10 in the move block above is
+![](image10.png){width="1.0972222222222223in" height="0.3541666666666667in"}The number 10 in the move block above is
 called an *input* to the block. By clicking on the white oval, you can
 type any number in place of the 10. The sample script on the previous
 page uses 100 as the input value. We'll see later that inputs can have
@@ -90,31 +84,25 @@ block in the sample script, are *C‑shaped.* Most C-shaped blocks are
 found in the Control palette. The slot inside the C shape is a special
 kind of input slot that accepts a *script* as the input.
 
-![](image6.png){width="1.4791666666666667in"
-height="1.3541666666666667in"}
+![](image6.png){width="1.4791666666666667in" height="1.3541666666666667in"}
 
-![](image11.png){width="1.40625in"
-height="0.4895833333333333in"}In the sample script
+![](image11.png){width="1.40625in" height="0.4895833333333333in"}In the sample script
 
-![](image12.png){width="5.697916666666667in"
-height="1.445138888888889in"}C-shaped blocks can be put in a script in
+![](image12.png){width="5.697916666666667in" height="1.445138888888889in"}C-shaped blocks can be put in a script in
 two ways. If you see a white line and let go, the block will be inserted
 into the script like any command block:
 
-![](image16.png){width="5.501388888888889in"
-height="1.2777777777777777in"}But if you see an orange halo and let go,
+![](image16.png){width="5.501388888888889in" height="1.2777777777777777in"}But if you see an orange halo and let go,
 the block will *wrap* around the haloed blocks:
 
-![](image20.png){width="5.800694444444445in"
-height="1.2916666666666667in"}The halo will always extend from the
+![](image20.png){width="5.800694444444445in" height="1.2916666666666667in"}The halo will always extend from the
 cursor position to the bottom of the script:
 
 If you want only some of those blocks, after wrapping you can grab the
 first block you don't want wrapped, pull it down, and snap it under the
 C-shaped block.
 
-![](image24.png){width="2.311111111111111in"
-height="1.3666666666666667in"}For "E-shaped" blocks with more than one
+![](image24.png){width="2.311111111111111in" height="1.3666666666666667in"}For "E-shaped" blocks with more than one
 C-shaped slot, only the first slot will wrap around existing blocks in a
 script, and only if that C-shaped slot is empty before wrapping. (You
 can fill the other slots by dragging blocks into the desired slot.)
@@ -154,10 +142,7 @@ the program, click the red stop sign at the right end of the tool bar.)
 
 ### Costumes and Sounds
 
-![](image30.png){width="0.3194444444444444in"
-height="0.2152777777777778in"}![](image31.png){width="1.7666666666666666in"
-height="1.875in"}![](image32.png){width="0.2916666666666667in"
-height="0.16666666666666666in"}To change the appearance of a sprite,
+![](image30.png){width="0.3194444444444444in" height="0.2152777777777778in"}![](image31.png){width="1.7666666666666666in" height="1.875in"}![](image32.png){width="0.2916666666666667in" height="0.16666666666666666in"}To change the appearance of a sprite,
 paint or import a new *costume* for it. To paint a costume, click on the
 Costumes tab above the scripting area, and click the paint button . The
 *Paint Editor* that appears is explained on page 128. There are three
@@ -188,11 +173,7 @@ costume.) The Turtle costume is the only one that changes color to match
 a change in the sprite's pen color. Protip: switches to the *previous*
 costume, wrapping like next costume.
 
-![](image33.png){width="1.8055555555555556in"
-height="0.2777777777777778in"}![](image34.png){width="2.9493055555555556in"
-height="0.2604166666666667in"}![](image38.png){width="1.8958333333333333in"
-height="0.2604166666666667in"}![](image39.png){width="1.2395833333333333in"
-height="0.2604166666666667in"}In addition to its costumes, a sprite can
+![](image33.png){width="1.8055555555555556in" height="0.2777777777777778in"}![](image34.png){width="2.9493055555555556in" height="0.2604166666666667in"}![](image38.png){width="1.8958333333333333in" height="0.2604166666666667in"}![](image39.png){width="1.2395833333333333in" height="0.2604166666666667in"}In addition to its costumes, a sprite can
 have *sounds;* the equivalent for sounds of the sprite's wardrobe is
 called its *jukebox.* Sound files can be imported in any format (WAV,
 OGG, MP3, etc.) supported by your browser. *Two blocks accomplish the
@@ -208,19 +189,12 @@ more interesting program, though, the sprites on stage will *interact*
 to tell a story, play a game, etc. Often one sprite will have to tell
 another sprite to run a script. Here's a simple example:
 
-![](image40.png){width="1.71875in"
-height="0.24938648293963256in"}![](image41.png){width="0.5694444444444444in"
-height="1.1111111111111112in"}
-![](image42.png){width="2.78417760279965in"
-height="1.5104166666666667in"}
-![](image43.png){width="1.2430555555555556in"
-height="0.8611111111111112in"}
-![](image44.png){width="1.5208333333333333in"
-height="0.6041666666666666in"}
+![](image40.png){width="1.71875in" height="0.24938648293963256in"}![](image41.png){width="0.5694444444444444in" height="1.1111111111111112in"}
+![](image42.png){width="2.78417760279965in" height="1.5104166666666667in"}
+![](image43.png){width="1.2430555555555556in" height="0.8611111111111112in"}
+![](image44.png){width="1.5208333333333333in" height="0.6041666666666666in"}
 
-![](image45.png){width="1.7895833333333333in"
-height="0.2in"}![](image46.png){width="1.8in"
-height="0.19166666666666668in"}In the block, the word "bark" is just an
+![](image45.png){width="1.7895833333333333in" height="0.2in"}![](image46.png){width="1.8in" height="0.19166666666666668in"}In the block, the word "bark" is just an
 arbitrary name I made up. When you click on the downward arrowhead in
 that input slot, one of the choices (the only choice, the first time) is
 "new," which then prompts you to enter a name for the new broadcast.
@@ -266,14 +240,10 @@ display (not the sprite corral icon!) of the desired *anchor* sprite.
 The precise place where you let go of the mouse button will be the
 attachment point of the part on the anchor.
 
-![](image47.png){width="1.6305555555555555in"
-height="0.9652777777777778in"}Sprite nesting is shown in the sprite
+![](image47.png){width="1.6305555555555555in" height="0.9652777777777778in"}Sprite nesting is shown in the sprite
 corral icons of both anchors and parts:
 
-![](image48.png){width="4.875694444444444in"
-height="0.9472222222222222in"}![](image56.png){width="1.4444444444444444in"
-height="1.5625in"}![](image57.png){width="5.405555555555556in"
-height="0.8333333333333334in"}In this illustration, it is desired to
+![](image48.png){width="4.875694444444444in" height="0.9472222222222222in"}![](image56.png){width="1.4444444444444444in" height="1.5625in"}![](image57.png){width="5.405555555555556in" height="0.8333333333333334in"}In this illustration, it is desired to
 animate Alonzo's arm. (The arm has been colored green in this picture to
 make the relationship of the two sprites clearer, but in a real project
 they'd be the same color, probably.) Sprite, representing Alonzo's body,
@@ -297,9 +267,7 @@ the arm synchronous (left) and dangling (right).*
 Reporter Blocks and Expressions
 -------------------------------
 
-![](image65.png){width="1.47in"
-height="0.52in"}![](image66.png){width="0.7291666666666666in"
-height="0.15625in"}So far, we've used two kinds of blocks: hat blocks
+![](image65.png){width="1.47in" height="0.52in"}![](image66.png){width="0.7291666666666666in" height="0.15625in"}So far, we've used two kinds of blocks: hat blocks
 and command blocks. Another kind is the *reporter* block, which has an
 oval shape: . It's called a "reporter" because when it's run, instead of
 carrying out an action, it reports a value that can be used as an input
@@ -307,21 +275,18 @@ to another block. If you drag a reporter into the scripting area by
 itself and click on it, the value it reports will appear in a speech
 balloon next to the block:
 
-![](image67.png){width="5.312752624671916in"
-height="0.9583333333333334in"}When you drag a reporter block over
+![](image67.png){width="5.312752624671916in" height="0.9583333333333334in"}When you drag a reporter block over
 another block's input slot, a white "halo" appears around that input
 slot, analogous to the white line that appears when snapping command
 blocks together:
 
-![](image71.png){width="2.111111111111111in"
-height="0.6180555555555556in"}Don't drop the input over a *red* halo:
+![](image71.png){width="2.111111111111111in" height="0.6180555555555556in"}Don't drop the input over a *red* halo:
 
 That's used for a purpose explained on page 68.
 
 Here's a simple script that uses a reporter block:
 
-![](image72.png){width="5.319444444444445in"
-height="1.3645833333333333in"}Here the x position reporter provides the
+![](image72.png){width="5.319444444444445in" height="1.3645833333333333in"}Here the x position reporter provides the
 first input to the say block. (The sprite's X position is its horizontal
 position, how far left (negative values) or right (positive values) it
 is compared to the center of the stage. Similarly, the Y position is
@@ -330,51 +295,40 @@ center.)
 
 You can do arithmetic using reporters in the Operators palette:
 
-![](image76.png){width="6.263888888888889in"
-height="1.4479166666666667in"}The round block rounds 35.3905... to 35,
+![](image76.png){width="6.263888888888889in" height="1.4479166666666667in"}The round block rounds 35.3905... to 35,
 and the + block adds 100 to that. (By the way, the round block is in the
 Operators palette, just like +, but in this script it's a lighter color
 with black lettering because Snap*!* alternates light and dark versions
 of the palette colors when a block is nested inside another block from
 the same palette:
 
-![](image80.png){width="4.854166666666667in"
-height="1.90625in"}
+![](image80.png){width="4.854166666666667in" height="1.90625in"}
 
-![](image81.png){width="1.9166666666666667in"
-height="0.23958333333333334in"}This aid to readability is called *zebra
+![](image81.png){width="1.9166666666666667in" height="0.23958333333333334in"}This aid to readability is called *zebra
 coloring.*) A reporter block with its inputs, maybe including other
 reporter blocks, such as , is called an *expression.*
 
  Predicates and Conditional Evaluation
 -------------------------------------
 
-![](image82.png){width="0.6666666666666666in"
-height="0.1875in"}![](image83.png){width="1.2083333333333333in"
-height="0.1875in"}Most reporters report either a number, like , or a
+![](image82.png){width="0.6666666666666666in" height="0.1875in"}![](image83.png){width="1.2083333333333333in" height="0.1875in"}Most reporters report either a number, like , or a
 text string, like . A *predicate* is a special kind of reporter that
 always reports true or false. Predicates have a hexagonal shape:
 
-![](image84.png){width="1.9479166666666667in"
-height="0.2604166666666667in"}![](image85.png){width="1.0729166666666667in"
-height="0.15625in"}The special shape is a reminder that predicates don't
+![](image84.png){width="1.9479166666666667in" height="0.2604166666666667in"}![](image85.png){width="1.0729166666666667in" height="0.15625in"}The special shape is a reminder that predicates don't
 generally make sense in an input slot of blocks that are expecting a
 number or text. You wouldn't say , although (as you can see from the
 picture) Snap*!* lets you do it if you really want. Instead, you
 normally use predicates in special hexagonal input slots like this one:
 
-![](image86.png){width="0.6666666666666666in"
-height="0.5694444444444444in"}The C-shaped if block runs its input
+![](image86.png){width="0.6666666666666666in" height="0.5694444444444444in"}The C-shaped if block runs its input
 script if (and only if) the expression in its hexagonal input reports
 true.
 
-![](image87.png){width="1.59375in"
-height="0.6145833333333334in"}A really useful block in animations runs
+![](image87.png){width="1.59375in" height="0.6145833333333334in"}A really useful block in animations runs
 its input script *repeatedly* until a predicate is satisfied:
 
-![](image88.png){width="2.2819444444444446in"
-height="1.46875in"}![](image89.png){width="2.2916666666666665in"
-height="0.84375in"}If, while working on a project, you want to omit
+![](image88.png){width="2.2819444444444446in" height="1.46875in"}![](image89.png){width="2.2916666666666665in" height="0.84375in"}If, while working on a project, you want to omit
 temporarily some commands in a script, but you don't want to forget
 where they belong, you can say
 
@@ -382,8 +336,7 @@ Sometimes you want to take the same action whether some condition is
 true or false, but with a different input value. For this purpose you
 can use the *reporter* if block:
 
-![](image90.png){width="4.208333333333333in"
-height="0.3854166666666667in"}The technical term for a true or false
+![](image90.png){width="4.208333333333333in" height="0.3854166666666667in"}The technical term for a true or false
 value is a "Boolean" value; it has a capital B because it's named after
 a person, George Boole, who developed the mathematical theory of Boolean
 values. Don't get confused; a hexagonal block is a *predicate,* but the
@@ -397,20 +350,16 @@ values and those that don't. Commands, Reporters, and Predicates are all
 procedures. The words "a Procedure type" are shorthand for "Command
 type, Reporter type, or Predicate type."
 
-![](image91.png){width="1.375in"
-height="0.24305555555555555in"}![](image92.png){width="1.375in"
-height="0.24305555555555555in"}If you want to put a *constant* Boolean
+![](image91.png){width="1.375in" height="0.24305555555555555in"}![](image92.png){width="1.375in" height="0.24305555555555555in"}If you want to put a *constant* Boolean
 value in a hexagonal slot instead of a predicate-based expression, hover
 the mouse over the block and click on the control that appears:
 
 Variables
 ---------
 
-![](image93.png){width="1.5833333333333333in"
-height="1.4166666666666667in"}Try this script:
+![](image93.png){width="1.5833333333333333in" height="1.4166666666666667in"}Try this script:
 
-![](image94.png){width="1.8854166666666667in"
-height="1.4375in"}The input to the move block is an orange oval. To get
+![](image94.png){width="1.8854166666666667in" height="1.4375in"}The input to the move block is an orange oval. To get
 it there, drag the orange oval that's part of the for block:
 
 The orange oval is a *variable:* a symbol that represents a value. (I
@@ -426,8 +375,7 @@ segment, and that's why the picture you see is a kind of spiral. (If you
 try again with a turn of 90 degrees instead of 92, you'll see why this
 picture is called a "squiral.")
 
-![](image95.png){width="3.1875in"
-height="1.5in"}The variable i is created by the for block, and it can
+![](image95.png){width="3.1875in" height="1.5in"}The variable i is created by the for block, and it can
 only be used in the script inside the block's C-slot. (By the way, if
 you don't like the name i, you can change it by clicking on the orange
 oval without dragging it, which will pop up a dialog window in which you
@@ -445,9 +393,7 @@ You can create variables "by hand" that aren't limited to being used
 within a single block. At the top of the Variables palette, click the
 "Make a variable" button:
 
-![](image96.png){width="3.1875in"
-height="1.84375in"}![](image97.png){width="2.0520833333333335in"
-height="2.2708333333333335in"}This will bring up a dialog window in
+![](image96.png){width="3.1875in" height="1.84375in"}![](image97.png){width="2.0520833333333335in" height="2.2708333333333335in"}This will bring up a dialog window in
 which you can give your variable a name:
 
 The dialog also gives you a choice to make the variable available to all
@@ -460,12 +406,10 @@ corral), and the different sprites will do slightly different things
 when running that script because each has a different value for that
 variable name.
 
-![](image98.png){width="1.6583333333333334in"
-height="2.2916666666666665in"}If you give your variable the name "name"
+![](image98.png){width="1.6583333333333334in" height="2.2916666666666665in"}If you give your variable the name "name"
 then the Variables palette will look like this:
 
-![](image99.png){width="1.0416666666666667in"
-height="0.40625in"}There's now a "Delete a variable" button, and there's
+![](image99.png){width="1.0416666666666667in" height="0.40625in"}There's now a "Delete a variable" button, and there's
 an orange oval with the variable name in it, just like the orange oval
 in the for block. You can drag the variable into any script in the
 scripting area. Next to the oval is a checkbox, initially checked. When
@@ -474,8 +418,7 @@ it's checked, you'll also see a *variable watcher* on the stage:
 When you give the variable a value, the orange box in its watcher will
 display the value.
 
-![](image100.png){width="1.9270833333333333in"
-height="0.4791666666666667in"}How *do* you give it a value? You use the
+![](image100.png){width="1.9270833333333333in" height="0.4791666666666667in"}How *do* you give it a value? You use the
 set block:
 
 Note that you *don't* drag the variable's oval into the set block! You
@@ -486,14 +429,12 @@ If you do choose "For this sprite only" when creating a variable, its
 block in the palette looks like this:
 
 ![Macintosh
-HD:Users:bh:Desktop:local-var.png](image101.png){width="0.6583333333333333in"
-height="0.14166666666666666in"} The *location*-pin icon is a bit of a
+HD:Users:bh:Desktop:local-var.png](image101.png){width="0.6583333333333333in" height="0.14166666666666666in"} The *location*-pin icon is a bit of a
 pun on a sprite-*local* variable. It's shown only in the palette.
 
 ### Script Variables
 
-![](image102.png){width="5.503472222222222in"
-height="2.3125in"}In the name example above, our project is going to
+![](image102.png){width="5.503472222222222in" height="2.3125in"}In the name example above, our project is going to
 carry on an interaction with the user, and we want to remember their
 name throughout the project. That's a good example of a situation in
 which a *global* variable (the kind you make with the "Make a variable"
@@ -528,32 +469,24 @@ instance separately to decide which ones to rename. Both of these
 operations are possible by right-clicking or control-clicking on a
 variable oval.
 
-![](image107.png){width="1.613888888888889in"
-height="1.507638888888889in"}![](image108.png){width="2.826388888888889in"
-height="1.2569444444444444in"}![](image109.png){width="1.3819444444444444in"
-height="0.7430555555555556in"}If you right-click on an orange oval in a
+![](image107.png){width="1.613888888888889in" height="1.507638888888889in"}![](image108.png){width="2.826388888888889in" height="1.2569444444444444in"}![](image109.png){width="1.3819444444444444in" height="0.7430555555555556in"}If you right-click on an orange oval in a
 context in which the variable is *used,* then you are able to rename
 just that one orange oval:
 
-![](image110.png){width="1.7083333333333333in"
-height="0.8333333333333334in"}![](image111.png){width="1.4930555555555556in"
-height="0.7430555555555556in"}If you right-click on the place where the
+![](image110.png){width="1.7083333333333333in" height="0.8333333333333334in"}![](image111.png){width="1.4930555555555556in" height="0.7430555555555556in"}If you right-click on the place where the
 variable is *defined* (a script variables block, the orange oval for a
 global variable in the Variables palette, or an orange oval that's built
 into a block such as the "i" in for), then you are given two renaming
 options, "rename" and "rename all." If you choose "rename," then the
 name is changed only in that one orange oval, as in the previous case:
 
-![](image112.png){width="1.4930555555555556in"
-height="0.7430555555555556in"}![](image113.png){width="1.7083333333333333in"
-height="0.8333333333333334in"}But if you choose "rename all," then the
+![](image112.png){width="1.4930555555555556in" height="0.7430555555555556in"}![](image113.png){width="1.7083333333333333in" height="0.8333333333333334in"}But if you choose "rename all," then the
 name will be changed throughout the scope of the variable (the script
 for a script variable, or everywhere for a global variable):
 
 ### Transient variables
 
-![](image114.png){width="1.2916666666666667in"
-height="1.0555555555555556in"}So far we've talked about variables with
+![](image114.png){width="1.2916666666666667in" height="1.0555555555555556in"}So far we've talked about variables with
 numeric values, or with short text strings such as someone's name. But
 there's no limit to the amount of information you can put in a variable;
 in Chapter IV you'll see how to use *lists* to collect many values in
@@ -585,9 +518,7 @@ that you can examine the values of variables.
 
 ### The pause button
 
-![](image115.png){width="0.2916666666666667in"
-height="0.16666666666666666in"}![](image116.png){width="0.2916666666666667in"
-height="0.16666666666666666in"}The simplest way to pause a program is
+![](image115.png){width="0.2916666666666667in" height="0.16666666666666666in"}![](image116.png){width="0.2916666666666667in" height="0.16666666666666666in"}The simplest way to pause a program is
 manually, by clicking the pause button in the top right corner of the
 window. While the program is paused, you can run other scripts by
 clicking on them, show variables on stage with the checkbox next to the
@@ -598,8 +529,7 @@ and clicking it again resumes the paused scripts.
 
 ### Breakpoints: the pause all block
 
-![](image117.png){width="0.8194444444444444in"
-height="0.2152777777777778in"}The pause button is great if your program
+![](image117.png){width="0.8194444444444444in" height="0.2152777777777778in"}The pause button is great if your program
 seems to be in an infinite loop, but more often you'll want to set a
 *breakpoint,* a particular point in a script at which you want to pause.
 The block, near the bottom of the Control palette, can be inserted in a
@@ -608,8 +538,7 @@ getting an error message in a particular block, you could use pause all
 just before that block to look at the values of variables just before
 the error happens.
 
-![](image118.png){width="1.8833333333333333in"
-height="0.9111111111111111in"}The pause all block turns bright cyan
+![](image118.png){width="1.8833333333333333in" height="0.9111111111111111in"}The pause all block turns bright cyan
 while paused. Also, during the pause, you can right-click on a running
 script and the menu that appears will give you the option to show
 watchers for temporary variables of the script:
@@ -622,8 +551,7 @@ breakpoint block that lets you set a *conditional* breakpoint, and
 automatically display the relevant variables before pausing. Here's a
 sample use of it:
 
-![](image119.png){width="1.1944444444444444in"
-height="1.3333333333333333in"}(In this contrived example, variable zot
+![](image119.png){width="1.1944444444444444in" height="1.3333333333333333in"}(In this contrived example, variable zot
 comes from outside the script but is relevant to its behavior.) When you
 continue (with the pause button), the temporary variable watchers are
 removed by this breakpoint block before resuming the script. The
@@ -632,10 +560,7 @@ all inside an if.[^2]
 
 ### Visible stepping
 
-![](image121.png){width="0.2916666666666667in"
-height="0.16666666666666666in"}![](image122.png){width="0.5456342957130359in"
-height="0.1527777777777778in"}![](image123.png){width="0.2916666666666667in"
-height="0.16666666666666666in"}Sometimes you're not exactly sure where
+![](image121.png){width="0.2916666666666667in" height="0.16666666666666666in"}![](image122.png){width="0.5456342957130359in" height="0.1527777777777778in"}![](image123.png){width="0.2916666666666667in" height="0.16666666666666666in"}Sometimes you're not exactly sure where
 the error is, or you don't understand how the program got there. To
 understand better, you'd like to watch the program as it runs, at human
 speed rather than at computer speed. You can do this by clicking the
@@ -644,15 +569,13 @@ script is paused. The button will light up ( ) and a speed control
 slider will appear in the toolbar. When you start or continue the
 script, its blocks and input slots will light up cyan one at a time:
 
-![](image124.png){width="7.498611111111111in"
-height="1.15in"}In this simple example, the inputs to the blocks are
+![](image124.png){width="7.498611111111111in" height="1.15in"}In this simple example, the inputs to the blocks are
 constant values, but if an input were a more complicated expression
 involving several reporter blocks, each of those would light up as they
 are called. Note that the input to a block is evaluated before the block
 itself is called, so, for example, the 100 lights up before the move.
 
-![](image134.png){width="0.2916666666666667in"
-height="0.16666666666666666in"}The speed of stepping is controlled by
+![](image134.png){width="0.2916666666666667in" height="0.16666666666666666in"}The speed of stepping is controlled by
 the slider. If you move the slider all the way to the left, the speed is
 zero, the pause button turns into a step button , and the script takes a
 single step each time you push it. The name for this is *single
@@ -684,65 +607,49 @@ block that appears in the palette area.
 
 Here are the primitive blocks that don't exist in Scratch:
 
-![](image135.png){width="1.25in"
-height="0.22916666666666666in"}![](image136.png){width="1.0520833333333333in"
-height="0.22916666666666666in"} reports a new costume consisting of
+![](image135.png){width="1.25in" height="0.22916666666666666in"}![](image136.png){width="1.0520833333333333in" height="0.22916666666666666in"} reports a new costume consisting of
 everything that's drawn on the stage by any sprite. Right-clicking the
 block in the scripting area gives the option to change it to if vector
 logging is enabled. See page 116.
 
-![](image137.png){width="2.0833333333333335in"
-height="0.375in"}Print characters in the given point size on the stage,
+![](image137.png){width="2.0833333333333335in" height="0.375in"}Print characters in the given point size on the stage,
 at the sprite's position and in its direction. The sprite moves to the
 end of the text. (That's not always what you want, but you can save the
 sprite's position before using it, and sometimes you need to know how
 big the text turned out to be, in turtle steps.) If the pen is down, the
 text will be underlined.
 
-![](image138.png){width="1.2006944444444445in"
-height="0.5138888888888888in"}Takes a sprite as input. Like stamp except
+![](image138.png){width="1.2006944444444445in" height="0.5138888888888888in"}Takes a sprite as input. Like stamp except
 that the costume is stamped onto the selected sprite instead of onto the
 stage. (Does nothing if the current sprite doesn't overlap the chosen
 sprite.)
 
-![](image139.png){width="1.1916666666666667in"
-height="0.3388888888888889in"}Takes a sprite as input. Erases from that
+![](image139.png){width="1.1916666666666667in" height="0.3388888888888889in"}Takes a sprite as input. Erases from that
 sprite's costume the area that overlaps with the current sprite's
 costume. (Does not affect the costume in the chosen sprite's wardrobe,
 only the copy currently visible.)
 
-![](image140.png){width="0.5298611111111111in"
-height="0.5in"}![](image141.png){width="0.9895833333333334in"
-height="0.25972222222222224in"}![Icon Description automatically
-generated](image142.png){width="1.3298611111111112in"
-height="0.42986111111111114in"} See page 6. See page 17.
+![](image140.png){width="0.5298611111111111in" height="0.5in"}![](image141.png){width="0.9895833333333334in" height="0.25972222222222224in"}![Icon Description automatically
+generated](image142.png){width="1.3298611111111112in" height="0.42986111111111114in"} See page 6. See page 17.
 
-![](image143.png){width="1.71in"
-height="0.23in"}Reporter version of the if/else primitive command block.
+![](image143.png){width="1.71in" height="0.23in"}Reporter version of the if/else primitive command block.
 Only one of the two branches is evaluated, depending on the value of the
 first input.
 
-![](image144.png){width="1.83in"
-height="0.61in"}Looping block like repeat but with an index variable.
+![](image144.png){width="1.83in" height="0.61in"}Looping block like repeat but with an index variable.
 
-![](image145.png){width="1.3798611111111112in"
-height="0.28958333333333336in"}Declare local variables in a script.
+![](image145.png){width="1.3798611111111112in" height="0.28958333333333336in"}Declare local variables in a script.
 
-![](image146.png){width="0.86in"
-height="0.19in"}![](image147.png){width="0.72in"
-height="0.2in"}![](image148.png){width="1.17in"
-height="0.18in"} See page 91.
+![](image146.png){width="0.86in" height="0.19in"}![](image147.png){width="0.72in" height="0.2in"}![](image148.png){width="1.17in" height="0.18in"} See page 91.
 
-![](image149.png){width="2.738611111111111in"
-height="0.2116819772528434in"}Constant true or false value. See page 12.
+![](image149.png){width="2.738611111111111in" height="0.2116819772528434in"}Constant true or false value. See page 12.
 
 ![](image153.png){width="2.13in" height="0.18in"}
 Create a primitive using JavaScript. (This block is disabled by default;
 the user must check "Javascript extensions" in the setting menu *each
 time* a project is loaded.)
 
-![](image154.png){width="1.6305555555555555in"
-height="1.5756944444444445in"}The at block lets you examine the screen
+![](image154.png){width="1.6305555555555555in" height="1.5756944444444445in"}The at block lets you examine the screen
 pixel directly behind the rotation center of a sprite, the mouse, or an
 arbitrary (x,y) coordinate pair dropped onto the second menu slot. The
 first five items of the left menu let you examine the color visible at
@@ -751,16 +658,11 @@ reports a list of all sprites, including this one, any point of which
 overlaps this sprite's rotation center (behind or in front). This is a
 hyperblock with respect to its second input.
 
-![](image158.png){width="1.6862992125984253in"
-height="1.852853237095363in"}![](image162.png){width="2.4458333333333333in"
-height="1.3263888888888888in"}![](image163.png){width="2.3555555555555556in"
-height="0.3888888888888889in"} Checks the data type of a value.
+![](image158.png){width="1.6862992125984253in" height="1.852853237095363in"}![](image162.png){width="2.4458333333333333in" height="1.3263888888888888in"}![](image163.png){width="2.3555555555555556in" height="0.3888888888888889in"} Checks the data type of a value.
 
-![](image164.png){width="3.398297244094488in"
-height="1.065152012248469in"}
+![](image164.png){width="3.398297244094488in" height="1.065152012248469in"}
 
-![](image166.png){width="2.504166666666667in"
-height="2.23125in"}Turn the text into a list, using the second input as
+![](image166.png){width="2.504166666666667in" height="2.23125in"}Turn the text into a list, using the second input as
 the delimiter between items. The default delimiter, indicated by the
 brown dot in the input slot, is a single space character. "Letter" puts
 each character of the text in its own list item. "Word" puts each word
@@ -771,15 +673,13 @@ return (0xd). "Csv" and "json" split formatted text into lists of lists;
 see page 54. "Blocks" takes a script as the first input, reporting a
 list structure representing the structure of the script. See Chapter XI.
 
-![](image170.png){width="1.479861111111111in"
-height="0.18958333333333333in"}For lists, reports true only if its two
+![](image170.png){width="1.479861111111111in" height="0.18958333333333333in"}For lists, reports true only if its two
 input values are the very same list, so changing an item in one of them
 is visible in the other. (For =, lists that look the same are the same.)
 For text strings, uses case-sensitive comparison, unlike =, which is
 case-independent.
 
-![](image171.png){width="2.867929790026247in"
-height="0.18958333333333333in"}These *hidden* blocks can be found with
+![](image171.png){width="2.867929790026247in" height="0.18958333333333333in"}These *hidden* blocks can be found with
 the relabel option of any dyadic arithmetic block. They're hidden partly
 because writing them in Snap*!* is a good, pretty easy programming
 exercise. Note: the two inputs to atan2 are Δ*x* and Δ*y* in that order,
@@ -788,17 +688,13 @@ because we measure angles clockwise from north. Max and min are
 inputs.
 
 ![Logo Description automatically generated with medium
-confidence](image177.png){width="0.63in"
-height="0.19in"} ![A picture containing text, monitor, screenshot
+confidence](image177.png){width="0.63in" height="0.19in"} ![A picture containing text, monitor, screenshot
 Description automatically
-generated](image178.png){width="0.63in"
-height="0.19in"} ![Logo Description automatically
-generated](image179.png){width="0.63in"
-height="0.19in"} Similarly, these hidden predicates can be found by
+generated](image178.png){width="0.63in" height="0.19in"} ![Logo Description automatically
+generated](image179.png){width="0.63in" height="0.19in"} Similarly, these hidden predicates can be found by
 relabeling the relational predicates.
 
-![](image180.png){width="5.449558180227472in"
-height="0.6166666666666667in"}**Metaprogramming (see Chapter** **XI. ,
+![](image180.png){width="5.449558180227472in" height="0.6166666666666667in"}**Metaprogramming (see Chapter** **XI. ,
 page** **101)**
 
 These blocks support *metaprogramming,* which means manipulating blocks
@@ -809,34 +705,26 @@ capability is new in version 8.0.
 
 **First class list blocks (see Chapter IV, page** **46):**
 
-![](image190.png){width="7.616666666666666in"
-height="2.183333333333333in"}
+![](image190.png){width="7.616666666666666in" height="2.183333333333333in"}
 
 **\
-**![](image224.png){width="0.83in"
-height="0.21in"} ![](image225.png){width="1.43in"
-height="0.21in"} **report the sprite or mouse position as a two-item
+**![](image224.png){width="0.83in" height="0.21in"} ![](image225.png){width="1.43in" height="0.21in"} **report the sprite or mouse position as a two-item
 vector (x,y).**
 
-![](image226.png){width="5.9944444444444445in"
-height="0.325in"}**First class procedure blocks (see Chapter VI, page**
+![](image226.png){width="5.9944444444444445in" height="0.325in"}**First class procedure blocks (see Chapter VI, page**
 **65):**
 
-![](image240.png){width="5.330555555555556in"
-height="0.3451388888888889in"}![](image246.png){width="4.361111111111111in"
-height="0.325in"}**First class continuation blocks (see Chapter X,
+![](image240.png){width="5.330555555555556in" height="0.3451388888888889in"}![](image246.png){width="4.361111111111111in" height="0.325in"}**First class continuation blocks (see Chapter X,
 page** **93):**
 
 **First class sprite, costume, and sound blocks (see Chapter VII, page**
 **73):**
 
-![](image250.png){width="5.88125in"
-height="2.1479166666666667in"}
+![](image250.png){width="5.88125in" height="2.1479166666666667in"}
 
 **Scenes:**
 
-![](image280.png){width="2.38in"
-height="1.32in"}The major new feature of version 7.0 is *scenes:* A
+![](image280.png){width="2.38in" height="1.32in"}The major new feature of version 7.0 is *scenes:* A
 project can include within it sub-projects, called scenes, each with its
 own stage, sprites, scripts, and so on. This block makes another scene
 active, replacing the current one.
@@ -845,9 +733,7 @@ Nothing is automatically shared between scenes: no sprites, no blocks,
 no variables. But the old scene can send a message to the new one, to
 start it running, with optional payload as in broadcast (page 23).
 
-![](image281.png){width="2.54in"
-height="0.31in"}![](image282.png){width="3.129861111111111in"
-height="0.5236111111111111in"}**In particular, you can say**
+![](image281.png){width="2.54in" height="0.31in"}![](image282.png){width="3.129861111111111in" height="0.5236111111111111in"}**In particular, you can say**
 
 > **if the new scene expects to be started with a green flag signal.**
 
@@ -857,16 +743,14 @@ These aren't new blocks but they have a new feature:**
 These accept two-item (x,y) lists as input, and have extended menus
 (also including other sprites):
 
-![](image286.png){width="7.483252405949257in"
-height="1.1298611111111112in"}"Center" means the center of the stage,
+![](image286.png){width="7.483252405949257in" height="1.1298611111111112in"}"Center" means the center of the stage,
 the point at (0,0). "Direction" is in the point in direction sense, the
 direction that would leave this sprite pointing toward another sprite,
 the mouse, or the center. "Ray length" is the distance from the center
 of this sprite to the nearest point on the other sprite, in the current
 direction.
 
-![](image296.png){width="2.571527777777778in"
-height="1.41875in"}The stop block has two extra menu choices. Stop this
+![](image296.png){width="2.571527777777778in" height="1.41875in"}The stop block has two extra menu choices. Stop this
 block is used inside the definition of a custom block to stop just this
 invocation of this custom block and continue the script that called it.
 Stop all but this script is good at the end of a game to stop all the
@@ -874,48 +758,37 @@ game pieces from moving around, but keep running this script to provide
 the user's final score. The last two menu choices add a tab at the
 bottom of the block because the current script can continue after it.
 
-![](image300.png){width="2.4125in"
-height="1.0659722222222223in"}The new "pen trails" option is true if the
+![](image300.png){width="2.4125in" height="1.0659722222222223in"}The new "pen trails" option is true if the
 sprite is touching any drawn or stamped ink on the stage. Also, touching
 will not detect hidden sprites, but a hidden sprite can use it to detect
 visible sprites.
 
-![](image304.png){width="1.0597222222222222in"
-height="0.2798611111111111in"}![](image305.png){width="2.433333333333333in"
-height="0.3in"}The video block has a snap option that takes a snapshot
+![](image304.png){width="1.0597222222222222in" height="0.2798611111111111in"}![](image305.png){width="2.433333333333333in" height="0.3in"}The video block has a snap option that takes a snapshot
 and reports it as a costume. It is hyperized with
-![](image306.png){width="1.0520833333333333in"
-height="0.28125in"}respect to its second input.
+![](image306.png){width="1.0520833333333333in" height="0.28125in"}respect to its second input.
 
-![](image307.png){width="1.4166666666666667in"
-height="3.3319444444444444in"}The "neg" option is a monadic negation
+![](image307.png){width="1.4166666666666667in" height="3.3319444444444444in"}The "neg" option is a monadic negation
 operator, equivalent to . "lg" is log~2~. "id" is the identity function,
 which reports its input. "sign" reports 1 for positive input, 0 for zero
 input, or -1 for negative input.
 
-![](image311.png){width="3.286111111111111in"
-height="0.5513888888888889in"}
+![](image311.png){width="3.286111111111111in" height="0.5513888888888889in"}
 
-![](image313.png){width="3.7604166666666665in"
-height="1.214646762904637in"}
+![](image313.png){width="3.7604166666666665in" height="1.214646762904637in"}
 
-![](image325.png){width="2.213888888888889in"
-height="1.6604166666666667in"}Extended mouse interaction events, sensing
+![](image325.png){width="2.213888888888889in" height="1.6604166666666667in"}Extended mouse interaction events, sensing
 clicking, dragging, hovering, etc. The "stopped" option triggers when
 all scripts are stopped, as with the stop button; it is useful for
 robots whose hardware interface must be told to turn off motors. A when
 I am stopped script can run only for a limited time.
 
-![](image329.png){width="2.879861111111111in"
-height="1.717186132983377in"}
+![](image329.png){width="2.879861111111111in" height="1.717186132983377in"}
 
 Extended broadcast: Click the right arrowhead to direct the message to a
 single sprite or the stage. Click again to add any value as a payload to
 the message.
 
-![](image341.png){width="3.7784722222222222in"
-height="1.8090277777777777in"}![](image351.png){width="1.8194444444444444in"
-height="0.9597222222222223in"}Extended when I receive: Click the right
+![](image341.png){width="3.7784722222222222in" height="1.8090277777777777in"}![](image351.png){width="1.8194444444444444in" height="0.9597222222222223in"}Extended when I receive: Click the right
 arrowhead to expose a script variable (click on it to change its name,
 like any script variable) that will be set to the data of a matching
 broadcast. If the first input is set to "any message," then the data
@@ -923,8 +796,7 @@ variable will be set to the message, if no payload is included with the
 broadcast, or to a two-item list containing the message and the payload.
 
 ![A picture containing text, clipart Description automatically
-generated](image355.png){width="1.68in"
-height="0.38in"} If the input is set to "any key," then a right
+generated](image355.png){width="1.68in" height="0.38in"} If the input is set to "any key," then a right
 arrowhead appears:
 
 > ![](image356.png){width="2.25in"
@@ -938,14 +810,9 @@ arrowhead appears:
 > ![](image358.png){width="3.0924245406824147in"
 > height="0.6895833333333333in"}
 
-![](image362.png){width="5.95in"
-height="0.8798611111111111in"}![](image366.png){width="5.569444444444445in"
-height="1.1in"}![](image370.png){width="6.3694444444444445in"
-height="2.9086690726159232in"}
+![](image362.png){width="5.95in" height="0.8798611111111111in"}![](image366.png){width="5.569444444444445in" height="1.1in"}![](image370.png){width="6.3694444444444445in" height="2.9086690726159232in"}
 
-![](image376.png){width="1.455618985126859in"
-height="2.327904636920385in"}![](image380.png){width="5.874242125984252in"
-height="1.0097222222222222in"}These ask features and more in the Menus
+![](image376.png){width="1.455618985126859in" height="2.327904636920385in"}![](image380.png){width="5.874242125984252in" height="1.0097222222222222in"}These ask features and more in the Menus
 library.
 
 The of block has an extended menu of attributes of a sprite. Position
@@ -959,9 +826,7 @@ right input is a script.
  Libraries
 ---------
 
-![](image384.png){width="0.3194444444444444in"
-height="0.18055555555555555in"}![](image385.png){width="7.401388888888889in"
-height="3.238888888888889in"}There are several collections of useful
+![](image384.png){width="0.3194444444444444in" height="0.18055555555555555in"}![](image385.png){width="7.401388888888889in" height="3.238888888888889in"}There are several collections of useful
 procedures that aren't Snap*!* primitives, but are provided as
 libraries. To include a library in your project, choose the Libraries...
 option in the file ( ) menu.
@@ -974,8 +839,7 @@ needs.
 The libraries and their contents may change, but as of this writing the
 list library has these blocks:
 
-![](image387.png){width="1.8486111111111112in"
-height="2.4923611111111112in"} (The lightning bolt before the name in
+![](image387.png){width="1.8486111111111112in" height="2.4923611111111112in"} (The lightning bolt before the name in
 several of these blocks means that they use compiled HOFs or JavaScript
 primitives to achieve optimal speed. They are officially considered
 experimental.) Remove duplicates from reports a list in which no two
@@ -1003,8 +867,7 @@ reports a compact representation of the list as a text string.
 
 The iteration, composition library has these blocks:
 
-![](image388.png){width="1.6888888888888889in"
-height="4.75in"}Catch and throw provide a nonlocal exit facility. You
+![](image388.png){width="1.6888888888888889in" height="4.75in"}Catch and throw provide a nonlocal exit facility. You
 can drag the tag from a catch block to a throw inside its C-slot, and
 the throw will then jump directly out to the matching catch without
 doing anything in between.
@@ -1024,9 +887,7 @@ on that value, *f*(*f*(*f*(*f*...(*x*)))).
 The compose block takes two functions and reports the function
 *f*(*g*(*x*)).
 
-![](image389.png){width="1.0444444444444445in"
-height="0.16111111111111112in"}![](image390.png){width="3.1527777777777777in"
-height="0.2986111111111111in"}The first three repeat blocks are variants
+![](image389.png){width="1.0444444444444445in" height="0.16111111111111112in"}![](image390.png){width="3.1527777777777777in" height="0.2986111111111111in"}The first three repeat blocks are variants
 of the primitive repeat until block, giving all four combinations of
 whether the first test happens before or after the first repetition, and
 whether the condition must be true or false to continue repeating. The
@@ -1036,16 +897,13 @@ are variations on for: the first allows an explicit step instead of
 using ±1, and the second allows any values, not just numbers; inside the
 script you say
 
-![](image391.png){width="3.4409722222222223in"
-height="1.3611111111111112in"}![](image392.png){width="3.709722222222222in"
-height="1.1715277777777777in"}replacing the grey block in the picture
+![](image391.png){width="3.4409722222222223in" height="1.3611111111111112in"}![](image392.png){width="3.709722222222222in" height="1.1715277777777777in"}replacing the grey block in the picture
 with an expression to give the next desired value for the loop index.
 Pipe allows reordering a nested composition with a left-to-right one:
 
 The stream library has these blocks:
 
-![](image393.png){width="3.161111111111111in"
-height="2.1534722222222222in"}*Streams* are a special kind of list whose
+![](image393.png){width="3.161111111111111in" height="2.1534722222222222in"}*Streams* are a special kind of list whose
 items are not computed until they are needed. This makes certain
 computations more efficient, and also allows the creation of lists with
 infinitely many items, such as a list of all the positive integers. The
@@ -1061,8 +919,7 @@ infinite stream of numbers.
 
 The word and sentence library has these blocks:
 
-![](image394.png){width="1.679861111111111in"
-height="3.6430555555555557in"}This library has the goal of recreating
+![](image394.png){width="1.679861111111111in" height="3.6430555555555557in"}This library has the goal of recreating
 the Logo approach to handling text: A text isn't best viewed as a string
 of characters, but rather as a *sentence*, made of *words,* each of
 which is a string of *letters.* With a few specialized exceptions, this
@@ -1116,8 +973,7 @@ the structure, as in Lisp/Scheme.
 
 The pixels library has one block:
 
-![](image395.png){width="0.7791666666666667in"
-height="0.6298611111111111in"}Costumes are first class data in Snap*!*.
+![](image395.png){width="0.7791666666666667in" height="0.6298611111111111in"}Costumes are first class data in Snap*!*.
 Most of the processing of costume data is done by primitive blocks in
 the Looks category. (See page 79.) This library provides snap, which
 takes a picture using your computer's camera and reports it as a
@@ -1125,8 +981,7 @@ costume.
 
 The bar charts library has these blocks:
 
-![](image396.png){width="3.4305555555555554in"
-height="1.9166666666666667in"}Bar chart takes a table (typically from a
+![](image396.png){width="3.4305555555555554in" height="1.9166666666666667in"}Bar chart takes a table (typically from a
 CSV data set) as input and reports a summary of the table grouped by the
 field in the specified column number. The remaining three inputs are
 used only if the field values are numbers, in which case they can be
@@ -1152,8 +1007,7 @@ Analysis\" library instead.
 
 The multi-branched conditional library has these blocks:
 
-![](image397.png){width="1.85in"
-height="2.479861111111111in"}The catch and throw blocks duplicate ones
+![](image397.png){width="1.85in" height="2.479861111111111in"}The catch and throw blocks duplicate ones
 in the iteration library, and are included because they are used to
 implement the others. The cases block sets up a multi-branch
 conditional, similar to cond in Lisp or switch in C-family languages.
@@ -1170,8 +1024,7 @@ no other branches are tested.
 
 The variadic library has these blocks:
 
-![](image398.png){width="1.1965277777777779in"
-height="0.4166666666666667in"}These are versions of the associative
+![](image398.png){width="1.1965277777777779in" height="0.4166666666666667in"}These are versions of the associative
 operators and, and or that take any number of inputs instead of exactly
 two inputs. As with any variadic input, you can also drop a list of
 values onto the arrowheads instead of providing the inputs one at a time
@@ -1179,8 +1032,7 @@ As of version 8.0, the arithmetic operators sum, product, minimum, and
 maximum are no longer included, because the primitive operators +. ×,
 min, and max are themselves variadic.
 
-![](image399.png){width="7.277083333333334in"
-height="1.1027777777777779in"}The colors and crayons library has these
+![](image399.png){width="7.277083333333334in" height="1.1027777777777779in"}The colors and crayons library has these
 blocks:
 
 It is intended as a more powerful replacement for the primitive set pen
@@ -1193,16 +1045,12 @@ color scale (as in the old days, but better) based on fair hues and
 including shades (darker colors) and grayscale. Another linear scale is
 a curated set of 100 "crayons," explained further on the next page.
 
-![](image409.png){width="3.0590277777777777in"
-height="2.283333333333333in"}![](image413.png){width="1.1333333333333333in"
-height="0.23333333333333334in"}![](image414.png){width="0.95in"
-height="0.225in"}Colors are created by the block (for direct user
+![](image409.png){width="3.0590277777777777in" height="2.283333333333333in"}![](image413.png){width="1.1333333333333333in" height="0.23333333333333334in"}![](image414.png){width="0.95in" height="0.225in"}Colors are created by the block (for direct user
 selection), the color from block to specify a color numerically, or by ,
 which reports the color currently in use by the pen. The from color
 block reports names or numbers associated with a color:
 
-![](image415.png){width="4.833333333333333in"
-height="0.4305555555555556in"}Colors can be created from other colors:
+![](image415.png){width="4.833333333333333in" height="0.4305555555555556in"}Colors can be created from other colors:
 
 The three blocks with pen in their names are improved versions of
 primitive Pen blocks. In principle set pen, for example, could be
@@ -1211,66 +1059,53 @@ color from block, but in fact set pen benefits from knowing how the pen
 color was set in its previous invocation, so it's implemented separately
 from color from. Details in Appendix A.
 
-![](image416.png){width="7.5in"
-height="0.25in"}The recommended way to choose a color is from one of two
+![](image416.png){width="7.5in" height="0.25in"}The recommended way to choose a color is from one of two
 linear scales: the continuous *color numbers* and the discrete
 *crayons:*
 
 ![](image417.png){width="7.5in" height="0.25in"}
 
-![](image418.png){width="4.0in"
-height="0.20833333333333334in"}Color numbers are based on *fair hues,* a
+![](image418.png){width="4.0in" height="0.20833333333333334in"}Color numbers are based on *fair hues,* a
 modification of the spectrum (rainbow) hue scale that devotes less space
 to green and more to orange and yellow, as well as promoting brown to a
 real color. Here is the normal hue scale, for reference:
 
-![](image419.png){width="4.0in"
-height="0.20833333333333334in"}Here is the fair hue scale:
+![](image419.png){width="4.0in" height="0.20833333333333334in"}Here is the fair hue scale:
 
-![](image416.png){width="5.0in"
-height="0.20833333333333334in"}Here is the color number scale:
+![](image416.png){width="5.0in" height="0.20833333333333334in"}Here is the color number scale:
 
 (The picture is wider so that pure spectral colors line up with the fair
 hue scale.)
 
-![](image417.png){width="5.0in"
-height="0.20833333333333334in"}And here are the 100 crayons:
+![](image417.png){width="5.0in" height="0.20833333333333334in"}And here are the 100 crayons:
 
 The color from block, for example, provides different pulldown menus
 depending on which scale you choose:
 
-![](image420.png){width="2.4166666666666665in"
-height="0.34444444444444444in"}![](image421.png){width="7.070138888888889in"
-height="2.8673611111111112in"}You can also type the crayon name: There
+![](image420.png){width="2.4166666666666665in" height="0.34444444444444444in"}![](image421.png){width="7.070138888888889in" height="2.8673611111111112in"}You can also type the crayon name: There
 are many scales:
 
-![](image427.png){width="4.291666666666667in"
-height="1.9097222222222223in"}
+![](image427.png){width="4.291666666666667in" height="1.9097222222222223in"}
 
-![](image428.png){width="6.1506944444444445in"
-height="0.5347222222222222in"} The white slot at the end of some of the
+![](image428.png){width="6.1506944444444445in" height="0.5347222222222222in"} The white slot at the end of some of the
 blocks has two purposes. It can be used to add a transparency to a color
 (0=opaque, 100=transparent):
 
-![](image432.png){width="7.029861111111111in"
-height="0.4305555555555556in"}or it can be expanded to enter three or
+![](image432.png){width="7.029861111111111in" height="0.4305555555555556in"}or it can be expanded to enter three or
 four numbers for a vector directly into the block, so these are
 equivalent:
 
-![](image436.png){width="7.493055555555555in"
-height="0.4305555555555556in"}But note that a transparency number in a
+![](image436.png){width="7.493055555555555in" height="0.4305555555555556in"}But note that a transparency number in a
 four-number RGBA vector is on the scale 255=opaque, 0=transparent, so
 the following are *not* equivalent:
 
 Set pen crayon to provides the equivalent of a box of 100 crayons. They
 are divided into color groups, so the menu in the set pen crayon to
 input slot has submenus. The colors are chosen so that starting
-![](image440.png){width="4.365277777777778in"
-height="0.5152777777777777in"}from crayon 0, change pen crayon by 10
+![](image440.png){width="4.365277777777778in" height="0.5152777777777777in"}from crayon 0, change pen crayon by 10
 rotates through an interesting, basic set of ten colors:
 
-![](image441.png){width="4.355555555555555in"
-height="0.28194444444444444in"}Using change pen crayon by 5 instead
+![](image441.png){width="4.355555555555555in" height="0.28194444444444444in"}Using change pen crayon by 5 instead
 gives ten more colors, for a total of 20:
 
 (Why didn't we use the colors of the 100-crayon Crayola™ box? A few
@@ -1283,15 +1118,12 @@ stage background color. White is crayon 14.) Note that crayon 43 is
 
 See Appendix A (page 139) for more information.
 
-![](image442.png){width="1.51in"
-height="0.9in"}The **crayon library** has only the crayon features,
+![](image442.png){width="1.51in" height="0.9in"}The **crayon library** has only the crayon features,
 without the rest of the colors package.
 
 The catch errors library has these blocks:
 
-![](image443.png){width="0.4305555555555556in"
-height="0.1527777777777778in"}![](image444.png){width="3.0416666666666665in"
-height="1.3958333333333333in"}The safely try block allows you to handle
+![](image443.png){width="0.4305555555555556in" height="0.1527777777777778in"}![](image444.png){width="3.0416666666666665in" height="1.3958333333333333in"}The safely try block allows you to handle
 errors that happen when your program is run within the program, instead
 of stopping the script with a red halo and an obscure error message. The
 block runs the script in its first C-slot. If it finishes without an
@@ -1305,12 +1137,9 @@ reporting is the reporter version of safely try.
 
 The text costumes library has only two blocks:
 
-![](image445.png){width="0.5347222222222222in"
-height="0.20833333333333334in"}![](image446.png){width="1.92in"
-height="0.4507830271216098in"}Costume from text reports a costume that
+![](image445.png){width="0.5347222222222222in" height="0.20833333333333334in"}![](image446.png){width="1.92in" height="0.4507830271216098in"}Costume from text reports a costume that
 can be used with the switch to
-![](image447.png){width="3.2597222222222224in"
-height="0.18958333333333333in"}costume block to make a button:
+![](image447.png){width="3.2597222222222224in" height="0.18958333333333333in"}costume block to make a button:
 
 Costume with background reports a costume made from another costume by
 coloring its background, taking a color input like the set pen color to
@@ -1321,22 +1150,19 @@ costume. These two blocks work together to make even better buttons:
 
 The text to speech library has these blocks:
 
-![](image449.png){width="2.275in"
-height="0.8in"}This library interfaces with a capability in up-to-date
+![](image449.png){width="2.275in" height="0.8in"}This library interfaces with a capability in up-to-date
 browsers, so it might not work for you. It works best if the accent
 matches the text!
 
 The parallelization library contains these blocks:
 
-![](image450.png){width="1.179861111111111in"
-height="1.2597222222222222in"}The two do in parallel blocks take any
+![](image450.png){width="1.179861111111111in" height="1.2597222222222222in"}The two do in parallel blocks take any
 number of scripts as inputs. Those scripts will be run in parallel, like
 ordinary independent scripts in the scripting area. The and wait version
 waits until all of those scripts have finished before continuing the
 script below the block.
 
-![](image451.png){width="1.3777777777777778in"
-height="1.4833333333333334in"}The create variables library has these
+![](image451.png){width="1.3777777777777778in" height="1.4833333333333334in"}The create variables library has these
 blocks:
 
 These blocks allow a program to perform the same operation as the
@@ -1348,9 +1174,7 @@ delete them, and find out if they already exist.
 
 The getters and setters library has these blocks:
 
-![](image452.png){width="1.875in"
-height="1.05in"}![](image453.png){width="0.2916666666666667in"
-height="0.16666666666666666in"}The purpose of this library is to allow
+![](image452.png){width="1.875in" height="1.05in"}![](image453.png){width="0.2916666666666667in" height="0.16666666666666666in"}The purpose of this library is to allow
 program access to the settings controlled by user interface elements,
 such as the settings menu. The setting block reports a setting; the set
 flag block sets yes-or-no options that have checkboxes in the user
@@ -1366,8 +1190,7 @@ extensions to use it.
 
 The bignums, rationals, complex \#s library has these blocks:
 
-![](image454.png){width="1.875in"
-height="1.55in"}The USE BIGNUMS block takes a Boolean input, to turn the
+![](image454.png){width="1.875in" height="1.55in"}The USE BIGNUMS block takes a Boolean input, to turn the
 infinite precision feature on or off. When on, all of the arithmetic
 operators are redefined to accept and report integers of any number of
 digits (limited only by the memory of your computer) and, in fact, the
@@ -1376,14 +1199,12 @@ numbers. The Scheme number block has a list of functions applicable to
 Scheme numbers, including subtype predicates such as rational? and
 infinite?, and selectors such as numerator and real-part.
 
-![](image455.png){width="4.836805555555555in"
-height="0.4166666666666667in"}The ! block computes the factorial
+![](image455.png){width="4.836805555555555in" height="0.4166666666666667in"}The ! block computes the factorial
 function, useful to test whether bignums are turned on. Without bignums:
 
 With bignums:
 
-![](image459.png){width="7.527083333333334in"
-height="0.36041666666666666in"}The 375-digit value of 200! isn't
+![](image459.png){width="7.527083333333334in" height="0.36041666666666666in"}The 375-digit value of 200! isn't
 readable on this page, but if you right-click on the block and choose
 "result pic," you can open the resulting picture in a browser window and
 scroll through it. (These values end with a bunch of zero digits. That's
@@ -1394,8 +1215,7 @@ type.
 
 The strings, multi-line input library provides these blocks:
 
-![](image463.png){width="3.9375in"
-height="2.0416666666666665in"}All of these could be written in Snap*!*
+![](image463.png){width="3.9375in" height="2.0416666666666665in"}All of these could be written in Snap*!*
 itself, but these are implemented using the corresponding JavaScript
 library functions directly, so they run fast. They can be used, for
 example, in scraping data from a web site. The command use
@@ -1405,13 +1225,11 @@ characters.
 
 The animation library has these blocks:
 
-![](image464.png){width="4.0125in"
-height="2.33125in"}Despite the name, this isn't only about graphics; you
+![](image464.png){width="4.0125in" height="2.33125in"}Despite the name, this isn't only about graphics; you
 can animate the values of a variable, or anything else that's expressed
 numerically.
 
-![](image465.png){width="0.9652777777777778in"
-height="0.19444444444444445in"}The central idea of this library is an
+![](image465.png){width="0.9652777777777778in" height="0.19444444444444445in"}The central idea of this library is an
 *easing function,* a reporter whose domain and range are real numbers
 between 0 and 1 inclusive. The function represents what fraction of the
 "distance" (in quotes because it might be any numeric value, such as
@@ -1423,8 +1241,7 @@ and accelerating. (Note that, since it's a requirement that *f*(0)=0 and
 similarly for other categories.) The block reports some of the common
 easing functions.
 
-![](image466.png){width="4.631944444444445in"
-height="0.6319444444444444in"}The two Motion blocks in this library
+![](image466.png){width="4.631944444444445in" height="0.6319444444444444in"}The two Motion blocks in this library
 animate a sprite. Glide always animates the sprite's motion. Animate's
 first pulldown menu input allows you to animate horizontal or vertical
 motion, but will also animate the sprite's direction or size. The
@@ -1432,23 +1249,20 @@ animate block in Control lets you animate any numeric quantity with any
 easing function. The getter and setter inputs are best explained by
 example:
 
-![](image467.png){width="3.4097222222222223in"
-height="0.2569444444444444in"}is equivalent to
+![](image467.png){width="3.4097222222222223in" height="0.2569444444444444in"}is equivalent to
 
 The other blocks in the library are helpers for these four.
 
 The serial ports library contains these blocks:
 
-![](image468.png){width="1.7326388888888888in"
-height="1.0347222222222223in"}It is used to allow hardware developers to
+![](image468.png){width="1.7326388888888888in" height="1.0347222222222223in"}It is used to allow hardware developers to
 control devices such as robots that are
 
 connected to your computer via a serial port.
 
 The frequency distribution analysis library has these blocks:
 
-![](image469.png){width="4.027083333333334in"
-height="2.3958333333333335in"}
+![](image469.png){width="4.027083333333334in" height="2.3958333333333335in"}
 
 This is a collection of tools for analyzing large data sets and plotting
 histograms of how often some value is found in some column of the table
@@ -1460,8 +1274,7 @@ http://tinyurl.com/jens-data
 
 The audio comp library includes these blocks:
 
-![](image470.png){width="3.5416666666666665in"
-height="2.98125in"}This library takes a sound, one that you record or
+![](image470.png){width="3.5416666666666665in" height="2.98125in"}This library takes a sound, one that you record or
 one from our collection of sounds, and manipulates it by systematically
 changing the intensity of the samples in the sound and by changing the
 sampling rate at which the sound is reproduced. Many of the blocks are
@@ -1471,8 +1284,7 @@ sine wave as a list of samples.
 
 The web services library has these blocks:
 
-![](image471.png){width="3.4097222222222223in"
-height="1.1041666666666667in"}The first block is a generalization of the
+![](image471.png){width="3.4097222222222223in" height="1.1041666666666667in"}The first block is a generalization of the
 primitive url block, allowing more control over the various options in
 web requests: GET, POST, PUT, and DELETE, and fine control over the
 content of the message sent to the server. Current location reports your
@@ -1483,15 +1295,13 @@ just a constructor for an abstract data type used with the other blocks
 
 The database library contains these blocks:
 
-![](image472.png){width="2.263888888888889in"
-height="1.2222222222222223in"}It is used to keep data that persist from
+![](image472.png){width="2.263888888888889in" height="1.2222222222222223in"}It is used to keep data that persist from
 one Snap*!* session to the next, if you use the same browser and the
 same login.
 
 The world map library has these blocks:
 
-![](image473.png){width="2.442361111111111in"
-height="3.4027777777777777in"}Using any of the command blocks puts a map
+![](image473.png){width="2.442361111111111in" height="3.4027777777777777in"}Using any of the command blocks puts a map
 on the screen, in a layer in front of the stage's background but behind
 the pen trails layer (which is in turn behind all the sprites). The
 first block asks your browser for your current physical location, for
@@ -1513,16 +1323,13 @@ allows things like satellite pictures.
 
 The APL primitives library contains these blocks:
 
-![](image474.png){width="5.733333333333333in"
-height="1.1133333333333333in"}
+![](image474.png){width="5.733333333333333in" height="1.1133333333333333in"}
 
-![](image475.png){width="6.453333333333333in"
-height="2.04in"}
+![](image475.png){width="6.453333333333333in" height="2.04in"}
 
 For more information about APL, see Appendix B (page 148).
 
-The ![](image476.png){width="1.2in"
-height="0.4895833333333333in"}**list comprehension library** has one
+The ![](image476.png){width="1.2in" height="0.4895833333333333in"}**list comprehension library** has one
 block, zip. Its first input is a function of two inputs. The two
 Any-type inputs are deep lists (lists of lists of...) interpreted as
 trees, and the function is called with every possible combination of a
@@ -1533,8 +1340,7 @@ of each tree to be vectors (one-dimensional lists), matrices
 dimension for each tree, so the function input might be called with a
 vector from the first tree and an atom from the second tree.
 
-![](image477.png){width="0.89in"
-height="1.51in"}The **bitwise library** provides bitwise logic
+![](image477.png){width="0.89in" height="1.51in"}The **bitwise library** provides bitwise logic
 functions; each bit of the reported value is the result of applying the
 corresponding Boolean function to the corresponding bits of the
 input(s). The Boolean functions are not for ¬, and for ∧, or for ∨, and
@@ -1545,15 +1351,13 @@ from the left), and \>\>\> is logical right shift (shifting in zero bits
 from the left). If you don't already know what these mean, find a
 tutorial online.
 
-![](image478.png){width="6.528977471566054in"
-height="1.6097222222222223in"}
+![](image478.png){width="6.528977471566054in" height="1.6097222222222223in"}
 
 The **MQTT library** supports the Message Queuing Telemetry Transport
 protocol, for connecting with IOT devices. See <https://mqtt.org/> for
 more information.
 
-![](image482.png){width="4.986805555555556in"
-height="2.8895833333333334in"}The **Signada library** allows you to
+![](image482.png){width="4.986805555555556in" height="2.8895833333333334in"}The **Signada library** allows you to
 control a microBit or similar device that works with the Signada
 MicroBlocks project.
 
@@ -1583,8 +1387,7 @@ while on an airplane or otherwise not on the net. Also, cloud projects
 are limited in size, but you can have all the costumes and sounds you
 like if you save locally. This is why we have multiple ways to save.
 
-![](image487.png){width="3.548611111111111in"
-height="2.576388888888889in"}In either case, if you choose "Save as..."
+![](image487.png){width="3.548611111111111in" height="2.576388888888889in"}In either case, if you choose "Save as..."
 from the File menu. You'll see something like this:
 
 (If you are not logged in to your Snap*!* cloud account, Computer will
@@ -1604,8 +1407,7 @@ choose "Export project" from the File menu.
 ![](image488.png){width="1.2340277777777777in" height="2.329861111111111in"}Creating a Cloud Account
 --------------------------------------------------------------------------------------------------------------------------
 
-![](image489.png){width="0.2916666666666667in"
-height="0.16666666666666666in"}The other possibility is to save your
+![](image489.png){width="0.2916666666666667in" height="0.16666666666666666in"}The other possibility is to save your
 project "in the cloud," at the Snap*!* web site. In order to do this,
 you need an account with us. Click on the Cloud button ( ) in the Tool
 Bar. Choose the "Signup..." option. This will show you a window that
@@ -1652,8 +1454,7 @@ Saving to the Cloud
 Once you've created your account, you can log into it using the
 "Login..." option from the Cloud menu:
 
-![](image490.png){width="1.6875in"
-height="2.0277777777777777in"}Use the user name and password that you
+![](image490.png){width="1.6875in" height="2.0277777777777777in"}Use the user name and password that you
 set up earlier. If you check the "Stay signed in" box, then you will be
 logged in automatically the next time you run Snap*!* from the same
 browser on the same computer. Check the box if you're using your own
@@ -1703,8 +1504,7 @@ the Computer and Cloud options.
 If you lose your project, do this first!
 ----------------------------------------
 
-![](image384.png){width="0.3194444444444444in"
-height="0.18055555555555555in"}If you are still in **Snap*!*** and
+![](image384.png){width="0.3194444444444444in" height="0.18055555555555555in"}If you are still in **Snap*!*** and
 realize that you've loaded another project without saving the one you
 were working on: ***Don't edit the new project.*** From the File menu
 choose the Restore unsaved project option.
@@ -1728,8 +1528,7 @@ To help you remember to save your projects, when you've edited the
 project and haven't yet saved it, Snap*!* displays a pencil icon to the
 left of the project name on the toolbar at the top of the window:
 
-![](image491.png){width="6.29671697287839in"
-height="0.5138888888888888in"}
+![](image491.png){width="6.29671697287839in" height="0.5138888888888888in"}
 
 Private and Public Projects
 ---------------------------
@@ -1755,14 +1554,12 @@ has a partial custom block capability.
 Simple Blocks
 -------------
 
-![](image495.png){width="7.5in"
-height="2.7152777777777777in"}In every palette, at or near the bottom,
+![](image495.png){width="7.5in" height="2.7152777777777777in"}In every palette, at or near the bottom,
 is a button labeled "Make a block." Also, floating near the top of the
 palette is a plus sign. Also, the menu you get by right-clicking on the
 background of the scripting area has a "make a block" option.
 
-![](image501.png){width="2.2708333333333335in"
-height="2.3472222222222223in"}Clicking any of these will display a
+![](image501.png){width="2.2708333333333335in" height="2.3472222222222223in"}Clicking any of these will display a
 dialog window in which you choose the block's name, shape, and
 palette/color. You also decide whether the block will be available to
 all sprites, or only to the current sprite and its children.
@@ -1789,17 +1586,14 @@ has a picture of the block you're building. This hat block is called the
 *prototype* of your custom block.[^3] You drag blocks under the hat to
 program your custom block, then click OK:
 
-![](image502.png){width="4.210937226596675in"
-height="1.3364041994750657in"}
+![](image502.png){width="4.210937226596675in" height="1.3364041994750657in"}
 
-![](image503.png){width="4.615555555555556in"
-height="3.647777777777778in"}
+![](image503.png){width="4.615555555555556in" height="3.647777777777778in"}
 
 Your block appears at the bottom of the Motion palette. Here's the block
 and the result of using it:
 
-![](image504.png){width="4.242361111111111in"
-height="1.4166666666666667in"}
+![](image504.png){width="4.242361111111111in" height="1.4166666666666667in"}
 
 ###  Custom Blocks with Inputs
 
@@ -1808,11 +1602,9 @@ Control-click or right-click on the block, choose "edit," and the Block
 Editor will open. Notice the plus signs before and after the word square
 in the prototype block. If you hover the mouse over one, it lights up:
 
-![](image508.png){width="3.4444444444444446in"
-height="2.7222222222222223in"}
+![](image508.png){width="3.4444444444444446in" height="2.7222222222222223in"}
 
-![](image509.png){width="2.5833333333333335in"
-height="1.6041666666666667in"}Click on the plus on the right. You will
+![](image509.png){width="2.5833333333333335in" height="1.6041666666666667in"}Click on the plus on the right. You will
 then see the "input name" dialog:
 
 Type in the name "size" and click OK. There are other options in this
@@ -1822,23 +1614,19 @@ steps" block. Or you can select a more extensive dialog with a lot of
 options about your input name. But we'll leave that for later. When you
 click OK, the new input appears in the block prototype:
 
-![](image510.png){width="1.4791666666666667in"
-height="1.4895833333333333in"}You can now drag the orange variable down
+![](image510.png){width="1.4791666666666667in" height="1.4895833333333333in"}You can now drag the orange variable down
 into the script, then click okay:
 
-![](image511.png){width="1.474724409448819in"
-height="1.495495406824147in"}
+![](image511.png){width="1.474724409448819in" height="1.495495406824147in"}
 
-![](image512.png){width="0.6979166666666666in"
-height="0.25in"}Your block now appears in the Motion palette with an
+![](image512.png){width="0.6979166666666666in" height="0.25in"}Your block now appears in the Motion palette with an
 input box: You can draw any size square by entering the length of its
 side in the box and running the block as usual, by clicking it or by
 putting it in a script.
 
 ### Editing Block Properties
 
-![](image513.png){width="0.9993055555555556in"
-height="0.7604166666666666in"}What if you change your mind about a
+![](image513.png){width="0.9993055555555556in" height="0.7604166666666666in"}What if you change your mind about a
 block's color (palette) or shape (command, reporter, predicate)? If you
 click in the hat block at the top that holds the prototype, but not in
 the prototype itself, you'll see a window in which you can change the
@@ -1874,10 +1662,7 @@ same thing as regular clicking, as described earlier.
 Recursion
 ---------
 
-![](image514.png){width="2.9652777777777777in"
-height="2.3631944444444444in"}![](image515.png){width="1.9583333333333333in"
-height="2.3541666666666665in"}![](image516.png){width="1.4236111111111112in"
-height="0.9118055555555555in"}Since the new custom block appears in its
+![](image514.png){width="2.9652777777777777in" height="2.3631944444444444in"}![](image515.png){width="1.9583333333333333in" height="2.3541666666666665in"}![](image516.png){width="1.4236111111111112in" height="0.9118055555555555in"}Since the new custom block appears in its
 palette as soon as you *start* editing it, you can write recursive
 blocks (blocks that call themselves) by dragging the block into its own
 definition:
@@ -1901,8 +1686,7 @@ hires Theo to make another tree of size 70, depth 5. Tom in turn hires
 Tammy and Tallulah, and so on. Each little person has his or her own
 local variables size and depth, each with different values.
 
-![](image517.png){width="4.8380686789151355in"
-height="1.5833333333333333in"}You can also write recursive reporters,
+![](image517.png){width="4.8380686789151355in" height="1.5833333333333333in"}You can also write recursive reporters,
 like this block to compute the factorial function:
 
 Note the use of the report block. When a reporter block uses this block,
@@ -1917,8 +1701,7 @@ early, for command blocks. (By contrast, the stop this script block
 stops not only the current block invocation, but also the entire
 toplevel script that called it.)
 
-![](image521.png){width="4.291666666666667in"
-height="0.8645833333333334in"}Here's a slightly more compact way to
+![](image521.png){width="4.291666666666667in" height="0.8645833333333334in"}Here's a slightly more compact way to
 write the factorial function:
 
 For more on recursion, see *Thinking Recursively* by Eric Roberts. (The
@@ -1939,8 +1722,7 @@ game. Such a collection of blocks is called a *block library.*
 *To create a block library, choose "Export blocks..." from the File
 menu. You then see a window like this:
 
-![](image522.png){width="2.0215277777777776in"
-height="2.7222222222222223in"}The window shows all of your global custom
+![](image522.png){width="2.0215277777777776in" height="2.7222222222222223in"}The window shows all of your global custom
 blocks. You can uncheck some of the checkboxes to select exactly which
 blocks you want to include in your library. (You can right-click or
 control-click on the export window for a menu that lets you check or
@@ -2007,8 +1789,7 @@ able to use it fully and freely. We believe that this principle avoids
 the need for many special-case tools, which can instead be written by
 Snap*!* users themselves.
 
-![](image523.png){width="2.839583333333333in"
-height="0.41597222222222224in"}Note that it's a data *type* that's ﬁrst
+![](image523.png){width="2.839583333333333in" height="0.41597222222222224in"}Note that it's a data *type* that's ﬁrst
 class, not an individual value. Don't think, for example, that some
 lists are ﬁrst class, while others aren't. In Snap*!*, lists are ﬁrst
 class, period.
@@ -2020,28 +1801,22 @@ At the heart of providing first class lists is the ability to make an
 "anonymous" list---to make a list without simultaneously giving it a
 name. The list reporter block does that.
 
-![](image524.png){width="4.2in"
-height="1.5694444444444444in"}At the right end of the block are two
+![](image524.png){width="4.2in" height="1.5694444444444444in"}At the right end of the block are two
 left-and-right arrowheads. Clicking on these changes the number of
 inputs to list, i.e., the number of elements in the list you are
 building. Shift-clicking changes by three at a time.
 
-![](image534.png){width="1.5034722222222223in"
-height="1.8125in"}![](image535.png){width="2.24375in"
-height="0.3215277777777778in"}You can use this block as input to many
+![](image534.png){width="1.5034722222222223in" height="1.8125in"}![](image535.png){width="2.24375in" height="0.3215277777777778in"}You can use this block as input to many
 other blocks:
 
-![](image536.png){width="3.09375in"
-height="0.7708333333333334in"}![](image537.png){width="1.8229166666666667in"
-height="0.2916666666666667in"}Snap*!* does not have a "Make a list"
+![](image536.png){width="3.09375in" height="0.7708333333333334in"}![](image537.png){width="1.8229166666666667in" height="0.2916666666666667in"}Snap*!* does not have a "Make a list"
 button like the one in Scratch. If you want a global "named list," make
 a global variable and use the set block to put a list into the variable.
 
 Lists of Lists
 --------------
 
-![](image538.png){width="5.888888888888889in"
-height="1.0486111111111112in"}Lists can be inserted as elements in
+![](image538.png){width="5.888888888888889in" height="1.0486111111111112in"}Lists can be inserted as elements in
 larger lists. We can easily create ad hoc structures as needed:
 
 Notice that this list is presented in a different format from the "She
@@ -2049,8 +1824,7 @@ Loves You" list above. A two-dimensional list is called a *table* and is
 by default shown in *table view.* We'll have more to say about this
 later.
 
-![](image539.png){width="7.343055555555556in"
-height="2.78125in"}We can also build any classic computer science data
+![](image539.png){width="7.343055555555556in" height="2.78125in"}We can also build any classic computer science data
 structure out of lists of lists, by defining *constructors* (blocks to
 make an instance of the structure), *selectors* (blocks to pull out a
 piece of the structure), and *mutators* (blocks to change the contents
@@ -2061,8 +1835,7 @@ shown but the ones for left and right children are analogous.
  Functional and Imperative List Programming
 ------------------------------------------
 
-![](image543.png){width="2.1041666666666665in"
-height="1.09375in"} There are two ways to create a list inside a
+![](image543.png){width="2.1041666666666665in" height="1.09375in"} There are two ways to create a list inside a
 program. Scratch users will be familiar with the *imperative*
 programming style, which is based on a set of command blocks that modify
 a list:
@@ -2071,8 +1844,7 @@ As an example, here are two blocks that take a list of numbers as input,
 and report a new list containing only the even numbers from the original
 list:[^4]
 
-![](image551.png){width="5.892361111111111in"
-height="2.28125in"}
+![](image551.png){width="5.892361111111111in" height="2.28125in"}
 
 or
 
@@ -2081,8 +1853,7 @@ list in it, then go through the items of the input list using the add
 **...** to (result) block to modify the result list, adding one item at
 a time, and finally report the result.
 
-![](image195.png){width="1.5625in"
-height="0.8104166666666667in"}*Functional* programming is a different
+![](image195.png){width="1.5625in" height="0.8104166666666667in"}*Functional* programming is a different
 approach that is becoming important in "real world" programming because
 of parallelism, i.e., the fact that different processors can be
 manipulating the same data at the same time. This makes the use of
@@ -2101,8 +1872,7 @@ the original list.* A nonempty list is processed by dividing it into its
 first item (item 1 of) and all the rest of the items (all but first of),
 which are handled through a recursive call:
 
-![](image555.png){width="4.75in"
-height="2.240972222222222in"}Snap*!* uses two different internal
+![](image555.png){width="4.75in" height="2.240972222222222in"}Snap*!* uses two different internal
 representations of lists, one (dynamic array) for imperative programming
 and the other (linked list) for functional programming. Each
 representation makes the corresponding built-in list blocks (commands or
@@ -2119,8 +1889,7 @@ way.
 
 There's an even easier way to select the even numbers from a list:
 
-![](image557.png){width="2.375in"
-height="0.2777777777777778in"}The keep block takes a Predicate
+![](image557.png){width="2.375in" height="0.2777777777777778in"}The keep block takes a Predicate
 expression as its first input, and a list as its second input. It
 reports a list containing those elements of the input list for which the
 predicate returns true. Notice two things about the predicate input:
@@ -2131,8 +1900,7 @@ supposed to remind you of the "box" notation for variables in elementary
 school: ☐+3=7.) The grey ring is part of the keep block as it appears in
 the palette:
 
-![](image558.png){width="4.1402777777777775in"
-height="0.6354166666666666in"}What the ring means is that this input is
+![](image558.png){width="4.1402777777777775in" height="0.6354166666666666in"}What the ring means is that this input is
 a block (a predicate block, in this case, because the interior of the
 ring is a hexagon), rather than the value reported by that block. Here's
 the difference:
@@ -2143,13 +1911,10 @@ evaluate the = predicate repeatedly, once for each list item. A block
 that takes another block as input is called a *higher order* block (or
 higher order procedure, or higher order function).
 
-![](image562.png){width="2.39in"
-height="0.22in"}![](image563.png){width="1.6944444444444444in"
-height="0.9930555555555556in"} Snap*!* provides four higher order
+![](image562.png){width="2.39in" height="0.22in"}![](image563.png){width="1.6944444444444444in" height="0.9930555555555556in"} Snap*!* provides four higher order
 function blocks for operating on lists:
 
-![](image571.png){width="7.5in"
-height="1.7138888888888888in"}You've already seen keep. Find first is
+![](image571.png){width="7.5in" height="1.7138888888888888in"}You've already seen keep. Find first is
 similar, but it reports just the first item that satisfies the
 predicate, not a list of all the matching items. It's equivalent to but
 faster because it
@@ -2157,11 +1922,9 @@ faster because it
 stops looking as soon as it finds a match. If there are no matching
 items, it returns an empty string.
 
-![](image572.png){width="7.589583333333334in"
-height="1.0791666666666666in"}
+![](image572.png){width="7.589583333333334in" height="1.0791666666666666in"}
 
-![](image574.png){width="7.486111111111111in"
-height="1.0020833333333334in"}These examples use small lists, to fit the
+![](image574.png){width="7.486111111111111in" height="1.0020833333333334in"}These examples use small lists, to fit the
 page, but the higher order blocks work for any size list.
 
 An *empty* gray ring represents the *identity function,* which just
@@ -2171,12 +1934,10 @@ lists, the result is a new toplevel list whose items are the same
 (uncopied) lists that are items of the toplevel input list). To make a
 deep copy of a list (that is, one in which all the sublists, sublists of
 sublists, etc. are copied), use the list as input to the ![Macintosh
-HD:Users:bh:Desktop:id.png](image576.png){width="0.7430555555555556in"
-height="0.19444444444444445in"} block (one of the variants of the sqrt
+HD:Users:bh:Desktop:id.png](image576.png){width="0.7430555555555556in" height="0.19444444444444445in"} block (one of the variants of the sqrt
 of block). This works because id of is a hyperblock (page 55).
 
-![](image313.png){width="5.5800503062117235in"
-height="0.4623108048993876in"}The third higher order block, combine,
+![](image313.png){width="5.5800503062117235in" height="0.4623108048993876in"}The third higher order block, combine,
 computes a single result from *all* the items of a list, using a
 *two-input* reporter as its second input. In practice, there are only a
 few blocks you'll ever use with combine:
@@ -2186,15 +1947,12 @@ them into one word, combine them into a sentence (with spaces between
 items), see if all items of a list of Booleans are true, see if any of
 the items is true, find the smallest, or find the largest.
 
-![](image585.png){width="6.279166666666667in"
-height="0.37569444444444444in"}![](image586.png){width="3.8680555555555554in"
-height="0.3451388888888889in"}Why + but not −? It only makes sense to
+![](image585.png){width="6.279166666666667in" height="0.37569444444444444in"}![](image586.png){width="3.8680555555555554in" height="0.3451388888888889in"}Why + but not −? It only makes sense to
 combine list items using an *associative* function: one that doesn't
 care in what order the items are combined (left to right or right to
 left). (2+3)+4 = 2+(3+4), but (2−3)−4 ≠ 2−(3−4).
 
-![](image587.png){width="5.808333333333334in"
-height="1.1909722222222223in"}The functions map, keep, and find first
+![](image587.png){width="5.808333333333334in" height="1.1909722222222223in"}The functions map, keep, and find first
 have an advanced mode with rarely-used features: If their function input
 is given explicit input names (by clicking the arrowhead at the right
 end of the gray ring; see page 69), then it will be called for each list
@@ -2207,8 +1965,7 @@ more than three input names can be used in this contex
 Table View vs. List View
 ------------------------
 
-![](image588.png){width="3.0993055555555555in"
-height="2.513888888888889in"}We mentioned earlier that there are two
+![](image588.png){width="3.0993055555555555in" height="2.513888888888889in"}We mentioned earlier that there are two
 ways of representing lists visually. For one-dimensional lists (lists
 whose items are not themselves lists) the visual differences are small:
 
@@ -2226,8 +1983,7 @@ slow. As a partial workaround, the list view can only contain 100 items
 at a time; the downward-pointing arrowhead opens a menu in which you can
 choose which 100 to display.
 
-![](image592.png){width="1.2555555555555555in"
-height="0.9125in"}
+![](image592.png){width="1.2555555555555555in" height="0.9125in"}
 
 By contrast, because it doesn't allow direct editing, the *table view*
 watcher can hold hundreds of thousands of items and still scroll through
@@ -2245,8 +2001,7 @@ make *another* offstage watcher, which is useful if you want to watch
 two parts of the list at once by having each watcher scrolled to a
 different place.
 
-![](image538.png){width="5.888888888888889in"
-height="1.0486111111111112in"}Table view is the default if the list has
+![](image538.png){width="5.888888888888889in" height="1.0486111111111112in"}Table view is the default if the list has
 more than 100 items, or if any of the first ten items of the list are
 lists, in which case it makes a very different-looking two-dimensional
 picture:
@@ -2298,18 +2053,15 @@ to say the row first or the column first. ("Cell B4" is the same as
 program, you have to say item 2 of, not item B of. So it's useful to be
 able to find out a column number by hovering over its letter.
 
-![](image596.png){width="3.817361111111111in"
-height="0.8111111111111111in"}Any value that can appear in a program can
+![](image596.png){width="3.817361111111111in" height="0.8111111111111111in"}Any value that can appear in a program can
 be displayed in a table cell:
 
-![](image597.png){width="4.336805555555555in"
-height="2.104861111111111in"}This display shows that the standard cell
+![](image597.png){width="4.336805555555555in" height="2.104861111111111in"}This display shows that the standard cell
 dimensions may not be enough for large value images. By expanding the
 entire speech balloon and then the second column and all the rows, we
 can make the result fit:
 
-![](image601.png){width="3.3409722222222222in"
-height="0.5770833333333333in"}But we make an exception for cases in
+![](image601.png){width="3.3409722222222222in" height="0.5770833333333333in"}But we make an exception for cases in
 which the value in a cell is a list (so that the entire table is
 three-dimensional). Because lists are visually very big, we don't try to
 fit the entire value in a cell:
@@ -2320,8 +2072,7 @@ inner sublists: You can switch to list view, or you can double-click on
 a list icon in the table to open a dialog box showing just that
 sub-sub-list in table view.
 
-![](image602.png){width="3.3541666666666665in"
-height="0.6944444444444444in"}One last detail: If the first item of a
+![](image602.png){width="3.3541666666666665in" height="0.6944444444444444in"}One last detail: If the first item of a
 list is a list (so table view is used), but a later item *isn't* a list,
 that later item will be displayed on a red background, like an item of a
 single-column list:
@@ -2340,8 +2091,7 @@ extension .csv in its filename.
 A CSV file has one line per table row, with the fields separated by
 commas within a row:
 
-![](image603.png){width="5.0in"
-height="2.6743055555555557in"}John,Lennon,rhythm guitar
+![](image603.png){width="5.0in" height="2.6743055555555557in"}John,Lennon,rhythm guitar
 
 Paul,McCartney,bass guitar
 
@@ -2353,8 +2103,7 @@ Here's what the corresponding table looks like:
 
 Here's how to read a spreadsheet into Snap*!*:
 
-![](image607.png){width="1.2083333333333333in"
-height="0.2708333333333333in"}1. Make a variable with a watcher on
+![](image607.png){width="1.2083333333333333in" height="0.2708333333333333in"}1. Make a variable with a watcher on
 stage:
 
 2\. Right-click on the watcher and choose the "import" option. (If the
@@ -2385,8 +2134,7 @@ lists. If you have a list of lists of lists, Snap*!* will instead export
 your list as a JSON (JavaScript Object Notation) file. I modified my
 list:
 
-![](image608.png){width="6.333333333333333in"
-height="0.4479166666666667in"}and then exported again, getting this
+![](image608.png){width="6.333333333333333in" height="0.4479166666666667in"}and then exported again, getting this
 file:
 
 \[\[\"John\",\"Lennon\",\"rhythm
@@ -2412,25 +2160,20 @@ The major new feature in Snap*!* 6.0 is that the domain and range of
 most scalar function blocks is extended to multi-dimensional lists, with
 the underlying scalar function applied termwise:
 
-![](image609.png){width="2.5625in"
-height="0.9166666666666666in"}![Macintosh
-HD:Users:bh:Desktop:vector-vector.png](image610.png){width="3.3402777777777777in"
-height="0.9166666666666666in"}
+![](image609.png){width="2.5625in" height="0.9166666666666666in"}![Macintosh
+HD:Users:bh:Desktop:vector-vector.png](image610.png){width="3.3402777777777777in" height="0.9166666666666666in"}
 
 ![Macintosh
-HD:Users:bh:Desktop:matrix-matrix.png](image611.png){width="4.944444444444445in"
-height="0.6944444444444444in"}
+HD:Users:bh:Desktop:matrix-matrix.png](image611.png){width="4.944444444444445in" height="0.6944444444444444in"}
 
-![](image612.png){width="5.743055555555555in"
-height="0.6944444444444444in"}Mathematicians, note in the last example
+![](image612.png){width="5.743055555555555in" height="0.6944444444444444in"}Mathematicians, note in the last example
 above that the result is just a termwise application of the underlying
 function (7×3, 8×5, etc.), *not* matrix multiplication. See Appendix B
 for that. For a dyadic (two-input) function, if the lengths don't agree,
 the length of the result (in each dimension) is the length of the
 shorter input:
 
-![](image613.png){width="6.791666666666667in"
-height="0.8680555555555556in"}However, if the *number of dimensions*
+![](image613.png){width="6.791666666666667in" height="0.8680555555555556in"}However, if the *number of dimensions*
 differs in the two inputs, then the number of dimensions in the result
 agrees with the *higher-*dimensional input; the lower-dimensional one is
 used repeatedly in the missing dimension(s):
@@ -2438,22 +2181,16 @@ used repeatedly in the missing dimension(s):
 (7×6. 8×10, 1×20, *40*×*6, 20*×*10,* etc.). In particular, a *scalar*
 input is paired with every scalar in the other input:
 
-![](image614.png){width="7.483333333333333in"
-height="0.63125in"}![](image615.png){width="5.506944444444445in"
-height="1.5180555555555555in"}One important motivation for this feature
+![](image614.png){width="7.483333333333333in" height="0.63125in"}![](image615.png){width="5.506944444444445in" height="1.5180555555555555in"}One important motivation for this feature
 is how it simplifies and speeds up media computation, as in this
 shifting of the Alonzo costume to be bluer:
 
-![](image619.png){width="1.6875in"
-height="1.0486111111111112in"}![](image620.png){width="5.194444444444445in"
-height="1.0486111111111112in"}Each pixel of the result has ¾ of its
+![](image619.png){width="1.6875in" height="1.0486111111111112in"}![](image620.png){width="5.194444444444445in" height="1.0486111111111112in"}Each pixel of the result has ¾ of its
 original red and green, and three times its original blue (with its
 transparency unchanged). By putting some sliders on the stage, you can
 play with colors dynamically:
 
-![](image621.png){width="1.0298611111111111in"
-height="0.18958333333333333in"}![](image193.png){width="0.8895833333333333in"
-height="0.2in"}There are a few naturally scalar functions that have
+![](image621.png){width="1.0298611111111111in" height="0.18958333333333333in"}![](image193.png){width="0.8895833333333333in" height="0.2in"}There are a few naturally scalar functions that have
 already had specific meanings when applied to lists and therefore are
 not hyperblocks: = and identical to (because they compare entire
 structures, not just scalars, always reporting a single Boolean result),
@@ -2463,10 +2200,7 @@ first input determines the result), join (because it converts non-scalar
 (because it applies to its input as a whole). Blocks whose inputs are
 "natively" lists, such as and , are never hyperblocks.
 
-![](image622.png){width="5.239583333333333in"
-height="1.679861111111111in"}![](image203.png){width="5.401514654418198in"
-height="1.227273622047244in"}![](image205.png){width="2.0991666666666666in"
-height="0.2475in"}The reshape block takes a list (of any depth) as its
+![](image622.png){width="5.239583333333333in" height="1.679861111111111in"}![](image203.png){width="5.401514654418198in" height="1.227273622047244in"}![](image205.png){width="2.0991666666666666in" height="0.2475in"}The reshape block takes a list (of any depth) as its
 first input, and then takes zero or more sizes along the dimensions of
 an array. In the example it will report a table (a matrix) of four rows
 and three columns. If no sizes are given, the result is an empty list.
@@ -2477,8 +2211,7 @@ If more values are provided than needed, the extras are ignored; this
 isn't an error.
 
 ![Icon Description automatically
-generated](image204.png){width="1.34in"
-height="0.25in"} The item of block has a special set of rules, designed
+generated](image204.png){width="1.34in" height="0.25in"} The item of block has a special set of rules, designed
 to preserve its pre-hyperblock meaning and also provide a useful
 behavior when given a list as its first (index) input:
 
@@ -2506,13 +2239,11 @@ behavior when given a list as its first (index) input:
     dimension:![](image626.png){width="6.006944444444445in"
     height="0.6875in"}
 
-![](image627.png){width="6.604166666666667in"
-height="1.0486111111111112in"}To get a column or columns of a
+![](image627.png){width="6.604166666666667in" height="1.0486111111111112in"}To get a column or columns of a
 spreadsheet, use an empty list in the row selector (changed in Snap*!*
 6.6!):
 
-![](image628.png){width="1.5263888888888888in"
-height="1.8583333333333334in"}The length of block is extended to provide
+![](image628.png){width="1.5263888888888888in" height="1.8583333333333334in"}The length of block is extended to provide
 various ways of looking at the shape and contents of a list. The options
 other than length are mainly useful for *lists of lists,* to any depth.
 These new options work well with hyperblocks and the APL library.
@@ -2554,8 +2285,7 @@ is for lists of any rank; it reports a text string in which the list
 structure is explicitly represented using square brackets. These are the
 opposites of split by csv and split by json.
 
-![](image632.png){width="6.3530304024496935in"
-height="6.733522528433946in"}
+![](image632.png){width="6.3530304024496935in" height="6.733522528433946in"}
 
 The idea of extending the domain and range of scalar functions to
 include arrays comes from the language APL. (All the great programming
@@ -2575,8 +2305,7 @@ order functions. Some of what's missing is provided in the APL library.
  Scratch's Type Notation
 -----------------------
 
-![](image654.png){width="1.375in"
-height="0.2125in"}Prior to version 3, Scratch block inputs came in two
+![](image654.png){width="1.375in" height="0.2125in"}Prior to version 3, Scratch block inputs came in two
 types: Text-or-number type and Number type. The former is indicated by a
 rectangular box, the latter by a rounded box: . A third Scratch type,
 Boolean (true/false), can be used in certain Control blocks with
@@ -2595,9 +2324,7 @@ after the "Input name" option:
 
 Clicking that arrowhead opens the "long" input name dialog:
 
-![](image657.png){width="5.170833333333333in"
-height="4.135416666666667in"}![](image658.png){width="0.19791666666666666in"
-height="0.19791666666666666in"}There are twelve input type shapes, plus
+![](image657.png){width="5.170833333333333in" height="4.135416666666667in"}![](image658.png){width="0.19791666666666666in" height="0.19791666666666666in"}There are twelve input type shapes, plus
 three mutually exclusive modifiers, listed in addition to the basic
 choice between title text and an input name. The default type, the one
 you get if you don't choose anything else, is "Any," meaning that this
@@ -2605,15 +2332,13 @@ input slot is meant to accept any value of any type. If the size input
 in your block should be an oval-shaped numeric slot rather than a
 generic rectangle, click "Number."
 
-![](image659.png){width="6.822222222222222in"
-height="2.7569444444444446in"}The arrangement of the input types is
+![](image659.png){width="6.822222222222222in" height="2.7569444444444446in"}The arrangement of the input types is
 systematic. As the pictures on this and the next page show, each row of
 types is a category, and parts of each column form a category.
 Understanding the arrangement will make it a little easier to find the
 type you want.
 
-![](image658.png){width="0.13194444444444445in"
-height="0.13194444444444445in"}The second row of input types contains
+![](image658.png){width="0.13194444444444445in" height="0.13194444444444445in"}The second row of input types contains
 the ones found in Scratch: Number, Any, and Boolean. (The reason these
 are in the second row rather than the ﬁrst will become clear when we
 look at the column arrangement.) The ﬁrst row contains the new Snap*!*
@@ -2650,33 +2375,27 @@ Section VI.E below. In one handwavy sentence, they combine the *meaning*
 of the procedure types with the *appearance* of the reported value types
 two rows higher. (Of course, this isn't quite right for the C-shaped
 command input type, since commands don't
-![](image660.png){width="3.6458333333333335in"
-height="3.113888888888889in"}report values. But you'll see later that
+![](image660.png){width="3.6458333333333335in" height="3.113888888888889in"}report values. But you'll see later that
 it's true in spirit.)
 
 ### ![](image658.png){width="0.13194444444444445in" height="0.13194444444444445in"}Pulldown inputs
 
-![](image661.png){width="1.6805555555555556in"
-height="0.9409722222222222in"}Certain primitive blocks have *pulldown*
+![](image661.png){width="1.6805555555555556in" height="0.9409722222222222in"}Certain primitive blocks have *pulldown*
 inputs, either *read-only,* like the input to the touching block:
 
-![](image662.png){width="1.9020833333333333in"
-height="1.3229166666666667in"}(indicated by the input slot being the
+![](image662.png){width="1.9020833333333333in" height="1.3229166666666667in"}(indicated by the input slot being the
 same (cyan, in this case) color as the body of the block), or
 *writeable,* like the input to the point in direction block:
 
 (indicated by the white input slot), which means that the user can type
 in an arbitrary input instead of using the pulldown menu.
 
-![](image663.png){width="0.8326388888888889in"
-height="0.6527777777777778in"}![](image658.png){width="0.13194444444444445in"
-height="0.13194444444444445in"}Custom blocks can also have such inputs.
+![](image663.png){width="0.8326388888888889in" height="0.6527777777777778in"}![](image658.png){width="0.13194444444444445in" height="0.13194444444444445in"}Custom blocks can also have such inputs.
 To make a pulldown input, open the long form input dialog, choose a text
 type (Any, Text, or Number) and click the icon in the bottom right
 corner, or control/right-click in the dialog. You will see this menu:
 
-![](image664.png){width="3.076388888888889in"
-height="1.875in"}Click the read-only checkbox if you want a read-only
+![](image664.png){width="3.076388888888889in" height="1.875in"}Click the read-only checkbox if you want a read-only
 pulldown input. Then from the same menu, choose options... to get this
 dialog box:
 
@@ -2694,8 +2413,7 @@ horizontal line) in the menu, used to divide long menus into visible
 categories. There should be nothing else on the line. This separator is
 not choosable, so there is no input value corresponding to it.
 
-![](image665.png){width="7.5in"
-height="3.2416666666666667in"}If the line ends with the two characters
+![](image665.png){width="7.5in" height="3.2416666666666667in"}If the line ends with the two characters
 equal sign and open brace ={, then it represents a *submenu.* The text
 before the equal sign is a name for the submenu, and will be displayed
 in the menu with an arrowhead ► at the end of the line. This line is not
@@ -2717,25 +2435,18 @@ the play note piano keyboard, or the point in direction 360° dial.
 Finally, you can make the input box accept more than one line of text
 (that is, text including a newline character) from the special submenu,
 either "multi-line" for regular
-![](image669.png){width="0.6041666666666666in"
-height="0.3194444444444444in"}text or "code" for monospace-font computer
+![](image669.png){width="0.6041666666666666in" height="0.3194444444444444in"}text or "code" for monospace-font computer
 code.
 
-![](image670.png){width="0.13055555555555556in"
-height="0.1375in"}![](image671.png){width="1.6805555555555556in"
-height="0.2569444444444444in"}If the input type is something other than
+![](image670.png){width="0.13055555555555556in" height="0.1375in"}![](image671.png){width="1.6805555555555556in" height="0.2569444444444444in"}If the input type is something other than
 text, then clicking the button will instead show this menu:
 
-![](image672.png){width="7.5in"
-height="2.6277777777777778in"}As an example, we want to make this block:
+![](image672.png){width="7.5in" height="2.6277777777777778in"}As an example, we want to make this block:
 The second input must be a read-only object menu:
 
-![](image678.png){width="1.6388888888888888in"
-height="0.5208333333333334in"}
+![](image678.png){width="1.6388888888888888in" height="0.5208333333333334in"}
 
-![](image679.png){width="1.7638888888888888in"
-height="0.9305555555555556in"}![](image680.png){width="3.5694444444444446in"
-height="1.2944444444444445in"}The "Multiple inputs" option: The list
+![](image679.png){width="1.7638888888888888in" height="0.9305555555555556in"}![](image680.png){width="3.5694444444444446in" height="1.2944444444444445in"}The "Multiple inputs" option: The list
 block introduced earlier accepts any number of inputs to specify the
 items of the new list. To allow this, Snap*!* introduces the arrowhead
 notation () that expands and contracts the block, adding and removing
@@ -2757,8 +2468,7 @@ to its user. It appears as an orange variable oval in the block, rather
 than as an input slot. Here's an example; the uparrow (**↑**) in the
 prototype indicates this kind of internal variable name:
 
-![](image681.png){width="5.901388888888889in"
-height="0.53125in"}
+![](image681.png){width="5.901388888888889in" height="0.53125in"}
 
 The variable i (in the block on the right above) can be dragged from the
 for block into the blocks used in its C-shaped command slot. Also, by
@@ -2779,27 +2489,22 @@ We have mentioned three notations that can appear in an input slot in
 the prototype to remind you of what kind of input this is. Here is the
 complete list of such notations:
 
-![](image685.png){width="0.7347222222222223in"
-height="6.118055555555555in"}= default value ... multiple input ↑ upvar
+![](image685.png){width="0.7347222222222223in" height="6.118055555555555in"}= default value ... multiple input ↑ upvar
 \# number
 
-![](image686.png){width="0.16319444444444445in"
-height="0.13541666666666666in"}λ procedure types ⫶ list ? Boolean object
+![](image686.png){width="0.16319444444444445in" height="0.13541666666666666in"}λ procedure types ⫶ list ? Boolean object
 ¶ multi-line text
 
 ### Title Text and Symbols
 
-![](image687.png){width="1.21875in"
-height="0.23472222222222222in"}Some primitive blocks have symbols as
+![](image687.png){width="1.21875in" height="0.23472222222222222in"}Some primitive blocks have symbols as
 part of the block name: . Custom blocks can use symbols too. In the
 Block Editor, click the plus sign in the prototype at the point where
 you want to insert the symbol. Then click the title text picture below
 the text box that's expecting an input slot name. The dialog will then
 change to look like this:
 
-![](image688.png){width="1.2444444444444445in"
-height="0.26666666666666666in"}![](image689.png){width="2.0347222222222223in"
-height="1.2638888888888888in"}The important part to notice is the
+![](image688.png){width="1.2444444444444445in" height="0.26666666666666666in"}![](image689.png){width="2.0347222222222223in" height="1.2638888888888888in"}The important part to notice is the
 arrowhead that has appeared at the right end of the text box. Click it
 to see the menu shown here at the left.
 
@@ -2807,12 +2512,10 @@ Choose one of the symbols. The result will have the symbol you want: The
 available symbols are, pretty much, the ones that are used in Snap*!*
 icons.
 
-![](image690.png){width="2.0347222222222223in"
-height="1.2638888888888888in"}But I'd like the arrow symbol bigger, and
+![](image690.png){width="2.0347222222222223in" height="1.2638888888888888in"}But I'd like the arrow symbol bigger, and
 yellow, so I edit its name:
 
-![](image691.png){width="1.1979166666666667in"
-height="0.2708333333333333in"}This makes the symbol 1.5 times as big as
+![](image691.png){width="1.1979166666666667in" height="0.2708333333333333in"}This makes the symbol 1.5 times as big as
 the letters in the block text, using a color with red-green-blue values
 of 255-255-150 (each between 0 and 255). Here's the result:
 
@@ -2829,8 +2532,7 @@ Procedures as Data
 Call and Run
 ------------
 
-![](image692.png){width="3.6729166666666666in"
-height="1.5833333333333333in"}In the for block example above, the input
+![](image692.png){width="3.6729166666666666in" height="1.5833333333333333in"}In the for block example above, the input
 named action has been declared as type "Command (C-shaped)"; that's why
 the finished block is C-shaped. But how does the block actually tell
 Snap*!* to carry out the commands inside the C-slot? Here is a simple
@@ -2841,8 +2543,7 @@ value is greater than the starting value; if not, the block should
 (depending on the designer's purposes) either not run at all, or change
 the variable by −1 for each repetition instead of by 1.
 
-![](image693.png){width="0.5in"
-height="0.15625in"}The important part of this script is the run block
+![](image693.png){width="0.5in" height="0.15625in"}The important part of this script is the run block
 near the end. This is a Snap*!* built-in command block that takes a
 Command-type value (a script) as its input, and carries out its
 instructions. (In this example, the value of the input is the script
@@ -2853,8 +2554,7 @@ procedure feature; they allow scripts and blocks to be used as data---in
 this example, as an input to a block---and eventually carried out under
 control of the user's program.
 
-![](image694.png){width="7.065972222222222in"
-height="1.65625in"}Here's another example, this time using a
+![](image694.png){width="7.065972222222222in" height="1.65625in"}Here's another example, this time using a
 Reporter-type input in a map block (see page 50):
 
 Here we are calling the Reporter "multiply by 10" three times, once with
@@ -2869,8 +2569,7 @@ is of type List.
 
 ### Call/Run with inputs
 
-![](image698.png){width="1.8125in"
-height="0.20833333333333334in"}The call block (like the run block) has a
+![](image698.png){width="1.8125in" height="0.20833333333333334in"}The call block (like the run block) has a
 right arrowhead at the end; clicking on it adds the phrase "with inputs"
 and then a slot into which an input can be inserted:
 
@@ -2879,8 +2578,7 @@ inputs" disappears also. The right arrowhead can be clicked as many
 times as needed for the number of inputs required by the reporter block
 being called.
 
-![](image699.png){width="2.7291666666666665in"
-height="0.31805555555555554in"}If the number of inputs given to call
+![](image699.png){width="2.7291666666666665in" height="0.31805555555555554in"}If the number of inputs given to call
 (not counting the Reporter-type input that comes first) is the same as
 the number of empty input slots, then the empty slots are filled from
 left to right with the given input values. If call is given exactly one
@@ -2892,8 +2590,7 @@ slots, then there is no automatic filling of empty slots. (Instead you
 must use explicit parameters in the ring, as discussed in Section C
 below.)
 
-![](image700.png){width="6.990277777777778in"
-height="0.6979166666666666in"}An even more important thing to notice
+![](image700.png){width="6.990277777777778in" height="0.6979166666666666in"}An even more important thing to notice
 about these examples is the *ring* around the Reporter-type input slots
 in call and map above. This notation indicates that *the block itself,*
 not the number or other value that the block would report when called,
@@ -2950,8 +2647,7 @@ automatically ring the input as described above. So the declaration of
 Procedure-type inputs makes the use of your custom higher order block
 much more convenient.
 
-![](image708.png){width="2.375in"
-height="1.3541666666666667in"}Why would you want a block to take a
+![](image708.png){width="2.375in" height="1.3541666666666667in"}Why would you want a block to take a
 procedure as input? This is actually not an obscure thing to do; the
 primitive conditional and looping blocks (the C-shaped ones in the
 Control palette) take a script as input. Users just don't usually think
@@ -2964,8 +2660,7 @@ used is the input named action in the body of the script. The only way
 to make sense of the variable action is to understand that its value is
 a script.
 
-![](image509.png){width="2.5833333333333335in"
-height="1.6041666666666667in"}To declare an input to be Procedure-type,
+![](image509.png){width="2.5833333333333335in" height="1.6041666666666667in"}To declare an input to be Procedure-type,
 open the input name dialog as usual, and click on the arrowhead:
 
 Then, in the long dialog, choose the appropriate Procedure type. The
@@ -2982,13 +2677,10 @@ custom block, it turns into an inline slot, as in the repeater block's
 recursive call above. (Other built-in Reporters can't report scripts, so
 they aren't accepted in a C-shaped slot.)
 
-![](image658.png){width="0.19791666666666666in"
-height="0.19791666666666666in"}![](image709.png){width="3.6527777777777777in"
-height="2.75455271216098in"}\
+![](image658.png){width="0.19791666666666666in" height="0.19791666666666666in"}![](image709.png){width="3.6527777777777777in" height="2.75455271216098in"}\
 Why would you ever choose an inline Command slot rather than a C shape?
 Other than the run block
-![](image710.png){width="2.1145833333333335in"
-height="0.46875in"}discussed below, the only case I can think of is
+![](image710.png){width="2.1145833333333335in" height="0.46875in"}discussed below, the only case I can think of is
 something like the C/C++/Java for loop, which actually has *three*
 command script inputs (and one predicate input), only one of which is
 the "featured" loop body:
@@ -3006,16 +2698,14 @@ where to use those inputs? If the called procedure (block or script) has
 empty input slots, Snap*!* "does the right thing." This has several
 possible meanings:
 
-![](image711.png){width="3.4479166666666665in"
-height="0.34405949256342955in"}1. If the number of empty slots is
+![](image711.png){width="3.4479166666666665in" height="0.34405949256342955in"}1. If the number of empty slots is
 exactly equal to the number of inputs provided, then Snap*!* fills the
 empty slots from left to right:
 
 2\. If exactly one input is provided, Snap*!* will fill any number of
 empty slots with it:
 
-![](image712.png){width="2.8020833333333335in"
-height="0.30694444444444446in"}
+![](image712.png){width="2.8020833333333335in" height="0.30694444444444446in"}
 
 3\. Otherwise, Snap*!* won't fill any slots, because the user's intention
 is unclear.
@@ -3038,11 +2728,7 @@ inputs as a list of values in the first place), and then, in the
 recursive call, you drop that input list *onto the arrowheads* that
 indicate a variable-input slot, rather than onto the input slot:
 
-![](image658.png){width="0.13194444444444445in"
-height="0.13194444444444445in"}![](image713.png){width="2.501388888888889in"
-height="1.9444444444444444in"}![](image714.png){width="2.225in"
-height="1.1708333333333334in"}![](image715.png){width="2.2756944444444445in"
-height="1.5972222222222223in"}\
+![](image658.png){width="0.13194444444444445in" height="0.13194444444444445in"}![](image713.png){width="2.501388888888889in" height="1.9444444444444444in"}![](image714.png){width="2.225in" height="1.1708333333333334in"}![](image715.png){width="2.2756944444444445in" height="1.5972222222222223in"}\
 Note that the halo you see while dragging onto the arrowheads is red
 instead of white, and covers the input slot as well as the arrowheads.
 And when you drop the expression onto the arrowheads, the words "input
@@ -3051,12 +2737,10 @@ invocation only) to remind you that the list represents all of the
 multiple inputs, not just a single input. The items in the list are
 taken *individually* as inputs to the script. Since numbers is a list of
 numbers, each individual item is a number, just what sizes wants. This
-![](image716.png){width="6.8125in"
-height="1.7104166666666667in"}block will take any number of numbers as
+![](image716.png){width="6.8125in" height="1.7104166666666667in"}block will take any number of numbers as
 inputs, and will make the sprite grow and shrink accordingly:
 
-![](image722.png){width="2.9583333333333335in"
-height="0.6875in"}The user of this block calls it with any number of
+![](image722.png){width="2.9583333333333335in" height="0.6875in"}The user of this block calls it with any number of
 *individual numbers* as inputs. But inside the definition of the block,
 all of those numbers form *a* *list* that has a single input name,
 numbers. This recursive definition ﬁrst checks to make sure there are
@@ -3068,8 +2752,7 @@ inputs! So this would be wrong:
 Formal Parameters
 -----------------
 
-![](image723.png){width="3.5208333333333335in"
-height="1.0395833333333333in"}The rings around Procedure-type inputs
+![](image723.png){width="3.5208333333333335in" height="1.0395833333333333in"}The rings around Procedure-type inputs
 have an arrowhead at the right. Clicking the arrowhead allows you to
 give the inputs to a block or script explicit names, instead of using
 empty input slots as we've done until now.
@@ -3080,8 +2763,7 @@ not to *drag* the oval when clicking; that's how you use the input
 inside the ring. The names of the input variables are called the *formal
 parameters* of the encapsulated procedure.
 
-![](image731.png){width="4.322916666666667in"
-height="0.45416666666666666in"}Here's a simple but contrived example
+![](image731.png){width="4.322916666666667in" height="0.45416666666666666in"}Here's a simple but contrived example
 using explicit names to control which input goes where inside the ring:
 
 Here we just want to put one of the inputs into two different slots. If
@@ -3089,12 +2771,10 @@ we left all three slots empty, Snap*!* would not fill any of them,
 because the number of inputs provided (2) would not match the number of
 empty slots (3).
 
-![](image732.png){width="4.679861111111111in"
-height="3.0180555555555557in"}Here is a more realistic, much more
+![](image732.png){width="4.679861111111111in" height="3.0180555555555557in"}Here is a more realistic, much more
 advanced example:
 
-![](image733.png){width="4.347222222222222in"
-height="1.4027777777777777in"}
+![](image733.png){width="4.347222222222222in" height="1.4027777777777777in"}
 
 This is the definition of a block that takes any number of lists, and
 reports the list of all possible combinations of one item from each
@@ -3118,8 +2798,7 @@ really remain empty.
 Procedures as Data
 ------------------
 
-![](image734.png){width="5.1875in"
-height="1.65625in"}Here's an example of a situation in which a procedure
+![](image734.png){width="5.1875in" height="1.65625in"}Here's an example of a situation in which a procedure
 must be explicitly marked as data by pulling a ring from the Operators
 palette and putting the procedure (block or script) inside it:
 
@@ -3128,8 +2807,7 @@ inputs of any type, so its input slots are not ringed. We must say
 explicitly that we want the block *itself* as the input, rather than
 whatever value would result from evaluating the block.
 
-![](image735.png){width="3.8333333333333335in"
-height="0.84375in"}Besides the list block in the example above, other
+![](image735.png){width="3.8333333333333335in" height="0.84375in"}Besides the list block in the example above, other
 blocks into which you may want to put procedures are set (to set the
 value of a variable to a procedure), say and think (to display a
 procedure to the user), and report (for a reporter that reports a
@@ -3138,17 +2816,13 @@ procedure):
 Special Forms
 -------------
 
-![](image736.png){width="2.4993055555555554in"
-height="0.27847222222222223in"}![](image737.png){width="2.402083333333333in"
-height="1.4270833333333333in"}The primitive if else block has two
+![](image736.png){width="2.4993055555555554in" height="0.27847222222222223in"}![](image737.png){width="2.402083333333333in" height="1.4270833333333333in"}The primitive if else block has two
 C-shaped command slots and chooses one or the other depending on a
 Boolean test. Because Scratch doesn't emphasize functional programming,
 it lacks a corresponding reporter block to choose between two
 expressions. Snap*!* has one, but we could write our own:
 
-![](image738.png){width="4.291666666666667in"
-height="0.8486111111111111in"}![](image739.png){width="3.818985126859143in"
-height="0.27433070866141734in"}Our block works for these simple
+![](image738.png){width="4.291666666666667in" height="0.8486111111111111in"}![](image739.png){width="3.818985126859143in" height="0.27433070866141734in"}Our block works for these simple
 examples, but if we try to use it in writing a recursive operator, it'll
 fail:
 
@@ -3166,10 +2840,7 @@ be of type Reporter rather than type Any. Then, when calling the block,
 those inputs will be enclosed in a ring so that the expressions
 themselves, rather than their values, become the inputs:
 
-![](image740.png){width="1.1145833333333333in"
-height="0.6979166666666666in"}![](image741.png){width="4.520833333333333in"
-height="1.0229166666666667in"}![](image742.png){width="2.6173611111111112in"
-height="1.5104166666666667in"}
+![](image740.png){width="1.1145833333333333in" height="0.6979166666666666in"}![](image741.png){width="4.520833333333333in" height="1.0229166666666667in"}![](image742.png){width="2.6173611111111112in" height="1.5104166666666667in"}
 
 In this version, the program works, with no infinite loop. But we've
 paid a heavy price: this reporter-if is no longer as intuitively obvious
@@ -3283,10 +2954,7 @@ a script, stored in a variable or list, and sent messages individually.
 The children of a sprite can inherit sprite-local variables, methods
 (sprite-local procedures), and other attributes (e.g., x position).
 
-![](image743.png){width="0.9652777777777778in"
-height="0.19444444444444445in"}![](image744.png){width="1.0833333333333333in"
-height="0.19444444444444445in"}![](image745.png){width="0.6666666666666666in"
-height="0.19444444444444445in"}The fundamental means by which programs
+![](image743.png){width="0.9652777777777778in" height="0.19444444444444445in"}![](image744.png){width="1.0833333333333333in" height="0.19444444444444445in"}![](image745.png){width="0.6666666666666666in" height="0.19444444444444445in"}The fundamental means by which programs
 get access to sprites is the my reporter block. It has a dropdown-menu
 input slot that, when clicked, gives access to all the sprites, plus the
 stage. reports a single sprite, the one asking the question. reports a
@@ -3296,9 +2964,7 @@ candidates for having collided with this one, for example. The my block
 has many other options, discussed below. If you know the name of a
 particular sprite, the object reporter will report the sprite itself.
 
-![](image746.png){width="3.5520833333333335in"
-height="0.5104166666666666in"}![](image747.png){width="2.691434820647419in"
-height="1.25in"}An object or list of objects reported by my or object
+![](image746.png){width="3.5520833333333335in" height="0.5104166666666666in"}![](image747.png){width="2.691434820647419in" height="1.25in"}An object or list of objects reported by my or object
 can be used as input to any block that accepts any input type, such as
 set's second input. If you say an object, the resulting speech balloon
 will contain a smaller image of the object's costume or (for the stage)
@@ -3307,8 +2973,7 @@ background.
  Permanent and Temporary Clones
 ------------------------------
 
-![](image748.png){width="1.5138888888888888in"
-height="0.19444444444444445in"}The block is used to create and report an
+![](image748.png){width="1.5138888888888888in" height="0.19444444444444445in"}The block is used to create and report an
 instance (a clone) of any sprite. (There is also a command version, for
 historical reasons.) There are two different kinds of situations in
 which clones are used. One is that you've made an example sprite and,
@@ -3340,8 +3005,7 @@ and so on. You want to save all of these dogs in the project. These are
 *permanent* clones. In BYOB 3.1, the predecessor to Snap*!,* all clones
 are permanent.
 
-![](image748.png){width="1.5138888888888888in"
-height="0.19444444444444445in"}One advantage of temporary clones is that
+![](image748.png){width="1.5138888888888888in" height="0.19444444444444445in"}One advantage of temporary clones is that
 they don't slow down Snap*!* even when you have a lot of them. (If
 you're curious, one reason is that permanent clones appear in the sprite
 corral, where their pictures have to be updated to reflect the clone's
@@ -3355,8 +3019,7 @@ different characteristics, programmed by hand. But when your project is
 running, it might create 100 rottweilers, and those will be identical
 unless you change them in the program.
 
-![](image749.png){width="1.5138888888888888in"
-height="0.2569444444444444in"}You can change a temporary sprite to
+![](image749.png){width="1.5138888888888888in" height="0.2569444444444444in"}You can change a temporary sprite to
 permanent by right-clicking it and choosing "edit." (It's called "edit"
 rather than, say, "permanent" because it also shifts the scripting area
 to reflect that sprite, as if you'd pressed its button in the sprite
@@ -3372,24 +3035,20 @@ including both all-sprites and this-sprite-only blocks. (For custom
 blocks, the corresponding methods are the scripts as seen in the Block
 Editor.
 
-![](image750.png){width="5.702083333333333in"
-height="0.3611111111111111in"}The way to send a message to a sprite (or
+![](image750.png){width="5.702083333333333in" height="0.3611111111111111in"}The way to send a message to a sprite (or
 the stage) is with the tell block (for command messages) or the ask
 block (for reporter messages).
 
-![](image754.png){width="6.236111111111111in"
-height="0.8055555555555556in"}A small point to note in the examples
+![](image754.png){width="6.236111111111111in" height="0.8055555555555556in"}A small point to note in the examples
 above: all dropdown menus include an empty entry at the top, which can
 be selected for use in higher order procedures like the for each and map
 examples. Each of the sprites in my neighbors or my other sprites is
 used to fill the blank space in turn.
 
-![](image758.png){width="5.164583333333334in"
-height="0.2847222222222222in"}By the way, if you want a list of *all*
+![](image758.png){width="5.164583333333334in" height="0.2847222222222222in"}By the way, if you want a list of *all*
 the sprites, including this sprite, you can use either of these:
 
-![](image762.png){width="3.545138888888889in"
-height="0.8263888888888888in"}Tell and ask wait until the other sprite
+![](image762.png){width="3.545138888888889in" height="0.8263888888888888in"}Tell and ask wait until the other sprite
 has carried out its method before this sprite's script continues. (That
 has to be the case for ask, since we want to do something with the value
 it reports.) So tell is analogous to broadcast and wait. Sometimes the
@@ -3408,8 +3067,7 @@ it, and now we have the more straightforward primitives.
 
 ### Polymorphism
 
-![](image763.png){width="1.6736111111111112in"
-height="1.4020833333333333in"}Suppose you have a Dog sprite with two
+![](image763.png){width="1.6736111111111112in" height="1.4020833333333333in"}Suppose you have a Dog sprite with two
 clones CockerSpaniel and PitBull. In the Dog sprite you define this
 method ("For this sprite only" block):
 
@@ -3420,9 +3078,7 @@ sprite-*loca*l block. Sprite-local variables are similarly marked.
 But you don't define greet as friend or greet as enemy in Dog. Each kind
 of dog has a different behavior. Here's what a CockerSpaniel does:
 
-![](image764.png){width="4.052777777777778in"
-height="0.7430555555555556in"}![](image764.png){width="4.074305555555555in"
-height="0.7013888888888888in"}And here's what a PitBull does:
+![](image764.png){width="4.052777777777778in" height="0.7430555555555556in"}![](image764.png){width="4.074305555555555in" height="0.7013888888888888in"}And here's what a PitBull does:
 
 Greet is defined in the Dog sprite. If Fido is a particular cocker
 spaniel, and you ask Fido to greet someone, Fido inherits the greet
@@ -3464,8 +3120,7 @@ The block, if any, that examines a variable or attribute is called its
 example above) that modifies a variable or attribute is called a
 *setter.*
 
-![](image770.png){width="2.2381944444444444in"
-height="2.084722222222222in"}In Snap*!* we allow virtually all
+![](image770.png){width="2.2381944444444444in" height="2.084722222222222in"}In Snap*!* we allow virtually all
 attributes to be examined. But instead of adding dozens of reporters, we
 use a more uniform interface for attributes: The my block's menu (in
 Sensing; see page 78) includes many of the attributes of a sprite. It
@@ -3500,8 +3155,7 @@ and visible on the stage; in class/instance OOP the programming process
 begins with an abstract, invisible entity, the class, that must be
 designed before any concrete objects can be made.[^7]
 
-![](image748.png){width="7.500694444444444in"
-height="1.5743055555555556in"}There are three ways to make a child
+![](image748.png){width="7.500694444444444in" height="1.5743055555555556in"}There are three ways to make a child
 sprite. If you control-click or right-click on a sprite in the "sprite
 corral" at the bottom right corner of the window, you get a menu that
 includes "clone" as one of the choices. There is an a new clone of block
@@ -3555,8 +3209,7 @@ in the parent (and therefore in itself and all its siblings)? Remember
 that in this system any object can tell any other object to do
 something:
 
-![](image779.png){width="5.072916666666667in"
-height="0.5833333333333334in"}When a sprite gets a message for which it
+![](image779.png){width="5.072916666666667in" height="0.5833333333333334in"}When a sprite gets a message for which it
 doesn't have a corresponding block, the message is *delegated* to that
 sprite's parent. When a sprite does have the corresponding block, then
 the message is not delegated. If the script that implements a delegated
@@ -3566,9 +3219,7 @@ originally sent, not the parent to which the message was delegated.
 ![](image780.png){width="0.7895833333333333in" height="3.4680555555555554in"}List of attributes
 ---------------------------------------------------------------------------------------------------------------------
 
-![](image781.png){width="1.19in"
-height="0.25in"}![](image782.png){width="1.1756944444444444in"
-height="6.116666666666666in"}At the right is a picture of the dropdown
+![](image781.png){width="1.19in" height="0.25in"}![](image782.png){width="1.1756944444444444in" height="6.116666666666666in"}At the right is a picture of the dropdown
 menu of attributes in the my block.
 
 Several of these are not real attributes, but things related to
@@ -3635,8 +3286,7 @@ on. My \[costumes\] and my \[sounds\] report lists of them.
 
 ### Media Computation with Costumes
 
-![](image783.png){width="1.6319444444444444in"
-height="0.1875in"}The components of a costume are its name, width,
+![](image783.png){width="1.6319444444444444in" height="0.1875in"}The components of a costume are its name, width,
 height, and pixels. The block gives access to these components using its
 left menu. From its right menu you can choose the current costume, the
 Turtle costume, or any costume in the sprite's wardrobe. Since costumes
@@ -3668,8 +3318,7 @@ discrete rectangular screen coordinates. Note that the opacity of a
 sprite's ghost effect. (The latter really is a measure of transparency:
 0 means opaque and 100 means invisible.)
 
-![](image784.png){width="6.100694444444445in"
-height="1.3895833333333334in"}The bitmap is a one-dimensional list of
+![](image784.png){width="6.100694444444445in" height="1.3895833333333334in"}The bitmap is a one-dimensional list of
 pixels, not an array of *height* rows of *width* pixels each. That's why
 the pixel list has to be combined with the dimensions to produce a
 costume. This choice partly reflects the way bitmaps are stored in the
@@ -3689,8 +3338,7 @@ red component. Also note that this process works only on bitmap
 costumes; if you call pixels of on a vector costume (one with "svg" in
 the corner of its picture), it will be converted to pixels first.
 
-![](image790.png){width="2.2569444444444446in"
-height="0.2847222222222222in"}One important point to see here is that a
+![](image790.png){width="2.2569444444444446in" height="0.2847222222222222in"}One important point to see here is that a
 bitmap (list of pixels) is not, by itself, a costume. The new costume
 block creates a costume by combining a bitmap, a width, and a height.
 But, as in the example above, switch to costume will accept a bitmap as
@@ -3699,21 +3347,17 @@ costume. Note that there's no name input; costumes computed in this way
 are all named costume. Note also that the use of switch to costume does
 *not* add the computed costume to the sprite's wardrobe; to do that, say
 
-![](image791.png){width="7.508333333333334in"
-height="1.2090277777777778in"}Here's a more interesting example of color
+![](image791.png){width="7.508333333333334in" height="1.2090277777777778in"}Here's a more interesting example of color
 manipulation:
 
-![](image797.png){width="4.5625in"
-height="0.40694444444444444in"}Each color value is constrained to be 0,
+![](image797.png){width="4.5625in" height="0.40694444444444444in"}Each color value is constrained to be 0,
 80, 160, or 240. This gives the picture a more cartoonish look.
 Alternatively, you can do the computation taking advantage of
 hyperblocks:
 
 Here's one way to exchange red and green values:
 
-![](image798.png){width="7.5in"
-height="0.6555555555555556in"}![](image804.png){width="0.9583333333333334in"
-height="0.18055555555555555in"}It's the list that determines the
+![](image798.png){width="7.5in" height="0.6555555555555556in"}![](image804.png){width="0.9583333333333334in" height="0.18055555555555555in"}It's the list that determines the
 rearrangement of colors: green➔red, red➔green, and the other two
 unchanged. That list is inside another list because otherwise it would
 be selecting *rows* of the pixel array, and we want to select columns.
@@ -3721,9 +3365,7 @@ We use pixels of costume current rather than costume apple because the
 latter is always a red apple, so this little program would get stuck
 turning it green, instead of alternating colors.
 
-![](image805.png){width="5.569444444444445in"
-height="0.4236111111111111in"}![](image809.png){width="1.7222222222222223in"
-height="0.22916666666666666in"}The stretch block takes a costume as its
+![](image805.png){width="5.569444444444445in" height="0.4236111111111111in"}![](image809.png){width="1.7222222222222223in" height="0.22916666666666666in"}The stretch block takes a costume as its
 first input, either by selecting a costume from the menu or by dropping
 a costume-valued expression such as onto it. The other two inputs are
 percents of the original width and height, as advertised, so you can
@@ -3731,12 +3373,10 @@ make fun house mirror versions of costumes:
 
 The resulting costumes can be used with switch to costume and so on.
 
-![](image305.png){width="5.330729440069991in"
-height="0.3541666666666667in"}Finally, you can use pictures from your
+![](image305.png){width="5.330729440069991in" height="0.3541666666666667in"}Finally, you can use pictures from your
 computer's camera in your projects using these blocks:
 
-![](image813.png){width="1.4722222222222223in"
-height="0.24305555555555555in"}Using the video on block turns on the
+![](image813.png){width="1.4722222222222223in" height="0.24305555555555555in"}Using the video on block turns on the
 camera and displays what it sees on the stage, regardless of the inputs
 given. The camera remains on until you click the red stop button, your
 program runs the stop all block, or you turn it off explicitly with the
@@ -3746,24 +3386,19 @@ transparency and not opacity. (Small numbers make the video more
 visible.) By default, the video image is mirrored, like the selfie
 camera on your cell phone: When you raise your left hand, your image
 raises its right hand. You can control this
-![](image814.png){width="1.4027777777777777in"
-height="0.24305555555555555in"}mirroring with the block.
+![](image814.png){width="1.4027777777777777in" height="0.24305555555555555in"}mirroring with the block.
 
-![](image815.png){width="1.2041666666666666in"
-height="1.6125in"}The video snap on block then takes a still picture
+![](image815.png){width="1.2041666666666666in" height="1.6125in"}The video snap on block then takes a still picture
 from the camera, and trims it to fit on the selected sprite. (Video snap
 on stage means to use the entire stage-sized rectangle.) For example,
 here's a camera snapshot trimmed to fit Alonzo:
 
-![](image816.png){width="2.670138888888889in"
-height="1.2986111111111112in"}The "Video Capture" project in the
+![](image816.png){width="2.670138888888889in" height="1.2986111111111112in"}The "Video Capture" project in the
 Examples collection repeatedly takes such trimmed snapshots and has the
 Alonzo sprite use the current snapshot as its costume, so it looks like
 this:
 
-![](image817.png){width="2.6666666666666665in"
-height="2.0in"}![](image818.png){width="3.3333333333333335in"
-height="2.5in"}(The picture above was actually taken with transparency
+![](image817.png){width="2.6666666666666665in" height="2.0in"}![](image818.png){width="3.3333333333333335in" height="2.5in"}(The picture above was actually taken with transparency
 set to 50, to make the background more visible for printing.) Because
 the sprite is always still in the place where the snapshot was taken,
 its costume exactly fits in with the rest of the full-stage video. If
@@ -3774,12 +3409,10 @@ This time, the sprite's costume was captured at one position, and then
 the sprite is shown at a different position. (You probably wouldn't want
 to do this, but perhaps it's helpful for explanatory purposes.)
 
-![](image819.png){width="7.375694444444444in"
-height="1.6423611111111112in"}What you *would* want to do is push the
+![](image819.png){width="7.375694444444444in" height="1.6423611111111112in"}What you *would* want to do is push the
 sprite around the stage:
 
-![](image825.png){width="3.0902777777777777in"
-height="1.9236111111111112in"}(Really these should be Jens's picture;
+![](image825.png){width="3.0902777777777777in" height="1.9236111111111112in"}(Really these should be Jens's picture;
 it's his project. But he's vacationing. ☺) Video motion compares two
 snapshots a moment apart, looking only at the part within the given trim
 (here myself, meaning the current sprite, not the person looking into
@@ -3800,9 +3433,7 @@ It starts by recording a brief burst of sound from your microphone. (How
 brief? On my computer, 0.010667 seconds, but you'll see shortly how to
 ﬁnd out or control the sample size on your computer.)
 
-![](image826.png){width="1.9652777777777777in"
-height="0.2569444444444444in"}![](image827.png){width="5.999305555555556in"
-height="2.620138888888889in"}Just as the *pixel* is the smallest piece
+![](image826.png){width="1.9652777777777777in" height="0.2569444444444444in"}![](image827.png){width="5.999305555555556in" height="2.620138888888889in"}Just as the *pixel* is the smallest piece
 of a picture, the *sample* is the smallest piece of a sound. It says
 here: that on my computer, 48,000 samples are recorded per second, so
 each sample is 1/48,000 of a second. The value of a sample is between -1
@@ -3852,9 +3483,7 @@ shrill-sounding note. But remember that a complex waveform is the sum of
 multiple sine waves at different frequency. Here's a different
 up-and-down regularity:
 
-![](image828.png){width="2.795138888888889in"
-height="1.2222222222222223in"}![](image829.png){width="2.7847222222222223in"
-height="1.0486111111111112in"}It's not obvious, but in the left part of
+![](image828.png){width="2.795138888888889in" height="1.2222222222222223in"}![](image829.png){width="2.7847222222222223in" height="1.0486111111111112in"}It's not obvious, but in the left part of
 the graph, the signal is more above the *x* axis than below it. Toward
 the right, it seems to be more below than above the axis. At the very
 right it looks like it might be climbing again.
@@ -3871,8 +3500,7 @@ but is best known for working out the nature of periodic functions as a
 sum of sine waves.) Luckily we don't have to do the math; the microphone
 block will do it for us, if we ask for microphone spectrum:
 
-![](image830.png){width="7.493055555555555in"
-height="1.4861111111111112in"}These are frequency spectra from (samples
+![](image830.png){width="7.493055555555555in" height="1.4861111111111112in"}These are frequency spectra from (samples
 of) three different songs. The most obvious thing about these graphs is
 that their overall slope is downward; the loudest frequency is the
 lowest frequency. That's typical of music.
@@ -3898,8 +3526,7 @@ frequency the frequency in Hz of the main note heard
 
 sample rate the number of samples being collected per second
 
-![](image258.png){width="2.9166666666666665in"
-height="0.28125in"}resolution the size of the array in which data are
+![](image258.png){width="2.9166666666666665in" height="0.28125in"}resolution the size of the array in which data are
 collected (typically 512, must be a power of 2)
 
 The block for sounds that corresponds to new picture for pictures is
@@ -3925,9 +3552,7 @@ implementations of class/instance and prototyping OOP.
 Local State with Script Variables
 ---------------------------------
 
-![](image836.png){width="3.473611111111111in"
-height="3.1805555555555554in"}![](image852.png){width="2.2395833333333335in"
-height="1.5104166666666667in"}This script implements an object *class*,
+![](image836.png){width="3.473611111111111in" height="3.1805555555555554in"}![](image852.png){width="2.2395833333333335in" height="1.5104166666666667in"}This script implements an object *class*,
 a type of object, namely the counter class. In this ﬁrst simplified
 version there is only one method, so no explicit message passing is
 necessary. When the make a counter block is called, it reports a
@@ -3957,8 +3582,7 @@ to a particular counter.
 Messages and Dispatch Procedures
 --------------------------------
 
-![](image853.png){width="4.416666666666667in"
-height="3.1666666666666665in"}In the simplified class above, there is
+![](image853.png){width="4.416666666666667in" height="3.1666666666666665in"}In the simplified class above, there is
 only one method, and so there are no messages; you just call the
 instance to carry out its one method. Here is a more refined version
 that uses message passing:
@@ -3976,8 +3600,7 @@ version, calling the instance gives access to a method, which must then
 be called to finish the job. We can provide a block to do both procedure
 calls in one:
 
-![](image854.png){width="4.010416666666667in"
-height="0.7077198162729659in"}
+![](image854.png){width="4.010416666666667in" height="0.7077198162729659in"}
 
 The ask block has two required inputs: an object and a message. It also
 accepts optional additional inputs, which Snap*!* puts in a list; that
@@ -3990,8 +3613,7 @@ multiple input (in the outer call block). Note also that this is one of
 the rare cases in which we must unringify the inner call block, whose
 *value when called* gives the method.
 
-![](image837.png){width="3.9069444444444446in"
-height="1.6125in"}
+![](image837.png){width="3.9069444444444446in" height="1.6125in"}
 
 Inheritance via Delegation
 --------------------------
@@ -4002,8 +3624,7 @@ about inheritance? We can provide that capability using the technique of
 the parent class, and simply passes on the messages it doesn't want to
 specialize:
 
-![](image857.png){width="3.8125in"
-height="3.5833333333333335in"}
+![](image857.png){width="3.8125in" height="3.5833333333333335in"}
 
 This script implements the buzzer class, which is a child of counter.
 Instead of having a count (a number) as a local state variable, each
@@ -4044,21 +3665,15 @@ of the latter contains a *key* and a corresponding *value.* We provide a
 lookup procedure to locate the key-value pair corresponding to a given
 key in a given table.
 
-![](image858.png){width="3.2152777777777777in"
-height="2.361111111111111in"}
+![](image858.png){width="3.2152777777777777in" height="2.361111111111111in"}
 
-![](image859.png){width="2.625in"
-height="0.78125in"}
+![](image859.png){width="2.625in" height="0.78125in"}
 
-![](image860.png){width="5.604166666666667in"
-height="1.15625in"}![](image861.png){width="5.604166666666667in"
-height="1.15625in"}
+![](image860.png){width="5.604166666666667in" height="1.15625in"}![](image861.png){width="5.604166666666667in" height="1.15625in"}
 
 There are also commands to insert and delete entries:
 
-![](image862.png){width="3.71875in"
-height="1.8263888888888888in"}![](image863.png){width="3.2291666666666665in"
-height="2.1283136482939633in"}
+![](image862.png){width="3.71875in" height="1.8263888888888888in"}![](image863.png){width="3.2291666666666665in" height="2.1283136482939633in"}
 
 As in the class/instance version, an object is represented as a dispatch
 procedure that takes a message as its input and reports the
@@ -4084,14 +3699,12 @@ grandparent, etc.) of the original recipient, and that method refers to
 a variable or method, it will use the child's variable or method if the
 child has its own version.
 
-![](image864.png){width="4.375in"
-height="7.469444444444444in"}The clone of block below takes an object as
+![](image864.png){width="4.375in" height="7.469444444444444in"}The clone of block below takes an object as
 its input and makes a child object. It should be considered as an
 internal part of the implementation; the preferred way to make a child
 of an object is to send that object a clone message.
 
-![](image865.png){width="1.5729166666666667in"
-height="0.6875in"}Every object is created with predefined methods for
+![](image865.png){width="1.5729166666666667in" height="0.6875in"}Every object is created with predefined methods for
 set, method, delete-var, delete-method, and clone. It has one predefined
 variable, parent. Objects without a parent are created by calling new
 object:
@@ -4101,8 +3714,7 @@ and then call the method. But in this version, we provide the desired
 object as the ﬁrst method input. We provide one procedure for Command
 methods and one for Reporter methods:
 
-![](image866.png){width="6.938888888888889in"
-height="1.0in"}(Remember that the "Input list:" variant of the run and
+![](image866.png){width="6.938888888888889in" height="1.0in"}(Remember that the "Input list:" variant of the run and
 call blocks is made by dragging the input expression over the arrowheads
 rather than over the input slot.)
 
@@ -4114,15 +3726,13 @@ method always sets counter1's total variable, which therefore keeps
 count of the total number of times that *any* counter is incremented.
 Running this script should \[say\] and (think) the following lists:
 
-![](image870.png){width="4.208333333333333in"
-height="4.395833333333333in"}\[1 1\] \[2 2\] \[3 3\] \[4 4\] (1 5) (2 6)
+![](image870.png){width="4.208333333333333in" height="4.395833333333333in"}\[1 1\] \[2 2\] \[3 3\] \[4 4\] (1 5) (2 6)
 (3 7) \[5 8\] \[6 9\] \[7 10\] \[8 11\]
 
  The Outside World
 =================
 
-![](image148.png){width="1.6201388888888888in"
-height="0.25in"}The facilities discussed so far are fine for projects
+![](image148.png){width="1.6201388888888888in" height="0.25in"}The facilities discussed so far are fine for projects
 that take place entirely on your computer's screen. But you may want to
 write programs that interact with physical devices (sensors or robots)
 or with the World Wide Web. For these purposes Snap*!* provides a single
@@ -4144,8 +3754,7 @@ another URL included in the reported HTML. The Web page is typically a
 very long text string, and so the primitive split block is useful to get
 the text in a manageable form, namely, as a list of lines:
 
-![](image871.png){width="6.520833333333333in"
-height="4.277777777777778in"}
+![](image871.png){width="6.520833333333333in" height="4.277777777777778in"}
 
 The second input to split is the character to be used to separate the
 text string into a list of lines, or one of a set of common cases (such
@@ -4197,14 +3806,12 @@ to source code repositories. This situation will improve with time.
 Date and Time
 -------------
 
-![](image872.png){width="5.305555555555555in"
-height="0.3194444444444444in"}The current block in the Sensing palette
+![](image872.png){width="5.305555555555555in" height="0.3194444444444444in"}The current block in the Sensing palette
 can be used to find out the current date or time. Each call to this
 block reports one component of the date or time, so you will probably
 combine several calls, like this:
 
-![](image873.png){width="5.305555555555555in"
-height="0.3194444444444444in"}for Americans, or like this:
+![](image873.png){width="5.305555555555555in" height="0.3194444444444444in"}for Americans, or like this:
 
 for Europeans.
 
@@ -4221,22 +3828,18 @@ interpreter or compiler. Making continuations explicit is an advanced
 but versatile programming technique that allows users to create control
 structures such as nonlocal exit and multithreading.
 
-![](image874.png){width="1.40625in"
-height="1.5416666666666667in"}In the simplest case, the continuation of
+![](image874.png){width="1.40625in" height="1.5416666666666667in"}In the simplest case, the continuation of
 a command block may just be the part of the script after the block. For
 example, in the script
 
-![](image875.png){width="1.59375in"
-height="0.7083333333333334in"}the continuation of the move 100 steps
+![](image875.png){width="1.59375in" height="0.7083333333333334in"}the continuation of the move 100 steps
 block is
 
-![](image876.png){width="1.4784722222222222in"
-height="0.8020833333333334in"}But some situations are more complicated.
+![](image876.png){width="1.4784722222222222in" height="0.8020833333333334in"}But some situations are more complicated.
 For example, what is the continuation of move 100 steps in the following
 script?
 
-![](image877.png){width="1.6666666666666667in"
-height="1.0729166666666667in"}That's a trick question; the move block is
+![](image877.png){width="1.6666666666666667in" height="1.0729166666666667in"}That's a trick question; the move block is
 run four times, and it has a different continuation each time. The first
 time, its continuation is
 
@@ -4244,8 +3847,7 @@ Note that there is no repeat 3 block in the actual script, but the
 continuation has to represent the fact that there are three more times
 through the loop to go. The fourth time, the continuation is just
 
-![](image878.png){width="1.59375in"
-height="0.29791666666666666in"}What counts is not what's physically
+![](image878.png){width="1.59375in" height="0.29791666666666666in"}What counts is not what's physically
 below the block in the script, but what computational work remains to be
 done.
 
@@ -4255,33 +3857,28 @@ but the actual continuation is made from the evaluator's internal
 bookkeeping of where it's up to in a script. So it's really the original
 script plus some extra information. But the pictures here do correctly
 represent what work the process still has left to do.)\
-![](image879.png){width="1.4791666666666667in"
-height="1.25in"}When a block is used inside a custom block, its
+![](image879.png){width="1.4791666666666667in" height="1.25in"}When a block is used inside a custom block, its
 continuation may include parts of more than one script. For example, if
 we make a custom square block
 
 and then use that block in a script:
 
-![](image880.png){width="0.7291666666666666in"
-height="0.59375in"}then the continuation of the first use of move 100
+![](image880.png){width="0.7291666666666666in" height="0.59375in"}then the continuation of the first use of move 100
 steps is
 
-![](image881.png){width="1.6666666666666667in"
-height="1.2604166666666667in"}in which part comes from inside the square
+![](image881.png){width="1.6666666666666667in" height="1.2604166666666667in"}in which part comes from inside the square
 block and part comes from the call to square. Nevertheless, ordinarily
 when we *display* a continuation we show only the part within the
 current script.
 
-![](image882.png){width="2.1875in"
-height="0.5729166666666666in"}The continuation of a command block, as
+![](image882.png){width="2.1875in" height="0.5729166666666666in"}The continuation of a command block, as
 we've seen, is a simple script with no input slots. But the continuation
 of a *reporter* block has to do something with the value reported by the
 block, so it takes that value as input. For example, in the script
 
 the continuation of the 3+4 block is
 
-![](image883.png){width="3.5729166666666665in"
-height="0.5729166666666666in"}Of course the name result in that picture
+![](image883.png){width="3.5729166666666665in" height="0.5729166666666666in"}Of course the name result in that picture
 is arbitrary; any name could be used, or no name at all by using the
 empty-slot notation for input substitution.
 
@@ -4290,8 +3887,7 @@ Continuation Passing Style
 
 Like all programming languages, Snap*!* evaluates compositions of nested
 reporters from the inside out. For example, in the expression
-![](image884.png){width="1.3125in"
-height="0.22916666666666666in"}Snap*!* first adds 4 and 5, then
+![](image884.png){width="1.3125in" height="0.22916666666666666in"}Snap*!* first adds 4 and 5, then
 multiplies 3 by that sum. This often means that the order in which the
 operations are done is backwards from the order in which they appear in
 the expression: When reading the above expression you say "times" before
@@ -4301,16 +3897,13 @@ say, "take the sum of four and five, and then take the product of three
 and that sum." This sounds more awkward, but it has the virtue of
 putting the operations in the order in which they're actually performed.
 
-![](image885.png){width="3.1875in"
-height="0.3541666666666667in"}That may seem like overkill in a simple
+![](image885.png){width="3.1875in" height="0.3541666666666667in"}That may seem like overkill in a simple
 expression, but suppose you're trying to convey the expression
 
 to a friend over the phone. If you say "factorial of three times
 factorial of two plus two plus five" you might mean any of these:
 
-![](image886.png){width="3.1875in"
-height="1.71875in"}![](image894.png){width="7.490277777777778in"
-height="3.622916666666667in"}Wouldn't it be better to say, "Add two and
+![](image886.png){width="3.1875in" height="1.71875in"}![](image894.png){width="7.490277777777778in" height="3.622916666666667in"}Wouldn't it be better to say, "Add two and
 two, take the factorial of that, add five to that, multiply three by
 that, and take the factorial of the result"? We can do a similar
 reordering of an expression if we first define versions of all the
@@ -4318,16 +3911,13 @@ reporters that take their continuation as an explicit input. In the
 following picture, notice that the new blocks are *commands*, not
 reporters.
 
-![](image904.png){width="4.052777777777778in"
-height="1.6354166666666667in"}We can check that these blocks give the
+![](image904.png){width="4.052777777777778in" height="1.6354166666666667in"}We can check that these blocks give the
 results we want:
 
-![](image908.png){width="5.533333333333333in"
-height="2.3180555555555555in"}The original expression can now be
+![](image908.png){width="5.533333333333333in" height="2.3180555555555555in"}The original expression can now be
 represented as
 
-![](image909.png){width="2.1930555555555555in"
-height="1.0527777777777778in"}If you read this top to bottom, don't you
+![](image909.png){width="2.1930555555555555in" height="1.0527777777777778in"}If you read this top to bottom, don't you
 get "Add two and two, take the factorial of that, add five to that,
 multiply three by that, and take the factorial of the result"? Just what
 we wanted! This way of working, in which every block is a command that
@@ -4381,9 +3971,7 @@ Here's the classic example. We want to write a recursive block that
 takes a list of numbers as input, and reports the product of all the
 numbers:
 
-![](image910.png){width="3.8958333333333335in"
-height="1.9375in"}![](image911.png){width="3.8958333333333335in"
-height="1.3416666666666666in"}But we can improve the efficiency of this
+![](image910.png){width="3.8958333333333335in" height="1.9375in"}![](image911.png){width="3.8958333333333335in" height="1.3416666666666666in"}But we can improve the efficiency of this
 block, in the case of a list that includes a zero; as soon as we see the
 zero, we know that the entire product is zero.
 
@@ -4392,26 +3980,20 @@ the list 1,2,3,0,4,5. We find the zero on the third recursive call (the
 fourth call altogether), as the first item of the sublist 0,4,5. What is
 the continuation of the report 0 block? It's
 
-![](image912.png){width="4.333333333333333in"
-height="0.4166666666666667in"}Even though we already know that result is
+![](image912.png){width="4.333333333333333in" height="0.4166666666666667in"}Even though we already know that result is
 zero, we're going to do three unnecessary multiplications while
 unwinding the recursive calls.
 
-![](image913.png){width="4.038194444444445in"
-height="1.9256944444444444in"}![](image914.png){width="3.9451388888888888in"
-height="1.0979166666666667in"}We can improve upon this by capturing the
+![](image913.png){width="4.038194444444445in" height="1.9256944444444444in"}![](image914.png){width="3.9451388888888888in" height="1.0979166666666667in"}We can improve upon this by capturing the
 continuation of the top-level call to product:
 
-![](image915.png){width="2.7083333333333335in"
-height="0.2916666666666667in"}The
-![](image916.png){width="1.59125in"
-height="0.18611111111111112in"} block takes as its input a one-input
+![](image915.png){width="2.7083333333333335in" height="0.2916666666666667in"}The
+![](image916.png){width="1.59125in" height="0.18611111111111112in"} block takes as its input a one-input
 script, as shown in the product example. It calls that script with *the
 continuation of the* call-with-continuation *block itself* as its input.
 In this case, that continuation is
 
-![](image917.png){width="4.40625in"
-height="1.15625in"}reporting to whichever script called product. If the
+![](image917.png){width="4.40625in" height="1.15625in"}reporting to whichever script called product. If the
 input list doesn't include a zero, then nothing is ever done with that
 continuation, and this version works just like the original product. But
 if the input list is 1,2,3,0,4,5, then three recursive calls are made,
@@ -4420,8 +4002,7 @@ input of 0. The continuation immediately reports that 0 to the caller of
 product, *without* unwinding all the recursive calls and without the
 unnecessary multiplications.
 
-![](image918.png){width="4.385416666666667in"
-height="0.5104166666666666in"}I could have written product a little more
+![](image918.png){width="4.385416666666667in" height="0.5104166666666666in"}I could have written product a little more
 simply using a Reporter ring instead of a Command ring:
 
 but it's customary to use a script to represent the input to
@@ -4438,15 +4019,13 @@ w/continuation is an input.
 
 ###  Nonlocal exit
 
-![](image919.png){width="6.268055555555556in"
-height="1.125in"}Many programming languages have a break command that
+![](image919.png){width="6.268055555555556in" height="1.125in"}Many programming languages have a break command that
 can be used inside a looping construct such as repeat to end the
 repetition early. Using first class continuations, we can generalize
 this mechanism to allow nonlocal exit even within a block called from
 inside a loop, or through several levels of nested loops:
 
-![](image923.png){width="1.8541666666666667in"
-height="2.6534722222222222in"}The upvar break has as its value a
+![](image923.png){width="1.8541666666666667in" height="2.6534722222222222in"}The upvar break has as its value a
 continuation that can be called from anywhere in the program to jump
 immediately to whatever comes after the catch block in its script.
 Here's an example with two nested invocations of catch, with the upvar
@@ -4457,8 +4036,7 @@ and think "Hmm." If in the run block the variable break is used instead
 of outer, then the script will say 1, 2, 3, and "Hello!" before thinking
 "Hmm."
 
-![](image924.png){width="4.354166666666667in"
-height="1.4708333333333334in"}There are corresponding catch and throw
+![](image924.png){width="4.354166666666667in" height="1.4708333333333334in"}There are corresponding catch and throw
 blocks for reporters. The catch block is a reporter that takes an
 expression as input instead of a C-shaped slot. But the throw block is a
 command; it doesn't report a value to its own continuation, but instead
@@ -4484,9 +4062,7 @@ command (a *thread* is the technical term for the process of running a
 script), which switches to another script without remembering the old
 one.
 
-![](image928.png){width="2.9479166666666665in"
-height="4.254166666666666in"}![](image929.png){width="6.5569444444444445in"
-height="2.770138888888889in"}Since this all happens automatically, there
+![](image928.png){width="2.9479166666666665in" height="4.254166666666666in"}![](image929.png){width="6.5569444444444445in" height="2.770138888888889in"}Since this all happens automatically, there
 is generally no need for the user to think about threads. But, just to
 show that this, too, is not magic, here is an implementation of a simple
 thread system. It uses a global variable named tasks that initially
@@ -4523,15 +4099,13 @@ input and reports the block's definition, i.e., its inputs and body, in
 the form of a ring with named inputs corresponding to the block's input
 names, so that those input names are bound in the body.
 
-![](image939.png){width="7.4in"
-height="2.51in"}The split by blocks block takes any expression or script
+![](image939.png){width="7.4in" height="2.51in"}The split by blocks block takes any expression or script
 as input (ringed) and reports a list representing a *syntax tree* for
 the script or expression, in which the first item is a block with no
 inputs and the remaining items are the input values, which may
 themselves be syntax trees.
 
-![](image943.png){width="7.496969597550306in"
-height="2.079861111111111in"}Using split by blocks to select custom
+![](image943.png){width="7.496969597550306in" height="2.079861111111111in"}Using split by blocks to select custom
 blocks whose definitions contain another block gives us this debugging
 aid:
 
@@ -4543,8 +4117,7 @@ custom? of block, which reports True if its input is a custom block.
 Writing a block
 ---------------
 
-![](image947.png){width="6.071211723534558in"
-height="2.209722222222222in"}The inverse function to split by blocks is
+![](image947.png){width="6.071211723534558in" height="2.209722222222222in"}The inverse function to split by blocks is
 provided by the join block, which when given a syntax tree as input
 reports the corresponding expression or script.
 
@@ -4574,11 +4147,9 @@ Note that the underscores are separated from the block text by spaces.
 Note in the case of the for block's label that the upvar (the i) and the
 C-slot both count as inputs. Note also that the label is not meant to be
 a unique symbol that represents only this block. For example,
-![](image628.png){width="0.8611111111111112in"
-height="0.19444444444444445in"} and ![A picture containing text, hitting
+![](image628.png){width="0.8611111111111112in" height="0.19444444444444445in"} and ![A picture containing text, hitting
 Description automatically
-generated](image376.png){width="1.15in"
-height="0.19in"} both have the label
+generated](image376.png){width="1.15in" height="0.19in"} both have the label
 
 \_ of \_. The label does not give the input slots names (that's done in
 the body, coming next) or types (that's done in the set \_ of block \_
@@ -4593,8 +4164,7 @@ other things to specify about the block, and one purpose of the block
 upvar is to allow that. In the example on the previous page, there are
 four
 
-![](image951.png){width="2.83in"
-height="0.97in"}set \_ of block \_ to \_ blocks, reproduced below for
+![](image951.png){width="2.83in" height="0.97in"}set \_ of block \_ to \_ blocks, reproduced below for
 your convenience:
 
 The category of the block can be set to any primitive or custom
@@ -4608,16 +4178,14 @@ ones in the is (5) a (number)? block. If there is only one input, you
 can use just the name instead of putting it in a list. An empty or
 missing list item means type Any.
 
-![](image952.png){width="4.31in"
-height="0.83in"}It\'s very important that these set blocks appear in the
+![](image952.png){width="4.31in" height="0.83in"}It\'s very important that these set blocks appear in the
 same script as the define that creates the block, because the block
 upvar is local to that script. You can't later say, for example,
 
 because the copy of the hexagon block in this instruction counts as
 "using" it.
 
-![](image953.png){width="2.6in"
-height="0.32in"}The of block reporter is useful to copy attributes from
+![](image953.png){width="2.6in" height="0.32in"}The of block reporter is useful to copy attributes from
 one block to another, as we copied the definition of square, modified
 it, and used it to define hexagon. Some of the values this block reports
 are a little unfriendly:
@@ -4630,36 +4198,25 @@ program using this block to another language, the numeric outputs won't
 change, simplifying comparisons in your code. The set block accepts
 these numbers as an alternative to the names.
 
-![](image954.png){width="3.379861111111111in"
-height="0.3798611111111111in"}![](image955.png){width="1.02in"
-height="0.25in"}There are a few more attributes of a block, less
+![](image954.png){width="3.379861111111111in" height="0.3798611111111111in"}![](image955.png){width="1.02in" height="0.25in"}There are a few more attributes of a block, less
 commonly used.
 
-![](image956.png){width="3.5194444444444444in"
-height="0.6194444444444445in"}![](image957.png){width="1.9314370078740157in"
-height="0.6102252843394576in"}![](image961.png){width="3.2909722222222224in"
-height="0.6097222222222223in"}![](image962.png){width="2.35in"
-height="2.56in"}![](image963.png){width="1.6694444444444445in"
-height="0.25in"}The list input is just like the one for set slots except
+![](image956.png){width="3.5194444444444444in" height="0.6194444444444445in"}![](image957.png){width="1.9314370078740157in" height="0.6102252843394576in"}![](image961.png){width="3.2909722222222224in" height="0.6097222222222223in"}![](image962.png){width="2.35in" height="2.56in"}![](image963.png){width="1.6694444444444445in" height="0.25in"}The list input is just like the one for set slots except
 for default values instead of types. Now for a block with a menu input:
 
-![](image964.png){width="4.169444444444444in"
-height="1.2694444444444444in"}We passed too quickly over how the script
+![](image964.png){width="4.169444444444444in" height="1.2694444444444444in"}We passed too quickly over how the script
 turned the square block into a hexagon block:
 
-![](image965.png){width="6.677272528433946in"
-height="3.6666666666666665in"}Those replace item blocks aren't very
+![](image965.png){width="6.677272528433946in" height="3.6666666666666665in"}Those replace item blocks aren't very
 elegant. I had to look at foo by hand to figure out where the numbers I
 wanted to change are. This situation can be improved with a little
 programming:
 
 Exercise for the reader: Implement this:![Graphical user interface
 Description automatically
-generated](image971.png){width="3.11in"
-height="0.57in"}
+generated](image971.png){width="3.11in" height="0.57in"}
 
-![](image972.png){width="7.501514654418198in"
-height="2.109722222222222in"}Returning to the define block, there's
+![](image972.png){width="7.501514654418198in" height="2.109722222222222in"}Returning to the define block, there's
 another reason for the block upvar: It's helpful in defining a recursive
 procedure using define. For a procedure to call itself, it needs a name
 for itself. But in the definition input to the define block, define
@@ -4671,10 +4228,7 @@ in the resulting definition. You could use this script directly in a
 simple case like this, but in a complicated case with a recursive call
 inside a ring inside the one giving the block definition, this script
 always means the innermost ring. But the upvar means the outer
-![](image978.png){width="7.5in"
-height="0.5354166666666667in"}![](image979.png){width="4.809722222222222in"
-height="0.4in"}![](image980.png){width="4.809722222222222in"
-height="1.4895833333333333in"}ring:
+![](image978.png){width="7.5in" height="0.5354166666666667in"}![](image979.png){width="4.809722222222222in" height="0.4in"}![](image980.png){width="4.809722222222222in" height="1.4895833333333333in"}ring:
 
 It's analogous to using explicit formal parameters when you nest calls
 to higher order functions.
@@ -4729,8 +4283,7 @@ In this chapter we describe in detail the various buttons, menus, and
 other clickable elements of the Snap*!* user interface. Here again is
 the map of the Snap*!* window:
 
-![](image987.png){width="7.494419291338582in"
-height="4.663194444444445in"}
+![](image987.png){width="7.494419291338582in" height="4.663194444444445in"}
 
 Tool Bar Features
 -----------------
@@ -4746,8 +4299,7 @@ them. But they're not secrets.
 The Snap*!* logo at the left end of the tool bar is clickable. It shows
 a menu of options about Snap*!* itself:
 
-![](image988.png){width="2.3292213473315835in"
-height="1.02in"}
+![](image988.png){width="2.3292213473315835in" height="1.02in"}
 
 The About option displays information about Snap*!* itself, including
 version numbers for the source modules, the implementors, and the
@@ -4771,8 +4323,7 @@ accounts is limited to the official version hosted at Berkeley.)
 
 ### The File Menu
 
-![](image384.png){width="0.3194444444444444in"
-height="0.18055555555555555in"}The file icon shows a menu mostly about
+![](image384.png){width="0.3194444444444444in" height="0.18055555555555555in"}The file icon shows a menu mostly about
 saving and loading projects. You may not see all these options, if you
 don't have multiple sprites, scenes, custom blocks, and custom
 categories.
@@ -4796,8 +4347,7 @@ while others open a new browser window instead of a new project. You'll
 have to experiment. In general, the keyboard shortcuts in Snap*!* are
 the standard ones you expect in other software.
 
-![](image989.png){width="2.8895833333333334in"
-height="2.097916666666667in"}The Open... option shows a project open
+![](image989.png){width="2.8895833333333334in" height="2.097916666666667in"}The Open... option shows a project open
 dialog box in which you can choose a project to open:
 
 In this dialog, the three large buttons at the left select a source of
@@ -4810,12 +4360,10 @@ from that source; selecting a project by clicking shows its thumbnail (a
 picture of the stage when it was saved) and its project notes at the
 right.
 
-![](image990.png){width="2.7243055555555555in"
-height="1.9777777777777779in"}The search bar at the top can be used to
+![](image990.png){width="2.7243055555555555in" height="1.9777777777777779in"}The search bar at the top can be used to
 find a project by name or text in the project notes. So in this example:
 
-![](image991.png){width="2.723611111111111in"
-height="1.9777777777777779in"}I was looking for my ice cream projects
+![](image991.png){width="2.723611111111111in" height="1.9777777777777779in"}I was looking for my ice cream projects
 and typed "crea" in the search bar, then wondered why "ferris" matched.
 But then when I clicked on ferris I saw this:
 
@@ -4860,8 +4408,7 @@ you opened another user's shared project or an example project, the
 project will be saved to your own cloud account. You must be logged in
 to save to the cloud.)
 
-![](image992.png){width="3.236111111111111in"
-height="2.3493055555555555in"}The Save as... menu option opens a dialog
+![](image992.png){width="3.236111111111111in" height="2.3493055555555555in"}The Save as... menu option opens a dialog
 box in which you can specify where to save the project:
 
 This is much like the Open dialog, except for the horizontal text box at
@@ -4931,8 +4478,7 @@ categories. It opens a very small, easy-to-miss menu of category names
 just under the file icon in the menu bar. If you remove a category that
 has blocks in it, all those blocks are also removed.
 
-![](image993.png){width="1.1666666666666667in"
-height="0.19791666666666666in"}The next group of options concern the
+![](image993.png){width="1.1666666666666667in" height="0.19791666666666666in"}The next group of options concern the
 *scenes* feature, new in Snap*!* 7.0. A scene is a complete project,
 with its own stage, sprites, and code, but several can be merged into
 one project, using the block to bring another scene onscreen. The
@@ -4945,16 +4491,14 @@ specify that you're importing the project *as a scene* rather than
 replacing the current project.)
 
 The Libraries... option presents a menu of useful, optional block
-libraries:![](image385.png){width="7.401388888888889in"
-height="3.238888888888889in"}
+libraries:![](image385.png){width="7.401388888888889in" height="3.238888888888889in"}
 
 When you click on the one-line description of a library, you are shown
 the actual blocks in the library and a longer explanation of its
 purpose. You can browse the libraries to find one that will satisfy your
 needs. The libraries are described in detail in Section I.H, page 25.
 
-![](image994.png){width="4.28125in"
-height="3.2395833333333335in"}The Costumes... option opens a browser
+![](image994.png){width="4.28125in" height="3.2395833333333335in"}The Costumes... option opens a browser
 into the costume library:
 
 You can import a single costume by clicking it and then clicking the
@@ -4967,8 +4511,7 @@ If you have the stage selected in the sprite corral, rather than a
 sprite, the Costumes... option changes to a Backgrounds... option, with
 different choices in the browser:
 
-![](image995.png){width="4.28125in"
-height="3.2395833333333335in"}The costume and background libraries
+![](image995.png){width="4.28125in" height="3.2395833333333335in"}The costume and background libraries
 include both bitmap (go jagged if enlarged) and vector (enlarge
 smoothly) images. Thanks to Scratch 2.0/3.0 for most of these images!
 Some older browsers refuse to import a vector image, but instead convert
@@ -4976,8 +4519,7 @@ it to bitmap.
 
 The Sounds... option opens the third kind of media browser:
 
-![](image996.png){width="4.28125in"
-height="3.2395833333333335in"}The Play buttons can be used to preview
+![](image996.png){width="4.28125in" height="3.2395833333333335in"}The Play buttons can be used to preview
 the sounds.
 
 Finally, the Undelete sprites... option appears only if you have deleted
@@ -4986,10 +4528,7 @@ a sprite; it allows you to recover a sprite that was deleted by accident
 
 ### The Cloud Menu
 
-![](image997.png){width="1.4368055555555554in"
-height="0.7597222222222222in"}![](image998.png){width="0.2916666666666667in"
-height="0.16666666666666666in"}![](image489.png){width="0.6645833333333333in"
-height="0.1673611111111111in"}The cloud icon shows a menu of options
+![](image997.png){width="1.4368055555555554in" height="0.7597222222222222in"}![](image998.png){width="0.2916666666666667in" height="0.16666666666666666in"}![](image489.png){width="0.6645833333333333in" height="0.1673611111111111in"}The cloud icon shows a menu of options
 relating to your Snap*!* cloud account. If you are not logged in, you
 see the outline icon and get this menu:
 
@@ -5007,11 +4546,9 @@ email from outside the school.) The Open in Community Site option
 appears only if you have a project open; it takes you to the community
 site page about that project.
 
-![](image1001.png){width="1.6111111111111112in"
-height="0.6527777777777778in"}If you are already logged in, you'll see
+![](image1001.png){width="1.6111111111111112in" height="0.6527777777777778in"}If you are already logged in, you'll see
 the solid icon
-![](image1002.png){width="0.2916666666666667in"
-height="0.16666666666666666in"} and get this menu:
+![](image1002.png){width="0.2916666666666667in" height="0.16666666666666666in"} and get this menu:
 
 Logout is obvious, but has the additional benefit of showing you who's
 logged in. Change password... will ask for your old password (the
@@ -5021,9 +4558,7 @@ is the same as above.
 
 ###  The Settings Menu
 
-![](image1003.png){width="1.2479166666666666in"
-height="2.5833333333333335in"}![](image1004.png){width="0.2916666666666667in"
-height="0.16666666666666666in"}The settings icon shows a menu of Snap*!*
+![](image1003.png){width="1.2479166666666666in" height="2.5833333333333335in"}![](image1004.png){width="0.2916666666666667in" height="0.16666666666666666in"}The settings icon shows a menu of Snap*!*
 options, either for the current project or for you permanently,
 depending on the option:
 
@@ -5044,8 +4579,7 @@ zoom of 2 is gigantic! Don't even try 10.
 The Fade blocks... option opens a dialog in which you can change the
 appearance of blocks:
 
-![](image1005.png){width="7.4847222222222225in"
-height="2.577777777777778in"}Mostly this is a propaganda aid to use on
+![](image1005.png){width="7.4847222222222225in" height="2.577777777777778in"}Mostly this is a propaganda aid to use on
 people who think that text languages are somehow better or more grown up
 than block languages, but some people do prefer less saturated block
 colors. You can use the pulldown menu for preselected fadings, use the
@@ -5073,9 +4607,7 @@ collect private information about you, or to delete or modify your saved
 projects, you must enable JavaScript *each time* you load a project that
 uses it.
 
-![](image1015.png){width="1.1895833333333334in"
-height="0.18958333333333333in"}![](image1016.png){width="1.229861111111111in"
-height="0.25972222222222224in"}The Extension blocks option adds two
+![](image1015.png){width="1.1895833333333334in" height="0.18958333333333333in"}![](image1016.png){width="1.229861111111111in" height="0.25972222222222224in"}The Extension blocks option adds two
 blocks to the palette:
 
 These blocks provide assorted capabilities to official libraries that
@@ -5083,9 +4615,7 @@ were formerly implemented with the JavaScript function block. This
 allows these libraries to run without requiring the JavaScript
 extensions option. Details are subject to change.
 
-![](image1017.png){width="1.104861111111111in"
-height="2.0833333333333335in"}![](image1018.png){width="1.6388888888888888in"
-height="0.4131944444444444in"}Input sliders provides an alternate way to
+![](image1017.png){width="1.104861111111111in" height="2.0833333333333335in"}![](image1018.png){width="1.6388888888888888in" height="0.4131944444444444in"}Input sliders provides an alternate way to
 put values in numeric input slots; if you click in such a slot, a slider
 appears that you can control with the mouse:
 
@@ -5204,8 +4734,7 @@ The feature doesn't know about any particular other language; instead,
 you can provide a translation for each primitive block using these
 special blocks:
 
-![](image1019.png){width="3.120644138232721in"
-height="0.5451388888888888in"}
+![](image1019.png){width="3.120644138232721in" height="0.5451388888888888in"}
 
 Using these primitive blocks, you can build a block library to translate
 into any programming language. Watch for such libraries to be added to
@@ -5214,9 +4743,7 @@ the project "Codification" in the Examples project list. Edit the blocks
 map to Smalltalk, map to JavaScript, etc., to see examples of how to
 provide translations for blocks.
 
-![](image1021.png){width="2.209722222222222in"
-height="4.969444444444444in"}![](image1022.png){width="1.38in"
-height="4.79in"}The Single palette option puts all blocks, regardless of
+![](image1021.png){width="2.209722222222222in" height="4.969444444444444in"}![](image1022.png){width="1.38in" height="4.79in"}The Single palette option puts all blocks, regardless of
 category, into a single palette. It's intended mainly for use by
 curriculum developers building *Parsons problems:* projects in which
 only a small set of blocks are provided, and the task is to arrange
@@ -5227,10 +4754,8 @@ appear in the settings menu; the Show categories option controls the
 appearance of the palette category names such as
 ![](image1023.png){width="0.36in" height="0.16in"}
 and ![A picture containing logo Description automatically
-generated](image1024.png){width="0.33in"
-height="0.18in"}, while the Show buttons option controls the appearance
-of the ![](image1025.png){width="0.61in"
-height="0.16in"} and
+generated](image1024.png){width="0.33in" height="0.18in"}, while the Show buttons option controls the appearance
+of the ![](image1025.png){width="0.61in" height="0.16in"} and
 ![](image1026.png){width="0.53in" height="0.16in"}
 buttons in the palette.
 
@@ -5249,19 +4774,14 @@ teacher-approved ways. But kids can uncheck the checkbox. ☺︎
 
 ### Visible Stepping Controls
 
-![](image121.png){width="0.37916666666666665in"
-height="0.21666666666666667in"}After the menu buttons you'll see the
+![](image121.png){width="0.37916666666666665in" height="0.21666666666666667in"}After the menu buttons you'll see the
 project name. After that comes the footprint button used to turn on
 visible stepping and, when it's on, the slider to control the speed of
 stepping.
 
 ### Stage Resizing Buttons
 
-![](image1027.png){width="0.37916666666666665in"
-height="0.21666666666666667in"}![](image1028.png){width="0.37916666666666665in"
-height="0.21666666666666667in"}![](image1029.png){width="0.37916666666666665in"
-height="0.21666666666666667in"}![](image1030.png){width="0.37916666666666665in"
-height="0.21666666666666667in"}Still in the tool bar, but above the left
+![](image1027.png){width="0.37916666666666665in" height="0.21666666666666667in"}![](image1028.png){width="0.37916666666666665in" height="0.21666666666666667in"}![](image1029.png){width="0.37916666666666665in" height="0.21666666666666667in"}![](image1030.png){width="0.37916666666666665in" height="0.21666666666666667in"}Still in the tool bar, but above the left
 edge of the stage, are two buttons that change the size of the stage.
 The first is the shrink/grow button. Normally it looks like this:
 Clicking the button displays the stage at half-normal size horizontally
@@ -5285,8 +4805,7 @@ mode.
 Above the right edge of the stage are three buttons that control the
 running of the project.
 
-![](image1031.png){width="0.38in"
-height="0.22in"}Technically, the green flag is no more a project control
+![](image1031.png){width="0.38in" height="0.22in"}Technically, the green flag is no more a project control
 than anything else that can trigger a hat block: typing on the keyboard
 or clicking on a sprite. But it's a convention that clicking the flag
 should start the action of the project from the beginning. It's only a
@@ -5294,25 +4813,18 @@ convention; some projects have no flag-controlled scripts at all, but
 respond to keyboard controls instead. Clicking the green flag also
 deletes temporary clones.
 
-![](image1032.png){width="0.35in"
-height="0.2in"}Whenever any script is running (not necessarily in the
+![](image1032.png){width="0.35in" height="0.2in"}Whenever any script is running (not necessarily in the
 current sprite), the green flag is lit: .
 
-![](image1033.png){width="0.35in"
-height="0.2in"}![](image1034.png){width="1.3590277777777777in"
-height="0.8840277777777777in"}Shift-clicking the button enters Turbo
+![](image1033.png){width="0.35in" height="0.2in"}![](image1034.png){width="1.3590277777777777in" height="0.8840277777777777in"}Shift-clicking the button enters Turbo
 mode, and the button then looks like a lightning bolt: . Shift-clicking
 again turns Turbo mode off.
 
-![](image1038.png){width="0.37916666666666665in"
-height="0.21666666666666667in"}Scripts can simulate clicking the green
+![](image1038.png){width="0.37916666666666665in" height="0.21666666666666667in"}Scripts can simulate clicking the green
 flag by broadcasting the special message
-![](image1039.png){width="0.3055555555555556in"
-height="0.3055555555555556in"}.
+![](image1039.png){width="0.3055555555555556in" height="0.3055555555555556in"}.
 
-![](image1040.png){width="0.37916666666666665in"
-height="0.21666666666666667in"}![](image1041.png){width="0.37916666666666665in"
-height="0.21666666666666667in"}The pause button suspends running all
+![](image1040.png){width="0.37916666666666665in" height="0.21666666666666667in"}![](image1041.png){width="0.37916666666666665in" height="0.21666666666666667in"}The pause button suspends running all
 scripts. If clicked while scripts are running, the button changes shape
 to become a play button: Clicking it while in this form resumes the
 suspended scripts. There is also a pause all block in the Control
@@ -5321,8 +4833,7 @@ provides the essence of a breakpoint debugging capability. The use of
 the pause button is slightly different in visible stepping mode,
 described in Chapter I.
 
-![](image1042.png){width="0.5486111111111112in"
-height="0.17708333333333334in"}The stop button stops all scripts, like
+![](image1042.png){width="0.5486111111111112in" height="0.17708333333333334in"}The stop button stops all scripts, like
 the stop all block. It does *not* prevent a script from starting again
 in response to a click or keystroke; the user interface is always
 active. There is one exception: generic when blocks will not fire after
@@ -5339,8 +4850,7 @@ and Other blocks). There are no menus behind these buttons.
 
 ### Buttons in the Palette
 
-![](image1043.png){width="0.2604166666666667in"
-height="0.2604166666666667in"}Under the eight palette selector buttons,
+![](image1043.png){width="0.2604166666666667in" height="0.2604166666666667in"}Under the eight palette selector buttons,
 at the top of the actual palette, are two semi-transparent buttons. The
 first is the *search* button, which is equivalent to typing control-F:
 It replaces the palette with a search bar into which you can type part
@@ -5348,15 +4858,13 @@ of the title text of the block you're trying to find. To leave this
 search mode, click one of the eight palette selectors, or type the
 Escape key.
 
-![](image1044.png){width="0.2604166666666667in"
-height="0.2604166666666667in"}The other button is equivalent to the
+![](image1044.png){width="0.2604166666666667in" height="0.2604166666666667in"}The other button is equivalent to the
 "Make a block" button, except that the dialog window that it opens has
 the current palette (color) preselected.
 
 ### Context Menus for Palette Blocks
 
-![](image1045.png){width="0.8611111111111112in"
-height="0.45902777777777776in"}Most elements of the Snap*!* display can
+![](image1045.png){width="0.8611111111111112in" height="0.45902777777777776in"}Most elements of the Snap*!* display can
 be control-clicked/right-clicked to show a *context menu,* with items
 relevant to that element. If you control-click/right-click a *primitive*
 block in the palette, you see this menu:
@@ -5364,17 +4872,14 @@ block in the palette, you see this menu:
 The help... option displays a box with documentation about the block.
 Here's an example:
 
-![](image1046.png){width="1.6229166666666666in"
-height="0.8888888888888888in"}![](image1047.png){width="3.3222222222222224in"
-height="2.4277777777777776in"}If you control-click/right-click a
+![](image1046.png){width="1.6229166666666666in" height="0.8888888888888888in"}![](image1047.png){width="3.3222222222222224in" height="2.4277777777777776in"}If you control-click/right-click a
 *custom* (user-defined) block in the palette, you see this menu:
 
 The help... option for a custom block displays the comment, if any,
 attached to the custom block's hat block in the Block Editor. Here is an
 example of a block with a comment and its help display:
 
-![](image1048.png){width="6.758333333333334in"
-height="2.451388888888889in"}If the help text includes a URL, it is
+![](image1048.png){width="6.758333333333334in" height="2.451388888888889in"}If the help text includes a URL, it is
 clickable and will open the page in a new tab.
 
 The delete block definition... option asks for confirmation, then
@@ -5401,12 +4906,10 @@ custom block.
 
 ### Context Menu for the Palette Background
 
-![](image1052.png){width="0.9895833333333334in"
-height="0.5895833333333333in"}Right-click/control-click on the grey
+![](image1052.png){width="0.9895833333333334in" height="0.5895833333333333in"}Right-click/control-click on the grey
 *background* of the palette area shows this menu:
 
-![](image1053.png){width="1.6in"
-height="2.1597222222222223in"}The find blocks... option does the same
+![](image1053.png){width="1.6in" height="2.1597222222222223in"}The find blocks... option does the same
 thing as the magnifying-glass button. The hide blocks... option opens a
 dialog box in which you can choose which blocks (custom as well as
 primitive) should be hidden. (Within that dialog box, the context menu
@@ -5417,15 +4920,12 @@ snap extensions, lets you add custom *categories* to the palette. It
 opens a small dialog window in which you specify a name *and a color*
 for the new category:
 
-![](image1054.png){width="1.429861111111111in"
-height="2.9097222222222223in"}![](image1055.png){width="1.53in"
-height="1.13in"}Pick a dark color, because it will be lightened for
+![](image1054.png){width="1.429861111111111in" height="2.9097222222222223in"}![](image1055.png){width="1.53in" height="1.13in"}Pick a dark color, because it will be lightened for
 zebra coloring when users nest blocks of the same category. Custom
 categories are shown below the built-in categories in the category
 selector:
 
-![](image1056.png){width="1.35in"
-height="1.8395833333333333in"}This example comes from Eckart Modrow's
+![](image1056.png){width="1.35in" height="1.8395833333333333in"}This example comes from Eckart Modrow's
 SciSnap*!* library. Note that the custom category list has its own
 scroll bar, which appears if you have more than six custom categories.
 Note also that the buttons to select a custom category occupy the full
@@ -5446,8 +4946,7 @@ Palette Resizing**
 
 At the right end of the palette area, just to the left of the scripting
 area, is a resizing
-handle![](image1057.png){width="1.4166666666666667in"
-height="1.5138888888888888in"} that can be dragged rightward to increase
+handle![](image1057.png){width="1.4166666666666667in" height="1.5138888888888888in"} that can be dragged rightward to increase
 the width of the palette area. This is useful if you write custom blocks
 with very long names. You can't reduce the width of the palette below
 its standard value.
@@ -5471,8 +4970,7 @@ appearance is different, with some primitives not shown.
 At the top of the scripting area are a picture of the sprite and some
 controls for it:
 
-![](image1058.png){width="3.486111111111111in"
-height="1.0416666666666667in"}
+![](image1058.png){width="3.486111111111111in" height="1.0416666666666667in"}
 
 Note that the sprite picture reflects its rotation, if any. There are
 three things that can be controlled here:
@@ -5498,8 +4996,7 @@ under the player's control but others are not.
 
 ### Scripting Area Tabs
 
-![](image1059.png){width="3.0972222222222223in"
-height="0.25in"}Just below the sprite controls are three *tabs* that
+![](image1059.png){width="3.0972222222222223in" height="0.25in"}Just below the sprite controls are three *tabs* that
 determine what is shown in the scripting area:
 
 ### Scripts and Blocks Within Scripts
@@ -5520,15 +5017,12 @@ instances of the script are running. Clicking a script with such a halo
 inside a custom block used in the script, then Snap*!* may not respond
 immediately to clicks.)
 
-![](image1060.png){width="0.3333333333333333in"
-height="0.2604166666666667in"}If a script is shown with a *red* halo,
+![](image1060.png){width="0.3333333333333333in" height="0.2604166666666667in"}If a script is shown with a *red* halo,
 that means that an error was caught in that script, such as using a list
 where a number was needed, or vice versa. Clicking the script will turn
 off the halo.
 
-![](image1061.png){width="0.3125in"
-height="0.23958333333333334in"}![](image1062.png){width="0.3333333333333333in"
-height="0.2604166666666667in"}If any blocks have been dragged into the
+![](image1061.png){width="0.3125in" height="0.23958333333333334in"}![](image1062.png){width="0.3333333333333333in" height="0.2604166666666667in"}If any blocks have been dragged into the
 scripting area, then in its top right corner you'll see an *undo* and/or
 *redo* button that can be used to undo or redo block and script drops.
 When you undo a drop into an input slot, whatever used to be in the slot
@@ -5539,9 +5033,7 @@ The third button starts keyboard editing mode (Section D, page 130).
 Control-click/right-clicking a primitive block within a script shows a
 menu like this one:
 
-![](image1063.png){width="0.6208333333333333in"
-height="1.0625in"}![](image1064.png){width="0.6263888888888889in"
-height="1.0902777777777777in"}
+![](image1063.png){width="0.6208333333333333in" height="1.0625in"}![](image1064.png){width="0.6263888888888889in" height="1.0902777777777777in"}
 
 command block: reporter block:
 
@@ -5549,8 +5041,7 @@ The help... option shows the help screen for the block, just as in the
 palette. The other options appear only when a block is
 right-clicked/control-clicked in the scripting area.
 
-![](image1065.png){width="1.53in"
-height="2.13in"}Not every primitive block has a relabel... option. When
+![](image1065.png){width="1.53in" height="2.13in"}Not every primitive block has a relabel... option. When
 present, it allows the block to be replaced by another, similar block,
 keeping the input expressions in place. For example, here's what happens
 when you choose relabel... for an arithmetic operator:
@@ -5564,8 +5055,7 @@ feature to access them.
 Not every reporter has a compile option; it exists only for the higher
 order functions. When selected, a lightning bolt appears before the
 block name:
-![](image1066.png){width="1.4027777777777777in"
-height="0.2013888888888889in"} and Snap*!* tries to compile the function
+![](image1066.png){width="1.4027777777777777in" height="0.2013888888888889in"} and Snap*!* tries to compile the function
 inside the ring to JavaScript, so it runs at primitive speed. This works
 only for simple functions (but the higher order function still works
 even if the compilation doesn't). The function to be compiled must be
@@ -5626,8 +5116,7 @@ grey ring, meaning that the block(s) inside the ring are themselves
 data, as an input to a higher order procedure, rather than something to
 be evaluated within the script. See Chapter VI, Procedures as Data.
 
-![](image1067.png){width="0.9736111111111111in"
-height="1.2986111111111112in"}Clicking a *custom* block in a script
+![](image1067.png){width="0.9736111111111111in" height="1.2986111111111112in"}Clicking a *custom* block in a script
 gives a similar but different menu:
 
 The relabel... option for custom blocks shows a menu of other same-shape
@@ -5636,8 +5125,7 @@ custom block to a primitive block or vice versa. The two options at the
 bottom, for custom blocks only, are the same as in the palette. The
 other options are the same as for primitive commands.
 
-![](image1068.png){width="0.88125in"
-height="1.0833333333333333in"}If a reporter block is in the scripting
+![](image1068.png){width="0.88125in" height="1.0833333333333333in"}If a reporter block is in the scripting
 area, possibly with inputs included, but not itself serving as input to
 another block, then the menu is a little different again:
 
@@ -5655,12 +5143,10 @@ message.
 
 **Scripting Area Background Context Menu**
 
-![](image1069.png){width="1.2895833333333333in"
-height="1.2777777777777777in"}Control-click/right-click on the grey
+![](image1069.png){width="1.2895833333333333in" height="1.2777777777777777in"}Control-click/right-click on the grey
 striped background of the scripting area gives this menu:
 
-![](image1062.png){width="0.8416666666666667in"
-height="0.18819444444444444in"}The undrop option is a sort of "undo"
+![](image1062.png){width="0.8416666666666667in" height="0.18819444444444444in"}The undrop option is a sort of "undo"
 feature for the common case of dropping a block somewhere other than
 where you meant it to go. It remembers all the dragging and dropping
 you've done in this sprite's scripting area (that is, other sprites have
@@ -5675,15 +5161,13 @@ The clean up option rearranges the position of scripts so that they are
 in a single column, with the same left margin, and with uniform spacing
 between scripts. This is a good idea if you can't read your own project!
 
-![](image1072.png){width="1.3888888888888888in"
-height="0.7083333333333334in"}The add comment option puts a comment box,
+![](image1072.png){width="1.3888888888888888in" height="0.7083333333333334in"}The add comment option puts a comment box,
 like the picture to the right, in the scripting area. It's attached to
 the mouse, as with duplicating scripts, so you position the mouse where
 you want the comment and click to release it. You can then edit the text
 in the comment as desired.
 
-![](image1073.png){width="1.3888888888888888in"
-height="0.2361111111111111in"}You can drag the bottom right corner of
+![](image1073.png){width="1.3888888888888888in" height="0.2361111111111111in"}You can drag the bottom right corner of
 the comment box to resize it. Clicking the arrowhead at the top left
 changes the box to a single-line compact form, , so that you can have a
 number of collapsed comments in the scripting area and just expand one
@@ -5692,9 +5176,7 @@ of them when you want to read it in full.
 If you drag a comment over a block in a script, the comment will be
 attached to the block with a yellow line:
 
-![](image1074.png){width="1.4861111111111112in"
-height="0.8472222222222222in"}![](image1075.png){width="3.3333333333333335in"
-height="0.9333333333333333in"}Comments have their own context menu, with
+![](image1074.png){width="1.4861111111111112in" height="0.8472222222222222in"}![](image1075.png){width="3.3333333333333335in" height="0.9333333333333333in"}Comments have their own context menu, with
 obvious meanings:
 
 Back to the options in the menu for the background of the scripting area
@@ -5714,13 +5196,10 @@ keep scrolling down the palette if you make a lot of blocks.
 
 ### Controls in the Costumes Tab
 
-![](image1076.png){width="1.9631944444444445in"
-height="2.1319444444444446in"}If you click on the word "Costumes" under
+![](image1076.png){width="1.9631944444444445in" height="2.1319444444444446in"}If you click on the word "Costumes" under
 the sprite controls, you'll see something like this:
 
-![](image1077.png){width="0.37916666666666665in"
-height="0.21666666666666667in"}![](image1078.png){width="0.2916666666666667in"
-height="0.16666666666666666in"}The Turtle costume is always present in
+![](image1077.png){width="0.37916666666666665in" height="0.21666666666666667in"}![](image1078.png){width="0.2916666666666667in" height="0.16666666666666666in"}The Turtle costume is always present in
 every sprite; it is costume number 0. Other costumes can be painted
 within Snap*!* or imported from files or other browser tabs if your
 browser supports that. Clicking on a costume selects it; that is, the
@@ -5734,21 +5213,18 @@ This works only if you give Snap*!* permission to use the camera, and
 maybe only if you opened Snap*!* in secure (HTTPS) mode, and then only
 if your browser loves you.
 
-![](image1079.png){width="3.5694444444444446in"
-height="3.1805555555555554in"} *Brian's bedroom when he's staying at
+![](image1079.png){width="3.5694444444444446in" height="3.1805555555555554in"} *Brian's bedroom when he's staying at
 Paul's house.*
 
 Control-clicking/right-clicking on the turtle picture gives this menu:
 
-![](image1080.png){width="1.0555555555555556in"
-height="0.9027777777777778in"}In this menu, you choose the turtle's
+![](image1080.png){width="1.0555555555555556in" height="0.9027777777777778in"}In this menu, you choose the turtle's
 *rotation point,* which is also the point from which the turtle draws
 lines. The two pictures below show what the stage looks like after
 drawing a square in each mode; tip (otherwise known as "Jens mode") is
 on the left in the pictures below, middle ("Brian mode") on the right:
 
-![](image1081.png){width="3.134027777777778in"
-height="1.1743055555555555in"}As you see, "tip" means the front tip of
+![](image1081.png){width="3.134027777777778in" height="1.1743055555555555in"}As you see, "tip" means the front tip of
 the arrowhead; "middle" is not the middle of the shaded region, but
 actually the middle of the four vertices, the concave one. (If the shape
 were a simple isosceles triangle instead of a fancier arrowhead, it
@@ -5760,8 +5236,7 @@ happen if you ask the turtle to turn 90 degrees from the position shown.
 (It's also the traditional rotation point of the Logo turtle, which
 originated this style of drawing.)
 
-![](image1085.png){width="0.9833333333333333in"
-height="1.3194444444444444in"}Costumes other than the turtle have a
+![](image1085.png){width="0.9833333333333333in" height="1.3194444444444444in"}Costumes other than the turtle have a
 different context menu:
 
 The edit option opens the Paint Editor on this costume. The rename
@@ -5777,8 +5252,7 @@ computer, in your usual downloads folder.
 You can drag costumes up and down in the Costumes tab in order to
 renumber them, so that next costume will behave as you prefer.
 
-![](image1086.png){width="1.2804921259842519in"
-height="0.8694444444444445in"}If you drag a *smart picture* of a script
+![](image1086.png){width="1.2804921259842519in" height="0.8694444444444445in"}If you drag a *smart picture* of a script
 into the Costumes tab, its icon will display the text "\</\>" in the
 corner to remind you that it includes code:
 
@@ -5787,8 +5261,7 @@ to the Scripts tab with the script ready to be dropped there.
 
 ### The Paint Editor
 
-![](image1088.png){width="3.938888888888889in"
-height="2.577777777777778in"}Here is a picture of a Paint Editor window:
+![](image1088.png){width="3.938888888888889in" height="2.577777777777778in"}Here is a picture of a Paint Editor window:
 
 If you've used any painting program, most of this will be familiar to
 you. Currently, costumes you import can be edited only if they are in a
@@ -5854,11 +5327,7 @@ to wave its arm, so you use two sprites connected together. You want the
 rotation point of the arm sprite to be at the end where it joins the
 body, so it remains attached to the shoulder while waving.)
 
-![](image1089.png){width="3.8361111111111112in"
-height="2.548611111111111in"}![](image1090.png){width="0.2152777777777778in"
-height="0.2152777777777778in"}![](image1091.png){width="0.2152777777777778in"
-height="0.2152777777777778in"}![](image1092.png){width="0.2152777777777778in"
-height="0.2152777777777778in"}The vector editor's controls are much like
+![](image1089.png){width="3.8361111111111112in" height="2.548611111111111in"}![](image1090.png){width="0.2152777777777778in" height="0.2152777777777778in"}![](image1091.png){width="0.2152777777777778in" height="0.2152777777777778in"}![](image1092.png){width="0.2152777777777778in" height="0.2152777777777778in"}The vector editor's controls are much like
 those in the bitmap editor. One point of difference is that the bitmap
 editor has two buttons for solid and outline rectangles, and similarly
 for ellipses, but in the vector editor there is always an edge color and
@@ -5873,8 +5342,7 @@ select all the shapes within that area.
 
 ### Controls in the Sounds Tab
 
-![](image1093.png){width="0.35in"
-height="0.2in"}There is no Sound Editor in Snap*!*, and also no current
+![](image1093.png){width="0.35in" height="0.2in"}There is no Sound Editor in Snap*!*, and also no current
 sound the way there's a current costume for each sprite. (The sprite
 always has an appearance unless hidden, but it doesn't sing unless
 explicitly asked.) So the context menu for sounds has only rename,
@@ -5882,8 +5350,7 @@ delete, and export options, and it has a clickable button labeled Play
 or Stop as appropriate. There is a sound *recorder,* which appears if
 you click the red record button ( ):
 
-![](image1094.png){width="2.325in"
-height="1.0333333333333334in"}The first, round button starts recording.
+![](image1094.png){width="2.325in" height="1.0333333333333334in"}The first, round button starts recording.
 The second, square button stops recording. The third, triangular button
 plays back a recorded sound. If you don't like the result, click the
 round button again to re-record. When you're satisfied, push the Save
@@ -5917,8 +5384,7 @@ area.
 When the script editor is running, its position is represented by a
 blinking white bar:
 
-![](image1095.png){width="2.2083333333333335in"
-height="1.59375in"}To leave the keyboard editor, type the escape key, or
+![](image1095.png){width="2.2083333333333335in" height="1.59375in"}To leave the keyboard editor, type the escape key, or
 just click on the background of the scripting area.
 
 ### Navigating in the keyboard editor
@@ -5938,8 +5404,7 @@ down to another command block, respectively.) Here is a sequence of
 pictures showing the results of repeated right arrow keys starting from
 the position shown above:
 
-![](image1096.png){width="7.313888888888889in"
-height="1.2527777777777778in"}You can rearrange scripts within the
+![](image1096.png){width="7.313888888888889in" height="1.2527777777777778in"}You can rearrange scripts within the
 scripting area from the keyboard. Typing shift-arrow keys (left, right,
 up, or down) will move the current script. If you move it onto another
 script, the two won't snap together; the one you're moving will overlap
@@ -5987,8 +5452,7 @@ point in the script. In either case, use the up and down arrow keys to
 navigate the menu, use the enter key to accept the highlighted entry, or
 use the escape key to leave the menu without choosing an option.
 
-![](image1104.png){width="1.5347222222222223in"
-height="1.6944444444444444in"}Typing any other character key (not
+![](image1104.png){width="1.5347222222222223in" height="1.6944444444444444in"}Typing any other character key (not
 special keys on fancy keyboards that do something other than generating
 a character) activates the *block search palette.* This palette, which
 is also accessible by typing control-F or command-F outside the keyboard
@@ -6007,8 +5471,7 @@ block. (When not in the keyboard editor, instead of navigating with the
 arrow keys, you drag the block you want into the script, as you would
 from any other palette.)
 
-![](image1105.png){width="2.8333333333333335in"
-height="0.8409722222222222in"}If you type an arithmetic operator (+-\*/)
+![](image1105.png){width="2.8333333333333335in" height="0.8409722222222222in"}If you type an arithmetic operator (+-\*/)
 or comparison operator (\<=\>) into the block search text box, you can
 type an arbitrarily complicated expression, and a collection of
 arithmetic operator blocks will be constructed to match:
@@ -6032,8 +5495,7 @@ sprites move.
 
 ### Sprites
 
-![](image1106.png){width="0.6013888888888889in"
-height="1.0833333333333333in"}Most sprites can be moved by clicking and
+![](image1106.png){width="0.6013888888888889in" height="1.0833333333333333in"}Most sprites can be moved by clicking and
 dragging them. (If you have unchecked the draggable checkbox for a
 sprite, then dragging it has no effect.) Control-clicking/right-clicking
 a sprite shows this context menu:
@@ -6053,8 +5515,7 @@ It doesn't actually change anything about the sprite, despite the name;
 it's just that making changes in the scripting area will change this
 sprite.
 
-![](image1107.png){width="0.6527777777777778in"
-height="0.8888888888888888in"}The move option shows a "move handle"
+![](image1107.png){width="0.6527777777777778in" height="0.8888888888888888in"}The move option shows a "move handle"
 inside the sprite (the diagonal striped square in the middle):
 
 You can ordinarily just grab and move the sprite without this option,
@@ -6065,14 +5526,12 @@ part moves the entire nested sprite.
 
 The rotate option displays a rotation menu:
 
-![](image1108.png){width="0.9333333333333333in"
-height="1.5833333333333333in"}You can choose one of the four compass
+![](image1108.png){width="0.9333333333333333in" height="1.5833333333333333in"}You can choose one of the four compass
 directions in the lower part (the same as in the point in direction
 block) or use the mouse to rotate the handle on the dial in 15°
 increments.
 
-![](image1109.png){width="0.6527777777777778in"
-height="0.8472222222222222in"}The pivot option shows a crosshair inside
+![](image1109.png){width="0.6527777777777778in" height="0.8472222222222222in"}The pivot option shows a crosshair inside
 the sprite:
 
 You can click and drag the crosshair anywhere onstage to set the
@@ -6101,8 +5560,7 @@ Right-clicking on a variable watcher shows this menu:
 The first section of the menu lets you choose one of three
 visualizations of the watcher:
 
-![](image1111.png){width="2.3159722222222223in"
-height="0.3263888888888889in"}
+![](image1111.png){width="2.3159722222222223in" height="0.3263888888888889in"}
 
 The first (normal) visualization is for debugging. The second (large) is
 for displaying information to the user of a project, often the score in
@@ -6143,8 +5601,7 @@ Control-clicking/right-clicking on the stage background (that is,
 anywhere on the stage except on a sprite or watcher) shows the stage's
 own context menu:
 
-![](image1117.png){width="0.8215277777777777in"
-height="0.8472222222222222in"}The stage's edit option selects the stage,
+![](image1117.png){width="0.8215277777777777in" height="0.8472222222222222in"}The stage's edit option selects the stage,
 so the stage's scripts and backgrounds are seen in the scripting area.
 Note that when the stage is selected, some blocks, especially the Motion
 ones, are not in the palette area because the stage can't move.
@@ -6172,10 +5629,7 @@ color regions made with the fill block.
 The Sprite Corral and Sprite Creation Buttons
 ---------------------------------------------
 
-![](image1077.png){width="0.37916666666666665in"
-height="0.20555555555555555in"}![](image1118.png){width="0.2916666666666667in"
-height="0.16666666666666666in"}![](image1119.png){width="0.2916666666666667in"
-height="0.16666666666666666in"}Between the stage and the sprite corral
+![](image1077.png){width="0.37916666666666665in" height="0.20555555555555555in"}![](image1118.png){width="0.2916666666666667in" height="0.16666666666666666in"}![](image1119.png){width="0.2916666666666667in" height="0.16666666666666666in"}Between the stage and the sprite corral
 at the bottom right of the Snap*!* window is a dark grey bar containing
 three buttons at the left and one at the right. The first three are used
 to create a new sprite. The first button makes a sprite with just the
@@ -6189,8 +5643,7 @@ the third button uses your camera, if possible, to make a costume for
 the new sprite.
 
 The trash can button
-![](image1120.png){width="0.2916666666666667in"
-height="0.1736111111111111in"} at the right has two uses. You can drag a
+![](image1120.png){width="0.2916666666666667in" height="0.1736111111111111in"} at the right has two uses. You can drag a
 sprite thumbnail onto it from the sprite corral to delete that sprite,
 or you can click it to undelete a sprite you deleted by accident.
 
@@ -6205,8 +5658,7 @@ the stage.
 You can right-click/control-click a sprite's thumbnail to get this
 context menu:
 
-![](image1121.png){width="0.6770833333333334in"
-height="1.1090277777777777in"}The show option makes the sprite visible,
+![](image1121.png){width="0.6770833333333334in" height="1.1090277777777777in"}The show option makes the sprite visible,
 if it was hidden, and also brings it onto the stage, if it had moved
 past the stage boundary. The next three options are the same as in the
 context menu of the actual sprite on the stage, discussed above.
@@ -6227,8 +5679,7 @@ being logged, there will also be an svg... option.
 If your project includes scenes, then under the stage icon in the sprite
 corral will be the *scene corral:*
 
-![](image1122.png){width="3.3333333333333335in"
-height="1.7083333333333333in"}Clicking on a scene will select it;
+![](image1122.png){width="3.3333333333333335in" height="1.7083333333333333in"}Clicking on a scene will select it;
 right-clicking will present a menu in which you can rename, delete, or
 export the scene.
 
@@ -6319,29 +5770,23 @@ at the following mirror sites:
  Appendix A. Snap*!* color library {#appendix-a.-snap-color-library .ListParagraph}
 =================
 
-![](image1123.png){width="5.8in"
-height="2.1791666666666667in"}The Colors and Crayons library provides
+![](image1123.png){width="5.8in" height="2.1791666666666667in"}The Colors and Crayons library provides
 several tools for manipulating color. Although its main purpose is
 controlling a sprite's pen color, it also establishes colors as a first
 class data type:
 
-![](image1129.png){width="3.1333333333333333in"
-height="0.5166666666666667in"}For people who just want colors in their
+![](image1129.png){width="3.1333333333333333in" height="0.5166666666666667in"}For people who just want colors in their
 projects without having to be color experts, we provide two simple
 mechanisms: a *color number* scale with a broad range of continuous
 color variation and a set of 100 *crayons* organized by color family
 (ten reds, ten oranges, etc.) The crayons include the block colors:
 
-![](image1130.png){width="7.166666666666667in"
-height="1.1in"}For experts, we provide color selection by RGB, HSL, HSV,
+![](image1130.png){width="7.166666666666667in" height="1.1in"}For experts, we provide color selection by RGB, HSL, HSV,
 X11/W3C names, and variants on those scales.
 
 ### Introduction to Color
 
-![](image1131.png){width="0.2361111111111111in"
-height="0.2361111111111111in"}![](image1132.png){width="0.4444444444444444in"
-height="0.2361111111111111in"}![](image1132.png){width="0.2361111111111111in"
-height="0.2361111111111111in"}Your computer monitor can display millions
+![](image1131.png){width="0.2361111111111111in" height="0.2361111111111111in"}![](image1132.png){width="0.4444444444444444in" height="0.2361111111111111in"}![](image1132.png){width="0.2361111111111111in" height="0.2361111111111111in"}Your computer monitor can display millions
 of colors, but you probably can't distinguish that many. For example,
 here's red 57, green 180, blue 200: And here's red 57, green *182,* blue
 200: You might be able to tell them apart if you see them side by side:
@@ -6371,15 +5816,11 @@ Wikipedia.
 
 ### Crayons and Color Numbers
 
-![](image1135.png){width="5.995833333333334in"
-height="0.825in"}But if you just want some colors in your project, we
+![](image1135.png){width="5.995833333333334in" height="0.825in"}But if you just want some colors in your project, we
 provide a simple, one-dimensional subset of the available colors. Two
 subsets, actually: *crayons* and *color numbers.* Here's the difference:
 
-![](image1138.png){width="0.2361111111111111in"
-height="0.2361111111111111in"}![](image1139.png){width="0.2361111111111111in"
-height="0.2361111111111111in"}![](image1140.png){width="0.2361111111111111in"
-height="0.2361111111111111in"}The first row shows 100 distinct colors.
+![](image1138.png){width="0.2361111111111111in" height="0.2361111111111111in"}![](image1139.png){width="0.2361111111111111in" height="0.2361111111111111in"}![](image1140.png){width="0.2361111111111111in" height="0.2361111111111111in"}The first row shows 100 distinct colors.
 They have names; this is pumpkin, and this is denim. You're supposed to
 think of them as a big box of 100 crayons. They're arranged in families:
 grays, pinks, reds, browns, oranges, etc. But they're not consistently
@@ -6389,12 +5830,9 @@ think "I want this to look like a really old-fashioned photo" and so
 you'd find sepia as crayon number 33. You don't have to memorize the
 numbers! You can find them in a menu with a submenu for each family.
 
-![](image1141.png){width="2.1597222222222223in"
-height="0.2569444444444444in"}![](image1142.png){width="7.55in"
-height="2.1527777777777777in"}Or, if you know the crayon name, just .
+![](image1141.png){width="2.1597222222222223in" height="0.2569444444444444in"}![](image1142.png){width="7.55in" height="2.1527777777777777in"}Or, if you know the crayon name, just .
 
-![](image1148.png){width="5.793055555555555in"
-height="0.3in"}The crayon numbers are chosen so that skipping by 10
+![](image1148.png){width="5.793055555555555in" height="0.3in"}The crayon numbers are chosen so that skipping by 10
 gives a sensible box of ten crayons:
 
 Alternatively, skipping by 5 gives a still-sensible set of twenty
@@ -6402,8 +5840,7 @@ crayons:
 
 ![](image1149.png){width="5.8in" height="0.3in"}
 
-![](image1150.png){width="6.245138888888889in"
-height="0.25625in"}The set of *color numbers* is arranged so that each
+![](image1150.png){width="6.245138888888889in" height="0.25625in"}The set of *color numbers* is arranged so that each
 color number is visually near each of its neighbors. Bright and dark
 colors alternate for each family. Color numbers range from 0 to 99, like
 crayon numbers, but you can use fractional numbers to get as tiny a step
@@ -6428,11 +5865,9 @@ data type.\
 There are three library blocks specifically about controlling the pen.
 They have the same names as three of the primitive Pen blocks:
 
-![](image401.png){width="6.066666666666666in"
-height="0.30833333333333335in"}
+![](image401.png){width="6.066666666666666in" height="0.30833333333333335in"}
 
-![](image1156.png){width="7.4875in"
-height="1.1in"}The first (Pen block-colored) input slot is used to
+![](image1156.png){width="7.4875in" height="1.1in"}The first (Pen block-colored) input slot is used to
 select which color scale you want to use. (These blocks also allow
 reading or setting two block properties that are not colors: the pen
 size and its transparency.) The pen reporter requires no other inputs;
@@ -6447,8 +5882,7 @@ of three or four numbers). It adds its numeric or list input to the
 current pen value(s), doing vector (item-by-item) addition for vector
 scales.
 
-![](image1162.png){width="7.491666666666666in"
-height="1.1069444444444445in"}The set pen block changes the pen color to
+![](image1162.png){width="7.491666666666666in" height="1.1069444444444445in"}The set pen block changes the pen color to
 the value(s) you specify. The meaning of the white input slots depends
 on which attribute of the pen you're setting:
 
@@ -6457,12 +5891,10 @@ In the last example, the number 37 sets the *transparency,* on the scale
 except for RGB components, which are 0--255.) A transparency value can
 be combined with any of these attribute scales.
 
-![](image414.png){width="5.383333333333334in"
-height="0.23333333333333334in"}The library also includes two
+![](image414.png){width="5.383333333333334in" height="0.23333333333333334in"}The library also includes two
 constructors and a selector for colors as a data type:
 
-![](image402.png){width="1.8055555555555556in"
-height="0.19444444444444445in"}The latter two are inverses of each
+![](image402.png){width="1.8055555555555556in" height="0.19444444444444445in"}The latter two are inverses of each
 other, translating between colors and their attributes. The color from
 block's attribute menu has fewer choices than the similar set pen block
 because you can, for example, set the Red value of the existing pen
@@ -6478,8 +5910,7 @@ block:
 
 Finally, the library includes the mix block and a helper:
 
-![](image1181.png){width="6.113194444444445in"
-height="0.23333333333333334in"}We'll have more to say about these after
+![](image1181.png){width="6.113194444444445in" height="0.23333333333333334in"}We'll have more to say about these after
 a detour through color theory.
 
 That's all you have to know about colors! *Crayons* for specific
@@ -6494,8 +5925,7 @@ of "hue," which more or less means where a color would appear in a
 rainbow (magenta, near the right, is [a long
 story](https://en.wikipedia.org/wiki/Magenta)):
 
-![](image1183.png){width="5.806666666666667in"
-height="0.30666666666666664in"}
+![](image1183.png){width="5.806666666666667in" height="0.30666666666666664in"}
 
 These are called "spectral" colors, after the *spectrum* of rainbow
 colors. But these colors aren't equally distributed. There's an awful
@@ -6517,14 +5947,12 @@ different human cultures give names to different color ranges.
 Nevertheless, in old Scratch projects, you'd say change pen color by 1
 and it'd take forever to reach a color that wasn't green.
 
-![](image1184.png){width="5.9944444444444445in"
-height="0.29930555555555555in"}For color professionals, there are good
+![](image1184.png){width="5.9944444444444445in" height="0.29930555555555555in"}For color professionals, there are good
 reasons to want to work with the physical rainbow hue layout. But for
 amateurs using a simplified, one-dimensional color model, there's no
 reason not to use a more programmer-friendly hue scale:
 
-![](image1185.png){width="1.4597222222222221in"
-height="1.3583333333333334in"}In this scale, each of the seven rainbow
+![](image1185.png){width="1.4597222222222221in" height="1.3583333333333334in"}In this scale, each of the seven rainbow
 colors and brown get an equal share. (Red's looks too small, but that's
 because it's split between the two ends: hue 0 is pure red, brownish
 reds are to its right, and purplish reds are wrapped around to the right
@@ -6535,11 +5963,7 @@ names were different in Isaac Newton's day, and the color he called
 "blue" is more like modern cyan, while his "indigo" is more like modern
 blue. See Wikipedia [Indigo](https://en.wikipedia.org/wiki/Indigo).)
 
-![](image1186.png){width="0.2361111111111111in"
-height="0.2361111111111111in"}![](image1187.png){width="0.2361111111111111in"
-height="0.2361111111111111in"}![](image1188.png){width="0.2361111111111111in"
-height="0.2361111111111111in"}![](image1189.png){width="0.2361111111111111in"
-height="0.2361111111111111in"}Our *color number* scale is based on fair
+![](image1186.png){width="0.2361111111111111in" height="0.2361111111111111in"}![](image1187.png){width="0.2361111111111111in" height="0.2361111111111111in"}![](image1188.png){width="0.2361111111111111in" height="0.2361111111111111in"}![](image1189.png){width="0.2361111111111111in" height="0.2361111111111111in"}Our *color number* scale is based on fair
 hues, adding a range of grays from black (color number 0) to white
 (color number14) and also adding *shades* of the spectral colors. (In
 color terminology, a *shade* is a darker version of a color; a lighter
@@ -6550,8 +5974,7 @@ admitted prejudice is supported by an objective fact: Most projects are
 made on a white background, so dark colors stand out better than light
 ones.
 
-![](image1190.png){width="5.999305555555556in"
-height="1.507638888888889in"}So, in our color number scale, color
+![](image1190.png){width="5.999305555555556in" height="1.507638888888889in"}So, in our color number scale, color
 numbers 0 to 14 are kinds of gray; the remaining color numbers go
 through the fair hues, but alternating full-strength colors with shades.
 
@@ -6562,8 +5985,7 @@ dimensions are different because it doesn't include the grays at the
 left. Since there are eight color families, the pure, named fair hues
 are at multiples of 100/8=12.5, starting with red=0.)
 
-![](image1192.png){width="1.85in"
-height="1.0798611111111112in"}White is crayon 14 and color number 14.
+![](image1192.png){width="1.85in" height="1.0798611111111112in"}White is crayon 14 and color number 14.
 This value was deliberately chosen *not* to be a multiple of 5 so that
 the every-fifth-crayon and every-tenth-crayon selections don't include
 it, so that all of the crayons in those smaller boxes are visible
@@ -6612,8 +6034,7 @@ the sprite.
 
 ### Perceptual Spaces: HSV and HSL
 
-![](image1193.png){width="0.7361111111111112in"
-height="0.7222222222222222in"}RGB is the right way to think about colors
+![](image1193.png){width="0.7361111111111112in" height="0.7222222222222222in"}RGB is the right way to think about colors
 if you're building or programming a display monitor; CMYK is the right
 way if you're building or programming a color printer. But neither of
 those coordinate systems is very intuitive if you're trying to
@@ -6626,8 +6047,7 @@ top right corner. Although no other point in the square is pure blue,
 you can tell at a glance that no other spectral color is mixed with the
 blue.
 
-![](image1194.png){width="2.691666666666667in"
-height="1.1902777777777778in"}Aside from hue, the other two dimensions
+![](image1194.png){width="2.691666666666667in" height="1.1902777777777778in"}Aside from hue, the other two dimensions
 of a color space have to represent how much white and/or black is mixed
 with the spectral color. (Bear in mind that "mixing black" is a metaphor
 when it comes to monitors. There really is black paint, but there's no
@@ -6648,10 +6068,7 @@ the saturation of the sprite's costume. (I speculate that the Scratch
 designers, like me, thought tints were less vivid than shades against a
 white background, so they made it harder to control tinting.)
 
-![](image1195.png){width="1.5638888888888889in"
-height="0.29305555555555557in"}![](image1196.png){width="1.5555555555555556in"
-height="0.2659722222222222in"}![](image1197.png){width="0.7638888888888888in"
-height="0.7638888888888888in"}But if you're looking at colors on a
+![](image1195.png){width="1.5638888888888889in" height="0.29305555555555557in"}![](image1196.png){width="1.5555555555555556in" height="0.2659722222222222in"}![](image1197.png){width="0.7638888888888888in" height="0.7638888888888888in"}But if you're looking at colors on a
 computer display, HSV isn't really a good match for human perception.
 Intuitively, black and white should be treated symmetrically. This is
 the HSL (hue-saturation-lightness) color space. *Saturation,* in HSL, is
@@ -6690,8 +6107,7 @@ standardization committee. I learned all this from [this
 tutorial](http://www.huevaluechroma.com/011.php), which you might find
 more coherent than jumping around Wikipedia if you're interested.
 
-![](image1198.png){width="1.64375in"
-height="0.8416666666666667in"}Although traditional Scratch and Snap*!*
+![](image1198.png){width="1.64375in" height="0.8416666666666667in"}Although traditional Scratch and Snap*!*
 use HSV in programs, they use HSL in the color picker. The horizontal
 axis is hue (fair hue, in this version) and the vertical axis is
 *lightness,* the scale with black at one end and white at the other end.
@@ -6702,9 +6118,7 @@ saturation (vividness) as the one to keep at 100%. (In this fair-hue
 picker, some colors appear twice: "spectral" (50% lightness) browns as
 shades (≈33% lightness) of red or orange, and shades of those browns.)
 
-![](image1199.png){width="0.20277777777777778in"
-height="0.20277777777777778in"}![](image1200.png){width="0.18888888888888888in"
-height="0.18888888888888888in"}Software that isn't primarily about
+![](image1199.png){width="0.20277777777777778in" height="0.20277777777777778in"}![](image1200.png){width="0.18888888888888888in" height="0.18888888888888888in"}Software that isn't primarily about
 colors (so, *not* including Photoshop, for example) typically use HSV or
 HSL, with web-based software more likely to use HSV because that's
 what's built into the JavaScript programming language provided by
@@ -6726,8 +6140,7 @@ functions apply to lists? The equivalent to adding numbers is mixing
 colors, but unfortunately there isn't a simple answer to what that
 means.
 
-![](image1201.png){width="4.347222222222222in"
-height="0.5625in"}The easiest kind of color mixing to understand is
+![](image1201.png){width="4.347222222222222in" height="0.5625in"}The easiest kind of color mixing to understand is
 *additive* mixing, which is what happens when you shine two colored
 lights onto a (white) wall. It's also what happens in your computer
 screen, where each dot (pixel) of an image is created by a tiny red
@@ -6745,8 +6158,7 @@ then *all three* values must be reduced by half, so the result is (255,
 128, 0), which is orange. (Half of 255 is 127.5, but each RGB value must
 be an integer.)
 
-![](image1205.png){width="4.492361111111111in"
-height="0.55in"}A different kind of color mixing based on light is done
+![](image1205.png){width="4.492361111111111in" height="0.55in"}A different kind of color mixing based on light is done
 when different colored transparent plastic sheets are held in front of a
 white light, as is done in theatrical lighting. In that situation, the
 light that gets through both filters is what remains after some light is
@@ -6774,8 +6186,7 @@ most of the colors other than red, so what's reflected off the surface
 is whatever isn't absorbed by the colors being mixed. But there can be
 an additive component also.
 
-![](image1209.gif){width="7.5in"
-height="0.875in"}The proper mathematical abstraction to describe a paint
+![](image1209.gif){width="7.5in" height="0.875in"}The proper mathematical abstraction to describe a paint
 is a *reflectance* graph, like this:
 
 (These aren't paints, but minerals, and one software-generated spectrum,
@@ -6786,8 +6197,7 @@ much more information than three RGB numbers.) To mix two paints
 properly, you multiply the *y* values (as fractions) at each matching
 *x* coordinate of the two graphs.
 
-![](image1221.png){width="4.627777777777778in"
-height="0.5763888888888888in"} Having said all that, the mix block takes
+![](image1221.png){width="4.627777777777778in" height="0.5763888888888888in"} Having said all that, the mix block takes
 the colors it is given as inputs and converts them into what we hope are
 *typical* paint reflectance spectra that would look like those colors,
 and then mixes those spectra and converts back to RGB.
@@ -6798,14 +6208,12 @@ depends on their chemical composition and how they're mixed. There are
 three more mixing options, but these three are the ones that correspond
 to real-world color mixing.
 
-![](image1225.png){width="4.340277777777778in"
-height="0.6527777777777778in"}The mix block will accept any number of
+![](image1225.png){width="4.340277777777778in" height="0.6527777777777778in"}The mix block will accept any number of
 colors, and will mix them in equal proportion. If (for any kind of
 mixing) you want more of one color than another, use the color at weight
 block to make a "weighted color":
 
-![](image1226.png){width="5.166666666666667in"
-height="0.4305555555555556in"}This mixes four parts red paint to one
+![](image1226.png){width="5.166666666666667in" height="0.4305555555555556in"}This mixes four parts red paint to one
 part green paint. All colors in a mixture can be weighted:
 
 (Thanks to [Scott
@@ -6816,9 +6224,7 @@ mistakes are bh's.)
 
 ### tl;dr
 
-![](image1227.png){width="1.9326388888888888in"
-height="2.220833333333333in"}![](image1231.png){width="2.227777777777778in"
-height="2.267361111111111in"}For normal people, Snap*!* provides three
+![](image1227.png){width="1.9326388888888888in" height="2.220833333333333in"}![](image1231.png){width="2.227777777777778in" height="2.267361111111111in"}For normal people, Snap*!* provides three
 simple, one-dimensional scales: *[crayons]{.underline}* for specific
 interesting colors, *[color numbers]{.underline}* for a continuum of
 high-contrast colors with a range of hues and shading, and *[fair
@@ -6827,13 +6233,11 @@ provides three-dimensional color spaces RGB, HSL, HSV, and fair-hue
 variants of the latter two. We recommend "fair HSL" for zeroing in on a
 desired color.
 
-![](image1235.png){width="1.5347222222222223in"
-height="1.8472222222222223in"}
+![](image1235.png){width="1.5347222222222223in" height="1.8472222222222223in"}
 
 ### ![](image1236.png){width="2.2111111111111112in" height="2.267361111111111in"}![](image1240.png){width="2.061111111111111in" height="2.2222222222222223in"}![](image1244.png){width="1.9152777777777779in" height="2.234722222222222in"} Subappendix: Geeky details on fair hue
 
-![](image1248.png){width="6.2375in"
-height="2.5in"}The left graph shows that, unsurprisingly, all of the
+![](image1248.png){width="6.2375in" height="2.5in"}The left graph shows that, unsurprisingly, all of the
 brown fair hues make essentially no progress in real hue, with the
 orange-brown section actually a little retrograde, since browns are
 really shades of orange and so the real hues overlap between fair browns
@@ -6877,16 +6281,14 @@ recommend HSL to users, because HSV comes to us directly from the
 JavaScript color management implementation.) This is why the set pen
 block includes options for "fair saturation" and so on.
 
-![](image1252.png){width="5.9875in"
-height="0.3784722222222222in"}For the extra-geeky, here are the exact
+![](image1252.png){width="5.9875in" height="0.3784722222222222in"}For the extra-geeky, here are the exact
 table lookup points (fair hue, \[0,100\]):
 
 and here are the RGB settings at those points:
 
 ### ![](image1253.png){width="5.9840277777777775in" height="1.3736111111111111in"} Subappendix: Geeky details on color numbers
 
-![](image1254.png){width="2.0833333333333335in"
-height="2.2916666666666665in"}Here is a picture of integer color
+![](image1254.png){width="2.0833333333333335in" height="2.2916666666666665in"}Here is a picture of integer color
 numbers, but remember that color numbers are continuous. (As usual,
 "continuous" values are ultimately converted to integer RGB values, so
 there's really some granularity.) Color numbers 0-14 are continuously
@@ -6925,8 +6327,7 @@ In the color number chart, all the dark color numbers look a lot like
 black, but they're quite different. Here are the darkest colors in each
 color number family.
 
-![](image1255.png){width="1.3888888888888888in"
-height="1.3888888888888888in"}Darkest yellow doesn't look entirely
+![](image1255.png){width="1.3888888888888888in" height="1.3888888888888888in"}Darkest yellow doesn't look entirely
 yellow. You might see it as greenish or brownish. As it turns out, the
 darkest color that really looks yellow is hardly dark at all. This color
 was hand-tweaked to look neither green nor brown to me, but ymmv.
@@ -6961,8 +6362,7 @@ color number 87.5 is the darkest one that's still unambiguously purple.
 Here are the reference points for color numbers that are multiples of
 five, except for item 4, which is used for color 14, not color 15:
 
-![](image1256.png){width="4.583333333333333in"
-height="1.2777777777777777in"}
+![](image1256.png){width="4.583333333333333in" height="1.2777777777777777in"}
 
  Appendix B. APL features {#appendix-b.-apl-features .ListParagraph}
 =================
@@ -7054,8 +6454,7 @@ later to include APL2 features.
 
 Here are some of the guiding ideas in the design of the APL library:
 
-![](image1257.png){width="4.451388888888889in"
-height="0.5208333333333334in"}Goal:  Enable interested **Snap*!*** users
+![](image1257.png){width="4.451388888888889in" height="0.5208333333333334in"}Goal:  Enable interested **Snap*!*** users
 to learn the feel and style of APL programming. It's really worth the
 effort. For example, we didn't hyperize the = block because Snap*!*
 users expect it to give a single yes-or-no answer about the equality of
@@ -7069,8 +6468,7 @@ into a simple vector; and **∧**/ means "reduce with and"; "reduce" is
 our combine function. That six-character program is much less effort
 than the equivalent
 
-![](image1258.png){width="0.9930555555555556in"
-height="0.20833333333333334in"}in Snap*!*. Note in passing that if you
+![](image1258.png){width="0.9930555555555556in" height="0.20833333333333334in"}in Snap*!*. Note in passing that if you
 wanted to know *how many* corresponding elements of the two arrays are
 equal, you'd just use +/ instead of **∧**/. Note also that our APLish
 blocks are a little verbose, because they include up to three notations
@@ -7149,8 +6547,7 @@ predicate functions.
 
 ### ![](image1259.png){width="5.733333333333333in" height="1.1066666666666667in"}Scalar functions
 
-![](image1260.png){width="2.566666666666667in"
-height="0.21666666666666667in"}These are the scalar functions in the APL
+![](image1260.png){width="2.566666666666667in" height="0.21666666666666667in"}These are the scalar functions in the APL
 library. Most of them are straightforward to figure out. The scalar =
 block provides an APL-style version of = (and other exceptions) as a
 hyperblock that extends termwise to arrays. Join, the only non-predicate
@@ -7173,9 +6570,7 @@ list in that input slot as an implicit map, as for scalar functions.
 This means you have to learn the rule for each mixed function
 individually.
 
-![](image1261.png){width="4.275in"
-height="1.1in"}![](image1262.png){width="1.0666666666666667in"
-height="0.18333333333333332in"}The shape of function takes any input and
+![](image1261.png){width="4.275in" height="1.1in"}![](image1262.png){width="1.0666666666666667in" height="0.18333333333333332in"}The shape of function takes any input and
 reports a vector of the maximum size of the structure along each
 dimension. For a vector, it returns a list of length 1 containing the
 length of the input. For a matrix, it returns a two-item list of the
@@ -7185,17 +6580,14 @@ dimensions, and shape of reports an empty vector.
 
 Equivalent to the dimensions of primitive, as of 6.6.
 
-![](image1263.png){width="1.0416666666666667in"
-height="0.18333333333333332in"}![](image1264.png){width="2.033333333333333in"
-height="0.18333333333333332in"}Rank of isn't an actual APL primitive,
+![](image1263.png){width="1.0416666666666667in" height="0.18333333333333332in"}![](image1264.png){width="2.033333333333333in" height="0.18333333333333332in"}Rank of isn't an actual APL primitive,
 but the composition ⍴⍴ (shape of shape of a structure), which reports
 the number of dimensions of the structure (the length of its shape
 vector), is too useful to omit. (It's very easy to type the same
 character twice on the APL keyboard, but less easy to drag blocks
 together.) Equivalent to the rank of primitive, as of 6.6.
 
-![](image1265.png){width="7.325in"
-height="0.8333333333333334in"}Reshape takes a shape vector (such as
+![](image1265.png){width="7.325in" height="0.8333333333333334in"}Reshape takes a shape vector (such as
 shape might report) on the left and any structure on the right. It
 ignores the shape of the right input, stringing the atomic elements into
 a vector in row-major order (that is, all of the first row left to
@@ -7203,8 +6595,7 @@ right, then all of the second row, etc.). (The primitive reshape takes
 the inputs in the other order.) It then reports an array with the shape
 specified by the first input containing the items of the second:
 
-![](image1266.png){width="6.575in"
-height="1.0416666666666667in"}If the right input has more atomic
+![](image1266.png){width="6.575in" height="1.0416666666666667in"}If the right input has more atomic
 elements than are required by the left-input shape vector, the excess
 are ignored without reporting an error. If the right input has too *few*
 atomic elements, the process of filling the reported array starts again
@@ -7213,10 +6604,8 @@ atomic right input, which produces an array of any desired shape all of
 whose atomic elements are equal. But other cases are sometimes useful
 too:
 
-![](image1267.png){width="5.508333333333334in"
-height="1.25in"}\
-![](image1269.png){width="1.4333333333333333in"
-height="0.18333333333333332in"}Flatten takes an arbitrary structure as
+![](image1267.png){width="5.508333333333334in" height="1.25in"}\
+![](image1269.png){width="1.4333333333333333in" height="0.18333333333333332in"}Flatten takes an arbitrary structure as
 input and reports a vector of its atomic elements in row-major order.
 Lispians call this flattening the structure, but APLers call it "ravel"
 because of the metaphor of pulling on a ball of yarn, so what they
@@ -7227,21 +6616,17 @@ turn it into a one-element vector, but we can't use it that way because
 you can't type a scalar value into the List-type input slot. Equivalent
 to the primitive flatten of block.
 
-![](image1270.png){width="3.3618055555555557in"
-height="0.25in"}
+![](image1270.png){width="3.3618055555555557in" height="0.25in"}
 
-![](image1274.png){width="7.204166666666667in"
-height="0.5833333333333334in"}Catenate is like our primitive append,
+![](image1274.png){width="7.204166666666667in" height="0.5833333333333334in"}Catenate is like our primitive append,
 with two differences: First, if either input is a scalar, it is treated
 like a one-item vector. Second, if the two inputs are of different rank,
 the catenate function is recursively mapped over the higher-rank input:
 
-![](image1275.png){width="0.5333333333333333in"
-height="0.25in"}Catenate vertically is similar, but it adds new rows
+![](image1275.png){width="0.5333333333333333in" height="0.25in"}Catenate vertically is similar, but it adds new rows
 instead of adding new columns.
 
-![](image1276.png){width="6.341666666666667in"
-height="1.0416666666666667in"}Integers (I think that's what it stands
+![](image1276.png){width="6.341666666666667in" height="1.0416666666666667in"}Integers (I think that's what it stands
 for, although APLers just say "iota") takes a positive integer input and
 reports a vector of the integers from 1 to the input. This is an example
 of a function classed as "mixed" not because of its domain but because
@@ -7249,19 +6634,16 @@ of its range. The difference between this block and the primitive
 numbers from block is in its treatment of lists as inputs. Numbers from
 is a hyperblock, applying itself to each item of its input list:
 
-![](image1277.png){width="6.025in"
-height="0.8333333333333334in"}Iota has a special meaning for list
+![](image1277.png){width="6.025in" height="0.8333333333333334in"}Iota has a special meaning for list
 inputs: The input must be a shape vector; the result is an array with
 that shape in which each item is a list of the indices of the cell along
 each dimension. A picture is worth 10^3^ words, but Snap*!* isn't so
 good at displaying arrays with more than two dimensions, so here we
 reduce each cell's index list to a string:
 
-![](image1278.png){width="1.475in"
-height="0.25in"}
+![](image1278.png){width="1.475in" height="0.25in"}
 
-![](image1279.png){width="5.95in"
-height="1.1in"}Dyadic iota is like the index of primitive except for its
+![](image1279.png){width="5.95in" height="1.1in"}Dyadic iota is like the index of primitive except for its
 handling of multi-dimensional arrays. It looks only for atomic elements,
 so a vector in the second input doesn't mean to search for that vector
 as a row of a matrix, which is what it means to index of, but rather to
@@ -7275,22 +6657,18 @@ actually an extension of APL iota, which is more like a hyperized index
 of.) Generalizing, if the rank of the second input is less than the rank
 of the first input by two or more, then iota looks for the entire second
 input in the first input. The reported position is a vector
-![](image1280.png){width="5.841666666666667in"
-height="0.35in"}whose length is equal to the difference between the two
+![](image1280.png){width="5.841666666666667in" height="0.35in"}whose length is equal to the difference between the two
 ranks. If the rank of the second input is one less than the rank of the
 first, the reported value is a scalar, the index of the entire second
 input in the first.
 
-![](image1281.png){width="5.383333333333334in"
-height="1.1in"}
+![](image1281.png){width="5.383333333333334in" height="1.1in"}
 
-![](image1282.png){width="5.375in"
-height="3.2416666666666667in"}Why the strange design decision to report
+![](image1282.png){width="5.375in" height="3.2416666666666667in"}Why the strange design decision to report
 length+1 when something isn't found, instead of a more obvious flag
 value such as 0 or false? Here's why:
 
-![](image1286.png){width="2.175in"
-height="0.225in"}Note that code has 27 items, not 26. The asterisk at
+![](image1286.png){width="2.175in" height="0.225in"}Note that code has 27 items, not 26. The asterisk at
 the end is the ciphertext is the translation of all non-alphabet
 characters (spaces and the apostrophe in "doesn't"). This is a silly
 example, because it makes up a random cipher every time it's called, and
@@ -7299,19 +6677,16 @@ message. And you wouldn't want to make the spaces in the message so
 obvious. But despite being silly, the example shows the benefit of
 reporting length+1 as the position of items not found.
 
-![](image1287.png){width="7.485416666666667in"
-height="0.6597222222222222in"}The contained in block is like a hyperized
+![](image1287.png){width="7.485416666666667in" height="0.6597222222222222in"}The contained in block is like a hyperized
 contains with the input order reversed. It reports an array of Booleans
 the same shape as the left input. The shape of the right input doesn't
 matter; the block looks only for atomic elements.
 
-![](image1288.png){width="2.6645833333333333in"
-height="0.31666666666666665in"}The blocks grade up and grade down are
+![](image1288.png){width="2.6645833333333333in" height="0.31666666666666665in"}The blocks grade up and grade down are
 used for sorting data. Given an array as input, it reports a vector of
 the indices in which the items (the rows, if a matrix) should be
 rearranged in order to be sorted. This will be
-![](image1292.png){width="7.4944444444444445in"
-height="1.8069444444444445in"}clearer with an example:
+![](image1292.png){width="7.4944444444444445in" height="1.8069444444444445in"}clearer with an example:
 
 The result from grade up tells us that item 3 of **foo** comes first in
 sorted order, then item 4, then 2, then 1. When we actually select items
@@ -7329,33 +6704,25 @@ This is the list of employees of a small company. (Taken from *Structure
 and Interpretation of Computer Programs* by Abelson and Sussman.
 Creative Commons licensed.) Each of the smaller lists contains a
 person\'s name, job title, and yearly salary.
-![](image1298.png){width="5.483333333333333in"
-height="2.2in"}We would like to sort the employees' names in
+![](image1298.png){width="5.483333333333333in" height="2.2in"}We would like to sort the employees' names in
 big-to-small order of salary. First we extract column 3 of the database,
 the salaries:
 
-![](image1299.png){width="3.5590277777777777in"
-height="1.976388888888889in"}\
+![](image1299.png){width="3.5590277777777777in" height="1.976388888888889in"}\
 Then we use grade down to get the reordering indices:
 
-![](image1300.png){width="5.333333333333333in"
-height="2.3733333333333335in"}![](image1301.png){width="4.978472222222222in"
-height="2.2333333333333334in"}At this point we *could* use the index
+![](image1300.png){width="5.333333333333333in" height="2.3733333333333335in"}![](image1301.png){width="4.978472222222222in" height="2.2333333333333334in"}At this point we *could* use the index
 vector to sort the salaries:
 
-![](image1302.png){width="5.593333333333334in"
-height="2.3in"}But what we actually want is a list of *names,* sorted by
+![](image1302.png){width="5.593333333333334in" height="2.3in"}But what we actually want is a list of *names,* sorted by
 salary:
 
-![](image1303.png){width="2.308333333333333in"
-height="0.275in"}![](image1304.png){width="2.9166666666666665in"
-height="0.325in"}By taking the index vector from grade down of column 3
+![](image1303.png){width="2.308333333333333in" height="0.275in"}![](image1304.png){width="2.9166666666666665in" height="0.325in"}By taking the index vector from grade down of column 3
 and telling item to apply it to column 1, we get what we set out to
 find. As usual the code is more elegant in APL:
 database\[⍒database\[;3\];1\].
 
-![](image1305.png){width="2.9472222222222224in"
-height="0.22569444444444445in"}In case you've forgotten, or would select
+![](image1305.png){width="2.9472222222222224in" height="0.22569444444444445in"}In case you've forgotten, or would select
 the third *row* of the database; we need the list 3 in the second input
 slot of the outer list to select by columns rather than by rows.
 
@@ -7372,8 +6739,7 @@ as the right input, but containing only those rows whose corresponding
 Boolean value is true. The columns version **⌿** is the same but
 selecting columns rather than selecting rows.
 
-![](image1309.png){width="6.452083333333333in"
-height="0.25in"}A word about the possibly confusing names of these
+![](image1309.png){width="6.452083333333333in" height="0.25in"}A word about the possibly confusing names of these
 blocks: There are two ways to think about what they do. Take the
 standard / version, to avoid talking about both at once. One way to
 think about it is that it selects some of the rows. The other way is
@@ -7387,10 +6753,7 @@ last dimension (the columns), while **⌿** is described as operating on
 rows. We were more than a month into this project before I understood
 all this. You get long block names so it won't take you a month!
 
-![](image1313.png){width="3.175in"
-height="0.18333333333333332in"}![](image1314.png){width="2.9944444444444445in"
-height="0.23333333333333334in"}![](image1315.png){width="1.1118055555555555in"
-height="0.23333333333333334in"}Don't confuse this block with the reduce
+![](image1313.png){width="3.175in" height="0.18333333333333332in"}![](image1314.png){width="2.9944444444444445in" height="0.23333333333333334in"}![](image1315.png){width="1.1118055555555555in" height="0.23333333333333334in"}Don't confuse this block with the reduce
 block, whose APL symbol is also a slash. In that block, what comes to
 the left of the slash is a dyadic combining function; it's the APL
 equivalent of combine. This block is more nearly equivalent to keep. But
@@ -7404,8 +6767,7 @@ predicates, can be applied to a list instead of to a scalar. The reason
 both blocks use the / character is that both of them reduce the size of
 the input array, although in different ways.
 
-![](image1316.png){width="5.875in"
-height="2.9944444444444445in"}The reverse row order, reverse column
+![](image1316.png){width="5.875in" height="2.9944444444444445in"}The reverse row order, reverse column
 order, and transpose blocks form a group: the group of reflections of a
 matrix. The APL symbols are all a circle with a line through it; the
 lines are the different axes of reflection. So the reverse row order
@@ -7431,12 +6793,10 @@ The APL equivalent of keep is compress, but it's not a higher order
 function. You create a vector of Booleans (0s and 1s, in APL) before
 applying the function to the array you want to compress.
 
-![](image1322.png){width="4.258333333333334in"
-height="0.6131944444444445in"}But APL does have a higher order version
+![](image1322.png){width="4.258333333333334in" height="0.6131944444444445in"}But APL does have a higher order version
 of combine:
 
-![](image1326.png){width="6.683333333333334in"
-height="1.0416666666666667in"}The reduce block works just like combine,
+![](image1326.png){width="6.683333333333334in" height="1.0416666666666667in"}The reduce block works just like combine,
 taking a dyadic function and a list. The / version translates each row
 to a single value; the **⌿** version translates each column to a single
 value. That's the only way to think about it from the perspective of
@@ -7447,11 +6807,9 @@ vectors or column vectors. And if you think of what these blocks do as
 adding vectors, rather than adding individual numbers, it's clear that
 in
 
-![](image1327.png){width="5.833333333333333in"
-height="1.1in"}
+![](image1327.png){width="5.833333333333333in" height="1.1in"}
 
-![](image1328.png){width="4.808333333333334in"
-height="1.1in"}the *vector* (10, 26, 42) is the sum of *column vectors*
+![](image1328.png){width="4.808333333333334in" height="1.1in"}the *vector* (10, 26, 42) is the sum of *column vectors*
 (1, 5, 9)+(2, 6, 10)+(3, 7, 11)+(4, 8, 12). In pre-6.0 Snap*!*, we'd get
 the same result this way:
 
@@ -7469,14 +6827,11 @@ from elementary school:
 
 ![](image1329.png){width="7.24in" height="1.52in"}
 
-![](image1330.png){width="2.1666666666666665in"
-height="0.24166666666666667in"}
+![](image1330.png){width="2.1666666666666665in" height="0.24166666666666667in"}
 
-![](image1331.png){width="2.6166666666666667in"
-height="0.24166666666666667in"}
+![](image1331.png){width="2.6166666666666667in" height="0.24166666666666667in"}
 
-![](image1332.png){width="7.338611111111111in"
-height="1.0069444444444444in"}The inner product block takes two matrices
+![](image1332.png){width="7.338611111111111in" height="1.0069444444444444in"}The inner product block takes two matrices
 and two operations as input. The number of columns in the left matrix
 must equal the number of rows in the right matrix. When the two
 operations are + and ×, this is the matrix multiplication familiar to
@@ -7486,13 +6841,11 @@ But other operations can be used. One common inner product is ∨.∧ ("or
 dot and") applied to Boolean matrices, to find rows and columns that
 have corresponding items in common.
 
-![](image1333.png){width="0.9583333333333334in"
-height="0.18333333333333332in"}The printable block isn't an APL
+![](image1333.png){width="0.9583333333333334in" height="0.18333333333333332in"}The printable block isn't an APL
 function; it's an aid to exploring APL-in-Snap*!*. It transforms arrays
 to a compact representation that still makes the structure clear:
 
-![](image1334.png){width="5.997916666666667in"
-height="0.3333333333333333in"}Experts will recognize this as the Lisp
+![](image1334.png){width="5.997916666666667in" height="0.3333333333333333in"}Experts will recognize this as the Lisp
 representation of list structure,
 
 Index
