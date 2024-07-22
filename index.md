@@ -4,33 +4,152 @@ layout: home
 nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# I. Blocks, Scripts, and Sprites 
+### Hat Blocks and Command Blocks 
+## A. Sprites and Parallelism  
+### Costumes and Sounds 
+### Inter-Sprite Communication with Broadcast  
+## B. Nesting Sprites: Anchors and Parts  
+## C. Reporter Blocks and Expressions  
+## D. Predicates and Conditional Evaluation 
+## E. Variables 
+### Global Variables 
+### Script Variables  
+### Renaming variables  
+### Transient variables 
+## F. Debugging 
+### The pause button 
+### Breakpoints: the pause all block  
+### Visible stepping 
+## G. Etcetera  
+## H. Libraries 
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+# Saving and Loading Projects and Media  
+## A. Local Storage  
+## B. Creating a Cloud Account 
+## C. Saving to the Cloud 
+## D. Loading Saved Projects 
+## E. If you lose your project, do this first! 
+### Private and Public Projects  
 
-More specifically, the created site:
+# Building a Block 
+## A. Simple Blocks 
+### Custom Blocks with Inputs 
+### Editing Block Properties  
+## B. Recursion 
+## C. Block Libraries 
+## D. Custom blocks and Visible Stepping 
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+# First Class Lists  
+## A. The List Block 
+## B. Lists of Lists 
+## C. Functional and Imperative List Programming 
+## D. Higher Order List Operations and Rings 
+## E. Table View vs List View 
+### Comma-Separated Values 
+### Multi-dimensional Lists and JSON 
+## F. Hyperblocks 
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+# Typed Inputs 
+## A. Scratch’s Type Notation  
+## B. The Snap! Input Type Dialog 
+### Procedure Types 
+### Pulldown Inputs  
+### Input Variants 
+### Prototype Hints 
+### Title Text and Symbols  
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+# Procedures as Data 
+## A. Call and Run 
+### Call/Run with Inputs 
+### Variables in Ring Slots  
+## B. Writing Higher Order Procedures 
+### Recursive Calls to Multiple-Input Blocks 
+## C. Formal Parameters  
+## D. Procedures as Data  
+## E. Special Forms  
+### Special Forms in Scratch  
 
-To get started with creating a site, simply:
+# Object Oriented Programming with Sprites
+## A. First Class Sprites 
+## B. Permanent and Temporary Clones 
+## C. Sending Messages to Sprites 
+### Polymorphism 
+## D. Local State in Sprites: Variables and Attributes 
+## E. Prototyping: Parents and Children  
+## F. Inheritance by Delegation 
+## G. List of Attributes 
+## H. First Class Costumes and Sounds 
+### Media Computation with Costumes 
+### Media Computation with Sounds 
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+# OOP with Procedures 
+## A. Local State with Script Variables  
+## B. Messages and Dispatch Procedures 
+## C. Inheritance via Delegation 
+## D. An Implementation of Prototyping OOP 
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+# The Outside World
+## A. The World Wide Web  
+## B. Hardware Devices  
+## C. Date and Time 
 
-----
+# Continuations
+## A. Continuation Passing Style  
+## B. Call/Run with Continuation  
+### Nonlocal Exit 
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+# Metaprogramming 
+## A. Reading a Block 
+## B. Writing a Block 
+## C. Macros 
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+# User Interface Elements  
+## A. Tool Bar Features  
+### The Snap! Logo Menu 
+### The File Menu 
+### The Cloud Menu 
+### The Settings Menu  
+### Visible Stepping Controls 
+### Stage Resizing Buttons  
+### Project Control Buttons 
+## B. The Palette Area  
+### Buttons in the Palette 
+### Context Menus for Palette Blocks 
+### Context Menu for the Palette Background 
+## C. The Scripting Area  
+### Sprite Appearance and Behavior Controls 
+### Scripting Area Tabs 
+### Scripts and Blocks Within Scripts 
+### Controls in the Costumes Tab 
+### The Paint Editor 
+### Controls in the Sounds Tab 
+## D. Keyboard Editing 
+### Starting and Stopping the Keyboard Editor  
+### Navigating in the Keyboard Editor 
+### Editing a Script 
+### Running the Selected Script 
+## E. Controls on the Stage 
+### Sprites  
+### Variable Watchers  
+### The Stage Itself  
+## F. The Sprite Corral and Sprite Creation Buttons 
+## G. Preloading a Project when Starting Snap! 
+## H. Mirror Sites 
+
+# Appendix A. Snap! Color Library 
+### Introduction to Color 
+### Crayons and Color Numbers 
+### Perceptual Spaces: HSV and HSL 
+### Mixing Colors 
+### tl;dr 
+#### Subappendix: Geeky Details on Fair Hue  
+#### Subappendix: Geeky Details on Color Numbers  
+
+# Appendix B. APL Features 
+### Boolean Values  
+### Scalar Functions 
+### Mixed Functions  
+### Higher Order Functions 
+
+# Index
